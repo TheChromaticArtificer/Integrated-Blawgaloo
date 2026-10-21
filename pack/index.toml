@@ -33830,10 +33830,6 @@ hash = "492daa3391b6079b541685db276007b286774bab3b9881505127b7aef6b3f16c"
 metafile = true
 
 [[files]]
-file = "options.txt"
-hash = "957e83e858382065ac22bc1bdcb0c1efe3f9a68ffabb69962468c1c27b3169b9"
-
-[[files]]
 file = "resourcepacks/better-gravestones.pw.toml"
 hash = "0628b6023de3da8eba689d973b13ef3004b43304b1572b7017bfc06e1ba10426"
 metafile = true
