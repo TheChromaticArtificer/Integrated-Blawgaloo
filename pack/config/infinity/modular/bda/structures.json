@@ -1,0 +1,37 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "bda:hooligan_village",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"type": "bda:yak",
+								"weight": 8,
+								"minCount": 1,
+								"maxCount": 3
+							}
+						]
+					}
+				},
+				"id": "bda:hooligan_village"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "bda:red_death_volcano",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "bda:red_death_volcano"
+			}
+		}
+	]
+}

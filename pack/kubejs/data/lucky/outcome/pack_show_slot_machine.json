@@ -1,0 +1,6 @@
+{
+  "type": "lucky:command",
+  "luck": 0,
+  "chance": 4.5,
+  "command": "/boogaloo_core lucky show slot_machine {playerName} {blockPosX} {blockPosY} {blockPosZ}"
+}

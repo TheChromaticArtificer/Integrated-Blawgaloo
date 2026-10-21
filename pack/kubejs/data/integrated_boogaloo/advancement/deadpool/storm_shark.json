@@ -1,0 +1,36 @@
+{
+  "criteria": {
+    "killed": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "antarchy:stratoshark",
+              "nbt": "{NeoForgeData:{\"boogaloo_core:storm_shark\":1b}}"
+            }
+          }
+        ]
+      }
+    },
+    "bitten": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "damage": {
+          "source_entity": {
+            "type": "antarchy:stratoshark",
+            "nbt": "{NeoForgeData:{\"boogaloo_core:storm_shark\":1b}}"
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "killed",
+      "bitten"
+    ]
+  ]
+}

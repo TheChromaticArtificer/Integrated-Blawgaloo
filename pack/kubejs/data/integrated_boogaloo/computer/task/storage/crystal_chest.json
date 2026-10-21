@@ -1,0 +1,39 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.storage_crystal_chest.title",
+  "description": "task.integrated_boogaloo.storage_crystal_chest.description",
+  "showcase": [
+    "@item:ironchest:crystal_chest",
+    "@recipe:ironchest:crystal_chest"
+  ],
+  "icon": "ironchest:crystal_chest",
+  "program": "integrated_boogaloo:storage",
+  "category": "integrated_boogaloo:storage",
+  "sort_order": 205,
+  "position": {
+    "x": 4,
+    "y": 5
+  },
+  "shape": "pentagon",
+  "size": 1.25,
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:storage/diamond_chest"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "ironchest:crystal_chest",
+      "description": "task.integrated_boogaloo.storage_crystal_chest.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 20
+    }
+  ],
+  "line_axis": "horizontal"
+}

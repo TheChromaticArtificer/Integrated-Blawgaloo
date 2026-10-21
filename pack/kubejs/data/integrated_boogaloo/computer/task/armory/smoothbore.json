@@ -1,0 +1,41 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.armory_smoothbore.title",
+  "description": "task.integrated_boogaloo.armory_smoothbore.description",
+  "showcase": [
+    "@recipe:scguns:musket"
+  ],
+  "icon": "scguns:musket",
+  "program": "integrated_boogaloo:armory",
+  "category": "integrated_boogaloo:armory",
+  "sort_order": 1,
+  "position": {
+    "x": 0,
+    "y": 0
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:armory/arming_up"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "scguns:musket",
+      "description": "task.integrated_boogaloo.armory_smoothbore.goal",
+      "count": 1,
+      "sticky": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 10
+    },
+    {
+      "type": "item",
+      "item": "scguns:powder_and_ball",
+      "count": 24
+    }
+  ]
+}

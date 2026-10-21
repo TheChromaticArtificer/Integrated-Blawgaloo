@@ -1,0 +1,21 @@
+{
+  "type": "createcybernetics:grafting_table",
+  "wetware": [
+    {
+      "tag": "integrated_boogaloo:hearts"
+    },
+    {
+      "item": "minecraft:echo_shard"
+    },
+    {
+      "item": "minecraft:sculk_catalyst"
+    },
+    {
+      "item": "minecraft:echo_shard"
+    }
+  ],
+  "result": {
+    "id": "createcybernetics:wetware_sculkheart",
+    "count": 1
+  }
+}

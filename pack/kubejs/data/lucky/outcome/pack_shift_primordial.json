@@ -1,0 +1,528 @@
+{
+  "type": "lucky:group",
+  "luck": 0,
+  "chance": 0.25,
+  "outcomes": [
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} times 5 50 15"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} subtitle {\"text\": \"Welcome to the Primordial Age\", \"color\": \"white\"}"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} title {\"text\": \"The ground remembers...\", \"color\": \"green\", \"bold\": true}"
+    },
+    {
+      "type": "lucky:sound",
+      "sound_event": {
+        "sound_id": "minecraft:block.beacon.activate"
+      }
+    },
+    {
+      "type": "lucky:particle",
+      "particle": {
+        "type": "minecraft:portal"
+      },
+      "count": 120
+    },
+    {
+      "type": "lucky:command",
+      "command": "/fillbiome ~-15 ~-8 ~-15 ~15 ~22 ~15 alexscaves:primordial_caves",
+      "delay": 20
+    },
+    {
+      "type": "lucky:feature",
+      "feature": "alexscaves:pewen_tree",
+      "pos": {
+        "type": "lucky:heightmap",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "center": {
+          "type": "lucky:random_in_shape",
+          "center": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}"
+          ],
+          "shape": {
+            "type": "lucky:sphere",
+            "size": [
+              10,
+              1,
+              10
+            ]
+          }
+        }
+      },
+      "delay": 30
+    },
+    {
+      "type": "lucky:feature",
+      "feature": "alexscaves:pewen_tree",
+      "pos": {
+        "type": "lucky:heightmap",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "center": {
+          "type": "lucky:random_in_shape",
+          "center": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}"
+          ],
+          "shape": {
+            "type": "lucky:sphere",
+            "size": [
+              10,
+              1,
+              10
+            ]
+          }
+        }
+      },
+      "delay": 30
+    },
+    {
+      "type": "lucky:feature",
+      "feature": "alexscaves:pewen_tree",
+      "pos": {
+        "type": "lucky:heightmap",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "center": {
+          "type": "lucky:random_in_shape",
+          "center": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}"
+          ],
+          "shape": {
+            "type": "lucky:sphere",
+            "size": [
+              10,
+              1,
+              10
+            ]
+          }
+        }
+      },
+      "delay": 30
+    },
+    {
+      "type": "lucky:feature",
+      "feature": "alexscaves:cycad",
+      "pos": {
+        "type": "lucky:heightmap",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "center": {
+          "type": "lucky:random_in_shape",
+          "center": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}"
+          ],
+          "shape": {
+            "type": "lucky:sphere",
+            "size": [
+              10,
+              1,
+              10
+            ]
+          }
+        }
+      },
+      "delay": 30
+    },
+    {
+      "type": "lucky:feature",
+      "feature": "alexscaves:cycad",
+      "pos": {
+        "type": "lucky:heightmap",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "center": {
+          "type": "lucky:random_in_shape",
+          "center": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}"
+          ],
+          "shape": {
+            "type": "lucky:sphere",
+            "size": [
+              10,
+              1,
+              10
+            ]
+          }
+        }
+      },
+      "delay": 30
+    },
+    {
+      "type": "lucky:feature",
+      "feature": "alexscaves:cycad",
+      "pos": {
+        "type": "lucky:heightmap",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "center": {
+          "type": "lucky:random_in_shape",
+          "center": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}"
+          ],
+          "shape": {
+            "type": "lucky:sphere",
+            "size": [
+              10,
+              1,
+              10
+            ]
+          }
+        }
+      },
+      "delay": 30
+    },
+    {
+      "type": "lucky:feature",
+      "feature": "alexscaves:ancient_tree",
+      "pos": {
+        "type": "lucky:heightmap",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "center": {
+          "type": "lucky:random_in_shape",
+          "center": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}"
+          ],
+          "shape": {
+            "type": "lucky:sphere",
+            "size": [
+              10,
+              1,
+              10
+            ]
+          }
+        }
+      },
+      "delay": 30
+    },
+    {
+      "type": "lucky:feature",
+      "feature": "alexscaves:ancient_tree",
+      "pos": {
+        "type": "lucky:heightmap",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "center": {
+          "type": "lucky:random_in_shape",
+          "center": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}"
+          ],
+          "shape": {
+            "type": "lucky:sphere",
+            "size": [
+              10,
+              1,
+              10
+            ]
+          }
+        }
+      },
+      "delay": 30
+    },
+    {
+      "type": "lucky:feature",
+      "feature": "alexscaves:primordial_forest_rock",
+      "pos": {
+        "type": "lucky:heightmap",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "center": {
+          "type": "lucky:random_in_shape",
+          "center": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}"
+          ],
+          "shape": {
+            "type": "lucky:sphere",
+            "size": [
+              10,
+              1,
+              10
+            ]
+          }
+        }
+      },
+      "delay": 30
+    },
+    {
+      "type": "lucky:feature",
+      "feature": "alexscaves:primordial_forest_rock",
+      "pos": {
+        "type": "lucky:heightmap",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "center": {
+          "type": "lucky:random_in_shape",
+          "center": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}"
+          ],
+          "shape": {
+            "type": "lucky:sphere",
+            "size": [
+              10,
+              1,
+              10
+            ]
+          }
+        }
+      },
+      "delay": 30
+    },
+    {
+      "type": "lucky:feature",
+      "feature": "alexscaves:volcano_boulder",
+      "pos": {
+        "type": "lucky:heightmap",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "center": {
+          "type": "lucky:random_in_shape",
+          "center": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}"
+          ],
+          "shape": {
+            "type": "lucky:sphere",
+            "size": [
+              10,
+              1,
+              10
+            ]
+          }
+        }
+      },
+      "delay": 30
+    },
+    {
+      "type": "lucky:random",
+      "outcomes": [
+        {
+          "type": "lucky:entity",
+          "entity_type": "alexscaves:vallumraptor",
+          "reinit": true,
+          "count": 3,
+          "pos": {
+            "type": "lucky:heightmap",
+            "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+            "center": {
+              "type": "lucky:random_in_shape",
+              "center": [
+                "{blockPosX}",
+                "{blockPosY}",
+                "{blockPosZ}"
+              ],
+              "shape": {
+                "type": "lucky:sphere",
+                "size": [
+                  8,
+                  1,
+                  8
+                ]
+              }
+            }
+          },
+          "delay": 60,
+          "weight": 3
+        },
+        {
+          "type": "lucky:group",
+          "outcomes": [
+            {
+              "type": "lucky:entity",
+              "entity_type": "alexscaves:grottoceratops",
+              "reinit": true,
+              "pos": {
+                "type": "lucky:heightmap",
+                "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+                "center": {
+                  "type": "lucky:random_in_shape",
+                  "center": [
+                    "{blockPosX}",
+                    "{blockPosY}",
+                    "{blockPosZ}"
+                  ],
+                  "shape": {
+                    "type": "lucky:sphere",
+                    "size": [
+                      8,
+                      1,
+                      8
+                    ]
+                  }
+                }
+              },
+              "delay": 60
+            },
+            {
+              "type": "lucky:entity",
+              "entity_type": "alexscaves:grottoceratops",
+              "reinit": true,
+              "pos": {
+                "type": "lucky:heightmap",
+                "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+                "center": {
+                  "type": "lucky:random_in_shape",
+                  "center": [
+                    "{blockPosX}",
+                    "{blockPosY}",
+                    "{blockPosZ}"
+                  ],
+                  "shape": {
+                    "type": "lucky:sphere",
+                    "size": [
+                      8,
+                      1,
+                      8
+                    ]
+                  }
+                }
+              },
+              "delay": 60
+            }
+          ],
+          "weight": 2
+        },
+        {
+          "type": "lucky:entity",
+          "entity_type": "alexscaves:tremorsaurus",
+          "reinit": true,
+          "pos": {
+            "type": "lucky:heightmap",
+            "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+            "center": {
+              "type": "lucky:random_in_shape",
+              "center": [
+                "{blockPosX}",
+                "{blockPosY}",
+                "{blockPosZ}"
+              ],
+              "shape": {
+                "type": "lucky:sphere",
+                "size": [
+                  8,
+                  1,
+                  8
+                ]
+              }
+            }
+          },
+          "delay": 60,
+          "weight": 1
+        },
+        {
+          "type": "lucky:entity",
+          "entity_type": "alexscaves:subterranodon",
+          "reinit": true,
+          "nbt": {
+            "Owner": "{playerUUID}",
+            "Tame": true,
+            "PersistenceRequired": true
+          },
+          "pos": {
+            "type": "lucky:heightmap",
+            "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+            "center": {
+              "type": "lucky:random_in_shape",
+              "center": [
+                "{blockPosX}",
+                "{blockPosY}",
+                "{blockPosZ}"
+              ],
+              "shape": {
+                "type": "lucky:sphere",
+                "size": [
+                  4,
+                  1,
+                  4
+                ]
+              }
+            }
+          },
+          "weight": 2
+        },
+        {
+          "type": "lucky:group",
+          "outcomes": [
+            {
+              "type": "lucky:entity",
+              "entity_type": "alexscaves:relicheirus",
+              "reinit": true,
+              "pos": {
+                "type": "lucky:heightmap",
+                "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+                "center": {
+                  "type": "lucky:random_in_shape",
+                  "center": [
+                    "{blockPosX}",
+                    "{blockPosY}",
+                    "{blockPosZ}"
+                  ],
+                  "shape": {
+                    "type": "lucky:sphere",
+                    "size": [
+                      8,
+                      1,
+                      8
+                    ]
+                  }
+                }
+              },
+              "delay": 60
+            },
+            {
+              "type": "lucky:entity",
+              "entity_type": "alexscaves:atlatitan",
+              "reinit": true,
+              "pos": {
+                "type": "lucky:heightmap",
+                "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+                "center": {
+                  "type": "lucky:random_in_shape",
+                  "center": [
+                    "{blockPosX}",
+                    "{blockPosY}",
+                    "{blockPosZ}"
+                  ],
+                  "shape": {
+                    "type": "lucky:sphere",
+                    "size": [
+                      10,
+                      1,
+                      10
+                    ]
+                  }
+                }
+              },
+              "delay": 80
+            }
+          ],
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "type": "lucky:sound",
+      "sound_event": {
+        "sound_id": "minecraft:entity.ender_dragon.growl"
+      },
+      "delay": 60,
+      "volume": 1.0,
+      "pitch": 0.6
+    }
+  ]
+}

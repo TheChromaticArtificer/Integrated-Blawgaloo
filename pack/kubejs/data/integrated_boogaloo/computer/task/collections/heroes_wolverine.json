@@ -1,0 +1,124 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.collection.heroes_wolverine.title",
+  "description": "task.integrated_boogaloo.collection.heroes_wolverine.description",
+  "icon": "marvel:wolverine_chestplate",
+  "program": "integrated_boogaloo:collections",
+  "category": "integrated_boogaloo:collections",
+  "sort_order": 101,
+  "position": {
+    "x": 1,
+    "y": 1
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "wolverine_chestplate",
+      "type": "item",
+      "target": "marvel:wolverine_chestplate",
+      "description": "task.integrated_boogaloo.collection.heroes_wolverine.wolverine_chestplate",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "wolverine_sleeveless_chestplate",
+      "type": "item",
+      "target": "marvel:wolverine_sleeveless_chestplate",
+      "description": "task.integrated_boogaloo.collection.heroes_wolverine.wolverine_sleeveless_chestplate",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "wolverine_brown_chestplate",
+      "type": "item",
+      "target": "marvel:wolverine_brown_chestplate",
+      "description": "task.integrated_boogaloo.collection.heroes_wolverine.wolverine_brown_chestplate",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "wolverine_brown_sleeveless_chestplate",
+      "type": "item",
+      "target": "marvel:wolverine_brown_sleeveless_chestplate",
+      "description": "task.integrated_boogaloo.collection.heroes_wolverine.wolverine_brown_sleeveless_chestplate",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "wolverine_x_force_chestplate",
+      "type": "item",
+      "target": "marvel:wolverine_x_force_chestplate",
+      "description": "task.integrated_boogaloo.collection.heroes_wolverine.wolverine_x_force_chestplate",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "wolverine_x_force_sleeveless_chestplate",
+      "type": "item",
+      "target": "marvel:wolverine_x_force_sleeveless_chestplate",
+      "description": "task.integrated_boogaloo.collection.heroes_wolverine.wolverine_x_force_sleeveless_chestplate",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "wolverine_classic_chestplate",
+      "type": "item",
+      "target": "marvellegacy:wolverine_classic_chestplate",
+      "description": "task.integrated_boogaloo.collection.heroes_wolverine.wolverine_classic_chestplate",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "wolverine_original_chestplate",
+      "type": "item",
+      "target": "marvellegacy:wolverine_original_chestplate",
+      "description": "task.integrated_boogaloo.collection.heroes_wolverine.wolverine_original_chestplate",
+      "count": 1,
+      "sticky": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 1500
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "id": "supplies",
+          "title": "task.integrated_boogaloo.reward.supplies",
+          "rewards": [
+            {
+              "type": "item_pool",
+              "pool": "integrated_boogaloo:supplies_common",
+              "mode": "random"
+            }
+          ]
+        },
+        {
+          "id": "lucky",
+          "title": "task.integrated_boogaloo.reward.lucky",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "lucky:lucky_block",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "id": "titanium",
+          "title": "task.integrated_boogaloo.reward.titanium",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "antarchy:titanium_nugget",
+              "count": 9
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

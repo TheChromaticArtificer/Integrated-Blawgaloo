@@ -1,0 +1,4264 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "everycomp:all_woods"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/blackwood_basin"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/blackwood_bath"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/blackwood_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/blackwood_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/blackwood_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/blackwood_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/blackwood_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/blackwood_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/blackwood_kitchen_cabinetry"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/blackwood_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/blackwood_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/blackwood_kitchen_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/blackwood_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/blackwood_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/blackwood_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/blackwood_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/blackwood_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/blackwood_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/blackwood_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/blackwood_toilet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/cinnamon_basin"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/cinnamon_bath"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/cinnamon_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/cinnamon_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/cinnamon_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/cinnamon_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/cinnamon_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/cinnamon_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/cinnamon_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/cinnamon_kitchen_cabinetry"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/cinnamon_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/cinnamon_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/cinnamon_kitchen_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/cinnamon_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/cinnamon_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/cinnamon_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/cinnamon_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/cinnamon_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/cinnamon_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/cinnamon_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/cinnamon_toilet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/flowering_cinnamon_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/white_wood_basin"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/white_wood_bath"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/white_wood_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/white_wood_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/white_wood_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/white_wood_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/white_wood_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/white_wood_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/white_wood_kitchen_cabinetry"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/white_wood_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/white_wood_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/white_wood_kitchen_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/white_wood_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/white_wood_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/white_wood_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/white_wood_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/white_wood_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/white_wood_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/white_wood_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/abyssal_decor/white_wood_toilet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/alexscaves/ancient_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/alexscaves/pewen_basin"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/alexscaves/pewen_bath"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/alexscaves/pewen_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/alexscaves/pewen_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/alexscaves/pewen_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/alexscaves/pewen_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/alexscaves/pewen_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/alexscaves/pewen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/alexscaves/pewen_kitchen_cabinetry"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/alexscaves/pewen_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/alexscaves/pewen_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/alexscaves/pewen_kitchen_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/alexscaves/pewen_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/alexscaves/pewen_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/alexscaves/pewen_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/alexscaves/pewen_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/alexscaves/pewen_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/alexscaves/pewen_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/alexscaves/pewen_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/alexscaves/pewen_toilet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/alexscaves/thornwood_basin"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/alexscaves/thornwood_bath"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/alexscaves/thornwood_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/alexscaves/thornwood_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/alexscaves/thornwood_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/alexscaves/thornwood_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/alexscaves/thornwood_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/alexscaves/thornwood_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/alexscaves/thornwood_kitchen_cabinetry"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/alexscaves/thornwood_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/alexscaves/thornwood_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/alexscaves/thornwood_kitchen_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/alexscaves/thornwood_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/alexscaves/thornwood_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/alexscaves/thornwood_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/alexscaves/thornwood_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/alexscaves/thornwood_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/alexscaves/thornwood_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/alexscaves/thornwood_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/alexscaves/thornwood_toilet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/nadir_basin"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/nadir_bath"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/nadir_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/nadir_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/nadir_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/nadir_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/nadir_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/nadir_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/nadir_kitchen_cabinetry"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/nadir_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/nadir_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/nadir_kitchen_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/nadir_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/nadir_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/nadir_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/nadir_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/nadir_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/nadir_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/nadir_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/nadir_toilet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/ouranwood_basin"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/ouranwood_bath"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/ouranwood_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/ouranwood_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/ouranwood_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/ouranwood_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/ouranwood_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/ouranwood_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/ouranwood_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/ouranwood_kitchen_cabinetry"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/ouranwood_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/ouranwood_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/ouranwood_kitchen_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/ouranwood_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/ouranwood_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/ouranwood_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/ouranwood_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/ouranwood_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/ouranwood_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/ouranwood_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/ouranwood_toilet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/peach_basin"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/peach_bath"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/peach_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/peach_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/peach_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/peach_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/peach_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/peach_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/peach_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/peach_kitchen_cabinetry"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/peach_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/peach_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/peach_kitchen_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/peach_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/peach_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/peach_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/peach_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/peach_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/peach_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/peach_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/peach_toilet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/royal_basin"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/royal_bath"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/royal_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/royal_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/royal_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/royal_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/royal_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/royal_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/royal_flowering_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/royal_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/royal_kitchen_cabinetry"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/royal_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/royal_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/royal_kitchen_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/royal_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/royal_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/royal_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/royal_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/royal_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/royal_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/royal_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/royal_toilet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/truffalo_basin"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/truffalo_bath"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/truffalo_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/truffalo_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/truffalo_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/truffalo_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/truffalo_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/truffalo_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/truffalo_kitchen_cabinetry"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/truffalo_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/truffalo_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/truffalo_kitchen_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/truffalo_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/truffalo_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/truffalo_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/truffalo_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/truffalo_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/truffalo_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/truffalo_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/antarchy/truffalo_toilet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/dimdoors/driftwood_basin"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/dimdoors/driftwood_bath"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/dimdoors/driftwood_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/dimdoors/driftwood_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/dimdoors/driftwood_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/dimdoors/driftwood_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/dimdoors/driftwood_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/dimdoors/driftwood_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/dimdoors/driftwood_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/dimdoors/driftwood_kitchen_cabinetry"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/dimdoors/driftwood_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/dimdoors/driftwood_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/dimdoors/driftwood_kitchen_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/dimdoors/driftwood_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/dimdoors/driftwood_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/dimdoors/driftwood_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/dimdoors/driftwood_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/dimdoors/driftwood_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/dimdoors/driftwood_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/dimdoors/driftwood_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/dimdoors/driftwood_toilet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/iceandfire/dreadwood_basin"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/iceandfire/dreadwood_bath"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/iceandfire/dreadwood_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/iceandfire/dreadwood_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/iceandfire/dreadwood_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/iceandfire/dreadwood_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/iceandfire/dreadwood_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/iceandfire/dreadwood_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/iceandfire/dreadwood_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/iceandfire/dreadwood_kitchen_cabinetry"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/iceandfire/dreadwood_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/iceandfire/dreadwood_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/iceandfire/dreadwood_kitchen_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/iceandfire/dreadwood_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/iceandfire/dreadwood_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/iceandfire/dreadwood_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/iceandfire/dreadwood_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/iceandfire/dreadwood_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/iceandfire/dreadwood_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/iceandfire/dreadwood_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/iceandfire/dreadwood_toilet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/minecraft/orange_poplar_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/minecraft/pale_oak_basin"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/minecraft/pale_oak_bath"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/minecraft/pale_oak_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/minecraft/pale_oak_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/minecraft/pale_oak_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/minecraft/pale_oak_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/minecraft/pale_oak_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/minecraft/pale_oak_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/minecraft/pale_oak_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/minecraft/pale_oak_kitchen_cabinetry"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/minecraft/pale_oak_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/minecraft/pale_oak_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/minecraft/pale_oak_kitchen_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/minecraft/pale_oak_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/minecraft/pale_oak_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/minecraft/pale_oak_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/minecraft/pale_oak_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/minecraft/pale_oak_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/minecraft/pale_oak_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/minecraft/pale_oak_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/minecraft/pale_oak_toilet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/minecraft/poplar_basin"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/minecraft/poplar_bath"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/minecraft/poplar_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/minecraft/poplar_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/minecraft/poplar_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/minecraft/poplar_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/minecraft/poplar_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/minecraft/poplar_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/minecraft/poplar_kitchen_cabinetry"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/minecraft/poplar_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/minecraft/poplar_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/minecraft/poplar_kitchen_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/minecraft/poplar_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/minecraft/poplar_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/minecraft/poplar_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/minecraft/poplar_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/minecraft/poplar_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/minecraft/poplar_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/minecraft/poplar_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/minecraft/poplar_toilet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/minecraft/red_poplar_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/minecraft/yellow_poplar_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/aspen_basin"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/aspen_bath"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/aspen_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/aspen_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/aspen_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/aspen_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/aspen_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/aspen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/aspen_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/aspen_kitchen_cabinetry"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/aspen_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/aspen_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/aspen_kitchen_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/aspen_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/aspen_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/aspen_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/aspen_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/aspen_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/aspen_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/aspen_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/aspen_toilet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/blue_wisteria_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/cedar_basin"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/cedar_bath"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/cedar_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/cedar_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/cedar_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/cedar_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/cedar_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/cedar_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/cedar_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/cedar_kitchen_cabinetry"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/cedar_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/cedar_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/cedar_kitchen_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/cedar_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/cedar_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/cedar_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/cedar_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/cedar_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/cedar_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/cedar_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/cedar_toilet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/coconut_basin"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/coconut_bath"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/coconut_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/coconut_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/coconut_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/coconut_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/coconut_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/coconut_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/coconut_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/coconut_kitchen_cabinetry"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/coconut_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/coconut_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/coconut_kitchen_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/coconut_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/coconut_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/coconut_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/coconut_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/coconut_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/coconut_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/coconut_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/coconut_toilet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/cypress_basin"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/cypress_bath"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/cypress_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/cypress_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/cypress_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/cypress_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/cypress_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/cypress_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/cypress_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/cypress_kitchen_cabinetry"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/cypress_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/cypress_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/cypress_kitchen_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/cypress_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/cypress_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/cypress_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/cypress_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/cypress_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/cypress_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/cypress_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/cypress_toilet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/fir_basin"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/fir_bath"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/fir_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/fir_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/fir_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/fir_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/fir_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/fir_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/fir_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/fir_kitchen_cabinetry"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/fir_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/fir_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/fir_kitchen_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/fir_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/fir_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/fir_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/fir_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/fir_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/fir_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/fir_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/fir_toilet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/frosty_fir_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/frosty_redwood_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/ghaf_basin"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/ghaf_bath"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/ghaf_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/ghaf_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/ghaf_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/ghaf_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/ghaf_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/ghaf_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/ghaf_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/ghaf_kitchen_cabinetry"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/ghaf_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/ghaf_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/ghaf_kitchen_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/ghaf_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/ghaf_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/ghaf_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/ghaf_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/ghaf_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/ghaf_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/ghaf_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/ghaf_toilet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/joshua_basin"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/joshua_bath"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/joshua_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/joshua_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/joshua_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/joshua_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/joshua_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/joshua_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/joshua_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/joshua_kitchen_cabinetry"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/joshua_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/joshua_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/joshua_kitchen_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/joshua_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/joshua_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/joshua_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/joshua_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/joshua_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/joshua_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/joshua_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/joshua_toilet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/larch_basin"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/larch_bath"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/larch_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/larch_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/larch_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/larch_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/larch_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/larch_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/larch_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/larch_kitchen_cabinetry"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/larch_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/larch_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/larch_kitchen_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/larch_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/larch_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/larch_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/larch_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/larch_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/larch_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/larch_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/larch_toilet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/mahogany_basin"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/mahogany_bath"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/mahogany_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/mahogany_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/mahogany_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/mahogany_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/mahogany_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/mahogany_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/mahogany_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/mahogany_kitchen_cabinetry"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/mahogany_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/mahogany_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/mahogany_kitchen_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/mahogany_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/mahogany_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/mahogany_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/mahogany_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/mahogany_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/mahogany_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/mahogany_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/mahogany_toilet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/maple_basin"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/maple_bath"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/maple_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/maple_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/maple_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/maple_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/maple_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/maple_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/maple_kitchen_cabinetry"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/maple_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/maple_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/maple_kitchen_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/maple_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/maple_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/maple_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/maple_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/maple_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/maple_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/maple_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/maple_toilet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/olive_basin"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/olive_bath"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/olive_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/olive_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/olive_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/olive_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/olive_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/olive_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/olive_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/olive_kitchen_cabinetry"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/olive_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/olive_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/olive_kitchen_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/olive_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/olive_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/olive_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/olive_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/olive_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/olive_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/olive_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/olive_toilet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/orange_maple_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/palo_verde_basin"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/palo_verde_bath"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/palo_verde_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/palo_verde_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/palo_verde_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/palo_verde_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/palo_verde_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/palo_verde_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/palo_verde_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/palo_verde_kitchen_cabinetry"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/palo_verde_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/palo_verde_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/palo_verde_kitchen_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/palo_verde_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/palo_verde_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/palo_verde_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/palo_verde_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/palo_verde_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/palo_verde_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/palo_verde_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/palo_verde_toilet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/part_blue_wisteria_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/part_pink_wisteria_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/part_purple_wisteria_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/part_white_wisteria_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/pink_wisteria_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/purple_wisteria_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/red_maple_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/redwood_basin"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/redwood_bath"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/redwood_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/redwood_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/redwood_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/redwood_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/redwood_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/redwood_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/redwood_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/redwood_kitchen_cabinetry"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/redwood_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/redwood_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/redwood_kitchen_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/redwood_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/redwood_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/redwood_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/redwood_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/redwood_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/redwood_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/redwood_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/redwood_toilet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/saxaul_basin"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/saxaul_bath"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/saxaul_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/saxaul_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/saxaul_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/saxaul_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/saxaul_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/saxaul_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/saxaul_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/saxaul_kitchen_cabinetry"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/saxaul_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/saxaul_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/saxaul_kitchen_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/saxaul_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/saxaul_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/saxaul_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/saxaul_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/saxaul_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/saxaul_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/saxaul_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/saxaul_toilet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/sugi_basin"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/sugi_bath"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/sugi_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/sugi_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/sugi_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/sugi_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/sugi_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/sugi_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/sugi_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/sugi_kitchen_cabinetry"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/sugi_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/sugi_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/sugi_kitchen_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/sugi_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/sugi_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/sugi_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/sugi_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/sugi_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/sugi_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/sugi_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/sugi_toilet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/white_wisteria_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/willow_basin"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/willow_bath"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/willow_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/willow_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/willow_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/willow_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/willow_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/willow_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/willow_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/willow_kitchen_cabinetry"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/willow_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/willow_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/willow_kitchen_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/willow_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/willow_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/willow_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/willow_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/willow_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/willow_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/willow_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/willow_toilet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/wisteria_basin"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/wisteria_bath"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/wisteria_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/wisteria_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/wisteria_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/wisteria_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/wisteria_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/wisteria_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/wisteria_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/wisteria_kitchen_cabinetry"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/wisteria_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/wisteria_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/wisteria_kitchen_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/wisteria_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/wisteria_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/wisteria_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/wisteria_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/wisteria_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/wisteria_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/wisteria_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/wisteria_toilet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/yellow_aspen_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/natures_spirit/yellow_maple_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/netherexp/claret_basin"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/netherexp/claret_bath"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/netherexp/claret_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/netherexp/claret_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/netherexp/claret_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/netherexp/claret_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/netherexp/claret_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/netherexp/claret_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/netherexp/claret_kitchen_cabinetry"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/netherexp/claret_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/netherexp/claret_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/netherexp/claret_kitchen_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/netherexp/claret_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/netherexp/claret_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/netherexp/claret_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/netherexp/claret_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/netherexp/claret_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/netherexp/claret_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/netherexp/claret_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/netherexp/claret_toilet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/black_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/black_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/black_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/black_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/black_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/black_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/black_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/black_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/black_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/black_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/black_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/black_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/black_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/black_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/blue_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/blue_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/blue_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/blue_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/blue_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/blue_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/blue_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/blue_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/blue_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/blue_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/blue_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/blue_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/blue_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/blue_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/brown_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/brown_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/brown_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/brown_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/brown_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/brown_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/brown_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/brown_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/brown_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/brown_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/brown_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/brown_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/brown_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/brown_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/cyan_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/cyan_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/cyan_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/cyan_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/cyan_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/cyan_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/cyan_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/cyan_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/cyan_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/cyan_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/cyan_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/cyan_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/cyan_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/cyan_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/gray_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/gray_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/gray_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/gray_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/gray_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/gray_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/gray_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/gray_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/gray_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/gray_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/gray_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/gray_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/gray_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/gray_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/green_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/green_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/green_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/green_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/green_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/green_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/green_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/green_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/green_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/green_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/green_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/green_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/green_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/green_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/light_blue_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/light_blue_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/light_blue_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/light_blue_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/light_blue_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/light_blue_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/light_blue_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/light_blue_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/light_blue_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/light_blue_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/light_blue_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/light_blue_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/light_blue_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/light_blue_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/light_gray_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/light_gray_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/light_gray_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/light_gray_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/light_gray_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/light_gray_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/light_gray_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/light_gray_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/light_gray_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/light_gray_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/light_gray_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/light_gray_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/light_gray_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/light_gray_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/lime_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/lime_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/lime_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/lime_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/lime_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/lime_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/lime_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/lime_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/lime_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/lime_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/lime_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/lime_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/lime_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/lime_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/magenta_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/magenta_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/magenta_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/magenta_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/magenta_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/magenta_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/magenta_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/magenta_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/magenta_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/magenta_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/magenta_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/magenta_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/magenta_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/magenta_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/nephrite_blossom_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/orange_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/orange_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/orange_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/orange_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/orange_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/orange_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/orange_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/orange_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/orange_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/orange_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/orange_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/orange_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/orange_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/orange_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/pink_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/pink_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/pink_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/pink_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/pink_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/pink_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/pink_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/pink_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/pink_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/pink_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/pink_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/pink_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/pink_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/pink_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/purple_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/purple_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/purple_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/purple_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/purple_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/purple_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/purple_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/purple_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/purple_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/purple_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/purple_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/purple_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/purple_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/purple_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/red_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/red_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/red_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/red_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/red_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/red_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/red_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/red_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/red_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/red_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/red_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/red_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/red_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/red_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/spirit_sallow_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/weeping_gala_basin"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/weeping_gala_bath"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/weeping_gala_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/weeping_gala_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/weeping_gala_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/weeping_gala_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/weeping_gala_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/weeping_gala_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/weeping_gala_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/weeping_gala_kitchen_cabinetry"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/weeping_gala_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/weeping_gala_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/weeping_gala_kitchen_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/weeping_gala_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/weeping_gala_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/weeping_gala_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/weeping_gala_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/weeping_gala_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/weeping_gala_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/weeping_gala_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/weeping_gala_toilet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/white_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/white_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/white_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/white_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/white_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/white_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/white_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/white_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/white_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/white_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/white_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/white_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/white_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/white_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/yellow_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/yellow_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/yellow_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/yellow_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/yellow_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/yellow_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/yellow_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/yellow_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/yellow_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/yellow_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/yellow_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/yellow_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/yellow_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/yellow_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/wan_ancient_beasts/amber_ginkgo_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/wan_ancient_beasts/ginkgo_basin"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/wan_ancient_beasts/ginkgo_bath"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/wan_ancient_beasts/ginkgo_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/wan_ancient_beasts/ginkgo_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/wan_ancient_beasts/ginkgo_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/wan_ancient_beasts/ginkgo_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/wan_ancient_beasts/ginkgo_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/wan_ancient_beasts/ginkgo_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/wan_ancient_beasts/ginkgo_kitchen_cabinetry"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/wan_ancient_beasts/ginkgo_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/wan_ancient_beasts/ginkgo_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/wan_ancient_beasts/ginkgo_kitchen_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/wan_ancient_beasts/ginkgo_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/wan_ancient_beasts/ginkgo_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/wan_ancient_beasts/ginkgo_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/wan_ancient_beasts/ginkgo_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/wan_ancient_beasts/ginkgo_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/wan_ancient_beasts/ginkgo_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/wan_ancient_beasts/ginkgo_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/wan_ancient_beasts/ginkgo_toilet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/wan_ancient_beasts/verdant_ginkgo_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/alder_basin"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/alder_bath"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/alder_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/alder_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/alder_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/alder_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/alder_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/alder_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/alder_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/alder_kitchen_cabinetry"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/alder_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/alder_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/alder_kitchen_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/alder_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/alder_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/alder_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/alder_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/alder_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/alder_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/alder_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/alder_toilet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/hawthorn_basin"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/hawthorn_bath"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/hawthorn_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/hawthorn_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/hawthorn_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/hawthorn_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/hawthorn_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/hawthorn_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/hawthorn_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/hawthorn_kitchen_cabinetry"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/hawthorn_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/hawthorn_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/hawthorn_kitchen_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/hawthorn_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/hawthorn_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/hawthorn_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/hawthorn_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/hawthorn_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/hawthorn_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/hawthorn_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/hawthorn_toilet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/rowan_basin"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/rowan_bath"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/rowan_berry_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/rowan_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/rowan_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/rowan_cutting_board"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/rowan_dark_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/rowan_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/rowan_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/rowan_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/rowan_kitchen_cabinetry"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/rowan_kitchen_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/rowan_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/rowan_kitchen_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/rowan_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/rowan_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/rowan_light_ceiling_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/rowan_mail_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/rowan_storage_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/rowan_storage_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/rowan_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/witchery/rowan_toilet"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/abyssal_decor/blackwood_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/abyssal_decor/cinnamon_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/alexscaves/pewen_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/alexscaves/thornwood_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/antarchy/nadir_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/antarchy/ouranwood_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/antarchy/peach_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/antarchy/royal_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/antarchy/truffalo_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/natures_spirit/aspen_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/natures_spirit/cedar_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/natures_spirit/coconut_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/natures_spirit/cypress_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/natures_spirit/fir_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/natures_spirit/ghaf_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/natures_spirit/joshua_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/natures_spirit/larch_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/natures_spirit/mahogany_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/natures_spirit/maple_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/natures_spirit/olive_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/natures_spirit/palo_verde_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/natures_spirit/redwood_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/natures_spirit/saxaul_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/natures_spirit/sugi_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/natures_spirit/willow_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/natures_spirit/wisteria_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/netherexp/claret_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/pastel/black_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/pastel/blue_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/pastel/brown_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/pastel/cyan_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/pastel/gray_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/pastel/green_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/pastel/light_blue_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/pastel/light_gray_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/pastel/lime_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/pastel/magenta_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/pastel/orange_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/pastel/pink_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/pastel/purple_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/pastel/red_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/pastel/weeping_gala_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/pastel/white_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/pastel/yellow_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/wan_ancient_beasts/ginkgo_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/witchery/alder_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/witchery/hawthorn_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:vanillabackport/witchery/rowan_shelf"
+		}
+	]
+}

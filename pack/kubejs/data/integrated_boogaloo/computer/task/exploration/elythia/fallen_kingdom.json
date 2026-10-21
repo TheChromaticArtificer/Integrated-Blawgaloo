@@ -1,0 +1,41 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.elythia_fallen_kingdom.title",
+  "description": "task.integrated_boogaloo.elythia_fallen_kingdom.description",
+  "showcase": [
+    "@item:antarchy:fallen_king_crown",
+    "@recipe:antarchy:fallen_king_crown"
+  ],
+  "icon": "antarchy:fallen_king_crown",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:elythia",
+  "sort_order": 3,
+  "position": {
+    "x": 2,
+    "y": 0
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "antarchy:fallen_kingdom_castle",
+      "description": "task.integrated_boogaloo.elythia_fallen_kingdom.goal",
+      "count": 1
+    },
+    {
+      "id": "crown",
+      "type": "item",
+      "target": "antarchy:fallen_king_crown",
+      "description": "task.integrated_boogaloo.elythia_fallen_kingdom.crown",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 30
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+name = "Integrated Blawgoolo"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "de030a211e2cafe3b564fdae7a028b9c78a95298d8263382aff27b77dab72adc"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.264"

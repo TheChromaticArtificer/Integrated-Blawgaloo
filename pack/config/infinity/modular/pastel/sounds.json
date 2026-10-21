@@ -1,0 +1,832 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "pastel:air_launch_belt_charging"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:ambient.dimension_sounds"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:ambient.howling_wind_high"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:ambient.howling_wind_low"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:ambient.laments"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:ambient.rain_shower"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:armor_equip_glow_vision"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:bident_hit_ground"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:bident_mirror_image_thrown"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:black_hole_chest_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:black_hole_chest_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.citrine_block.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.citrine_block.chime"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.citrine_block.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.citrine_block.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.citrine_block.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.citrine_block.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.citrine_cluster.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.citrine_cluster.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.citrine_cluster.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.citrine_cluster.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.citrine_cluster.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.large_citrine_bud.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.large_citrine_bud.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.large_moonstone_bud.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.large_moonstone_bud.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.large_onyx_bud.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.large_onyx_bud.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.large_topaz_bud.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.large_topaz_bud.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.medium_citrine_bud.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.medium_citrine_bud.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.medium_moonstone_bud.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.medium_moonstone_bud.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.medium_onyx_bud.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.medium_onyx_bud.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.medium_topaz_bud.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.medium_topaz_bud.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.memory.advance"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.moonstone_block.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.moonstone_block.chime"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.moonstone_block.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.moonstone_block.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.moonstone_block.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.moonstone_block.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.moonstone_cluster.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.moonstone_cluster.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.moonstone_cluster.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.moonstone_cluster.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.moonstone_cluster.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.onyx_block.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.onyx_block.chime"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.onyx_block.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.onyx_block.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.onyx_block.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.onyx_block.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.onyx_cluster.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.onyx_cluster.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.onyx_cluster.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.onyx_cluster.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.onyx_cluster.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.redstone_mechanism.break_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.redstone_mechanism.trigger"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.small_citrine_bud.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.small_citrine_bud.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.small_moonstone_bud.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.small_moonstone_bud.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.small_onyx_bud.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.small_onyx_bud.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.small_topaz_bud.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.small_topaz_bud.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.spectral_block.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.spectral_block.chime"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.spectral_block.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.spectral_block.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.spectral_block.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.spectral_block.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.topaz_block.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.topaz_block.chime"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.topaz_block.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.topaz_block.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.topaz_block.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.topaz_block.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.topaz_cluster.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.topaz_cluster.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.topaz_cluster.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.topaz_cluster.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:block.topaz_cluster.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:bottomless_bundle_zip"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:cast_radiance"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:celestial_pocket_watch_sky_fly_by"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:celestial_pocket_watch_ticking"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:color_picker_processing"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:compacting_chest_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:compacting_chest_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:crafting_ding"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:critical_crunch"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:crystal_strike"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:deep_crystal_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:deeper_down_portal_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:discharge"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:dreamflayer_activate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:dreamflayer_deactivate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:enchanter_finish"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:enchanter_working"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:ender_splice_bound"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:ender_splice_charges"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:entity.block_flooder.throw"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:entity.egg_laying_wooly_pig.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:entity.egg_laying_wooly_pig.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:entity.egg_laying_wooly_pig.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:entity.egg_laying_wooly_pig.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:entity.eraser.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:entity.eraser.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:entity.eraser.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:entity.eraser.step"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:entity.kindling.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:entity.kindling.angry"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:entity.kindling.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:entity.kindling.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:entity.kindling.jump"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:entity.kindling.shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:entity.lizard.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:entity.lizard.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:entity.lizard.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:entity.preservation_turret.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:entity.preservation_turret.close"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:entity.preservation_turret.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:entity.preservation_turret.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:entity.preservation_turret.hurt_closed"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:entity.preservation_turret.open"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:entity.preservation_turret.shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:exchanging_staff_select"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:fading_placed"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:failing_placed"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:forfeiture_placed"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:fusion_shrine_crafting"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:fusion_shrine_crafting_aborted"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:fusion_shrine_crafting_finished"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:glass_shimmer"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:ground_slam"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:ground_slam_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:hummingstone_hum"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:humus_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:impact_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:impaling_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:incandescent_arm"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:incandescent_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:ink_projectile_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:ink_projectile_launch"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:item.guidebook.pages"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:item.night_salts.use"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:item.omni_accelerator.shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:item.primordial_lighter.use"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:legendary_weapon_craft"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:light_crystal_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:liquid_crystal_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:lunge"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:lunge_crit"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:metal_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:metal_tap"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:metallic_unsheathe"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:mid_crystal_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:midnight_aberration_crumbling"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:midnight_solution_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:moonstone_strike"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:natures_staff_use"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:ost.azure"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:overcharging"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:paintbrush_paint"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:paintbrush_select"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:paintbrush_switch"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:paintbrush_trigger"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:pastel.ui.button_click"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:pastel.ui.new_recipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:pastel.ui.new_revelation"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:pastel.ui.text_revealed"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:pedestal_crafting"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:pedestal_crafting_finished_amethyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:pedestal_crafting_finished_citrine"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:pedestal_crafting_finished_generic"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:pedestal_crafting_finished_moonstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:pedestal_crafting_finished_onyx"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:pedestal_crafting_finished_topaz"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:pedestal_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:perfect_parry"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:piercing_radiance"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:player_teleports"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:primordial_fire_crackle"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:primordial_fire_dot"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:puff_circlet"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:radiance_pin_trigger"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:radiance_staff_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:radiance_staff_charging"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:radiance_staff_place"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:ruin_placed"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:shatter_heavy"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:shatter_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:shooting_star_cracker"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:soft_hum"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:spirit_instiller_crafting"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:spirit_instiller_crafting_finished"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:squeaker"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:structure_success"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:sword_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:unlock"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:use_fail"
+		}
+	]
+}

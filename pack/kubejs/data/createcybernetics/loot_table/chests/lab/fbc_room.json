@@ -1,0 +1,53 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "createcybernetics:chests/lab/common"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.21
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:tag",
+          "name": "createcybernetics:lab_loot/scavenged_energy_generators",
+          "expand": true
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.2
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "antos:floppy_disk",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "antos:floppy_disk": "integrated_boogaloo:cyberware_manual"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

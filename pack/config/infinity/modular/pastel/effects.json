@@ -1,0 +1,211 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "pastel:another_roll",
+			"data": {
+				"Instant": false,
+				"Color": 10604032,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:ascension",
+			"data": {
+				"Instant": false,
+				"Color": 14678524,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:calming",
+			"data": {
+				"Instant": false,
+				"Color": 6281139,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:deadly_poison",
+			"data": {
+				"Instant": false,
+				"Color": 5149489,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:density",
+			"data": {
+				"Instant": false,
+				"Color": 6756901,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:divinity",
+			"data": {
+				"Instant": false,
+				"Color": 14678524,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:effect_prolonging",
+			"data": {
+				"Instant": false,
+				"Color": 12616149,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:eternal_slumber",
+			"data": {
+				"Instant": false,
+				"Color": 12804078,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:fatal_slumber",
+			"data": {
+				"Instant": false,
+				"Color": 8468162,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:frenzy",
+			"data": {
+				"Instant": false,
+				"Color": 10027008,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:immunity",
+			"data": {
+				"Instant": false,
+				"Color": 4964053,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:lava_gliding",
+			"data": {
+				"Instant": false,
+				"Color": 12856846,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:life_drain",
+			"data": {
+				"Instant": false,
+				"Color": 2236962,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:lightweight",
+			"data": {
+				"Instant": false,
+				"Color": 56804,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:magic_annulation",
+			"data": {
+				"Instant": false,
+				"Color": 7999618,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:nourishing",
+			"data": {
+				"Instant": false,
+				"Color": 2303224,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:projectile_rebound",
+			"data": {
+				"Instant": false,
+				"Color": 7857887,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:scarred",
+			"data": {
+				"Instant": false,
+				"Color": 5971229,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:somnolence",
+			"data": {
+				"Instant": false,
+				"Color": 11434988,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:stiffness",
+			"data": {
+				"Instant": false,
+				"Color": 8287561,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:swiftness",
+			"data": {
+				"Instant": false,
+				"Color": 16770406,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:toughness",
+			"data": {
+				"Instant": false,
+				"Color": 2669536,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:vulnerability",
+			"data": {
+				"Instant": false,
+				"Color": 3487029,
+				"Category": "harmful"
+			}
+		}
+	]
+}

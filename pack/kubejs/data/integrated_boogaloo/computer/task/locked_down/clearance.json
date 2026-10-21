@@ -1,0 +1,52 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.locked_down_clearance.title",
+  "description": "task.integrated_boogaloo.locked_down_clearance.description",
+  "showcase": [
+    "@recipe:securitycraft:keycard_lv3"
+  ],
+  "icon": "securitycraft:keycard_lv3",
+  "program": "integrated_boogaloo:locked_down",
+  "category": "integrated_boogaloo:locked_down",
+  "sort_order": 6,
+  "position": {
+    "x": 2,
+    "y": 0
+  },
+  "shape": "pentagon",
+  "size": 1.5,
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:locked_down/keycards"
+  ],
+  "objectives": [
+    {
+      "id": "lv3",
+      "type": "item",
+      "target": "securitycraft:keycard_lv3",
+      "description": "task.integrated_boogaloo.locked_down_clearance.lv3",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "lv5",
+      "type": "item",
+      "target": "securitycraft:keycard_lv5",
+      "description": "task.integrated_boogaloo.locked_down_clearance.lv5",
+      "count": 1,
+      "sticky": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 100
+    },
+    {
+      "type": "item_pool",
+      "pool": "integrated_boogaloo:locked_down_prize",
+      "mode": "choice"
+    }
+  ],
+  "line_axis": "horizontal"
+}

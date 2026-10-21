@@ -1,0 +1,896 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "pastel:alloy_forges"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:aloe_converted"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:aloe_plantable"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:amethyst_buds"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:amethyst_chiseled_base_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:amethyst_ores"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:animals_spawnable_on_additions"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:ash"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:azurite_buds"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:azurite_ores"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:basal_marbles"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:basalts"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:base_stone_deeper_down"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:basic_pedestals"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:bismuth_buds"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:black_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:black_sludge_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:blackslag_ore_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:blackslag_ores"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:blackslags"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:blue_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:brown_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:budding_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:building_staffs_blacklisted"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:calcites"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:chestnut_noxcap_stems"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:citrine_buds"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:citrine_ores"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:colored_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:colored_buttons"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:colored_fence_gates"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:colored_fences"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:colored_lamps"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:colored_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:colored_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:colored_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:colored_preservation_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:colored_pressure_plates"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:colored_saplings"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:colored_slabs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:colored_spore_blossoms"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:colored_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:colored_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:crystal_apothecary_harvestable"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:crystallarieum_growable_buds"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:crystallarieum_growable_clusters"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:cyan_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:decay/black_materia_conversions"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:decay/decay"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:decay/decay_away_curables"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:decay/decay_away_removables"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:decay/fading_conversions"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:decay/fading_special_conversions"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:decay/failing_conversions"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:decay/failing_safe"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:decay/failing_special_conversions"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:decay/forfeiture_conversions"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:decay/forfeiture_safe"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:decay/forfeiture_special_conversions"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:decay/ruin_conversions"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:decay/ruin_safe"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:decay/ruin_special_conversions"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:deep_soils"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:deeper_down_carver_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:deeper_down_feature_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:detectors"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:doombloom_plantable"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:downstone_patch_replaceables"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:dragonbone_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:dragonjags"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:ebony_noxcap_stems"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:exempt_from_loot_table_debug_check"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:exempt_from_mineable_debug_check"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:fusion_shrines"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:gemstone_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:gemstone_buds"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:gemstone_chimes"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:gemstone_clusters"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:gemstone_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:gemstone_glass_panes"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:gemstone_lights"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:gemstone_ores"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:gemstone_powder_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:gemstone_storage_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:glowblocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:gray_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:green_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:groundcover"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:growth_accelerators"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:hummingstones"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:idols"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:infested_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:ink_effect_blacklisted"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:item_bowls"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:ivory_noxcap_stems"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:jade_vine"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:jadeite"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:leaves_type/black"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:leaves_type/blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:leaves_type/brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:leaves_type/cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:leaves_type/gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:leaves_type/green"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:leaves_type/light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:leaves_type/light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:leaves_type/lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:leaves_type/magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:leaves_type/nephrite_blossom"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:leaves_type/orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:leaves_type/pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:leaves_type/purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:leaves_type/red"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:leaves_type/spirit_sallow"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:leaves_type/weeping_gala"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:leaves_type/white"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:leaves_type/yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:light_blue_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:light_gray_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:lime_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:magenta_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:magical_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:malachite_buds"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:malachite_ores"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:memory_fast_manifesters"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:memory_never_manifesters"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:memory_very_fast_manifesters"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:mermaids_brush_plantable"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:mob_heads"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:moonstone_buds"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:moonstone_ores"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:multitool_mineable"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:natures_staff_spreadable"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:natures_staff_stackable"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:natures_staff_tickable"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:nephrite"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:nightdew_soils"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:noxcap_stems"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:noxshrooms"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:noxwood"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:noxwood_amphoras"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:noxwood_buttons"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:noxwood_doors"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:noxwood_fence_gates"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:noxwood_fences"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:noxwood_lanterns"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:noxwood_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:noxwood_pressure_plates"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:noxwood_slabs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:noxwood_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:noxwood_trapdoors"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:onyx_buds"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:onyx_ores"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:orange_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:ores"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:pastel_network_nodes"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:pedestals"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:pigment_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:pink_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:precipitation_source"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:primordial_fire_base_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:pure_resource_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:purple_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:pylons"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:pyrite"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:quitoxic_reeds_plantable"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:red_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:sawblade_holly_plantable"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:semi_permeable_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:shale_clays"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:shimmerstone_lights"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:shimmerstone_ores"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:shooting_stars"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:slate_noxcap_stems"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:slush"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:slushes"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:snapping_ivy_plantable"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:spirit_sallow_vines"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:spirit_sallow_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:spreads_to_blackslag"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:stripped_colored_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:stripped_colored_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:stripped_noxcap_hyphae"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:stripped_noxcap_stems"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:structure/base_slabs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:structure/bases"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:structure/chiseled"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:structure/crests"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:structure/earlygame_runes"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:structure/gemstones"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:structure/lategame_runes"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:structure/lights"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:structure/midgame_runes"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:structure/notched"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:structure/pillars"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:structure/runes"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:structure/transparent"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:technical/unbreakable_movable"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:topaz_buds"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:topaz_ores"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:unbreakable"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:unbreakable_structure_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:upgrades"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:weeping_gala_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:white_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:wood_type/black"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:wood_type/blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:wood_type/brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:wood_type/cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:wood_type/gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:wood_type/green"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:wood_type/light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:wood_type/light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:wood_type/lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:wood_type/magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:wood_type/orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:wood_type/pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:wood_type/purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:wood_type/red"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:wood_type/weeping_gala"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:wood_type/white"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:wood_type/yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:woody_plants"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:yellow_logs"
+		}
+	]
+}

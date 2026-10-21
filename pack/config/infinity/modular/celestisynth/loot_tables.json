@@ -1,0 +1,88 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "celestisynth:blocks/celestial_crafting_table",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "celestisynth:blocks/lunar_stone",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "celestisynth:blocks/solar_crystal",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "celestisynth:blocks/starlit_factory",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "celestisynth:blocks/wintereis",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "celestisynth:blocks/zephyr_deposit",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "celestisynth:chests/underground_dungeons",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "celestisynth:chests/vanilla_nether_structures",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "celestisynth:entities/star_monolith",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "celestisynth:entities/tempest",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "celestisynth:entities/traverser",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "celestisynth:entities/veilguard",
+			"data": {
+				"Type": "entity"
+			}
+		}
+	]
+}

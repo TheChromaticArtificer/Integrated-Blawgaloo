@@ -1,0 +1,26 @@
+{
+  "parent": "pastel:tap_titration_barrel",
+  "display": {
+    "icon": {
+      "id": "pastel:mermaids_jam"
+    },
+    "hidden": true,
+    "title": {
+      "translate": "advancements.pastel.tap_mermaids_jam.title"
+    },
+    "description": {
+      "translate": "advancements.pastel.tap_mermaids_jam.description"
+    }
+  },
+  "criteria": {
+    "tapped_mermaids_jam": {
+      "trigger": "minecraft:impossible"
+    },
+    "gotten_previous": {
+      "trigger": "databank:has_advancement",
+      "conditions": {
+        "advancement": "pastel:tap_titration_barrel"
+      }
+    }
+  }
+}

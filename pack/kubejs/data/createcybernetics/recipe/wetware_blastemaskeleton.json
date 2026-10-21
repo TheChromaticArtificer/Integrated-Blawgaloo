@@ -1,0 +1,21 @@
+{
+  "type": "createcybernetics:grafting_table",
+  "wetware": [
+    {
+      "item": "createcybernetics:bodypart_skeleton"
+    },
+    {
+      "item": "pastel:lizard_meat"
+    },
+    {
+      "item": "pastel:lizard_meat"
+    },
+    {
+      "item": "pastel:lizard_meat"
+    }
+  ],
+  "result": {
+    "id": "createcybernetics:wetware_blastemaskeleton",
+    "count": 1
+  }
+}

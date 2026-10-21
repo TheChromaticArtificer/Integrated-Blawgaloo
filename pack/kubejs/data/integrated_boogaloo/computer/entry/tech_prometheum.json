@@ -1,0 +1,30 @@
+{
+  "green_tint": false,
+  "type": "article",
+  "category": "general",
+  "folder": "integrated_boogaloo:workshop",
+  "sort_order": 100,
+  "title": "guide.integrated_boogaloo.entry.tech_prometheum.title",
+  "subtitle": "guide.integrated_boogaloo.entry.tech_prometheum.subtitle",
+  "cover_item": "oritech:prometheum_ingot",
+  "lookup": [
+    "oritech:overcharged_crystal",
+    "oritech:superconductor",
+    "oritech:promethium_axe",
+    "oritech:promethium_pickaxe"
+  ],
+  "content": [
+    {
+      "text": "guide.integrated_boogaloo.entry.tech_prometheum.body_1"
+    },
+    {
+      "display": "integrated_boogaloo:guide/atomic_forge"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.tech_prometheum.body_2"
+    },
+    {
+      "display": "integrated_boogaloo:guide/ultimate_core"
+    }
+  ]
+}

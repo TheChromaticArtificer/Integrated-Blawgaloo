@@ -1,0 +1,64 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:anemone"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:black_iris"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:blue_iris"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:bluebell"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:dwarf_blossoms"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:hibiscus"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:marigold"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:protea"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:purple_heather"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:purple_wildflower"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:red_heather"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:ruby_blossoms"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:tiger_lily"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:white_heather"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:yellow_wildflower"
+		}
+	]
+}

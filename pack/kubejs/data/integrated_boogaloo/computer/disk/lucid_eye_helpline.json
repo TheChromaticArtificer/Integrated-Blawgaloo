@@ -1,0 +1,14 @@
+{
+  "category": "integrated_boogaloo:brochures",
+  "title": "guide.integrated_boogaloo.disk.lucid_eye_helpline.title",
+  "description": "guide.integrated_boogaloo.disk.lucid_eye_helpline.description",
+  "subscribe": [
+    "integrated_boogaloo:lucid_eye_newsletter"
+  ],
+  "files": [
+    {
+      "path": "card.txt",
+      "source": "integrated_boogaloo:lucid_eye/card.txt"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "category": "integrated_boogaloo:surveys",
+  "title": "guide.integrated_boogaloo.disk.survey_castles.title",
+  "description": "guide.integrated_boogaloo.disk.survey_castles.description",
+  "entries": [
+    "integrated_boogaloo:survey_ruined_castle",
+    "integrated_boogaloo:survey_woodland_keep",
+    "integrated_boogaloo:survey_castillo",
+    "integrated_boogaloo:survey_catalonian_castle",
+    "integrated_boogaloo:survey_granite_fort",
+    "integrated_boogaloo:survey_asgharian_citadel"
+  ]
+}

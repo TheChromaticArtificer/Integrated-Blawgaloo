@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "KVK",
+    "AEA",
+    "FPF"
+  ],
+  "key": {
+    "V": {
+      "item": "pastel:nectered_viognier"
+    },
+    "F": {
+      "item": "pastel:myceylon"
+    },
+    "K": {
+      "item": "pastel:incandescent_essence"
+    },
+    "A": {
+      "item": "pastel:peach_jam"
+    },
+    "E": {
+      "item": "pastel:clotted_cream"
+    },
+    "P": {
+      "item": "antarchy:peach"
+    }
+  },
+  "result": {
+    "id": "pastel:peaches_flambe",
+    "count": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "type": "lucky:group",
+  "luck": -1,
+  "chance": 0.6,
+  "outcomes": [
+    {
+      "type": "lucky:message",
+      "message": {
+        "text": "You feel watched.",
+        "color": "dark_gray",
+        "bold": true
+      },
+      "overlay": true
+    },
+    {
+      "type": "lucky:effect",
+      "status_effect": {
+        "id": "antarchy:dread",
+        "amplifier": 0,
+        "duration": 300
+      }
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "antarchy:lucid",
+      "reinit": true,
+      "pos": [
+        "{blockPosX}",
+        "{blockPosY}",
+        "{blockPosZ}+6"
+      ],
+      "delay": 20
+    }
+  ]
+}

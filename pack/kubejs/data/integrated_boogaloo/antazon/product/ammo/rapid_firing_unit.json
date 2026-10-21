@@ -1,0 +1,27 @@
+{
+  "name": "computer.integrated_boogaloo.product.ammo.rapid_firing_unit.name",
+  "description": "computer.integrated_boogaloo.product.ammo.rapid_firing_unit.description",
+  "category": "ammo",
+  "green_tint": false,
+  "quantity": 1,
+  "payments": [
+    {
+      "type": "antcoins",
+      "resource": "antcoins",
+      "amount": 35
+    }
+  ],
+  "thumbnail": {
+    "item": "scguns:rapid_firing_unit"
+  },
+  "unlock_tasks": [
+    "integrated_boogaloo:armory/arming_up"
+  ],
+  "unlock_mode": "all",
+  "rewards": [
+    {
+      "item": "scguns:rapid_firing_unit",
+      "count": 1
+    }
+  ]
+}

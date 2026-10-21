@@ -1,0 +1,11 @@
+{
+  "sender": "lucideye@antmail.com",
+  "sender_display": "Lucid Eye Help Line",
+  "sender_avatar_item": "antarchy:lucid_eye",
+  "subject": "Checking in",
+  "body": "Just checking in. You seem well. You seem very well from here.\n\nThe Lucid Eye Help Line",
+  "trigger": {
+    "type": "random",
+    "pool": "integrated_boogaloo:lucid_eye_newsletter"
+  }
+}

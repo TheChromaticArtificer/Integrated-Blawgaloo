@@ -1,0 +1,61 @@
+{
+  "type": "witchery:ritual",
+  "altar_power": 1000,
+  "block_mapping": {
+    "G": "witchery:golden_ritual_chalk",
+    "S": "witchery:ritual_chalk"
+  },
+  "pattern": [
+    "__SSS__",
+    "_S___S_",
+    "S_____S",
+    "S__G__S",
+    "S_____S",
+    "_S___S_",
+    "__SSS__"
+  ],
+  "ritual_events": [
+    {
+      "type": "witchery:consume_items",
+      "items": [
+        {
+          "item": {
+            "item": "pastel:lesser_potion_pendant"
+          }
+        },
+        {
+          "item": {
+            "item": "minecraft:golden_carrot"
+          }
+        },
+        {
+          "item": {
+            "item": "witchery:whiff_of_magic"
+          }
+        }
+      ]
+    },
+    {
+      "type": "witchery:particle_sphere_inward",
+      "particle": {
+        "type": "minecraft:dust",
+        "color": [
+          1.0,
+          0.6,
+          0.85
+        ],
+        "scale": 1.0
+      },
+      "time": 100
+    },
+    {
+      "type": "witchery:play_sound",
+      "pitch": 1.2,
+      "sound": "minecraft:block.amethyst_block.chime"
+    },
+    {
+      "type": "witchery:run_command",
+      "command": "loot give {owner} loot integrated_boogaloo:potion_pendants/lesser_night_vision"
+    }
+  ]
+}

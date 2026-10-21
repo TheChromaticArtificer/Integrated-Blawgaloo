@@ -1,0 +1,10 @@
+{
+  "type": {
+    "type": "databank:item",
+    "hidden_as": "pastel:nightdew_sprout",
+    "original": "pastel:nectardew_burgeon"
+  },
+  "condition": {
+    "type": "databank:always_true"
+  }
+}

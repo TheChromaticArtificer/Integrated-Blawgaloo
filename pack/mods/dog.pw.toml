@@ -1,0 +1,13 @@
+name = "Devourer of Gods"
+filename = "dog-1.2.0-1.21.1-neoforge-hotfix1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1c2bd1fa4145734407df13c14d851b4f05633dd9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8931544
+project-id = 1630975

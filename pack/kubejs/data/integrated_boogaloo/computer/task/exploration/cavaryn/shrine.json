@@ -1,0 +1,29 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.cavaryn_shrine.title",
+  "description": "task.integrated_boogaloo.cavaryn_shrine.description",
+  "icon": "antarchy:tigers_eye",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:cavaryn",
+  "sort_order": 21,
+  "position": {
+    "x": 0,
+    "y": 5
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "structure_entered",
+      "target": "antarchy:tigers_eye_shrine",
+      "description": "task.integrated_boogaloo.cavaryn_shrine.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 40
+    }
+  ]
+}

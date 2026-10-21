@@ -1,0 +1,9 @@
+{
+  "forClass": "net.minecraft.world.entity.animal.Rabbit",
+  "modifiers": [
+    {
+      "key": "RabbitType",
+      "keep": true
+    }
+  ]
+}

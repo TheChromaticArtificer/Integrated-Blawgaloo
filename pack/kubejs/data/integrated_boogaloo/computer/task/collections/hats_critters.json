@@ -1,0 +1,326 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.collection.hats_critters.title",
+  "description": "task.integrated_boogaloo.collection.hats_critters.description",
+  "icon": "hats:cat_on_head",
+  "program": "integrated_boogaloo:collections",
+  "category": "integrated_boogaloo:collections",
+  "sort_order": 503,
+  "position": {
+    "x": 3,
+    "y": 5
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "axolotl_on_head",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/axolotl_on_head",
+      "description": "item.hats.axolotl_on_head",
+      "count": 1
+    },
+    {
+      "id": "babydolphin",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/babydolphin",
+      "description": "item.hats.babydolphin",
+      "count": 1
+    },
+    {
+      "id": "babyturtle",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/babyturtle",
+      "description": "item.hats.babyturtle",
+      "count": 1
+    },
+    {
+      "id": "bee_on_head",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/bee_on_head",
+      "description": "item.hats.bee_on_head",
+      "count": 1
+    },
+    {
+      "id": "beehat",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/beehat",
+      "description": "item.hats.beehat",
+      "count": 1
+    },
+    {
+      "id": "beetle_on_head",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/beetle_on_head",
+      "description": "item.hats.beetle_on_head",
+      "count": 1
+    },
+    {
+      "id": "bunnyhat",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/bunnyhat",
+      "description": "item.hats.bunnyhat",
+      "count": 1
+    },
+    {
+      "id": "cat_hat",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/cat_hat",
+      "description": "item.hats.cat_hat",
+      "count": 1
+    },
+    {
+      "id": "cat_on_head",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/cat_on_head",
+      "description": "item.hats.cat_on_head",
+      "count": 1
+    },
+    {
+      "id": "caterpillar_on_head",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/caterpillar_on_head",
+      "description": "item.hats.caterpillar_on_head",
+      "count": 1
+    },
+    {
+      "id": "chickenhead",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/chickenhead",
+      "description": "item.hats.chickenhead",
+      "count": 1
+    },
+    {
+      "id": "chickenonhead",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/chickenonhead",
+      "description": "item.hats.chickenonhead",
+      "count": 1
+    },
+    {
+      "id": "crabonhead",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/crabonhead",
+      "description": "item.hats.crabonhead",
+      "count": 1
+    },
+    {
+      "id": "fishonhead",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/fishonhead",
+      "description": "item.hats.fishonhead",
+      "count": 1
+    },
+    {
+      "id": "flies",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/flies",
+      "description": "item.hats.flies",
+      "count": 1
+    },
+    {
+      "id": "foxhat",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/foxhat",
+      "description": "item.hats.foxhat",
+      "count": 1
+    },
+    {
+      "id": "greenbirb",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/greenbirb",
+      "description": "item.hats.greenbirb",
+      "count": 1
+    },
+    {
+      "id": "greyfoxhat",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/greyfoxhat",
+      "description": "item.hats.greyfoxhat",
+      "count": 1
+    },
+    {
+      "id": "ladybug_on_head",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/ladybug_on_head",
+      "description": "item.hats.ladybug_on_head",
+      "count": 1
+    },
+    {
+      "id": "longfoxears",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/longfoxears",
+      "description": "item.hats.longfoxears",
+      "count": 1
+    },
+    {
+      "id": "nekoears",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/nekoears",
+      "description": "item.hats.nekoears",
+      "count": 1
+    },
+    {
+      "id": "penguinbaby",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/penguinbaby",
+      "description": "item.hats.penguinbaby",
+      "count": 1
+    },
+    {
+      "id": "penguinhat",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/penguinhat",
+      "description": "item.hats.penguinhat",
+      "count": 1
+    },
+    {
+      "id": "pighead",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/pighead",
+      "description": "item.hats.pighead",
+      "count": 1
+    },
+    {
+      "id": "rabbitears",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/rabbitears",
+      "description": "item.hats.rabbitears",
+      "count": 1
+    },
+    {
+      "id": "rabbitonhead",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/rabbitonhead",
+      "description": "item.hats.rabbitonhead",
+      "count": 1
+    },
+    {
+      "id": "sheep",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/sheep",
+      "description": "item.hats.sheep",
+      "count": 1
+    },
+    {
+      "id": "teddy_bear",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/teddy_bear",
+      "description": "item.hats.teddy_bear",
+      "count": 1
+    },
+    {
+      "id": "teddy_bear_bee",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/teddy_bear_bee",
+      "description": "item.hats.teddy_bear_bee",
+      "count": 1
+    },
+    {
+      "id": "teddy_bear_ken",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/teddy_bear_ken",
+      "description": "item.hats.teddy_bear_ken",
+      "count": 1
+    },
+    {
+      "id": "teddy_bear_panda",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/teddy_bear_panda",
+      "description": "item.hats.teddy_bear_panda",
+      "count": 1
+    },
+    {
+      "id": "teddy_bear_rembo",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/teddy_bear_rembo",
+      "description": "item.hats.teddy_bear_rembo",
+      "count": 1
+    },
+    {
+      "id": "teddy_bear_ryu",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/teddy_bear_ryu",
+      "description": "item.hats.teddy_bear_ryu",
+      "count": 1
+    },
+    {
+      "id": "teddy_bear_scary",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/teddy_bear_scary",
+      "description": "item.hats.teddy_bear_scary",
+      "count": 1
+    },
+    {
+      "id": "tick_on_head",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/tick_on_head",
+      "description": "item.hats.tick_on_head",
+      "count": 1
+    },
+    {
+      "id": "topcathat",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/topcathat",
+      "description": "item.hats.topcathat",
+      "count": 1
+    },
+    {
+      "id": "udder_hat",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/udder_hat",
+      "description": "item.hats.udder_hat",
+      "count": 1
+    },
+    {
+      "id": "worm_hat",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/worm_hat",
+      "description": "item.hats.worm_hat",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 2000
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "id": "supplies",
+          "title": "task.integrated_boogaloo.reward.supplies",
+          "rewards": [
+            {
+              "type": "item_pool",
+              "pool": "integrated_boogaloo:supplies_common",
+              "mode": "random"
+            }
+          ]
+        },
+        {
+          "id": "lucky",
+          "title": "task.integrated_boogaloo.reward.lucky",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "lucky:lucky_block",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "id": "titanium",
+          "title": "task.integrated_boogaloo.reward.titanium",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "antarchy:titanium_nugget",
+              "count": 9
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

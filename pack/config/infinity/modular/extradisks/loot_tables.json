@@ -1,0 +1,137 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "extradisks:blocks/1024k_item_storage_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "extradisks:blocks/1048576b_chemical_storage_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "extradisks:blocks/1048576b_fluid_storage_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "extradisks:blocks/1048576k_item_storage_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "extradisks:blocks/16384b_fluid_storage_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "extradisks:blocks/16384k_item_storage_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "extradisks:blocks/256k_item_storage_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "extradisks:blocks/262144b_chemical_storage_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "extradisks:blocks/262144b_fluid_storage_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "extradisks:blocks/262144k_item_storage_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "extradisks:blocks/4096k_item_storage_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "extradisks:blocks/65536b_chemical_storage_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "extradisks:blocks/65536b_fluid_storage_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "extradisks:blocks/65536k_item_storage_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "extradisks:blocks/8388608b_chemical_storage_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "extradisks:blocks/advanced_machine_casing",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "extradisks:blocks/infinite_chemical_storage_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "extradisks:blocks/infinite_fluid_storage_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "extradisks:blocks/infinite_item_storage_block",
+			"data": {
+				"Type": "block"
+			}
+		}
+	]
+}

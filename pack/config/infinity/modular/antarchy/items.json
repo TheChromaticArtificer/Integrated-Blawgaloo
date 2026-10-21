@@ -1,0 +1,1920 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "antarchy:amber_lichen"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:amber_moss_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:amber_moss_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:ant_trap"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:antigravel"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:antimetal"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:antimetal_activator_rail"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:antimetal_detector_rail"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:antimetal_powered_rail"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:antimetal_rail"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:antimetal_scaffolding"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:antimetal_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:antimetal_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:antiwater_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:attitude_adjuster"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:basilisk_dagger"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:basilisk_fang"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:battle_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:bed_bug_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:bile_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:bile_vein"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:biomite"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:biomite_turf"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:biowart"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:biowart_tendrils"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:black_truffalo_tuft"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:blood_crystal_apple"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:blood_crystal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:blood_crystal_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:blood_crystal_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:blood_crystal_cluster"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:blood_crystal_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:blood_crystal_katana"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:blood_crystal_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:blood_crystal_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:blood_gods_blade"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:blue_truffalo_tuft"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:bluestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:bluestone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:bluestone_comparator"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:bluestone_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:bluestone_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:bluestone_repeater"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:bluestone_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:blush_moss_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:blush_moss_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:broodfruit"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:broodfruit_cobbler"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:broodstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:broodstone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:broodstone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:broodstone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:broodstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:broodstone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:broodstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:broodstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:broodstone_titanium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:broodstone_uranium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:broodstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:brown_ant_nest"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:brown_truffalo_tuft"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:brutalfly_elytra"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:brutalfly_wing"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:budding_blood_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:bug_spray"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:camellia"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:cheep"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:cheep_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:chiseled_broodstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:chiseled_dream_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:chiseled_loam_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:chiseled_myrmite"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:chiseled_nyxite"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:chiseled_shellstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:chiseled_titanium"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:chiseled_typhonite"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:chiseled_uranium"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:chitin"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:chitin_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:chitin_spike"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:cloud_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:cooked_bug_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:cooked_cheep"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:cooked_corndog"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:cooked_venison"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:corn"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:corn_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:cornbread"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:cornea_ear"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:cracked_shellstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:crawling_blight_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:creepvine"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:critter_cage"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:cut_dream_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:cut_dream_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:cut_titanium"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:cut_titanium_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:cut_titanium_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:cut_uranium"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:cut_uranium_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:cut_uranium_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:cyan_truffalo_tuft"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:dead_star_coral"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:dead_star_coral_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:dead_star_coral_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:deepslate_titanium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:deepslate_uranium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:diamond_minecart"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:dream_campfire"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:dream_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:dream_sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:dream_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:dream_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:dream_sandstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:dream_sandstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:dream_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:duct_tape"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:duplicator_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:duplicator_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:duskbell"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:emperor_scorpion_stinger"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:eye_of_the_storm"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:flytrap_goo"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:flytrap_goo_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:giant_frying_pan"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:giant_lily_pad"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:glimmer_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:glimmering_reed"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:glowcap_mushroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:glowcap_mushroom_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:gorevine"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:gravity_gun"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:gray_truffalo_tuft"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:green_truffalo_tuft"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:growth_ray"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:hanging_creeproots"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:hercules_horn"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:high_fructose_corn_syrup"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:hoverboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:hoverboard_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:hoverboard_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:hoverboard_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:hoverboard_cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:hoverboard_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:hoverboard_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:hoverboard_light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:hoverboard_light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:hoverboard_lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:hoverboard_magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:hoverboard_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:hoverboard_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:hoverboard_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:hoverboard_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:hoverboard_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:hoverboard_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:hushweed"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:ichor_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:infested_coarse_dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:infested_rooted_dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:jerry_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:jerry_nucleus"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:kraken_kalamari"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:kraken_tentacle"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:kraken_tooth"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:krakens_grasp"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:large_blood_crystal_bud"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:large_nadir_fern"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:light_blue_truffalo_tuft"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:light_gray_truffalo_tuft"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:lime_truffalo_tuft"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:loam"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:loam_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:loam_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:loam_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:loam_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:lotus"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:lucid_anchor"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:lucid_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:lucid_pearl"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:lumen_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:lumen_froglight"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:magenta_truffalo_tuft"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:manticore_wing"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:manticore_wings"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:mantis_claw"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:medium_blood_crystal_bud"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:moggles"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:molevore_nose"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:moleworm"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:molting_vines"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:mossy_broodstone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:mossy_broodstone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:mossy_broodstone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:mossy_broodstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:mossy_myrmite_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:mossy_myrmite_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:mossy_myrmite_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:mossy_myrmite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:mossy_nyxite_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:mossy_nyxite_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:mossy_nyxite_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:mossy_nyxite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:mossy_ouranwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:mossy_ouranwood_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:mossy_shellstone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:mossy_shellstone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:mossy_shellstone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:mossy_shellstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:mucus"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:mud_pie"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:music_disc_grotesque"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:music_disc_underside"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:music_disc_verdance"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:myrmite"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:myrmite_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:myrmite_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:myrmite_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:myrmite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:myrmite_coal_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:myrmite_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:myrmite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:myrmite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:myrmite_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:nadir_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:nadir_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:nadir_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:nadir_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:nadir_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:nadir_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:nadir_fern"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:nadir_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:nadir_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:nadir_nyxium"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:nadir_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:nadir_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:nadir_roots"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:nadir_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:nadir_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:nadir_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:nadir_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:nadir_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:nadir_veil"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:nadir_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:nightmare_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:nightmare_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:nightmare_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:nightmare_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:nightmare_scale"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:nightmare_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:nyxite"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:nyxite_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:nyxite_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:nyxite_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:nyxite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:nyxite_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:nyxite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:nyxite_spike"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:nyxite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:nyxite_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:orange_milkweed"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:orange_truffalo_tuft"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:ouranwood_acorn"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:ouranwood_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:ouranwood_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:ouranwood_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:ouranwood_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:ouranwood_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:ouranwood_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:ouranwood_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:ouranwood_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:ouranwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:ouranwood_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:ouranwood_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:ouranwood_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:ouranwood_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:ouranwood_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:ouranwood_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:ouranwood_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:packed_loam"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:pale_nyxite"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:peach"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:peach_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:peach_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:peach_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:peach_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:peach_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:peach_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:peach_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:peach_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:peach_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:peach_pie"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:peach_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:peach_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:peach_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:peach_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:peach_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:peach_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:peach_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:peach_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:pink_milkweed"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:pink_truffalo_tuft"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:polished_antimetal"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:polished_antimetal_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:polished_antimetal_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:polished_broodstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:polished_broodstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:polished_broodstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:polished_broodstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:polished_myrmite"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:polished_myrmite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:polished_myrmite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:polished_myrmite_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:polished_nyxite"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:polished_nyxite_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:polished_nyxite_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:polished_nyxite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:polished_nyxite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:polished_nyxite_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:polished_shellstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:polished_shellstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:polished_shellstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:polished_shellstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:polished_typhonite"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:polished_typhonite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:polished_typhonite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:polished_typhonite_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:popcorn"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:portal_gun_atlas"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:portal_gun_craisin"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:portal_gun_laynce"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:portal_gun_p_body"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:potent_nyxite"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:primordial_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:primordial_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:primordial_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:primordial_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:primordial_scute"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:purple_truffalo_tuft"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:rainbow_ant_nest"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:rainbow_sugar"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:raw_bug_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:raw_corndog"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:raw_titanium"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:raw_titanium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:raw_titanium_scrap"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:raw_uranium"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:raw_uranium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:raw_uranium_scrap"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:raw_venison"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:red_ant_nest"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:red_truffalo_tuft"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:reverie_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:root_beer"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:roseate_froglight"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:royal_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:royal_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:royal_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:royal_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:royal_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:royal_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:royal_flowering_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:royal_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:royal_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:royal_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:royal_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:royal_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:royal_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:royal_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:royal_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:royal_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:royal_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:royal_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:rpo_launcher"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:scorpion_whip"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:seashell"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:shellstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:shellstone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:shellstone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:shellstone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:shellstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:shellstone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:shellstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:shellstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:shellstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:shrink_ray"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:small_blood_crystal_bud"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:smooth_dream_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:smooth_dream_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:smooth_dream_sandstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:spider_lily"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:spiraling_vines"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:spirit_apple"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:spit_bug_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:springbug_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:springbug_leg"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:springy_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:squidzooka"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:star_coral"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:star_coral_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:star_coral_fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:stink_bug"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:stratoshark_fin"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:stratoshark_fin_soup"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:stripped_nadir_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:stripped_nadir_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:stripped_ouranwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:stripped_ouranwood_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:stripped_peach_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:stripped_peach_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:stripped_royal_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:stripped_royal_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:stripped_truffalo_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:stripped_truffalo_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:temporal_tuner"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:termite_nest"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:tigers_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:tigers_eye_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:tigers_eye_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:tigers_eye_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:tigers_eye_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:tigers_eye_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:titanium_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:titanium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:titanium_bulb"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:titanium_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:titanium_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:titanium_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:titanium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:titanium_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:truffalo_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:truffalo_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:truffalo_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:truffalo_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:truffalo_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:truffalo_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:truffalo_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:truffalo_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:truffalo_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:truffalo_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:truffalo_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:truffalo_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:truffalo_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:truffalo_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:truffalo_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:truffalo_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:typhonite"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:typhonite_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:typhonite_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:typhonite_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:typhonite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:typhonite_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:typhonite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:typhonite_spike"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:typhonite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:typhonite_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:umbral_moss_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:umbral_moss_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:undervault"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:upper"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:uranium_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:uranium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:uranium_bulb"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:uranium_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:uranium_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:uranium_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:uranium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:uranium_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:veined_typhonite"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:verdant_nyxium"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:verdant_roots"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:vortex_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:vortex_lens"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:wasp_nest"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:water_cannon"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:whirlflower"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:white_truffalo_tuft"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:worm_hook"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:worm_tooth"
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:yellow_truffalo_tuft"
+		}
+	]
+}

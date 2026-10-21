@@ -1,0 +1,20 @@
+{
+  "title": "literal:Dragon Forge",
+  "variants": [
+    {
+      "id": "fire",
+      "title": "literal:Fire",
+      "display": "integrated_boogaloo:guide/dragon_forge_fire"
+    },
+    {
+      "id": "ice",
+      "title": "literal:Ice",
+      "display": "integrated_boogaloo:guide/dragon_forge_ice"
+    },
+    {
+      "id": "lightning",
+      "title": "literal:Lightning",
+      "display": "integrated_boogaloo:guide/dragon_forge_lightning"
+    }
+  ]
+}

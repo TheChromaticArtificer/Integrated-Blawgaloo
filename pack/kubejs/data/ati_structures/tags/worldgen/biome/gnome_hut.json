@@ -1,0 +1,37 @@
+{
+  "replace": true,
+  "values": [
+    {
+      "id": "#integrated_api:collections/dark_oak_forests",
+      "required": false
+    },
+    {
+      "id": "#integrated_api:collections/spooky_forests",
+      "required": false
+    },
+    {
+      "id": "#integrated_api:collections/jungles",
+      "required": false
+    },
+    {
+      "id": "#integrated_api:collections/bamboos",
+      "required": false
+    },
+    {
+      "id": "#integrated_api:collections/taigas",
+      "required": false
+    },
+    {
+      "id": "#integrated_api:collections/giant_taigas",
+      "required": false
+    },
+    {
+      "id": "#integrated_api:collections/swamps",
+      "required": false
+    },
+    {
+      "id": "#integrated_api:collections/mangroves",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "NUN",
+    "HMH",
+    "P7P"
+  ],
+  "key": {
+    "N": {
+      "item": "marvel:vibranium_nanites"
+    },
+    "U": {
+      "item": "oritech:unholy_intelligence"
+    },
+    "H": {
+      "item": "oritech:heisenberg_compensator"
+    },
+    "M": {
+      "item": "marvel:iron_man_mark_43_chestplate"
+    },
+    "P": {
+      "item": "oritech:plutonium_pellet"
+    },
+    "7": {
+      "item": "oritech:machine_core_7"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "integrated_superheroes:nano_gauntlet"
+  }
+}

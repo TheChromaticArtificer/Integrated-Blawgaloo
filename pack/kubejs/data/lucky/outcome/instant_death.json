@@ -1,0 +1,23 @@
+{
+  "type": "lucky:group",
+  "luck": -2,
+  "outcomes": [
+    {
+      "type": "lucky:difficulty",
+      "difficulty": "hard"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/kill @p"
+    },
+    {
+      "type": "lucky:message",
+      "message": {
+        "text": "DIE!!",
+        "bold": true
+      },
+      "overlay": true
+    }
+  ],
+  "chance": 1.0
+}

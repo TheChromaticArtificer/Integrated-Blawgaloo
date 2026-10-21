@@ -1,0 +1,20 @@
+{
+  "title": "literal:Pedestal structures",
+  "variants": [
+    {
+      "id": "basic",
+      "title": "literal:First structure",
+      "display": "integrated_boogaloo:guide/pedestal_build"
+    },
+    {
+      "id": "temple",
+      "title": "literal:Temple",
+      "display": "integrated_boogaloo:guide/pedestal_temple"
+    },
+    {
+      "id": "complex",
+      "title": "literal:Complex",
+      "display": "integrated_boogaloo:guide/pedestal_complex"
+    }
+  ]
+}

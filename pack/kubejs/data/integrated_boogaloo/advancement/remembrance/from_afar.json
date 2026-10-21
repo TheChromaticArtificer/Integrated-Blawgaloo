@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "manifested": {
+      "trigger": "pastel:memory_manifesting",
+      "conditions": {
+        "manifested_entity": {
+          "type": "#integrated_boogaloo:remembered_from_afar"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "manifested"
+    ]
+  ]
+}

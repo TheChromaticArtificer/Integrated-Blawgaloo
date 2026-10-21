@@ -1,0 +1,45 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.cybernetics_bench.title",
+  "description": "task.integrated_boogaloo.cybernetics_bench.description",
+  "showcase": [
+    "@item:createcybernetics:engineering_table",
+    "@recipe:createcybernetics:engineering_table"
+  ],
+  "icon": "createcybernetics:engineering_table",
+  "program": "integrated_boogaloo:cybernetics",
+  "category": "integrated_boogaloo:cybernetics",
+  "sort_order": 2,
+  "position": {
+    "x": 1,
+    "y": 1
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:cybernetics/scrap"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "createcybernetics:engineering_table",
+      "description": "task.integrated_boogaloo.cybernetics_bench.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "archive",
+      "entry": "integrated_boogaloo:cyber_harvester"
+    },
+    {
+      "type": "antcoins",
+      "amount": 50
+    },
+    {
+      "type": "archive",
+      "entry": "integrated_boogaloo:cyber_bench"
+    }
+  ],
+  "line_axis": "horizontal"
+}

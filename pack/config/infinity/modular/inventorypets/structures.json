@@ -1,0 +1,70 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "inventorypets:nether_dungeon",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "inventorypets:nether_dungeon"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:sea_cave",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "inventorypets:sea_cave"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:sky_dungeon",
+			"data": {
+				"step": "raw_generation",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "inventorypets:sky_dungeon"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:space_dungeon",
+			"data": {
+				"step": "raw_generation",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "inventorypets:space_dungeon"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:tree_top",
+			"data": {
+				"step": "raw_generation",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "inventorypets:tree_top"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "inventorypets:underground_dungeon",
+			"data": {
+				"step": "raw_generation",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "inventorypets:underground_dungeon"
+			}
+		}
+	]
+}

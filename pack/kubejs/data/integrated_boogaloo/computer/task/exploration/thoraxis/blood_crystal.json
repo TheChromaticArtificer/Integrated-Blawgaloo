@@ -1,0 +1,65 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.thoraxis_blood_crystal.title",
+  "description": "task.integrated_boogaloo.thoraxis_blood_crystal.description",
+  "showcase": [
+    "@recipe:antarchy:blood_crystal_katana"
+  ],
+  "icon": "antarchy:blood_crystal_shard",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:thoraxis",
+  "sort_order": 16,
+  "position": {
+    "x": 4,
+    "y": 2
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "integrated_boogaloo:dimension/blood_crystal",
+      "description": "task.integrated_boogaloo.thoraxis_blood_crystal.goal",
+      "count": 1
+    },
+    {
+      "id": "apple",
+      "type": "item",
+      "target": "antarchy:blood_crystal_apple",
+      "description": "task.integrated_boogaloo.thoraxis_blood_crystal.apple",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "katana",
+      "type": "item",
+      "target": "antarchy:blood_crystal_katana",
+      "description": "task.integrated_boogaloo.thoraxis_blood_crystal.katana",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "chest",
+      "type": "item",
+      "target": "antarchy:blood_crystal_chestplate",
+      "description": "task.integrated_boogaloo.thoraxis_blood_crystal.chest",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "item",
+      "item": "antarchy:blood_crystal_apple",
+      "count": 2
+    },
+    {
+      "type": "antcoins",
+      "amount": 20
+    },
+    {
+      "type": "archive",
+      "entry": "antarchy:bloodglass"
+    }
+  ]
+}

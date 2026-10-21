@@ -1,0 +1,30 @@
+{
+  "green_tint": false,
+  "type": "article",
+  "category": "general",
+  "folder": "integrated_boogaloo:workshop",
+  "sort_order": 80,
+  "title": "guide.integrated_boogaloo.entry.tech_accelerator.title",
+  "subtitle": "guide.integrated_boogaloo.entry.tech_accelerator.subtitle",
+  "cover_item": "oritech:accelerator_controller",
+  "lookup": [
+    "oritech:accelerator_ring",
+    "oritech:accelerator_motor",
+    "oritech:accelerator_sensor",
+    "oritech:particle_collector_block"
+  ],
+  "content": [
+    {
+      "text": "guide.integrated_boogaloo.entry.tech_accelerator.body_1"
+    },
+    {
+      "display": "integrated_boogaloo:guide/accelerator"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.tech_accelerator.body_2"
+    }
+  ],
+  "lookup_recipes": [
+    "oritech:particle_collision"
+  ]
+}

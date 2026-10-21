@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ancient_dried_spawn_eggs:blocks/ancient_dried_spawn_egg",
+			"data": {
+				"Type": "block"
+			}
+		}
+	]
+}

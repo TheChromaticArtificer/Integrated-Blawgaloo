@@ -1,0 +1,37 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.rifts_through_the_door.title",
+  "description": "task.integrated_boogaloo.rifts_through_the_door.description",
+  "showcase": [
+    "@recipe:dimdoors:item_ag_dim_minecraft_oak_door"
+  ],
+  "icon": "dimdoors:item_ag_dim_minecraft_oak_door",
+  "program": "integrated_boogaloo:big_boogaloo",
+  "category": "integrated_boogaloo:big_boogaloo",
+  "sort_order": 63,
+  "position": {
+    "x": 2,
+    "y": 4
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:rifts/loose_thread",
+    "integrated_boogaloo:exploration/thoraxis/lucid_pearl"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "dimdoors:dimdoors/dark_ostiology",
+      "description": "task.integrated_boogaloo.rifts_through_the_door.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 50
+    }
+  ],
+  "line_axis": "vertical"
+}

@@ -1,0 +1,95 @@
+{
+  "type": "quiz",
+  "title": "program.integrated_boogaloo.creature_feature.title",
+  "green_tint": false,
+  "questions_per_run": 5,
+  "reward_on": "perfect",
+  "questions": [
+    {
+      "question": "What happens if you look a Gorgon in the eye?",
+      "answers": [
+        "You turn to stone",
+        "You fall asleep",
+        "Nothing"
+      ],
+      "correct": 0,
+      "entity": "iceandfire:gorgon"
+    },
+    {
+      "question": "Which creature lures sailors in with a song?",
+      "answers": [
+        "Siren",
+        "Hippocampus",
+        "Sea Serpent"
+      ],
+      "correct": 0,
+      "entity": "iceandfire:siren"
+    },
+    {
+      "question": "What happens when you cut off a Hydra's head?",
+      "answers": [
+        "Two grow back",
+        "It explodes",
+        "It runs away"
+      ],
+      "correct": 0,
+      "entity": "iceandfire:hydra"
+    },
+    {
+      "question": "What do you feed a Hippogryph to tame it?",
+      "answers": [
+        "Rabbit's feet",
+        "Raw cod",
+        "Wheat"
+      ],
+      "correct": 0,
+      "entity": "iceandfire:hippogryph"
+    },
+    {
+      "question": "What does a Pixie do if you stop watching it?",
+      "answers": [
+        "Steals from you",
+        "Heals you",
+        "Explodes"
+      ],
+      "correct": 0,
+      "entity": "iceandfire:pixie"
+    },
+    {
+      "question": "What does a Death Worm like to hunt most?",
+      "answers": [
+        "Livestock",
+        "Fish",
+        "Other worms"
+      ],
+      "correct": 0,
+      "entity": "iceandfire:deathworm"
+    },
+    {
+      "question": "What does a Cyclops keep in its flock?",
+      "answers": [
+        "Sheep",
+        "Goats",
+        "Villagers"
+      ],
+      "correct": 0,
+      "entity": "iceandfire:cyclops"
+    },
+    {
+      "question": "How do you get a dragon of your own?",
+      "answers": [
+        "Hatch an egg",
+        "Tame a wild one",
+        "Buy one"
+      ],
+      "correct": 0
+    }
+  ],
+  "reward_limit": "once",
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 50
+    }
+  ]
+}

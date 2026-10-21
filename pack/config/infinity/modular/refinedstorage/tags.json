@@ -1,0 +1,92 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:storage_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:storage_blocks/chemical"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:storage_blocks/chemical/1048576b"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:storage_blocks/chemical/262144b"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:storage_blocks/chemical/65536b"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:storage_blocks/chemical/8388608b"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:storage_blocks/chemical/infinite"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:storage_blocks/fluids"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:storage_blocks/fluids/1048576b"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:storage_blocks/fluids/16384b"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:storage_blocks/fluids/262144b"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:storage_blocks/fluids/65536b"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:storage_blocks/fluids/infinite"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:storage_blocks/items"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:storage_blocks/items/1024k"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:storage_blocks/items/1048576k"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:storage_blocks/items/16384k"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:storage_blocks/items/256k"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:storage_blocks/items/262144k"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:storage_blocks/items/4096k"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:storage_blocks/items/65536k"
+		},
+		{
+			"weight": 1.0,
+			"key": "refinedstorage:storage_blocks/items/infinite"
+		}
+	]
+}

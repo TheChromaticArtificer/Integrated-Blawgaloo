@@ -1,0 +1,11 @@
+{
+  "item": "antarchy:emperor_scorpion_stinger",
+  "value": 50,
+  "limit": 32,
+  "limit_reset": "minecraft_day",
+  "green_tint": false,
+  "unlock_tasks": [
+    "integrated_boogaloo:exploration/thoraxis/emperor_scorpion"
+  ],
+  "unlock_mode": "any"
+}

@@ -1,0 +1,7 @@
+{
+  "green_tint": false,
+  "title": "task.category.integrated_boogaloo.hit_list_monsters",
+  "icon_entity": "mutantmonsters:mutant_zombie",
+  "sort_order": 10,
+  "group": "integrated_boogaloo:hit_list"
+}

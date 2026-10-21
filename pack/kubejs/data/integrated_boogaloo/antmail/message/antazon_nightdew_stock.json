@@ -1,0 +1,13 @@
+{
+  "sender": "freightgeist@antmail.com",
+  "sender_display": "Freightgeist",
+  "sender_avatar_item": "hats:halo",
+  "subject": "A rarer bloom.",
+  "body": "You found Nightdew, Artist.\n\nThere exists a rarer flower from the same vine. The Nectardew Burgeon holds much stronger sleep magic.\n\nI have opened the botanical stock to you through Antazon. If you have 1,500 AntCoins, you may purchase one bloom each day. Sprouts are available as well.\n\nSurplus specimens can be sold back through Antazon.",
+  "trigger": {
+    "delay_minutes": 3,
+    "type": "task_complete",
+    "value": "integrated_boogaloo:pastel_basics/nightdew"
+  },
+  "once": true
+}

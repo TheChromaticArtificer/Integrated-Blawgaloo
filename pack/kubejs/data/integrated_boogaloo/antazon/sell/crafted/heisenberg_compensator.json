@@ -1,0 +1,7 @@
+{
+  "item": "oritech:heisenberg_compensator",
+  "value": 1000,
+  "limit": 8,
+  "limit_reset": "minecraft_day",
+  "green_tint": false
+}

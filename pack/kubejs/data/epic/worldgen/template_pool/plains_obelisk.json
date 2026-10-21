@@ -1,0 +1,15 @@
+{
+  "name": "epic:epic_dungeon/plains_obelisk",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/plains_obelisk",
+        "location": "epic:epic_dungeon/plains_dungeon/plains_obelisk"
+      },
+      "weight": 1
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "spirit_apple": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "antarchy:spirit_apple"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "spirit_apple"
+    ]
+  ]
+}

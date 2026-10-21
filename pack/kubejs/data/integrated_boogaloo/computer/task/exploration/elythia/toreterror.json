@@ -1,0 +1,78 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.elythia_toreterror.title",
+  "description": "task.integrated_boogaloo.elythia_toreterror.description",
+  "showcase": [
+    "@recipe:antarchy:primordial_scute"
+  ],
+  "icon": "antarchy:primordial_scute",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:elythia",
+  "sort_order": 24,
+  "position": {
+    "x": 6,
+    "y": 4
+  },
+  "shape": "octagon",
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "antarchy:kill_toreterror",
+      "description": "task.integrated_boogaloo.elythia_toreterror.goal",
+      "count": 1
+    },
+    {
+      "id": "scute",
+      "type": "item",
+      "target": "antarchy:primordial_scute",
+      "description": "task.integrated_boogaloo.elythia_toreterror.scute",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "choice",
+      "options": [
+        {
+          "id": "coins",
+          "title": "task.integrated_boogaloo.reward.coins",
+          "rewards": [
+            {
+              "type": "antcoins",
+              "amount": 200
+            }
+          ]
+        },
+        {
+          "id": "rare",
+          "title": "task.integrated_boogaloo.reward.rare",
+          "rewards": [
+            {
+              "type": "item_pool",
+              "pool": "integrated_boogaloo:supplies_rare",
+              "mode": "random"
+            }
+          ]
+        },
+        {
+          "id": "lucky",
+          "title": "task.integrated_boogaloo.reward.lucky",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "lucky:lucky_block",
+              "count": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "archive",
+      "entry": "antarchy:toreterror_arena"
+    }
+  ]
+}

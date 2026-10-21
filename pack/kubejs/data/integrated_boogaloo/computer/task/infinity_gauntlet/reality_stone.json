@@ -1,0 +1,42 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.gauntlet_reality_stone.title",
+  "description": "task.integrated_boogaloo.gauntlet_reality_stone.description",
+  "showcase": [
+    "@recipe:integrated_superheroes:reality_stone"
+  ],
+  "icon": "integrated_superheroes:reality_stone",
+  "program": "integrated_boogaloo:big_boogaloo",
+  "category": "integrated_boogaloo:big_boogaloo",
+  "sort_order": 25,
+  "position": {
+    "x": 7,
+    "y": 4
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:big_bertha/big_bertha",
+    "integrated_boogaloo:rifts/limbo"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "integrated_boogaloo:gauntlet/has_reality_stone",
+      "description": "task.integrated_boogaloo.gauntlet_reality_stone.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "experience_levels",
+      "levels": 10
+    },
+    {
+      "type": "archive",
+      "entry": "integrated_boogaloo:stone_reality"
+    }
+  ],
+  "line_axis": "horizontal",
+  "line_bend": 0.13
+}

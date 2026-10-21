@@ -1,0 +1,379 @@
+{
+  "type": "lucky:group",
+  "luck": -2,
+  "chance": 0.6,
+  "outcomes": [
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} times 5 50 15"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} subtitle {\"text\": \"You're standing in a minefield\", \"color\": \"gold\"}"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} title {\"text\": \"Don't. Move.\", \"color\": \"red\", \"bold\": true}"
+    },
+    {
+      "type": "lucky:block",
+      "state_provider": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+          "Name": "securitycraft:mine"
+        }
+      },
+      "pos": {
+        "type": "lucky:heightmap",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "center": {
+          "type": "lucky:random_in_shape",
+          "center": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}"
+          ],
+          "shape": {
+            "type": "lucky:sphere",
+            "size": [
+              6,
+              1,
+              6
+            ],
+            "hollow": true
+          }
+        }
+      }
+    },
+    {
+      "type": "lucky:block",
+      "state_provider": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+          "Name": "securitycraft:stone_mine"
+        }
+      },
+      "pos": {
+        "type": "lucky:heightmap",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "center": {
+          "type": "lucky:random_in_shape",
+          "center": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}"
+          ],
+          "shape": {
+            "type": "lucky:sphere",
+            "size": [
+              6,
+              1,
+              6
+            ],
+            "hollow": true
+          }
+        }
+      }
+    },
+    {
+      "type": "lucky:block",
+      "state_provider": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+          "Name": "securitycraft:dirt_mine"
+        }
+      },
+      "pos": {
+        "type": "lucky:heightmap",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "center": {
+          "type": "lucky:random_in_shape",
+          "center": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}"
+          ],
+          "shape": {
+            "type": "lucky:sphere",
+            "size": [
+              6,
+              1,
+              6
+            ],
+            "hollow": true
+          }
+        }
+      }
+    },
+    {
+      "type": "lucky:block",
+      "state_provider": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+          "Name": "securitycraft:mine"
+        }
+      },
+      "pos": {
+        "type": "lucky:heightmap",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "center": {
+          "type": "lucky:random_in_shape",
+          "center": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}"
+          ],
+          "shape": {
+            "type": "lucky:sphere",
+            "size": [
+              6,
+              1,
+              6
+            ],
+            "hollow": true
+          }
+        }
+      }
+    },
+    {
+      "type": "lucky:block",
+      "state_provider": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+          "Name": "securitycraft:stone_mine"
+        }
+      },
+      "pos": {
+        "type": "lucky:heightmap",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "center": {
+          "type": "lucky:random_in_shape",
+          "center": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}"
+          ],
+          "shape": {
+            "type": "lucky:sphere",
+            "size": [
+              6,
+              1,
+              6
+            ],
+            "hollow": true
+          }
+        }
+      }
+    },
+    {
+      "type": "lucky:block",
+      "state_provider": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+          "Name": "securitycraft:dirt_mine"
+        }
+      },
+      "pos": {
+        "type": "lucky:heightmap",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "center": {
+          "type": "lucky:random_in_shape",
+          "center": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}"
+          ],
+          "shape": {
+            "type": "lucky:sphere",
+            "size": [
+              6,
+              1,
+              6
+            ],
+            "hollow": true
+          }
+        }
+      }
+    },
+    {
+      "type": "lucky:block",
+      "state_provider": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+          "Name": "securitycraft:mine"
+        }
+      },
+      "pos": {
+        "type": "lucky:heightmap",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "center": {
+          "type": "lucky:random_in_shape",
+          "center": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}"
+          ],
+          "shape": {
+            "type": "lucky:sphere",
+            "size": [
+              6,
+              1,
+              6
+            ],
+            "hollow": true
+          }
+        }
+      }
+    },
+    {
+      "type": "lucky:block",
+      "state_provider": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+          "Name": "securitycraft:stone_mine"
+        }
+      },
+      "pos": {
+        "type": "lucky:heightmap",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "center": {
+          "type": "lucky:random_in_shape",
+          "center": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}"
+          ],
+          "shape": {
+            "type": "lucky:sphere",
+            "size": [
+              6,
+              1,
+              6
+            ],
+            "hollow": true
+          }
+        }
+      }
+    },
+    {
+      "type": "lucky:block",
+      "state_provider": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+          "Name": "securitycraft:dirt_mine"
+        }
+      },
+      "pos": {
+        "type": "lucky:heightmap",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "center": {
+          "type": "lucky:random_in_shape",
+          "center": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}"
+          ],
+          "shape": {
+            "type": "lucky:sphere",
+            "size": [
+              6,
+              1,
+              6
+            ],
+            "hollow": true
+          }
+        }
+      }
+    },
+    {
+      "type": "lucky:block",
+      "state_provider": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+          "Name": "securitycraft:mine"
+        }
+      },
+      "pos": {
+        "type": "lucky:heightmap",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "center": {
+          "type": "lucky:random_in_shape",
+          "center": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}"
+          ],
+          "shape": {
+            "type": "lucky:sphere",
+            "size": [
+              6,
+              1,
+              6
+            ],
+            "hollow": true
+          }
+        }
+      }
+    },
+    {
+      "type": "lucky:block",
+      "state_provider": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+          "Name": "securitycraft:stone_mine"
+        }
+      },
+      "pos": {
+        "type": "lucky:heightmap",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "center": {
+          "type": "lucky:random_in_shape",
+          "center": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}"
+          ],
+          "shape": {
+            "type": "lucky:sphere",
+            "size": [
+              6,
+              1,
+              6
+            ],
+            "hollow": true
+          }
+        }
+      }
+    },
+    {
+      "type": "lucky:block",
+      "state_provider": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+          "Name": "securitycraft:dirt_mine"
+        }
+      },
+      "pos": {
+        "type": "lucky:heightmap",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "center": {
+          "type": "lucky:random_in_shape",
+          "center": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}"
+          ],
+          "shape": {
+            "type": "lucky:sphere",
+            "size": [
+              6,
+              1,
+              6
+            ],
+            "hollow": true
+          }
+        }
+      }
+    }
+  ]
+}

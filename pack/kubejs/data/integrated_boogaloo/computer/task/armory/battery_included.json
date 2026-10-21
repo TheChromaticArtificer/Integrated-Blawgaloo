@@ -1,0 +1,50 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.armory_battery_included.title",
+  "description": "task.integrated_boogaloo.armory_battery_included.description",
+  "showcase": [
+    "@recipe:scguns:energy_core"
+  ],
+  "icon": "scguns:energy_core",
+  "program": "integrated_boogaloo:armory",
+  "category": "integrated_boogaloo:armory",
+  "sort_order": 9,
+  "position": {
+    "x": 5,
+    "y": 0
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:armory/asgharian_steel"
+  ],
+  "objectives": [
+    {
+      "id": "core",
+      "type": "item",
+      "target": "scguns:energy_core",
+      "description": "task.integrated_boogaloo.armory_battery_included.core",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "musket",
+      "type": "item",
+      "target": "scguns:laser_musket",
+      "description": "task.integrated_boogaloo.armory_battery_included.musket",
+      "count": 1,
+      "sticky": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 120
+    },
+    {
+      "type": "item",
+      "item": "scguns:energy_core",
+      "count": 1
+    }
+  ],
+  "line_axis": "horizontal"
+}

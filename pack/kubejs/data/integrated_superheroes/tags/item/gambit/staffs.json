@@ -1,0 +1,165 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "alexscaves:candy_cane_hook",
+      "required": false
+    },
+    {
+      "id": "alexscaves:extinction_spear",
+      "required": false
+    },
+    {
+      "id": "alexscaves:limestone_spear",
+      "required": false
+    },
+    {
+      "id": "alexscaves:ortholance",
+      "required": false
+    },
+    {
+      "id": "alexscaves:sharpened_candy_cane",
+      "required": false
+    },
+    {
+      "id": "antarchy:scorpion_whip",
+      "required": false
+    },
+    {
+      "id": "antarchy:worm_hook",
+      "required": false
+    },
+    {
+      "id": "dimdoors:mask_wand",
+      "required": false
+    },
+    {
+      "id": "hats:candycane",
+      "required": false
+    },
+    {
+      "id": "hats:carrotonstick",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragon_stick",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonbone",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dread_queen_staff",
+      "required": false
+    },
+    {
+      "id": "iceandfire:fishing_spear",
+      "required": false
+    },
+    {
+      "id": "iceandfire:lich_staff",
+      "required": false
+    },
+    {
+      "id": "iceandfire:pixie_wand",
+      "required": false
+    },
+    {
+      "id": "netherexp:banshee_rod",
+      "required": false
+    },
+    {
+      "id": "netherexp:skull_on_a_stick",
+      "required": false
+    },
+    {
+      "id": "pastel:constructors_staff",
+      "required": false
+    },
+    {
+      "id": "pastel:exchanging_staff",
+      "required": false
+    },
+    {
+      "id": "pastel:glass_crest_workstaff",
+      "required": false
+    },
+    {
+      "id": "pastel:malachite_workstaff",
+      "required": false
+    },
+    {
+      "id": "pastel:natures_staff",
+      "required": false
+    },
+    {
+      "id": "pastel:nectar_lance",
+      "required": false
+    },
+    {
+      "id": "pastel:radiance_staff",
+      "required": false
+    },
+    {
+      "id": "scguns:bomb_lance",
+      "required": false
+    },
+    {
+      "id": "scguns:iron_javelin",
+      "required": false
+    },
+    {
+      "id": "scguns:iron_spear",
+      "required": false
+    },
+    {
+      "id": "minecraft:wooden_spear",
+      "required": false
+    },
+    {
+      "id": "minecraft:stone_spear",
+      "required": false
+    },
+    {
+      "id": "minecraft:copper_spear",
+      "required": false
+    },
+    {
+      "id": "minecraft:iron_spear",
+      "required": false
+    },
+    {
+      "id": "minecraft:golden_spear",
+      "required": false
+    },
+    {
+      "id": "minecraft:diamond_spear",
+      "required": false
+    },
+    {
+      "id": "minecraft:netherite_spear",
+      "required": false
+    },
+    {
+      "id": "wan_ancient_beasts:ancient_club",
+      "required": false
+    },
+    {
+      "id": "witchery:broom",
+      "required": false
+    },
+    {
+      "id": "witchery:cane_sword",
+      "required": false
+    },
+    {
+      "id": "witchery:ent_twig",
+      "required": false
+    },
+    {
+      "id": "witchery:huntsman_spear",
+      "required": false
+    }
+  ]
+}

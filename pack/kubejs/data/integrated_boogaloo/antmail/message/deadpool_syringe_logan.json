@@ -1,0 +1,17 @@
+{
+  "sender": "deadpool@antmail.com",
+  "sender_display": "Deadpool",
+  "sender_avatar_item": "marvel:deadpool_helmet",
+  "subject": "He hasnt picked up",
+  "body": "I called Logan to tell him theres a syringe of him now. He didnt pick up. He hasnt picked up in years, I still call though, thats what friends do. Anyway inject it and you'll start calling people bub and wanting to be left alone.",
+  "trigger": {
+    "type": "advancement",
+    "value": "integrated_boogaloo:deadpool/syringe_logan",
+    "delay_minutes": 3
+  },
+  "conditions": {
+    "mail_read": [
+      "integrated_boogaloo:deadpool_intro"
+    ]
+  }
+}

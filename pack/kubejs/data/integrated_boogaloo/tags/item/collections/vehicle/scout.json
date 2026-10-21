@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "mts:mtsofficialpack.scout_blue",
+    "mts:mtsofficialpack.scout_yellow",
+    "mts:mtsofficialpack.scout_white",
+    "mts:mtsofficialpack.scout_red",
+    "mts:mtsofficialpack.scout_olive",
+    "mts:mtsofficialpack.scout_black",
+    "mts:mtsofficialpack.scout_gray",
+    "mts:mtsofficialpack.scout_gold",
+    "mts:mtsofficialpack.scout_tan",
+    "mts:mtsofficialpack.scout_orange",
+    "mts:mtsofficialpack.scout_brown",
+    "mts:mtsofficialpack.scout_yellowwhite",
+    "mts:mtsofficialpack.scout_seagreen",
+    "mts:mtsofficialpack.scout_maroon"
+  ]
+}

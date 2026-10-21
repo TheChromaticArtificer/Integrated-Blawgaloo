@@ -1,0 +1,38 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.storage_every_node.title",
+  "description": "task.integrated_boogaloo.storage_every_node.description",
+  "showcase": [
+    "@item:pastel:provider_node",
+    "@item:pastel:gather_node",
+    "@item:pastel:buffer_node"
+  ],
+  "icon": "pastel:gather_node",
+  "program": "integrated_boogaloo:storage",
+  "category": "integrated_boogaloo:storage",
+  "sort_order": 304,
+  "position": {
+    "x": 3,
+    "y": 7
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:storage/node_network"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "pastel:midgame/create_pastel_network_using_every_node_type",
+      "description": "task.integrated_boogaloo.storage_every_node.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 100
+    }
+  ],
+  "line_axis": "horizontal"
+}

@@ -1,0 +1,88 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:brood_temples",
+			"data": {
+				"Color": -5331926
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:cavaryn_forlorn_hollows",
+			"data": {
+				"Color": -7887298
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:cavaryn_toxic_caves",
+			"data": {
+				"Color": -9001394
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:dread_barrens",
+			"data": {
+				"Color": -5331926
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:elythia_candy_surface",
+			"data": {
+				"Color": 15877048
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:elythia_ginkgo_grove",
+			"data": {
+				"Color": 2867501
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:elythia_primordial_surface",
+			"data": {
+				"Color": 10601538
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:elythia_prismatic_grove",
+			"data": {
+				"Color": 2867501
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:neomorph_blight",
+			"data": {
+				"Color": -5331926
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:resinous_barrens",
+			"data": {
+				"Color": -5331926
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:thoraxis_magnetic_caves",
+			"data": {
+				"Color": -8935357
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:xenomorph_hive",
+			"data": {
+				"Color": -5331926
+			}
+		}
+	]
+}

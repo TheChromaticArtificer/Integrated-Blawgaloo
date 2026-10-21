@@ -1,0 +1,39 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.body_shop_first_sync.title",
+  "description": "task.integrated_boogaloo.body_shop_first_sync.description",
+  "icon": "neosync:sync_core",
+  "program": "integrated_boogaloo:cybernetics",
+  "category": "integrated_boogaloo:cybernetics",
+  "sort_order": 15,
+  "position": {
+    "x": 3,
+    "y": 3
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:body_shop/storage"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "neosync:main/first_sync",
+      "description": "task.integrated_boogaloo.body_shop_first_sync.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 150
+    },
+    {
+      "type": "item",
+      "item": "lucky:lucky_block",
+      "count": 1
+    }
+  ],
+  "line_axis": "horizontal",
+  "showcase": []
+}

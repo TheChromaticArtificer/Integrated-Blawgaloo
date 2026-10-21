@@ -1,0 +1,22 @@
+{
+  "type": "pastel:fusion_shrine",
+  "time": 200,
+  "experience": 2.0,
+  "fluid": {
+    "fluid": "pastel:liquid_crystal"
+  },
+  "ingredients": [
+    "pastel:nephrite_blossom_bulb",
+    "pastel:jadeite_lotus_bulb",
+    {
+      "item": "pastel:vegetal",
+      "count": 8
+    }
+  ],
+  "result": {
+    "id": "pastel:germinated_jade_vine_bulb"
+  },
+  "start_crafting_effect": "nothing",
+  "during_crafting_effects": [],
+  "finish_crafting_effect": "single_visual_explosion_on_shrine"
+}

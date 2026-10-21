@@ -1,0 +1,18 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "boogaloo_core:herobrine",
+			"data": {
+				"Category": "monster"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "boogaloo_core:herobrine_doppelganger",
+			"data": {
+				"Category": "monster"
+			}
+		}
+	]
+}

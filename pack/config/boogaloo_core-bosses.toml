@@ -1,0 +1,19 @@
+[damage_budget]
+	#Most health each boss can lose per window, after armor and every damage multiplier. Format: entity_id=amount
+	budgets = ["antarchy:king=100", "antarchy:queen=100", "antarchy:kraken=70", "bda:red_death=85", "dog:devourer_head=150", "boogaloo_core:herobrine=150"]
+	#Length of the rolling window in ticks.
+	# Default: 20
+	# Range: 1 ~ 1200
+	window_ticks = 20
+	#Budget increase for each extra player near the boss.
+	# Default: 0.35
+	# Range: 0.0 ~ 10.0
+	per_extra_player = 0.35
+	#Player count the budget stops scaling at.
+	# Default: 4
+	# Range: 1 ~ 64
+	max_scaled_players = 4
+	#Radius in blocks used to count players near the boss.
+	# Default: 64.0
+	# Range: 1.0 ~ 512.0
+	player_range = 64.0

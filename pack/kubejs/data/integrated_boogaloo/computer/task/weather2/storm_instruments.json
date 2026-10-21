@@ -1,0 +1,52 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.weather2_storm_instruments.title",
+  "description": "task.integrated_boogaloo.weather2_storm_instruments.description",
+  "showcase": [
+    "@item:weather2:weather_forecast",
+    "@recipe:weather2:weather_forecast"
+  ],
+  "icon": "weather2:weather_forecast",
+  "program": "integrated_boogaloo:start_here",
+  "category": "integrated_boogaloo:start_here",
+  "sort_order": 20,
+  "position": {
+    "x": -2,
+    "y": 0
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:weather2/first_tornado"
+  ],
+  "hide_until_dependencies_complete": true,
+  "objectives": [
+    {
+      "id": "forecast",
+      "type": "item",
+      "target": "weather2:weather_forecast",
+      "description": "task.integrated_boogaloo.weather2_storm_instruments.forecast",
+      "count": 1
+    },
+    {
+      "id": "sensor",
+      "type": "item",
+      "target": "weather2:tornado_sensor",
+      "description": "task.integrated_boogaloo.weather2_storm_instruments.sensor",
+      "count": 1
+    },
+    {
+      "id": "siren",
+      "type": "item",
+      "target": "weather2:tornado_siren",
+      "description": "task.integrated_boogaloo.weather2_storm_instruments.siren",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "experience_levels",
+      "levels": 3
+    }
+  ],
+  "line_axis": "horizontal"
+}

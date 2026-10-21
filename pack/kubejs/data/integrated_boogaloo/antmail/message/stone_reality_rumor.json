@@ -1,0 +1,11 @@
+{
+  "sender": "trayaurus@antmail.com",
+  "sender_avatar_item": "antarchy:diamond_minecart",
+  "subject": "The Reality Stone",
+  "body": "Someone keeps leaving the same note in the book, in different handwriting each time: throw the light upward while you fall.\n\nI think I've worked it out. Fall out of the bottom of a pocket room behind a dimensional door and you end up in Limbo. Once you're there, throw a Lucid Pearl while you're falling. It won't land, and you'll keep going down. The Reality Stone is at the bottom.\n\nI have no idea what awaits you afterward. But I am ever so curious.\n\nYour old friend,\nDr. T",
+  "trigger": {
+    "delay_minutes": 3,
+    "type": "advancement",
+    "value": "integrated_boogaloo:gauntlet/has_lucid_pearl"
+  }
+}

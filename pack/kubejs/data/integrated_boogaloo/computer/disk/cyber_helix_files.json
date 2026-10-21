@@ -1,0 +1,19 @@
+{
+  "category": "integrated_boogaloo:recovered",
+  "title": "guide.integrated_boogaloo.disk.cyber_helix_files.title",
+  "description": "guide.integrated_boogaloo.disk.cyber_helix_files.description",
+  "files": [
+    {
+      "path": "memorandum.txt",
+      "source": "integrated_boogaloo:cyberware/memorandum.txt"
+    },
+    {
+      "path": "corrupted_1_of_4.txt",
+      "source": "integrated_boogaloo:cyberware/corrupted_1_of_4.txt"
+    }
+  ],
+  "entries": [
+    "integrated_boogaloo:cyber_cpu_paper",
+    "integrated_boogaloo:cyber_old_dog"
+  ]
+}

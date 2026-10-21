@@ -1,0 +1,316 @@
+{
+  "type": "lucky:random",
+  "luck": 2,
+  "outcomes": [
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_ghast"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_creeper"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_enderman"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_iron_golem"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_snow_golem"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_spider"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_magma_cube"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_sheep"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_cow"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_chicken"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_pig"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_squid"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_ocelot"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_furnace"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_enchanting_table"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_crafting_table"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_chest"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_sated_chest"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_double_chest"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_sated_double_chest"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_bed"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_jukebox"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_anvil"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_brewing_stand"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_nether_portal"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_end_portal"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_pingot"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_mickerson"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_purplicious_cow"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_qcm"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_shield"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_moon"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_heart"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_dubstep"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_sponge"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_banana"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_blaze"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_mooshroom"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_loot"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_juggernaut"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_dingot"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_illuminati"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_pacman"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_quiver"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_april_fool"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_cheetah"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_house"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_silverfish"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_wolf"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_apple"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_apple"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_torch"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_siamese"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_biome"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_lead"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_saddle"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_flying_saddle"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_pixie"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_dirt"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_cobblestone"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_meta"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_meta_fan"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_meta_aoe"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_meta_peaceful"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_meta_100"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_meta_75"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_meta_50"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_meta_25"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_meta_utility"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_meta_mob"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_meta_youtuber"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_meta_special"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_christmas_tree"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_menorah"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_mishumaa_saba"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_politically_correct"
+    },
+    {
+      "type": "lucky:item",
+      "item": "inventorypets:pet_illuminati",
+      "weight": 1
+    }
+  ],
+  "chance": 2.0
+}

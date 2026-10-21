@@ -1,0 +1,18 @@
+{
+	"elements": [
+		{
+			"weight": 2.0,
+			"key": "minecraft:lava",
+			"data": {
+				"fluidName": "minecraft:lava"
+			}
+		},
+		{
+			"weight": 5.0,
+			"key": "minecraft:water",
+			"data": {
+				"fluidName": "minecraft:water"
+			}
+		}
+	]
+}

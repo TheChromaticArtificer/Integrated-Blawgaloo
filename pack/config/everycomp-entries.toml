@@ -1,0 +1,198 @@
+		[types.wood_type.netherexp]
+			claret = true
+
+		[types.wood_type.pastel]
+			black = true
+			blue = true
+			brown = true
+			cyan = true
+			gray = true
+			green = true
+			light_blue = true
+			light_gray = true
+			lime = true
+			magenta = true
+			orange = true
+			pink = true
+			purple = true
+			red = true
+			white = true
+			yellow = true
+			weeping_gala = true
+
+		[types.wood_type.iceandfire]
+			dreadwood = true
+
+		[types.wood_type.antarchy]
+			ouranwood = true
+			peach = true
+			nadir = true
+			royal = true
+			truffalo = true
+
+		[types.wood_type.dimdoors]
+			driftwood = true
+
+		[types.wood_type.witchery]
+			rowan = true
+			alder = true
+			hawthorn = true
+
+		[types.wood_type.minecraft]
+			pale_oak = true
+			poplar = true
+
+		[types.wood_type.alexscaves]
+			pewen = true
+			thornwood = true
+
+		[types.wood_type.abyssal_decor]
+			white_wood = true
+			blackwood = true
+			cinnamon = true
+
+		[types.wood_type.wan_ancient_beasts]
+			ginkgo = true
+
+		[types.wood_type.natures_spirit]
+			redwood = true
+			sugi = true
+			wisteria = true
+			fir = true
+			willow = true
+			aspen = true
+			maple = true
+			cypress = true
+			olive = true
+			joshua = true
+			ghaf = true
+			palo_verde = true
+			coconut = true
+			cedar = true
+			larch = true
+			mahogany = true
+			saxaul = true
+
+		[types.wood_type.ad_astra]
+			aeronos = true
+			strophar = true
+			glacian = true
+
+		[types.leaves_type.pastel]
+			weeping_gala = true
+			nephrite_blossom = true
+			spirit_sallow = true
+			black = true
+			blue = true
+			brown = true
+			cyan = true
+			gray = true
+			green = true
+			light_blue = true
+			light_gray = true
+			lime = true
+			magenta = true
+			orange = true
+			pink = true
+			purple = true
+			red = true
+			white = true
+			yellow = true
+
+		[types.leaves_type.iceandfire]
+			dreadwood = true
+
+		[types.leaves_type.antarchy]
+			ouranwood = true
+			peach = true
+			royal = true
+			royal_flowering = true
+
+		[types.leaves_type.dimdoors]
+			driftwood = true
+
+		[types.leaves_type.witchery]
+			rowan = true
+			rowan_berry = true
+			alder = true
+			hawthorn = true
+
+		[types.leaves_type.minecraft]
+			pale_oak = true
+			red_poplar = true
+			orange_poplar = true
+			yellow_poplar = true
+
+		[types.leaves_type.alexscaves]
+			ancient = true
+
+		[types.leaves_type.abyssal_decor]
+			cinnamon = true
+			flowering_cinnamon = true
+
+		[types.leaves_type.wan_ancient_beasts]
+			amber_ginkgo = true
+			verdant_ginkgo = true
+
+		[types.leaves_type.natures_spirit]
+			frosty_redwood = true
+			redwood = true
+			sugi = true
+			wisteria = true
+			white_wisteria = true
+			part_white_wisteria = true
+			blue_wisteria = true
+			part_blue_wisteria = true
+			pink_wisteria = true
+			part_pink_wisteria = true
+			purple_wisteria = true
+			part_purple_wisteria = true
+			frosty_fir = true
+			fir = true
+			willow = true
+			aspen = true
+			yellow_aspen = true
+			red_maple = true
+			orange_maple = true
+			yellow_maple = true
+			cypress = true
+			olive = true
+			joshua = true
+			ghaf = true
+			palo_verde = true
+			coconut = true
+			cedar = true
+			larch = true
+			mahogany = true
+			saxaul = true
+
+		[types.leaves_type.ad_astra]
+			glacian = true
+
+		[entries.wood_type.refurbished_furniture]
+			cutting_board = true
+			drawer = true
+			storage_cabinet = true
+			table = true
+			mail_box = true
+			dark_ceiling_fan = true
+			kitchen_sink = true
+			toilet = true
+			storage_jar = true
+			lattice_fence = true
+			basin = true
+			kitchen_drawer = true
+			lattice_fence_gate = true
+			kitchen_cabinetry = true
+			bath = true
+			crate = true
+			desk = true
+			chair = true
+			light_ceiling_fan = true
+			kitchen_storage_cabinet = true
+
+		[entries.wood_type.vanillabackport]
+			shelf = true
+
+		[entries.leaves_type.refurbished_furniture]
+			hedge = true

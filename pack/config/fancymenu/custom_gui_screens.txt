@@ -1,0 +1,59 @@
+type = custom_gui_screens
+
+overridden_screens {
+}
+
+custom_gui {
+  identifier = questing
+  title = 
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = false
+  pause_game = true
+}
+
+custom_gui {
+  identifier = credits
+  title = 
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+
+custom_gui {
+  identifier = welcomescreen_update
+  title = 
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = false
+  pause_game = true
+}
+
+custom_gui {
+  identifier = welcomescreen_welcome
+  title = 
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = false
+  pause_game = true
+}
+
+custom_gui {
+  identifier = faq
+  title = 
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+
+custom_gui {
+  identifier = about
+  title = 
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+

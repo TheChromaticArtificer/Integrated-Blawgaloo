@@ -1,0 +1,12 @@
+{
+  "template": "integrated_boogaloo:guide/templates/serum",
+  "recipe_binding": {
+    "recipe": "kubejs:oritech/particle_collision/syringe_binary_carol_danvers",
+    "adapter": "boogaloo_core:oritech"
+  },
+  "values": {
+    "title": "literal:Serum recipe",
+    "station_item": "oritech:accelerator_controller",
+    "where": "literal:Only forms in a particle collision"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "minecraft:village/plains/terminators/terminator_01",
+        "processors": "integrated_boogaloo:structures/village/savanna/street_savanna",
+        "projection": "terrain_matching"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "minecraft:village/plains/terminators/terminator_02",
+        "processors": "integrated_boogaloo:structures/village/savanna/street_savanna",
+        "projection": "terrain_matching"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "minecraft:village/plains/terminators/terminator_03",
+        "processors": "integrated_boogaloo:structures/village/savanna/street_savanna",
+        "projection": "terrain_matching"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "minecraft:village/plains/terminators/terminator_04",
+        "processors": "integrated_boogaloo:structures/village/savanna/street_savanna",
+        "projection": "terrain_matching"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "minecraft:village/savanna/zombie/terminators/terminator_05",
+        "processors": "integrated_boogaloo:structures/village/savanna/street_savanna",
+        "projection": "terrain_matching"
+      },
+      "weight": 1
+    }
+  ],
+  "fallback": "minecraft:empty"
+}

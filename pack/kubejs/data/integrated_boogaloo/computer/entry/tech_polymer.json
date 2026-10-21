@@ -1,0 +1,34 @@
+{
+  "green_tint": false,
+  "type": "article",
+  "category": "general",
+  "folder": "integrated_boogaloo:workshop",
+  "sort_order": 20,
+  "title": "guide.integrated_boogaloo.entry.tech_polymer.title",
+  "subtitle": "guide.integrated_boogaloo.entry.tech_polymer.subtitle",
+  "cover_item": "alexscaves:polymer_plate",
+  "lookup": [
+    "oritech:refinery_block",
+    "oritech:refinery_module_block",
+    "oritech:polymer_resin",
+    "oritech:silicon",
+    "oritech:still_oil_bucket",
+    "oritech:still_naphtha_bucket",
+    "alexscaves:radon_bottle",
+    "alexscaves:sulfur_dust"
+  ],
+  "content": [
+    {
+      "text": "guide.integrated_boogaloo.entry.tech_polymer.body_1"
+    },
+    {
+      "display": "integrated_boogaloo:guide/polymer_chain"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.tech_polymer.body_2"
+    }
+  ],
+  "lookup_recipes": [
+    "oritech:refinery"
+  ]
+}

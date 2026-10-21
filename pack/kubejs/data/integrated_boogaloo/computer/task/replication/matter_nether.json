@@ -1,0 +1,37 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.replication_matter_nether.title",
+  "description": "task.integrated_boogaloo.replication_matter_nether.description",
+  "showcase": [
+    "@item:minecraft:netherrack"
+  ],
+  "icon": "minecraft:netherrack",
+  "program": "integrated_boogaloo:replication",
+  "category": "integrated_boogaloo:replication",
+  "sort_order": 13,
+  "position": {
+    "x": 3,
+    "y": -2
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:replication/disintegrator"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "minecraft:netherrack",
+      "description": "task.integrated_boogaloo.replication_matter_nether.goal",
+      "count": 1,
+      "sticky": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 10
+    }
+  ],
+  "line_axis": "horizontal"
+}

@@ -1,0 +1,48 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "iceandfire:graveyard",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "iceandfire:graveyard"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "iceandfire:mausoleum",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "iceandfire:mausoleum"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "iceandfire:pixie_village",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "iceandfire:pixie_village"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "iceandfire:siren_island",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "iceandfire:siren_island"
+			}
+		}
+	]
+}

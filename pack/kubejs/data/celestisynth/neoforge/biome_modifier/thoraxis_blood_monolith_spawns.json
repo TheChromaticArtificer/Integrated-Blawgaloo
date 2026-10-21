@@ -1,0 +1,19 @@
+{
+  "type": "neoforge:add_spawns",
+  "spawners": [
+    {
+      "minCount": 1,
+      "type": "celestisynth:star_monolith",
+      "weight": 2,
+      "maxCount": 1
+    }
+  ],
+  "biomes": [
+    "antarchy:cloud_sea",
+    "antarchy:dream_dunes",
+    "antarchy:lucid_pools",
+    "antarchy:nightmare_wastes",
+    "antarchy:umbral_hills",
+    "integrated_boogaloo:thoraxis_magnetic_caves"
+  ]
+}

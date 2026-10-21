@@ -1,0 +1,7 @@
+{
+  "enableCustomCamera": false,
+  "cameraOffsetX": -0.755,
+  "cameraOffsetY": 0.135,
+  "cameraOffsetZ": 1.025,
+  "enableThirdPersonCrosshair": false
+}

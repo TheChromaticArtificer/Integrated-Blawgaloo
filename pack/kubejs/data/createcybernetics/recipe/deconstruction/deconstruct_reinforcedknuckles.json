@@ -1,0 +1,21 @@
+{
+  "type": "createcybernetics:engineering_deconstruct",
+  "inputs": [
+    {
+      "item": "createcybernetics:armupgrades_reinforcedknuckles"
+    },
+    {
+      "item": "createcybernetics:scavenged_reinforcedknuckles"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "antarchy:titanium_nugget",
+      "count": 46
+    },
+    {
+      "id": "createcybernetics:component_synthnerves",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "lucky:group",
+  "luck": 2,
+  "chance": 0.6,
+  "outcomes": [
+    {
+      "type": "lucky:message",
+      "message": {
+        "text": "A dragon egg! Keep it warm...",
+        "color": "gold",
+        "bold": true
+      },
+      "overlay": true
+    },
+    {
+      "type": "lucky:random",
+      "outcomes": [
+        {
+          "type": "lucky:group",
+          "outcomes": [
+            {
+              "type": "lucky:item",
+              "item": "iceandfire:dragonegg_red"
+            },
+            {
+              "type": "lucky:particle",
+              "particle": {
+                "type": "minecraft:flame"
+              },
+              "count": 60
+            }
+          ]
+        },
+        {
+          "type": "lucky:group",
+          "outcomes": [
+            {
+              "type": "lucky:item",
+              "item": "iceandfire:dragonegg_blue"
+            },
+            {
+              "type": "lucky:particle",
+              "particle": {
+                "type": "minecraft:snowflake"
+              },
+              "count": 60
+            }
+          ]
+        },
+        {
+          "type": "lucky:group",
+          "outcomes": [
+            {
+              "type": "lucky:item",
+              "item": "iceandfire:dragonegg_electric"
+            },
+            {
+              "type": "lucky:particle",
+              "particle": {
+                "type": "minecraft:electric_spark"
+              },
+              "count": 60
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

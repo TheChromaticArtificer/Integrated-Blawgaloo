@@ -1,0 +1,40 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.hit_list_dragonsteel.title",
+  "description": "task.integrated_boogaloo.hit_list_dragonsteel.description",
+  "showcase": [
+    "@entity:iceandfire:fire_dragon"
+  ],
+  "icon": "iceandfire:dragonsteel_fire_ingot",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:dragon_academy",
+  "sort_order": 338,
+  "position": {
+    "x": 6,
+    "y": 2
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:hit_list/light_the_forge"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item_tag",
+      "target": "integrated_boogaloo:dragonsteel_ingots",
+      "description": "task.integrated_boogaloo.hit_list_dragonsteel.goal",
+      "count": 1,
+      "sticky": true
+    }
+  ],
+  "archive_entries": [
+    "integrated_boogaloo:iaf_dragon_gear"
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 400
+    }
+  ],
+  "line_axis": "horizontal"
+}

@@ -1,0 +1,34 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.body_shop_storage.title",
+  "description": "task.integrated_boogaloo.body_shop_storage.description",
+  "icon": "neosync:shell_storage",
+  "program": "integrated_boogaloo:cybernetics",
+  "category": "integrated_boogaloo:cybernetics",
+  "sort_order": 14,
+  "position": {
+    "x": 2,
+    "y": 3
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:body_shop/constructor"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "neosync:main/place_storage",
+      "description": "task.integrated_boogaloo.body_shop_storage.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 100
+    }
+  ],
+  "line_axis": "horizontal",
+  "showcase": []
+}

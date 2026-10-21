@@ -1,0 +1,10 @@
+{
+  "type": {
+    "type": "databank:item",
+    "hidden_as": "minecraft:oak_leaves",
+    "original": "pastel:orange_leaves"
+  },
+  "condition": {
+    "type": "databank:always_true"
+  }
+}

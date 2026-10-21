@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:command",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pastel:lesser_potion_pendant",
+          "functions": [
+            {
+              "function": "pastel:fill_potion_fillable",
+              "ambient": true,
+              "show_particles": false,
+              "duration": 3600,
+              "status_effect": [
+                "minecraft:haste"
+              ],
+              "color": -1,
+              "amplifier": 1,
+              "ink_color": [
+                "pastel:magenta"
+              ],
+              "ink_cost": 4
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

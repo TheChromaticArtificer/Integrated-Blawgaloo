@@ -1,0 +1,5 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"pastel:bottle_of_ruin"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"pastel:bottle_of_decay_away"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

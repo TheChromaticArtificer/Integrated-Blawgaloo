@@ -1,0 +1,36 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.pastel_suspicious_brew.title",
+  "description": "task.integrated_boogaloo.pastel_suspicious_brew.description",
+  "showcase": [
+    "@item:pastel:suspicious_brew"
+  ],
+  "icon": "pastel:suspicious_brew",
+  "program": "integrated_boogaloo:world_of_color",
+  "category": "integrated_boogaloo:world_of_color",
+  "sort_order": 31,
+  "position": {
+    "x": 3,
+    "y": 1
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:pastel_basics/titration_barrel"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "pastel:tap_suspicious_brew",
+      "description": "task.integrated_boogaloo.pastel_suspicious_brew.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 15
+    }
+  ],
+  "line_axis": "horizontal"
+}

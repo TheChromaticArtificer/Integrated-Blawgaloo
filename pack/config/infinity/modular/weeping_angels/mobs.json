@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "weeping_angels:weeping_angel",
+			"data": {
+				"Category": "creature"
+			}
+		}
+	]
+}

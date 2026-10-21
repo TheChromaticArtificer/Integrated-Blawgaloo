@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "gigeresque:alien_storage_block1"
+		},
+		{
+			"weight": 1.0,
+			"key": "gigeresque:alien_storage_block1_goo"
+		},
+		{
+			"weight": 1.0,
+			"key": "gigeresque:alien_storage_block1_hugger"
+		},
+		{
+			"weight": 1.0,
+			"key": "gigeresque:alien_storage_block1_spore"
+		},
+		{
+			"weight": 1.0,
+			"key": "gigeresque:alien_storage_block2"
+		},
+		{
+			"weight": 1.0,
+			"key": "gigeresque:alien_storage_block3"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "supplementaries:flammable",
+			"data": {
+				"Instant": false,
+				"Color": 14500864,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "supplementaries:overencumbered",
+			"data": {
+				"Instant": false,
+				"Color": 7095583,
+				"Category": "harmful"
+			}
+		}
+	]
+}

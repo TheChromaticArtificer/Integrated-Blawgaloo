@@ -1,0 +1,131 @@
+{
+  "title": "literal:Distillery",
+  "variants": [
+    {
+      "id": "brew_of_hollow_tears",
+      "title": "literal:Focused Will",
+      "template": "integrated_boogaloo:guide/templates/station",
+      "recipe_binding": {
+        "recipe": "witchery:distilling/brew_of_hollow_tears",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Distillery",
+        "station": "witchery:distillery",
+        "hint": "literal:Fired Clay Jars go in the jar slot."
+      }
+    },
+    {
+      "id": "demons_blood",
+      "title": "literal:Demons Blood",
+      "template": "integrated_boogaloo:guide/templates/station",
+      "recipe_binding": {
+        "recipe": "witchery:distilling/demons_blood",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Distillery",
+        "station": "witchery:distillery",
+        "hint": "literal:Fired Clay Jars go in the jar slot."
+      }
+    },
+    {
+      "id": "ender_dew",
+      "title": "literal:Ender Dew",
+      "template": "integrated_boogaloo:guide/templates/station",
+      "recipe_binding": {
+        "recipe": "witchery:distilling/ender_dew",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Distillery",
+        "station": "witchery:distillery",
+        "hint": "literal:Fired Clay Jars go in the jar slot."
+      }
+    },
+    {
+      "id": "oil_of_vitriol_gypsum",
+      "title": "literal:Oil Of Vitriol",
+      "template": "integrated_boogaloo:guide/templates/station",
+      "recipe_binding": {
+        "recipe": "witchery:distilling/oil_of_vitriol_gypsum",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Distillery",
+        "station": "witchery:distillery",
+        "hint": "literal:Fired Clay Jars go in the jar slot."
+      }
+    },
+    {
+      "id": "phantom_vapor",
+      "title": "literal:Phantom Vapor",
+      "template": "integrated_boogaloo:guide/templates/station",
+      "recipe_binding": {
+        "recipe": "witchery:distilling/phantom_vapor",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Distillery",
+        "station": "witchery:distillery",
+        "hint": "literal:Fired Clay Jars go in the jar slot."
+      }
+    },
+    {
+      "id": "reek_of_misfortune_glowstone",
+      "title": "literal:Reek Of Misfortune",
+      "template": "integrated_boogaloo:guide/templates/station",
+      "recipe_binding": {
+        "recipe": "witchery:distilling/reek_of_misfortune_glowstone",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Distillery",
+        "station": "witchery:distillery",
+        "hint": "literal:Fired Clay Jars go in the jar slot."
+      }
+    },
+    {
+      "id": "refined_evil",
+      "title": "literal:Demons Blood",
+      "template": "integrated_boogaloo:guide/templates/station",
+      "recipe_binding": {
+        "recipe": "witchery:distilling/refined_evil",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Distillery",
+        "station": "witchery:distillery",
+        "hint": "literal:Fired Clay Jars go in the jar slot."
+      }
+    },
+    {
+      "id": "refined_evil_from_ghast",
+      "title": "literal:Odor Of Purity",
+      "template": "integrated_boogaloo:guide/templates/station",
+      "recipe_binding": {
+        "recipe": "witchery:distilling/refined_evil_from_ghast",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Distillery",
+        "station": "witchery:distillery",
+        "hint": "literal:Fired Clay Jars go in the jar slot."
+      }
+    },
+    {
+      "id": "tear_and_whiff",
+      "title": "literal:Tear Of The Goddess",
+      "template": "integrated_boogaloo:guide/templates/station",
+      "recipe_binding": {
+        "recipe": "witchery:distilling/tear_and_whiff",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Distillery",
+        "station": "witchery:distillery",
+        "hint": "literal:Fired Clay Jars go in the jar slot."
+      }
+    }
+  ]
+}

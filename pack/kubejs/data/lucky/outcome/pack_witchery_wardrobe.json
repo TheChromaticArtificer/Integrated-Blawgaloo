@@ -1,0 +1,42 @@
+{
+  "type": "lucky:group",
+  "luck": 1,
+  "chance": 1.25,
+  "outcomes": [
+    {
+      "type": "lucky:message",
+      "message": {
+        "text": "A witch's wardrobe!",
+        "color": "dark_purple",
+        "bold": true
+      },
+      "overlay": true
+    },
+    {
+      "type": "lucky:random",
+      "outcomes": [
+        {
+          "type": "lucky:group",
+          "outcomes": [
+            {
+              "type": "lucky:item",
+              "item": "witchery:witches_hat"
+            },
+            {
+              "type": "lucky:item",
+              "item": "witchery:witches_robes"
+            },
+            {
+              "type": "lucky:item",
+              "item": "witchery:witches_slippers"
+            }
+          ]
+        },
+        {
+          "type": "lucky:item",
+          "item": "witchery:top_hat"
+        }
+      ]
+    }
+  ]
+}

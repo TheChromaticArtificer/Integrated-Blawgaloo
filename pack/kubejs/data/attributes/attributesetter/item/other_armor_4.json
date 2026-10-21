@@ -1,0 +1,92 @@
+{
+  "scguns:cog_knight_leggings": [
+    {
+      "attribute": "scguns:reload_speed",
+      "value": 0.08,
+      "operation": "ADDITION"
+    }
+  ],
+  "scguns:cog_knight_boots": [
+    {
+      "attribute": "scguns:reload_speed",
+      "value": 0.08,
+      "operation": "ADDITION"
+    }
+  ],
+  "scguns:diamond_steel_helmet": [
+    {
+      "attribute": "scguns:additional_bullet_damage",
+      "value": 1,
+      "operation": "ADDITION"
+    }
+  ],
+  "scguns:diamond_steel_chestplate": [
+    {
+      "attribute": "scguns:additional_bullet_damage",
+      "value": 1,
+      "operation": "ADDITION"
+    }
+  ],
+  "scguns:diamond_steel_leggings": [
+    {
+      "attribute": "scguns:additional_bullet_damage",
+      "value": 1,
+      "operation": "ADDITION"
+    }
+  ],
+  "scguns:diamond_steel_boots": [
+    {
+      "attribute": "scguns:additional_bullet_damage",
+      "value": 1,
+      "operation": "ADDITION"
+    }
+  ],
+  "inventorypets:solstice_helmet": [
+    {
+      "attribute": "minecraft:generic.luck",
+      "value": 1,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "apothic_attributes:experience_gained",
+      "value": 0.1,
+      "operation": "ADDITION"
+    }
+  ],
+  "inventorypets:solstice_chestplate": [
+    {
+      "attribute": "minecraft:generic.luck",
+      "value": 1,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "apothic_attributes:experience_gained",
+      "value": 0.1,
+      "operation": "ADDITION"
+    }
+  ],
+  "inventorypets:solstice_leggings": [
+    {
+      "attribute": "minecraft:generic.luck",
+      "value": 1,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "apothic_attributes:experience_gained",
+      "value": 0.1,
+      "operation": "ADDITION"
+    }
+  ],
+  "inventorypets:solstice_boots": [
+    {
+      "attribute": "minecraft:generic.luck",
+      "value": 1,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "apothic_attributes:experience_gained",
+      "value": 0.1,
+      "operation": "ADDITION"
+    }
+  ]
+}

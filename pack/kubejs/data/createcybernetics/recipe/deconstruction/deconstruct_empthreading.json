@@ -1,0 +1,18 @@
+{
+  "type": "createcybernetics:engineering_deconstruct",
+  "inputs": [
+    {
+      "item": "createcybernetics:skinupgrades_empthreading"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "antarchy:titanium_nugget",
+      "count": 14
+    },
+    {
+      "id": "minecraft:copper_ingot",
+      "count": 3
+    }
+  ]
+}

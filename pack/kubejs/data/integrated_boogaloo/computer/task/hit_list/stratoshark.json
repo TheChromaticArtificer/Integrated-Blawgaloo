@@ -1,0 +1,70 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.hit_list_stratoshark.title",
+  "description": "task.integrated_boogaloo.hit_list_stratoshark.description",
+  "showcase": [
+    "@entity:antarchy:stratoshark"
+  ],
+  "icon_entity": "antarchy:stratoshark",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:hit_list_monsters",
+  "sort_order": 660,
+  "position": {
+    "x": 6,
+    "y": 6
+  },
+  "shape": "octagon",
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "kill",
+      "type": "advancement",
+      "target": "antarchy:shark_weak",
+      "description": "task.integrated_boogaloo.hit_list_stratoshark.kill",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "choice",
+      "options": [
+        {
+          "id": "coins",
+          "title": "task.integrated_boogaloo.reward.coins",
+          "rewards": [
+            {
+              "type": "antcoins",
+              "amount": 100
+            }
+          ]
+        },
+        {
+          "id": "crate",
+          "title": "task.integrated_boogaloo.reward.supplies",
+          "rewards": [
+            {
+              "type": "item_pool",
+              "pool": "integrated_boogaloo:supplies_common",
+              "mode": "random"
+            }
+          ]
+        },
+        {
+          "id": "lucky",
+          "title": "task.integrated_boogaloo.reward.lucky",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "lucky:lucky_block",
+              "count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "experience_levels",
+      "levels": 5
+    }
+  ]
+}

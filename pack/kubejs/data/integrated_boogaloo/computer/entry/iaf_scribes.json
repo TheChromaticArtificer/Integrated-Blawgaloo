@@ -1,0 +1,25 @@
+{
+  "green_tint": false,
+  "type": "item",
+  "category": "bestiary_draconic",
+  "folder": "integrated_boogaloo:bestiary",
+  "sort_order": 30,
+  "item": "iceandfire:manuscript",
+  "title": "guide.integrated_boogaloo.entry.iaf_scribes.title",
+  "subtitle": "guide.integrated_boogaloo.entry.iaf_scribes.subtitle",
+  "lookup": [
+    "iceandfire:bestiary",
+    "iceandfire:lectern"
+  ],
+  "content": [
+    {
+      "text": "guide.integrated_boogaloo.entry.iaf_scribes.body_1"
+    },
+    {
+      "display": "integrated_boogaloo:guide/scribe"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.iaf_scribes.body_2"
+    }
+  ]
+}

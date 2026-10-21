@@ -1,0 +1,14 @@
+{
+  "type": "neoforge:add_table",
+  "conditions": [
+    {
+      "condition": "neoforge:loot_table_id",
+      "loot_table_id": "antarchy:chests/basilisk_lair/treasure"
+    },
+    {
+      "condition": "minecraft:random_chance",
+      "chance": 0.2
+    }
+  ],
+  "table": "integrated_boogaloo:chests/cyber_stash"
+}

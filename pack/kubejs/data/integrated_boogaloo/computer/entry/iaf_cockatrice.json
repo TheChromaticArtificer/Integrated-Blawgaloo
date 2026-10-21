@@ -1,0 +1,23 @@
+{
+  "green_tint": false,
+  "type": "entity",
+  "category": "bestiary_wild",
+  "folder": "integrated_boogaloo:bestiary",
+  "sort_order": 100,
+  "entity": "iceandfire:cockatrice",
+  "cover_entity": "iceandfire:cockatrice",
+  "rotation": 45,
+  "title": "guide.integrated_boogaloo.entry.iaf_cockatrice.title",
+  "subtitle": "guide.integrated_boogaloo.entry.iaf_cockatrice.subtitle",
+  "description": [
+    "guide.integrated_boogaloo.entry.iaf_cockatrice.body_1",
+    "guide.integrated_boogaloo.entry.iaf_cockatrice.body_2",
+    "guide.integrated_boogaloo.entry.iaf_cockatrice.body_3"
+  ],
+  "lookup": [
+    "iceandfire:rotten_egg",
+    "iceandfire:cockatrice_eye",
+    "iceandfire:cockatrice_scepter",
+    "iceandfire:witherbone"
+  ]
+}

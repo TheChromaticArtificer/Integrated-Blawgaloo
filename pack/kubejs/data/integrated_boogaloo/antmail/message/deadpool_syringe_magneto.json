@@ -1,0 +1,17 @@
+{
+  "sender": "deadpool@antmail.com",
+  "sender_display": "Deadpool",
+  "sender_avatar_item": "marvel:deadpool_helmet",
+  "subject": "Angry wind chime",
+  "body": "Magneto can only grab metal, which sounds like a downside until you find out anyone with the Wolverine serum counts as metal because of the adamantium skeleton. Pick Logan up and shake him a little for me. Then hang him from something very very tall.",
+  "trigger": {
+    "type": "advancement",
+    "value": "integrated_boogaloo:deadpool/syringe_magneto",
+    "delay_minutes": 3
+  },
+  "conditions": {
+    "mail_read": [
+      "integrated_boogaloo:deadpool_intro"
+    ]
+  }
+}

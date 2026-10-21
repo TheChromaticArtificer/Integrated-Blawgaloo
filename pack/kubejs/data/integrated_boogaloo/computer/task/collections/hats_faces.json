@@ -1,0 +1,347 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.collection.hats_faces.title",
+  "description": "task.integrated_boogaloo.collection.hats_faces.description",
+  "icon": "hats:sunglasses",
+  "program": "integrated_boogaloo:collections",
+  "category": "integrated_boogaloo:collections",
+  "sort_order": 505,
+  "position": {
+    "x": 5,
+    "y": 5
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "angrymask",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/angrymask",
+      "description": "item.hats.angrymask",
+      "count": 1
+    },
+    {
+      "id": "bigeyes",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/bigeyes",
+      "description": "item.hats.bigeyes",
+      "count": 1
+    },
+    {
+      "id": "binky",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/binky",
+      "description": "item.hats.binky",
+      "count": 1
+    },
+    {
+      "id": "bluefireeye",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/bluefireeye",
+      "description": "item.hats.bluefireeye",
+      "count": 1
+    },
+    {
+      "id": "camerabeard",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/camerabeard",
+      "description": "item.hats.camerabeard",
+      "count": 1
+    },
+    {
+      "id": "circular_glasses",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/circular_glasses",
+      "description": "item.hats.circular_glasses",
+      "count": 1
+    },
+    {
+      "id": "cucumbereyemask",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/cucumbereyemask",
+      "description": "item.hats.cucumbereyemask",
+      "count": 1
+    },
+    {
+      "id": "cyclopseye",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/cyclopseye",
+      "description": "item.hats.cyclopseye",
+      "count": 1
+    },
+    {
+      "id": "disguise",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/disguise",
+      "description": "item.hats.disguise",
+      "count": 1
+    },
+    {
+      "id": "dorkglassesandteeth",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/dorkglassesandteeth",
+      "description": "item.hats.dorkglassesandteeth",
+      "count": 1
+    },
+    {
+      "id": "doubletake",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/doubletake",
+      "description": "item.hats.doubletake",
+      "count": 1
+    },
+    {
+      "id": "dwarfbeard",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/dwarfbeard",
+      "description": "item.hats.dwarfbeard",
+      "count": 1
+    },
+    {
+      "id": "dwarfminerbeard",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/dwarfminerbeard",
+      "description": "item.hats.dwarfminerbeard",
+      "count": 1
+    },
+    {
+      "id": "eyepatch",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/eyepatch",
+      "description": "item.hats.eyepatch",
+      "count": 1
+    },
+    {
+      "id": "fro",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/fro",
+      "description": "item.hats.fro",
+      "count": 1
+    },
+    {
+      "id": "goggles",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/goggles",
+      "description": "item.hats.goggles",
+      "count": 1
+    },
+    {
+      "id": "grandmadisguise",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/grandmadisguise",
+      "description": "item.hats.grandmadisguise",
+      "count": 1
+    },
+    {
+      "id": "greaser",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/greaser",
+      "description": "item.hats.greaser",
+      "count": 1
+    },
+    {
+      "id": "greenstache",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/greenstache",
+      "description": "item.hats.greenstache",
+      "count": 1
+    },
+    {
+      "id": "horsemask",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/horsemask",
+      "description": "item.hats.horsemask",
+      "count": 1
+    },
+    {
+      "id": "lightning_eyes",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/lightning_eyes",
+      "description": "item.hats.lightning_eyes",
+      "count": 1
+    },
+    {
+      "id": "madscientist",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/madscientist",
+      "description": "item.hats.madscientist",
+      "count": 1
+    },
+    {
+      "id": "mohawk",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/mohawk",
+      "description": "item.hats.mohawk",
+      "count": 1
+    },
+    {
+      "id": "monocle",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/monocle",
+      "description": "item.hats.monocle",
+      "count": 1
+    },
+    {
+      "id": "moreeyes",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/moreeyes",
+      "description": "item.hats.moreeyes",
+      "count": 1
+    },
+    {
+      "id": "plaguedoctor",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/plaguedoctor",
+      "description": "item.hats.plaguedoctor",
+      "count": 1
+    },
+    {
+      "id": "redeyes",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/redeyes",
+      "description": "item.hats.redeyes",
+      "count": 1
+    },
+    {
+      "id": "rednose",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/rednose",
+      "description": "item.hats.rednose",
+      "count": 1
+    },
+    {
+      "id": "redstache",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/redstache",
+      "description": "item.hats.redstache",
+      "count": 1
+    },
+    {
+      "id": "rimglasses",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/rimglasses",
+      "description": "item.hats.rimglasses",
+      "count": 1
+    },
+    {
+      "id": "round_purple_wig",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/round_purple_wig",
+      "description": "item.hats.round_purple_wig",
+      "count": 1
+    },
+    {
+      "id": "round_purple_wig_glasses",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/round_purple_wig_glasses",
+      "description": "item.hats.round_purple_wig_glasses",
+      "count": 1
+    },
+    {
+      "id": "round_red_wig",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/round_red_wig",
+      "description": "item.hats.round_red_wig",
+      "count": 1
+    },
+    {
+      "id": "round_red_wig_glasses",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/round_red_wig_glasses",
+      "description": "item.hats.round_red_wig_glasses",
+      "count": 1
+    },
+    {
+      "id": "sleepeyemask",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/sleepeyemask",
+      "description": "item.hats.sleepeyemask",
+      "count": 1
+    },
+    {
+      "id": "smokingpipe",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/smokingpipe",
+      "description": "item.hats.smokingpipe",
+      "count": 1
+    },
+    {
+      "id": "sport_sunglasses",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/sport_sunglasses",
+      "description": "item.hats.sport_sunglasses",
+      "count": 1
+    },
+    {
+      "id": "sunglasses",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/sunglasses",
+      "description": "item.hats.sunglasses",
+      "count": 1
+    },
+    {
+      "id": "sunglassesbig",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/sunglassesbig",
+      "description": "item.hats.sunglassesbig",
+      "count": 1
+    },
+    {
+      "id": "triangleshades",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/triangleshades",
+      "description": "item.hats.triangleshades",
+      "count": 1
+    },
+    {
+      "id": "villagernose",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/villagernose",
+      "description": "item.hats.villagernose",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 2500
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "id": "rare",
+          "title": "task.integrated_boogaloo.reward.rare",
+          "rewards": [
+            {
+              "type": "item_pool",
+              "pool": "integrated_boogaloo:supplies_rare",
+              "mode": "random"
+            }
+          ]
+        },
+        {
+          "id": "lucky",
+          "title": "task.integrated_boogaloo.reward.lucky",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "lucky:lucky_block",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "id": "uranium",
+          "title": "task.integrated_boogaloo.reward.uranium",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "antarchy:uranium_ingot",
+              "count": 4
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

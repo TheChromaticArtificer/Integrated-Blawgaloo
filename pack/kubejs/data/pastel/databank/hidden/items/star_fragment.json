@@ -1,0 +1,10 @@
+{
+  "type": {
+    "type": "databank:item",
+    "hidden_as": "minecraft:purple_dye",
+    "original": "pastel:star_fragment"
+  },
+  "condition": {
+    "type": "databank:always_true"
+  }
+}

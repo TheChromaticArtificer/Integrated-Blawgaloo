@@ -1,0 +1,48 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "pastel:music.credits"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:music.deeper_down.black_langast"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:music.deeper_down.crystal_gardens"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:music.deeper_down.deep_barrens"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:music.deeper_down.deep_dripstone_caves"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:music.deeper_down.dragonrot_swamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:music.deeper_down.howling_spires"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:music.deeper_down.noxshroom_forest"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:music.deeper_down.razor_edge"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:music.discovery"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:music.divinity"
+		}
+	]
+}

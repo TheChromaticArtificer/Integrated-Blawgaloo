@@ -1,0 +1,130 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.inventory_pets_starter.title",
+  "description": "task.integrated_boogaloo.inventory_pets_starter.description",
+  "showcase": [
+    "@recipe:inventorypets:pet_apple"
+  ],
+  "icon": "inventorypets:pet_apple",
+  "program": "integrated_boogaloo:start_here",
+  "category": "integrated_boogaloo:start_here",
+  "sort_order": 20,
+  "position": {
+    "x": 1,
+    "y": -2
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "apple",
+      "type": "item",
+      "target": "inventorypets:pet_apple",
+      "description": "task.integrated_boogaloo.inventory_pets_starter.apple",
+      "count": 1
+    },
+    {
+      "id": "banana",
+      "type": "item",
+      "target": "inventorypets:pet_banana",
+      "description": "task.integrated_boogaloo.inventory_pets_starter.banana",
+      "count": 1
+    },
+    {
+      "id": "bed",
+      "type": "item",
+      "target": "inventorypets:pet_bed",
+      "description": "task.integrated_boogaloo.inventory_pets_starter.bed",
+      "count": 1
+    },
+    {
+      "id": "cobblestone",
+      "type": "item",
+      "target": "inventorypets:pet_cobblestone",
+      "description": "task.integrated_boogaloo.inventory_pets_starter.cobblestone",
+      "count": 1
+    },
+    {
+      "id": "crafting_table",
+      "type": "item",
+      "target": "inventorypets:pet_crafting_table",
+      "description": "task.integrated_boogaloo.inventory_pets_starter.crafting_table",
+      "count": 1
+    },
+    {
+      "id": "dirt",
+      "type": "item",
+      "target": "inventorypets:pet_dirt",
+      "description": "task.integrated_boogaloo.inventory_pets_starter.dirt",
+      "count": 1
+    },
+    {
+      "id": "furnace",
+      "type": "item",
+      "target": "inventorypets:pet_furnace",
+      "description": "task.integrated_boogaloo.inventory_pets_starter.furnace",
+      "count": 1
+    },
+    {
+      "id": "sponge",
+      "type": "item",
+      "target": "inventorypets:pet_sponge",
+      "description": "task.integrated_boogaloo.inventory_pets_starter.sponge",
+      "count": 1
+    },
+    {
+      "id": "torch",
+      "type": "item",
+      "target": "inventorypets:pet_torch",
+      "description": "task.integrated_boogaloo.inventory_pets_starter.torch",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 150
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "id": "supplies",
+          "title": "task.integrated_boogaloo.reward.supplies",
+          "rewards": [
+            {
+              "type": "item_pool",
+              "pool": "integrated_boogaloo:supplies_common",
+              "mode": "random"
+            }
+          ]
+        },
+        {
+          "id": "lucky",
+          "title": "task.integrated_boogaloo.reward.lucky",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "lucky:lucky_block",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "id": "titanium",
+          "title": "task.integrated_boogaloo.reward.titanium",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "antarchy:titanium_nugget",
+              "count": 9
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "connects": [
+    "integrated_boogaloo:start_here/lucky_block"
+  ],
+  "line_axis": "vertical"
+}

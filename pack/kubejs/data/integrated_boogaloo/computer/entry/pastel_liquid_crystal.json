@@ -1,0 +1,28 @@
+{
+  "green_tint": false,
+  "type": "article",
+  "category": "general",
+  "folder": "integrated_boogaloo:world_of_color",
+  "sort_order": 80,
+  "title": "guide.integrated_boogaloo.entry.pastel_liquid_crystal.title",
+  "subtitle": "guide.integrated_boogaloo.entry.pastel_liquid_crystal.subtitle",
+  "cover_item": "pastel:liquid_crystal_bucket",
+  "lookup": [
+    "pastel:frostbite_crystal",
+    "pastel:blazing_crystal"
+  ],
+  "content": [
+    {
+      "text": "guide.integrated_boogaloo.entry.pastel_liquid_crystal.body_1"
+    },
+    {
+      "display": "integrated_boogaloo:guide/liquid_crystal"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.pastel_liquid_crystal.body_2"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.pastel_liquid_crystal.body_3"
+    }
+  ]
+}

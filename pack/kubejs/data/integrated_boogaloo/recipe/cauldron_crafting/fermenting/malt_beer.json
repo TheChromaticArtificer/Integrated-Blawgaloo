@@ -1,0 +1,69 @@
+{
+  "type": "witchery:cauldron_crafting",
+  "altarPower": 200,
+  "inputItems": [
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "minecraft:glass_bottle"
+      },
+      "order": 0
+    },
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "minecraft:glass_bottle"
+      },
+      "order": 1
+    },
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "minecraft:wheat"
+      },
+      "order": 2
+    },
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "minecraft:sugar"
+      },
+      "order": 3
+    }
+  ],
+  "outputItems": [
+    {
+      "id": "pastel:infused_beverage",
+      "count": 2,
+      "components": {
+        "pastel:infused_beverage": {
+          "color": 8272724,
+          "variant": "malt_beer"
+        },
+        "minecraft:potion_contents": {
+          "custom_effects": [
+            {
+              "id": "minecraft:haste",
+              "amplifier": 0,
+              "duration": 9600
+            },
+            {
+              "id": "pastel:nourishing",
+              "amplifier": 0,
+              "duration": 9600
+            }
+          ]
+        },
+        "pastel:beverage": {
+          "days_aged": 12,
+          "alcohol_percent": 0,
+          "thickness": 1.0
+        }
+      }
+    }
+  ]
+}

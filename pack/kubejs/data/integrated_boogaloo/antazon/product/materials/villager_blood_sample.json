@@ -1,0 +1,28 @@
+{
+  "name": "Villager Blood Sample",
+  "description": "A carefully collected sample for research. Consent form sold separately.",
+  "category": "materials",
+  "green_tint": false,
+  "quantity": 1,
+  "payments": [
+    {
+      "type": "antcoins",
+      "resource": "antcoins",
+      "amount": 300
+    }
+  ],
+  "thumbnail": {
+    "item": "marvel:villager_blood_sample"
+  },
+  "availability": {
+    "server_stock": 0,
+    "player_limit": 16,
+    "player_limit_reset": "minecraft_week"
+  },
+  "rewards": [
+    {
+      "item": "marvel:villager_blood_sample",
+      "count": 1
+    }
+  ]
+}

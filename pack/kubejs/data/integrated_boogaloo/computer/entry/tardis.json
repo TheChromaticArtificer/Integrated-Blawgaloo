@@ -1,0 +1,54 @@
+{
+  "green_tint": false,
+  "type": "article",
+  "category": "general",
+  "folder": "integrated_boogaloo:workshop",
+  "sort_order": 110,
+  "cover_item": "timevortex:tardis_console",
+  "title": "guide.integrated_boogaloo.entry.tardis.title",
+  "subtitle": "guide.integrated_boogaloo.entry.tardis.subtitle",
+  "lookup": [
+    "timevortex:tardis_matrix",
+    "timevortex:fluid_link",
+    "timevortex:artron_cell",
+    "timevortex:artron_generator",
+    "timevortex:artron_conduit",
+    "timevortex:artron_capacitor",
+    "timevortex:hull_glue",
+    "timevortex:helm",
+    "timevortex:throttle",
+    "timevortex:navigation_computer",
+    "timevortex:flight_stabilisers",
+    "timevortex:time_rotor",
+    "timevortex:demat_circuit",
+    "timevortex:dimensional_stabiliser",
+    "timevortex:memory_bank",
+    "timevortex:nav_calibrator_1",
+    "timevortex:nav_calibrator_2",
+    "timevortex:nav_calibrator_3",
+    "timevortex:rig_controller",
+    "timevortex:rig_pylon",
+    "timevortex:police_box_tardis",
+    "tempad:tempad"
+  ],
+  "content": [
+    {
+      "text": "guide.integrated_boogaloo.entry.tardis.body_1"
+    },
+    {
+      "display": "integrated_boogaloo:guide/tardis_build"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.tardis.body_2"
+    },
+    {
+      "display": "integrated_boogaloo:guide/tardis_rig"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.tardis.body_3"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.tardis.body_4"
+    }
+  ]
+}

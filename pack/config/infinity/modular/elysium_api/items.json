@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "elysium_api:panorama_camera"
+		},
+		{
+			"weight": 1.0,
+			"key": "elysium_api:structure_stamp_anchor"
+		}
+	]
+}

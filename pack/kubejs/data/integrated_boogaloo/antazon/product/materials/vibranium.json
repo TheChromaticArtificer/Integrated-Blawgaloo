@@ -1,0 +1,28 @@
+{
+  "name": "Vibranium",
+  "description": "A rare Marvel alloy, available for a suitably serious price.",
+  "category": "materials",
+  "green_tint": false,
+  "quantity": 1,
+  "payments": [
+    {
+      "type": "antcoins",
+      "resource": "antcoins",
+      "amount": 600
+    }
+  ],
+  "thumbnail": {
+    "item": "marvel:vibranium"
+  },
+  "availability": {
+    "server_stock": 0,
+    "player_limit": 16,
+    "player_limit_reset": "minecraft_week"
+  },
+  "rewards": [
+    {
+      "item": "marvel:vibranium",
+      "count": 1
+    }
+  ]
+}

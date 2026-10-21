@@ -1,0 +1,109 @@
+{
+  "type": "lucky:group",
+  "luck": 2,
+  "chance": 0.6,
+  "outcomes": [
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} times 5 50 15"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} title {\"text\": \"Titanium Jackpot!\", \"color\": \"aqua\", \"bold\": true}"
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "minecraft:falling_block",
+      "nbt": {
+        "BlockState": {
+          "Name": "antarchy:titanium_block"
+        },
+        "Time": 1,
+        "DropItem": true
+      },
+      "pos": [
+        "{blockX}",
+        "{blockY}+18",
+        "{blockZ}"
+      ]
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "minecraft:falling_block",
+      "nbt": {
+        "BlockState": {
+          "Name": "antarchy:titanium_block"
+        },
+        "Time": 1,
+        "DropItem": true
+      },
+      "pos": [
+        "{blockX}",
+        "{blockY}+24",
+        "{blockZ}"
+      ]
+    },
+    {
+      "type": "lucky:item",
+      "item": "antarchy:titanium_ingot",
+      "count": {
+        "type": "minecraft:uniform",
+        "min_inclusive": 1,
+        "max_inclusive": 3
+      }
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "minecraft:firework_rocket",
+      "nbt": {
+        "LifeTime": 25,
+        "FireworksItem": {
+          "id": "minecraft:firework_rocket",
+          "count": 1,
+          "components": {
+            "minecraft:fireworks": {
+              "flight_duration": 1,
+              "explosions": [
+                {
+                  "shape": "large_ball",
+                  "colors": [
+                    11743532
+                  ],
+                  "has_trail": true,
+                  "has_twinkle": true
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "minecraft:firework_rocket",
+      "nbt": {
+        "LifeTime": 25,
+        "FireworksItem": {
+          "id": "minecraft:firework_rocket",
+          "count": 1,
+          "components": {
+            "minecraft:fireworks": {
+              "flight_duration": 1,
+              "explosions": [
+                {
+                  "shape": "star",
+                  "colors": [
+                    16777215
+                  ],
+                  "has_trail": true,
+                  "has_twinkle": true
+                }
+              ]
+            }
+          }
+        }
+      },
+      "delay": 10
+    }
+  ]
+}

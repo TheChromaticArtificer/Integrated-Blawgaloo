@@ -1,0 +1,35 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.super_serums_mr_fantastic.title",
+  "description": "task.integrated_boogaloo.super_serums_mr_fantastic.description",
+  "showcase": [
+    "@recipe:integrated_superheroes:syringe_elasticity_reed_richards"
+  ],
+  "icon": "integrated_superheroes:syringe_elasticity_reed_richards",
+  "program": "integrated_boogaloo:super_serums",
+  "category": "integrated_boogaloo:super_serums",
+  "sort_order": 52,
+  "position": {
+    "x": 4,
+    "y": 2
+  },
+  "availability": "automatic",
+  "archive_entries": [
+    "integrated_boogaloo:serum_mr_fantastic"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "integrated_boogaloo:deadpool/syringe_mr_fantastic",
+      "description": "task.integrated_boogaloo.super_serums_mr_fantastic.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 100
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "type": "quiz",
+  "title": "program.integrated_boogaloo.marvel_comics.title",
+  "green_tint": false,
+  "questions_per_run": 5,
+  "reward_on": "perfect",
+  "reward_limit": "once",
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 50
+    }
+  ],
+  "questions": [
+    {
+      "question": "Who created Spider-Man?",
+      "answers": [
+        "Stan Lee and Steve Ditko",
+        "Stan Lee and Jack Kirby",
+        "Chris Claremont"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Where did Spider-Man first appear?",
+      "answers": [
+        "Amazing Fantasy #15",
+        "The Amazing Spider-Man #1",
+        "Tales of Suspense #39"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What metal coats Wolverine's skeleton?",
+      "answers": [
+        "Adamantium",
+        "Vibranium",
+        "Uru"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What is Professor X's real name?",
+      "answers": [
+        "Charles Xavier",
+        "Erik Lehnsherr",
+        "Scott Summers"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What is Magneto's power?",
+      "answers": [
+        "Controlling magnetism",
+        "Reading minds",
+        "Super speed"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What can Storm control?",
+      "answers": [
+        "The weather",
+        "Fire",
+        "Time"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What's Deadpool's real name?",
+      "answers": [
+        "Wade Wilson",
+        "Wade Winston",
+        "Wilson Fisk"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What's Iceman's real name?",
+      "answers": [
+        "Bobby Drake",
+        "Johnny Storm",
+        "Hank McCoy"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What can Kitty Pryde do?",
+      "answers": [
+        "Walk through walls",
+        "Turn invisible",
+        "Shrink"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Who is the Human Torch?",
+      "answers": [
+        "Johnny Storm",
+        "Ben Grimm",
+        "Reed Richards"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "How are Quicksilver and the Scarlet Witch related?",
+      "answers": [
+        "They're twins",
+        "They're cousins",
+        "They aren't"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What's Squirrel Girl's real name?",
+      "answers": [
+        "Doreen Green",
+        "Gwen Stacy",
+        "Mary Jane Watson"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What can Colossus turn his body into?",
+      "answers": [
+        "Organic steel",
+        "Stone",
+        "Ice"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "How does Daredevil get around without his sight?",
+      "answers": [
+        "His other senses act like radar",
+        "Special glasses",
+        "Telepathy"
+      ],
+      "correct": 0
+    }
+  ]
+}

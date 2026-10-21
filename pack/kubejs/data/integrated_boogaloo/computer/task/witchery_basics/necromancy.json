@@ -1,0 +1,58 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.witchery_necromancy.title",
+  "description": "task.integrated_boogaloo.witchery_necromancy.description",
+  "showcase": [
+    "@recipe:witchery:ritual/necro_stone"
+  ],
+  "icon": "witchery:necromantic_stone",
+  "program": "integrated_boogaloo:witchcraft",
+  "category": "integrated_boogaloo:witchcraft",
+  "sort_order": 15,
+  "position": {
+    "x": 8,
+    "y": 1
+  },
+  "shape": "pentagon",
+  "size": 1.5,
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:witchery_basics/first_rite",
+    "integrated_boogaloo:pastel_basics/onyx_pedestal"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "witchery:necromantic",
+      "description": "task.integrated_boogaloo.witchery_necromancy.goal",
+      "count": 1
+    },
+    {
+      "id": "dust",
+      "type": "item",
+      "target": "iceandfire:ectoplasm",
+      "description": "task.integrated_boogaloo.witchery_necromancy.dust",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "stone",
+      "type": "item",
+      "target": "kubejs:attuned_onyx",
+      "description": "task.integrated_boogaloo.witchery_necromancy.stone",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "archive_entries": [
+    "integrated_boogaloo:witchery_rituals"
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 35
+    }
+  ],
+  "line_axis": "horizontal"
+}

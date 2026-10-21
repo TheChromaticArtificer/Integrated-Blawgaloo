@@ -1,0 +1,21 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.super_serums_how_serums_work.title",
+  "description": "task.integrated_boogaloo.super_serums_how_serums_work.description",
+  "showcase": [
+    "@recipe:marvellegacy:syringe_empty"
+  ],
+  "icon": "marvellegacy:syringe_empty",
+  "program": "integrated_boogaloo:super_serums",
+  "category": "integrated_boogaloo:super_serums",
+  "sort_order": 1,
+  "position": {
+    "x": 0,
+    "y": 0
+  },
+  "shape": "circle",
+  "size": 1.25,
+  "availability": "automatic",
+  "objectives": [],
+  "rewards": []
+}

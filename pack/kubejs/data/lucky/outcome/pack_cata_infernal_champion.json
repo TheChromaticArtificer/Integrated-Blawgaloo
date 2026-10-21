@@ -1,0 +1,48 @@
+{
+  "type": "lucky:group",
+  "luck": -1,
+  "chance": 1.25,
+  "outcomes": [
+    {
+      "type": "lucky:message",
+      "message": {
+        "text": "An infernal champion rises!",
+        "color": "dark_red",
+        "bold": true
+      },
+      "overlay": true
+    },
+    {
+      "type": "lucky:particle",
+      "particle": {
+        "type": "minecraft:flame"
+      },
+      "count": 80
+    },
+    {
+      "type": "lucky:random",
+      "outcomes": [
+        {
+          "type": "lucky:command",
+          "command": "/spawninfernal {blockPosX} {blockPosY} {blockPosZ} zombie Fiery Ninja Vengeance",
+          "weight": 2
+        },
+        {
+          "type": "lucky:command",
+          "command": "/spawninfernal {blockPosX} {blockPosY} {blockPosZ} skeleton Blastoff Cloaking Webber",
+          "weight": 2
+        },
+        {
+          "type": "lucky:command",
+          "command": "/spawninfernal {blockPosX} {blockPosY} {blockPosZ} spider Poisonous Sprint Sticky",
+          "weight": 2
+        },
+        {
+          "type": "lucky:command",
+          "command": "/spawninfernal {blockPosX} {blockPosY} {blockPosZ} zombie Berserk Bulwark Lifesteal Regen Vengeance",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

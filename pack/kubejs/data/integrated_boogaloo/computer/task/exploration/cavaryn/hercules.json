@@ -1,0 +1,82 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.cavaryn_hercules.title",
+  "description": "task.integrated_boogaloo.cavaryn_hercules.description",
+  "showcase": [
+    "@entity:antarchy:hercules_beetle"
+  ],
+  "icon": "antarchy:hercules_beetle_spawn_egg",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:cavaryn",
+  "sort_order": 23,
+  "position": {
+    "x": 2,
+    "y": 5
+  },
+  "shape": "octagon",
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:exploration/cavaryn/awakened"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "antarchy:herculean_task",
+      "description": "task.integrated_boogaloo.cavaryn_hercules.goal",
+      "count": 1
+    },
+    {
+      "id": "horn",
+      "type": "item",
+      "target": "antarchy:hercules_horn",
+      "description": "task.integrated_boogaloo.cavaryn_hercules.horn",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "choice",
+      "options": [
+        {
+          "id": "coins",
+          "title": "task.integrated_boogaloo.reward.coins",
+          "rewards": [
+            {
+              "type": "antcoins",
+              "amount": 250
+            }
+          ]
+        },
+        {
+          "id": "rare",
+          "title": "task.integrated_boogaloo.reward.rare",
+          "rewards": [
+            {
+              "type": "item_pool",
+              "pool": "integrated_boogaloo:supplies_rare",
+              "mode": "random"
+            }
+          ]
+        },
+        {
+          "id": "lucky",
+          "title": "task.integrated_boogaloo.reward.lucky",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "lucky:lucky_block",
+              "count": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "archive",
+      "entry": "antarchy:hercules_beetle"
+    }
+  ],
+  "line_axis": "horizontal"
+}

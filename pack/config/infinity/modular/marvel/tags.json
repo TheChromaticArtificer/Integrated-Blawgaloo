@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "marvel:hydra_agent_spawnable_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:palladium_ores"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:titanium_ores"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:vibranium_ores"
+		}
+	]
+}

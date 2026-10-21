@@ -1,0 +1,88 @@
+{
+  "type": "lucky:group",
+  "luck": -1,
+  "chance": 0.6,
+  "outcomes": [
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} times 5 50 15"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} subtitle {\"text\": \"...not yet, anyway\", \"color\": \"dark_gray\"}"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} title {\"text\": \"Here lies {playerName}\", \"color\": \"gray\", \"bold\": true}"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/setblock ~ ~ ~2 gravestone:gravestone"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/setblock ~2 ~ ~2 gravestone:gravestone"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/setblock ~-2 ~ ~2 gravestone:gravestone"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/setblock ~1 ~ ~-2 minecraft:cobweb"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/setblock ~-1 ~1 ~-2 minecraft:soul_lantern"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/time set 18000"
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "iceandfire:ghost",
+      "reinit": true,
+      "count": 3,
+      "pos": {
+        "type": "lucky:random_in_shape",
+        "center": [
+          "{blockPosX}",
+          "{blockPosY}",
+          "{blockPosZ}"
+        ],
+        "shape": {
+          "type": "lucky:sphere",
+          "size": [
+            4,
+            1,
+            4
+          ]
+        }
+      },
+      "delay": 40
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "witchery:spectral_pig",
+      "reinit": true,
+      "pos": {
+        "type": "lucky:random_in_shape",
+        "center": [
+          "{blockPosX}",
+          "{blockPosY}",
+          "{blockPosZ}"
+        ],
+        "shape": {
+          "type": "lucky:sphere",
+          "size": [
+            3,
+            1,
+            3
+          ]
+        }
+      },
+      "delay": 60
+    }
+  ]
+}

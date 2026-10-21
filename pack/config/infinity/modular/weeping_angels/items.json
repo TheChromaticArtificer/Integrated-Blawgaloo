@@ -1,0 +1,40 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "weeping_angels:chisel"
+		},
+		{
+			"weight": 1.0,
+			"key": "weeping_angels:chronodyne_generator"
+		},
+		{
+			"weight": 1.0,
+			"key": "weeping_angels:coffin"
+		},
+		{
+			"weight": 1.0,
+			"key": "weeping_angels:music_disc_sally"
+		},
+		{
+			"weight": 1.0,
+			"key": "weeping_angels:music_disc_time_prevails"
+		},
+		{
+			"weight": 1.0,
+			"key": "weeping_angels:plinth"
+		},
+		{
+			"weight": 1.0,
+			"key": "weeping_angels:snow_angel"
+		},
+		{
+			"weight": 1.0,
+			"key": "weeping_angels:statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "weeping_angels:timey_wimey_detector"
+		}
+	]
+}

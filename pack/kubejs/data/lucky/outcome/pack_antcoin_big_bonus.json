@@ -1,0 +1,29 @@
+{
+  "type": "lucky:group",
+  "luck": 2,
+  "chance": 0.6,
+  "outcomes": [
+    {
+      "type": "lucky:command",
+      "command": "/antcoin give {playerName} 150"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} times 5 50 15"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} subtitle {\"text\": \"Big bonus!\", \"color\": \"white\"}"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} title {\"text\": \"+150 AntCoins!\", \"color\": \"yellow\", \"bold\": true}"
+    },
+    {
+      "type": "lucky:sound",
+      "sound_event": {
+        "sound_id": "minecraft:ui.toast.challenge_complete"
+      }
+    }
+  ]
+}

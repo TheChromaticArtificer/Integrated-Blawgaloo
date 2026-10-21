@@ -1,0 +1,23 @@
+{
+  "name": "computer.integrated_boogaloo.product.food.root_beer_six_pack.name",
+  "description": "computer.integrated_boogaloo.product.food.root_beer_six_pack.description",
+  "category": "food",
+  "green_tint": false,
+  "quantity": 1,
+  "payments": [
+    {
+      "type": "antcoins",
+      "resource": "antcoins",
+      "amount": 15
+    }
+  ],
+  "thumbnail": {
+    "item": "antarchy:root_beer"
+  },
+  "rewards": [
+    {
+      "item": "antarchy:root_beer",
+      "count": 6
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "type": "witchery:distilling",
+  "altar_power": 5,
+  "cooking_time": 100,
+  "inputs": [
+    {
+      "item": "witchery:phantom_vapor"
+    },
+    {
+      "item": "minecraft:ghast_tear"
+    }
+  ],
+  "jar_consumption": 3,
+  "outputs": [
+    {
+      "count": 1,
+      "id": "witchery:odor_of_purity"
+    },
+    {
+      "count": 1,
+      "id": "witchery:reek_of_misfortune"
+    },
+    {
+      "count": 1,
+      "id": "witchery:foul_fume"
+    },
+    {
+      "count": 1,
+      "id": "alexscaves:pure_darkness"
+    }
+  ]
+}

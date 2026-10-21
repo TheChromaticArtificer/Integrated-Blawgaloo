@@ -1,0 +1,29 @@
+{
+  "type": "createcybernetics:engineering_table",
+  "accept_mirrored": true,
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "P": {
+      "item": "alexscaves:polymer_plate"
+    },
+    "W": {
+      "item": "oritech:magnetic_coil"
+    },
+    "S": {
+      "item": "oritech:processing_unit"
+    }
+  },
+  "pattern": [
+    "GS   ",
+    "WWP  ",
+    " PWP ",
+    "  PWW",
+    "   SG"
+  ],
+  "result": {
+    "count": 1,
+    "id": "createcybernetics:link_cable"
+  }
+}

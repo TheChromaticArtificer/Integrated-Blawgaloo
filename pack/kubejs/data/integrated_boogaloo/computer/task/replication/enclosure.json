@@ -1,0 +1,36 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.replication_enclosure.title",
+  "description": "task.integrated_boogaloo.replication_enclosure.description",
+  "showcase": [
+    "@recipe:replication:replicator_enclosure"
+  ],
+  "icon": "replication:replicator_enclosure",
+  "program": "integrated_boogaloo:replication",
+  "category": "integrated_boogaloo:replication",
+  "sort_order": 8,
+  "position": {
+    "x": 4,
+    "y": -1
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:replication/replicator"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "replication:replicator_enclosure",
+      "description": "task.integrated_boogaloo.replication_enclosure.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 40
+    }
+  ],
+  "line_axis": "horizontal"
+}

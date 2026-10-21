@@ -1,0 +1,52 @@
+{
+  "type": "pastel:enchanter",
+  "group": "alexscaves",
+  "time": 300,
+  "required_experience": 100,
+  "ingredients": [
+    {
+      "item": "minecraft:book"
+    },
+    {
+      "item": "pastel:light_gray_pigment"
+    },
+    {
+      "item": "pastel:light_gray_pigment"
+    },
+    {
+      "item": "alexscaves:polymer_plate"
+    },
+    {
+      "item": "oritech:enderic_lens"
+    },
+    {
+      "item": "pastel:light_gray_pigment"
+    },
+    {
+      "item": "pastel:light_gray_pigment"
+    },
+    {
+      "item": "alexscaves:polymer_plate"
+    },
+    {
+      "item": "oritech:enderic_lens"
+    }
+  ],
+  "result": {
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "stored_enchantments": {
+        "alexscaves:x_ray": 1
+      }
+    }
+  },
+  "required_advancement": "integrated_boogaloo:unlocks/enchantments/alexscaves",
+  "neoforge:conditions": [
+    {
+      "type": "pastel:enchantments_exist",
+      "values": [
+        "alexscaves:x_ray"
+      ]
+    }
+  ]
+}

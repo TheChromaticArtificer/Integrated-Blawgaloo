@@ -1,0 +1,22 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "celestisynth:cursebane",
+			"data": {
+				"Instant": false,
+				"Color": -16777216,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "celestisynth:hellbane",
+			"data": {
+				"Instant": false,
+				"Color": -65536,
+				"Category": "beneficial"
+			}
+		}
+	]
+}

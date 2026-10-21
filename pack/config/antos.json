@@ -1,0 +1,40 @@
+{
+  "configVersion": 2,
+  "unlockAllArchiveEntries": false,
+  "unlockAllGameEntries": false,
+  "showIntroductionEntry": false,
+  "archiveLookupRequiresPhone": false,
+  "blockleDailyAntcoinReward": 10,
+  "builtInGames": {
+    "chess": true,
+    "minesweeper": true
+  },
+  "gameRewards": {
+    "chessEasy": 5,
+    "chessNormal": 10,
+    "chessHard": 20,
+    "chessExpert": 40,
+    "minesweeperSmall": 5,
+    "minesweeperLarge": 15
+  },
+  "sendAntazonUnlockEmail": true,
+  "passwordHintAfterFailures": 3,
+  "antazonUnlockEmailsSent": [],
+  "desktopApps": {
+    "archive": true,
+    "files": true,
+    "settings": true,
+    "terminal": true,
+    "textEditor": true,
+    "paint": true,
+    "antmail": true,
+    "antazon": true,
+    "games": true,
+    "disks": true,
+    "tasks": true
+  },
+  "client": {
+    "inventoryComputerButton": true,
+    "defaultPreferences": {}
+  }
+}

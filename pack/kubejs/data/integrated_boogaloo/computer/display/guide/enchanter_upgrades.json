@@ -1,0 +1,174 @@
+{
+  "version": 1,
+  "title": "literal:Enchanter upgrades",
+  "width": 260,
+  "height": 125,
+  "elements": [
+    {
+      "id": "shrine",
+      "type": "scene",
+      "x": 2,
+      "y": 2,
+      "width": 160,
+      "height": 166,
+      "yaw": 45,
+      "pitch": 30,
+      "scale": 0.7,
+      "material_rules": [
+        {
+          "state": "pastel:polished_basalt",
+          "label": "literal:Polished basalt or calcite"
+        },
+        {
+          "state": "pastel:polished_basalt_pillar[axis=y]",
+          "label": "literal:Basalt or calcite pillar"
+        },
+        {
+          "state": "pastel:polished_basalt_slab",
+          "label": "literal:Basalt or calcite slab"
+        },
+        {
+          "state": "pastel:chiseled_polished_basalt",
+          "label": "literal:Chiseled basalt or calcite"
+        },
+        {
+          "state": "pastel:notched_polished_basalt",
+          "label": "literal:Notched basalt or calcite"
+        },
+        {
+          "state": "pastel:polished_amethyst_block",
+          "label": "literal:Any polished gemstone block"
+        },
+        {
+          "state": "pastel:liquid_crystal",
+          "item": "pastel:liquid_crystal_bucket",
+          "label": "literal:Liquid crystal (bucket)"
+        },
+        {
+          "state": "pastel:amethyst_basalt_light",
+          "label": "literal:Any gemstone light"
+        },
+        {
+          "state": "pastel:item_bowl_basalt",
+          "label": "literal:Item bowl (basalt or calcite)"
+        }
+      ],
+      "steps": [
+        {
+          "id": "base",
+          "title": "literal:Base",
+          "text": "literal:The Enchanter as before.",
+          "through_y": 1
+        },
+        {
+          "id": "upgrades",
+          "title": "literal:Upgrades",
+          "text": "literal:Upgrade blocks go on the pillars.",
+          "through_y": 6
+        }
+      ],
+      "pattern": [
+        [
+          "           ",
+          " XXX   XXX ",
+          " X X   X X ",
+          " XXX   XXX ",
+          "           ",
+          "           ",
+          "           ",
+          " XXX   XXX ",
+          " X X   X X ",
+          " XXX   XXX ",
+          "           "
+        ],
+        [
+          " XXXXXXXXX ",
+          "XCCCXXXCCCX",
+          "XCXCXXXCXCX",
+          "XCCCXXXCCCX",
+          "XXXXXXXXXXX",
+          "XXXXX0XXXXX",
+          "XXXXXXXXXXX",
+          "XCCCXXXCCCX",
+          "XCXCXXXCXCX",
+          "XCCCXXXCCCX",
+          " XXXXXXXXX "
+        ],
+        [
+          "  P     P  ",
+          "    BBB    ",
+          "P P XXX P P",
+          "    XXX    ",
+          " BXXXXXXXB ",
+          " BXXXXXXXB ",
+          " BXXXXXXXB ",
+          "    XXX    ",
+          "P P XXX P P",
+          "    BBB    ",
+          "  P     P  "
+        ],
+        [
+          "  L     L  ",
+          "           ",
+          "L G     G L",
+          "    BBB    ",
+          "   BXXXB   ",
+          "   BXXXB   ",
+          "   BXXXB   ",
+          "    BBB    ",
+          "L G     G L",
+          "           ",
+          "  L     L  "
+        ],
+        [
+          "  I     I  ",
+          "           ",
+          "I U     U I",
+          "           ",
+          "           ",
+          "     F     ",
+          "           ",
+          "           ",
+          "I U     U I",
+          "           ",
+          "  I     I  "
+        ]
+      ],
+      "mapping": {
+        "X": "pastel:polished_basalt",
+        "P": "pastel:polished_basalt_pillar[axis=y]",
+        "B": "pastel:polished_basalt_slab",
+        "L": "pastel:amethyst_basalt_light",
+        "G": "pastel:polished_amethyst_block",
+        "F": "pastel:enchanter",
+        "C": "pastel:liquid_crystal",
+        "I": "pastel:item_bowl_basalt",
+        "U": "pastel:upgrade_speed",
+        "0": "pastel:polished_basalt"
+      },
+      "hero": true,
+      "ratio": 0.88
+    },
+    {
+      "id": "mats",
+      "type": "materials",
+      "scene": "shrine",
+      "scope": "cumulative",
+      "x": 6,
+      "y": 4,
+      "width": 90,
+      "height": 104
+    },
+    {
+      "type": "text",
+      "x": 6,
+      "y": 112,
+      "width": 248,
+      "text": "literal:Upgrades cut the experience it needs.",
+      "color": "muted"
+    }
+  ],
+  "reflow": true,
+  "auto_height": true,
+  "hide_title": true
+}

@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "mts:oamp.stationmerc_blue",
+    "mts:oamp.stationmerc_white",
+    "mts:oamp.stationmerc_seagreen",
+    "mts:oamp.stationmerc_maroon",
+    "mts:oamp.stationmerc_brown",
+    "mts:oamp.stationmerc_green",
+    "mts:oamp.stationmerc_black",
+    "mts:oamp.stationmerc_red",
+    "mts:oamp.stationmerc_gray",
+    "mts:oamp.stationmerc_olive",
+    "mts:oamp.stationmerc_beige",
+    "mts:oamp.stationmerc_silver",
+    "mts:oamp.stationmerc_yellow",
+    "mts:oamp.stationmerc_salmon"
+  ]
+}

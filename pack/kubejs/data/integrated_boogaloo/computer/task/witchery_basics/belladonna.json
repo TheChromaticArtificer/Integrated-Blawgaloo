@@ -1,0 +1,84 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.witchery_belladonna.title",
+  "description": "task.integrated_boogaloo.witchery_belladonna.description",
+  "showcase": [
+    "@recipe:witchery:belladonna_seeds"
+  ],
+  "icon": "witchery:belladonna_seeds",
+  "program": "integrated_boogaloo:witchcraft",
+  "category": "integrated_boogaloo:witchcraft",
+  "sort_order": 1,
+  "position": {
+    "x": 0,
+    "y": 1
+  },
+  "shape": "hexagon",
+  "size": 1.25,
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "witchery:seeds",
+      "description": "task.integrated_boogaloo.witchery_belladonna.goal",
+      "count": 1
+    },
+    {
+      "id": "belladonna",
+      "type": "item",
+      "target": "witchery:belladonna_seeds",
+      "description": "task.integrated_boogaloo.witchery_belladonna.belladonna",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "mandrake",
+      "type": "item",
+      "target": "witchery:mandrake_seeds",
+      "description": "task.integrated_boogaloo.witchery_belladonna.mandrake",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "artichoke",
+      "type": "item",
+      "target": "witchery:water_artichoke_seeds",
+      "description": "task.integrated_boogaloo.witchery_belladonna.artichoke",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "snowbell",
+      "type": "item",
+      "target": "witchery:snowbell_seeds",
+      "description": "task.integrated_boogaloo.witchery_belladonna.snowbell",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "wolfsbane",
+      "type": "item",
+      "target": "witchery:wolfsbane_seeds",
+      "description": "task.integrated_boogaloo.witchery_belladonna.wolfsbane",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "item",
+      "item": "witchery:guidebook",
+      "count": 1
+    },
+    {
+      "type": "item",
+      "item": "minecraft:clay_ball",
+      "count": 8
+    },
+    {
+      "type": "archive",
+      "entry": "integrated_boogaloo:witchery_garden"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "infinity:ant"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:biome_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:black_matter"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:book_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:chromatic_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:chromatic_matter"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:chromatic_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:chromatic_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:disc"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:fine_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:iridescence_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:iridescent_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:iridescent_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:iridescent_star"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:iridescent_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:netherite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:netherite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:white_matter"
+		}
+	]
+}

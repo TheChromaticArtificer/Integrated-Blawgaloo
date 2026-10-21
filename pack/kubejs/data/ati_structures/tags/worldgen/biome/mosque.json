@@ -1,0 +1,15 @@
+{
+  "replace": true,
+  "values": [
+    {
+      "id": "#integrated_api:collections/deserts",
+      "required": false
+    },
+    {
+      "id": "#integrated_api:collections/badlands",
+      "required": false
+    },
+    "natures_spirit:oak_savanna",
+    "natures_spirit:wooded_drylands"
+  ]
+}

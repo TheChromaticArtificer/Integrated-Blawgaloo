@@ -1,0 +1,52 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.armory_arming_up.title",
+  "description": "task.integrated_boogaloo.armory_arming_up.description",
+  "showcase": [
+    "@recipe:scguns:flintlock_pistol"
+  ],
+  "icon": "scguns:flintlock_pistol",
+  "program": "integrated_boogaloo:armory",
+  "category": "integrated_boogaloo:armory",
+  "sort_order": 0,
+  "position": {
+    "x": -1,
+    "y": 0
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "gun_bench",
+      "type": "item",
+      "target": "scguns:gun_bench",
+      "description": "task.integrated_boogaloo.armory_arming_up.gun_bench",
+      "count": 1
+    },
+    {
+      "id": "pistol",
+      "type": "item",
+      "target": "scguns:flintlock_pistol",
+      "description": "task.integrated_boogaloo.armory_arming_up.pistol",
+      "count": 1
+    },
+    {
+      "id": "ammunition",
+      "type": "item",
+      "target": "scguns:powder_and_ball",
+      "description": "task.integrated_boogaloo.armory_arming_up.ammunition",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 25
+    },
+    {
+      "type": "experience_levels",
+      "levels": 3
+    }
+  ],
+  "line_axis": "horizontal",
+  "shape": "hexagon"
+}

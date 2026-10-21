@@ -1,0 +1,41 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.storage_first_disk.title",
+  "description": "task.integrated_boogaloo.storage_first_disk.description",
+  "showcase": [
+    "@recipe:refinedstorage:1k_storage_disk"
+  ],
+  "icon": "refinedstorage:1k_storage_disk",
+  "program": "integrated_boogaloo:storage",
+  "category": "integrated_boogaloo:storage",
+  "sort_order": 3,
+  "position": {
+    "x": 2,
+    "y": 0
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:storage/grid"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "refinedstorage:1k_storage_disk",
+      "description": "task.integrated_boogaloo.storage_first_disk.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 75
+    },
+    {
+      "type": "item",
+      "item": "refinedstorage:1k_storage_part",
+      "count": 2
+    }
+  ],
+  "line_axis": "horizontal"
+}

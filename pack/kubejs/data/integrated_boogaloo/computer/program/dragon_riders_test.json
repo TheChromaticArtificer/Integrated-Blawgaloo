@@ -1,0 +1,107 @@
+{
+  "type": "quiz",
+  "title": "program.integrated_boogaloo.dragon_riders_test.title",
+  "green_tint": false,
+  "questions_per_run": 5,
+  "reward_on": "perfect",
+  "reward_limit": "once",
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 50
+    }
+  ],
+  "questions": [
+    {
+      "question": "What powers a dragon forge?",
+      "answers": [
+        "A dragon's breath",
+        "Coal",
+        "Lava"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What walls can hold a chained dragon?",
+      "answers": [
+        "Dragon bone walls",
+        "Cobblestone walls",
+        "Iron bars"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "An iron ingot plus what makes dragonsteel in a fire forge?",
+      "answers": [
+        "Fire dragon blood",
+        "A dragon scale",
+        "Gold"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What does ice dragonsteel do to whatever it hits?",
+      "answers": [
+        "Freezes it in a block of ice",
+        "Sets it on fire",
+        "Pushes it away"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "How long can fire dragonsteel set attackers on fire?",
+      "answers": [
+        "Up to 15 seconds",
+        "3 seconds",
+        "A whole day"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "At what stage can a dragon first breathe fire or frost?",
+      "answers": [
+        "Stage 2",
+        "Stage 1",
+        "Stage 4"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which stage of dragon is most common in the wild?",
+      "answers": [
+        "Stage 3",
+        "Stage 1",
+        "Stage 5"
+      ],
+      "correct": 0,
+      "entity": "iceandfire:fire_dragon"
+    },
+    {
+      "question": "At what stage can a dragon lay eggs?",
+      "answers": [
+        "Stage 4",
+        "Stage 2",
+        "Any stage"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What can a stage 1 dragon do?",
+      "answers": [
+        "Only bite",
+        "Breathe fire",
+        "Fly away with you"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "How long can the biggest dragons grow?",
+      "answers": [
+        "About 25 blocks",
+        "5 blocks",
+        "100 blocks"
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,466 @@
+{
+  "type": "lucky:group",
+  "luck": 0,
+  "chance": 1.25,
+  "outcomes": [
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} times 5 40 15"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} subtitle {\"text\": \"Read the label next time\", \"color\": \"white\"}"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} title {\"text\": \"Side Effects\", \"color\": \"light_purple\", \"bold\": true}"
+    },
+    {
+      "type": "lucky:particle",
+      "particle": {
+        "type": "minecraft:witch"
+      },
+      "count": 60
+    },
+    {
+      "type": "lucky:sound",
+      "sound_event": {
+        "sound_id": "minecraft:entity.witch.drink"
+      }
+    },
+    {
+      "type": "lucky:random",
+      "count": 3,
+      "duplicates": false,
+      "outcomes": [
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "alexscaves:sugar_rush",
+            "amplifier": 0,
+            "duration": 1200
+          },
+          "weight": 1
+        },
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "alexscaves:deepsight",
+            "amplifier": 0,
+            "duration": 1200
+          },
+          "weight": 1
+        },
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "antarchy:glimmering",
+            "amplifier": 0,
+            "duration": 1200
+          },
+          "weight": 1
+        },
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "antarchy:growth",
+            "amplifier": 0,
+            "duration": 1200
+          },
+          "weight": 1
+        },
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "anthology:contracted",
+            "amplifier": 0,
+            "duration": 1200
+          },
+          "weight": 1
+        },
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "apothic_attributes:vitality",
+            "amplifier": 0,
+            "duration": 1200
+          },
+          "weight": 1
+        },
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "apothic_attributes:knowledge",
+            "amplifier": 0,
+            "duration": 1200
+          },
+          "weight": 1
+        },
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "netherexp:soul_speed",
+            "amplifier": 0,
+            "duration": 1200
+          },
+          "weight": 1
+        },
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "pastel:swiftness",
+            "amplifier": 0,
+            "duration": 1200
+          },
+          "weight": 1
+        },
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "pastel:toughness",
+            "amplifier": 0,
+            "duration": 1200
+          },
+          "weight": 1
+        },
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "pastel:lightweight",
+            "amplifier": 0,
+            "duration": 1200
+          },
+          "weight": 1
+        },
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "pastel:lava_gliding",
+            "amplifier": 0,
+            "duration": 1200
+          },
+          "weight": 1
+        },
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "pastel:nourishing",
+            "amplifier": 0,
+            "duration": 1200
+          },
+          "weight": 1
+        },
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "pastel:projectile_rebound",
+            "amplifier": 0,
+            "duration": 1200
+          },
+          "weight": 1
+        },
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "wan_ancient_beasts:alpha",
+            "amplifier": 0,
+            "duration": 1200
+          },
+          "weight": 1
+        },
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "minecraft:luck",
+            "amplifier": 0,
+            "duration": 1200
+          },
+          "weight": 1
+        },
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "minecraft:haste",
+            "amplifier": 1,
+            "duration": 1200
+          },
+          "weight": 1
+        },
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "minecraft:jump_boost",
+            "amplifier": 1,
+            "duration": 1200
+          },
+          "weight": 1
+        },
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "minecraft:regeneration",
+            "amplifier": 0,
+            "duration": 300
+          },
+          "weight": 1
+        },
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "minecraft:night_vision",
+            "amplifier": 0,
+            "duration": 1200
+          },
+          "weight": 1
+        },
+        {
+          "type": "lucky:group",
+          "weight": 1,
+          "outcomes": [
+            {
+              "type": "lucky:effect",
+              "status_effect": {
+                "id": "apothic_attributes:flying",
+                "amplifier": 0,
+                "duration": 600
+              }
+            },
+            {
+              "type": "lucky:effect",
+              "status_effect": {
+                "id": "minecraft:slow_falling",
+                "amplifier": 0,
+                "duration": 900
+              }
+            }
+          ]
+        },
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "antarchy:shrinking",
+            "amplifier": 0,
+            "duration": 1200
+          },
+          "weight": 1
+        },
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "antarchy:stinky",
+            "amplifier": 0,
+            "duration": 1200
+          },
+          "weight": 1
+        },
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "alexscaves:bubbled",
+            "amplifier": 0,
+            "duration": 400
+          },
+          "weight": 1
+        },
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "alexscaves:magnetizing",
+            "amplifier": 0,
+            "duration": 400
+          },
+          "weight": 1
+        },
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "minecraft:glowing",
+            "amplifier": 0,
+            "duration": 1200
+          },
+          "weight": 1
+        },
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "minecraft:levitation",
+            "amplifier": 0,
+            "duration": 120
+          },
+          "weight": 1
+        },
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "antarchy:gooped",
+            "amplifier": 0,
+            "duration": 400
+          },
+          "weight": 1
+        },
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "antarchy:dread",
+            "amplifier": 0,
+            "duration": 400
+          },
+          "weight": 1
+        },
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "antarchy:bleeding",
+            "amplifier": 0,
+            "duration": 200
+          },
+          "weight": 1
+        },
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "anthology:dilated",
+            "amplifier": 0,
+            "duration": 400
+          },
+          "weight": 1
+        },
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "alexscaves:irradiated",
+            "amplifier": 0,
+            "duration": 300
+          },
+          "weight": 1
+        },
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "alexscaves:stunned",
+            "amplifier": 0,
+            "duration": 80
+          },
+          "weight": 1
+        },
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "iceandfire:frozen",
+            "amplifier": 0,
+            "duration": 80
+          },
+          "weight": 1
+        },
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "scguns:blinded",
+            "amplifier": 0,
+            "duration": 200
+          },
+          "weight": 1
+        },
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "scguns:deafened",
+            "amplifier": 0,
+            "duration": 400
+          },
+          "weight": 1
+        },
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "supplementaries:flammable",
+            "amplifier": 0,
+            "duration": 400
+          },
+          "weight": 1
+        },
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "pastel:vulnerability",
+            "amplifier": 0,
+            "duration": 400
+          },
+          "weight": 1
+        },
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "pastel:stiffness",
+            "amplifier": 0,
+            "duration": 400
+          },
+          "weight": 1
+        },
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "pastel:somnolence",
+            "amplifier": 0,
+            "duration": 400
+          },
+          "weight": 1
+        },
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "wan_ancient_beasts:fear",
+            "amplifier": 0,
+            "duration": 400
+          },
+          "weight": 1
+        },
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "marvel:icing",
+            "amplifier": 0,
+            "duration": 200
+          },
+          "weight": 1
+        },
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "minecraft:nausea",
+            "amplifier": 0,
+            "duration": 200
+          },
+          "weight": 1
+        },
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "minecraft:slowness",
+            "amplifier": 0,
+            "duration": 400
+          },
+          "weight": 1
+        },
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "minecraft:mining_fatigue",
+            "amplifier": 0,
+            "duration": 400
+          },
+          "weight": 1
+        },
+        {
+          "type": "lucky:effect",
+          "status_effect": {
+            "id": "minecraft:hunger",
+            "amplifier": 1,
+            "duration": 400
+          },
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

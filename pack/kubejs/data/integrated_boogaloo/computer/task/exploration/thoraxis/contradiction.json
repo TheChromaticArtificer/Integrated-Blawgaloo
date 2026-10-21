@@ -1,0 +1,37 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.thoraxis_contradiction.title",
+  "description": "task.integrated_boogaloo.thoraxis_contradiction.description",
+  "showcase": [
+    "@recipe:antarchy:temporal_tuner"
+  ],
+  "icon": "antarchy:temporal_tuner",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:thoraxis",
+  "sort_order": 30,
+  "position": {
+    "x": 1,
+    "y": 6
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:exploration/thoraxis/dilation",
+    "integrated_boogaloo:exploration/thoraxis/contraction"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "antarchy:temporal_contradiction",
+      "description": "task.integrated_boogaloo.thoraxis_contradiction.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 80
+    }
+  ],
+  "line_axis": "horizontal"
+}

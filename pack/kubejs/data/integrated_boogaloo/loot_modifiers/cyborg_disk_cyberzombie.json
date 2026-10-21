@@ -1,0 +1,17 @@
+{
+  "type": "neoforge:add_table",
+  "conditions": [
+    {
+      "condition": "neoforge:loot_table_id",
+      "loot_table_id": "createcybernetics:entities/cyberzombie"
+    },
+    {
+      "condition": "minecraft:killed_by_player"
+    },
+    {
+      "condition": "minecraft:random_chance",
+      "chance": 0.025
+    }
+  ],
+  "table": "integrated_boogaloo:entities/cyborg_disk"
+}

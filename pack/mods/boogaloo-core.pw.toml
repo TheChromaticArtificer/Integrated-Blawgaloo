@@ -1,0 +1,13 @@
+name = "Boogaloo Core"
+filename = "boogaloo_core-1.0.3+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dae3197c126053a0686238d2b35806c807260b29"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9269633
+project-id = 1746930

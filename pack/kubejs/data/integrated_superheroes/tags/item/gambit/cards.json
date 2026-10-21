@@ -1,0 +1,201 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "alexscaves:cave_map",
+      "required": false
+    },
+    {
+      "id": "alexscaves:cave_map_filled",
+      "required": false
+    },
+    {
+      "id": "alexscaves:gumball_pile",
+      "required": false
+    },
+    {
+      "id": "alexscaves:jelly_bean",
+      "required": false
+    },
+    {
+      "id": "alexscaves:shot_gum",
+      "required": false
+    },
+    {
+      "id": "alexscaves:vesper_wing",
+      "required": false
+    },
+    {
+      "id": "antarchy:brutalfly_wing",
+      "required": false
+    },
+    {
+      "id": "antarchy:manticore_wing",
+      "required": false
+    },
+    {
+      "id": "dimdoors:frayed_filament",
+      "required": false
+    },
+    {
+      "id": "iceandfire:manuscript",
+      "required": false
+    },
+    {
+      "id": "iceandfire:pixie_wings",
+      "required": false
+    },
+    {
+      "id": "iceandfire:stymphalian_bird_feather",
+      "required": false
+    },
+    {
+      "id": "marvel:hydra_banner_pattern",
+      "required": false
+    },
+    {
+      "id": "mts:mts.ticket",
+      "required": false
+    },
+    {
+      "id": "pastel:amethyst_cluster_banner_pattern",
+      "required": false
+    },
+    {
+      "id": "pastel:amethyst_shard_banner_pattern",
+      "required": false
+    },
+    {
+      "id": "pastel:astrologer_banner_pattern",
+      "required": false
+    },
+    {
+      "id": "pastel:brewers_handbook",
+      "required": false
+    },
+    {
+      "id": "pastel:deep_light_banner_pattern",
+      "required": false
+    },
+    {
+      "id": "pastel:gilded_book",
+      "required": false
+    },
+    {
+      "id": "pastel:imbrifer_cookbook",
+      "required": false
+    },
+    {
+      "id": "pastel:imperial_cookbook",
+      "required": false
+    },
+    {
+      "id": "pastel:logo_banner_pattern",
+      "required": false
+    },
+    {
+      "id": "pastel:poisonbloom_banner_pattern",
+      "required": false
+    },
+    {
+      "id": "pastel:poisoners_handbook",
+      "required": false
+    },
+    {
+      "id": "pastel:resplendent_feather",
+      "required": false
+    },
+    {
+      "id": "pastel:velvet_astrologer_banner_pattern",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:book",
+      "required": false
+    },
+    {
+      "id": "securitycraft:keycard_lv1",
+      "required": false
+    },
+    {
+      "id": "securitycraft:keycard_lv2",
+      "required": false
+    },
+    {
+      "id": "securitycraft:keycard_lv3",
+      "required": false
+    },
+    {
+      "id": "securitycraft:keycard_lv4",
+      "required": false
+    },
+    {
+      "id": "securitycraft:keycard_lv5",
+      "required": false
+    },
+    {
+      "id": "securitycraft:limited_use_keycard",
+      "required": false
+    },
+    {
+      "id": "supplementaries:candy",
+      "required": false
+    },
+    {
+      "id": "supplementaries:candy_christmas",
+      "required": false
+    },
+    {
+      "id": "supplementaries:candy_halloween",
+      "required": false
+    },
+    {
+      "id": "supplementaries:dragon_banner_pattern",
+      "required": false
+    },
+    {
+      "id": "supplementaries:slice_map",
+      "required": false
+    },
+    {
+      "id": "tempad:location_card",
+      "required": false
+    },
+    {
+      "id": "wan_ancient_beasts:bones_banner_pattern",
+      "required": false
+    },
+    {
+      "id": "wan_ancient_beasts:dino_banner_pattern",
+      "required": false
+    },
+    {
+      "id": "wan_ancient_beasts:glider_feather",
+      "required": false
+    },
+    {
+      "id": "witchery:biome_note",
+      "required": false
+    },
+    {
+      "id": "witchery:curse_sigil_scroll",
+      "required": false
+    },
+    {
+      "id": "witchery:sigil_scroll",
+      "required": false
+    },
+    {
+      "id": "witchery:tarot_deck",
+      "required": false
+    },
+    {
+      "id": "witchery:torn_page",
+      "required": false
+    },
+    {
+      "id": "witchery:voodoo_sigil_scroll",
+      "required": false
+    }
+  ]
+}

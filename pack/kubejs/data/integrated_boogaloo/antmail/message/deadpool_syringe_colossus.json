@@ -1,0 +1,17 @@
+{
+  "sender": "deadpool@antmail.com",
+  "sender_display": "Deadpool",
+  "sender_avatar_item": "marvel:deadpool_helmet",
+  "subject": "Four or five moments",
+  "body": "Thats Colossus in there, the most decent man I know. He once gave me a whole speech about how you only get four or five moments in your life to be a hero, and I nodded the whole time while trying to figure out \"Is he shinier than Dwayne Johnson's head?\"\n\nP.S. if you see him tell him I've been good. I have not been good.",
+  "trigger": {
+    "type": "advancement",
+    "value": "integrated_boogaloo:deadpool/syringe_colossus",
+    "delay_minutes": 2
+  },
+  "conditions": {
+    "mail_read": [
+      "integrated_boogaloo:deadpool_intro"
+    ]
+  }
+}

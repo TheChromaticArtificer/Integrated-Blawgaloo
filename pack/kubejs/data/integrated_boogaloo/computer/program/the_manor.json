@@ -1,0 +1,64 @@
+{
+  "type": "adventure",
+  "title": "program.integrated_boogaloo.the_manor.title",
+  "start": "hall",
+  "nodes": {
+    "hall": {
+      "text": "The dinner party has started without the host. Six guests, one empty chair at the head of the table. The butler says the host is \"upstairs, briefly.\" He said that an hour ago.",
+      "choices": [
+        {
+          "text": "Go upstairs",
+          "goto": "stairs"
+        },
+        {
+          "text": "Ask the butler",
+          "goto": "butler"
+        },
+        {
+          "text": "Eat dinner",
+          "goto": "dinner"
+        }
+      ]
+    },
+    "butler": {
+      "text": "The butler says the host never misses a meal. He also says the house has thirteen rooms, then corrects himself to fourteen.",
+      "set_flags": [
+        "fourteen"
+      ],
+      "choices": [
+        {
+          "text": "Go upstairs",
+          "goto": "stairs"
+        }
+      ]
+    },
+    "dinner": {
+      "text": "The soup is excellent. The guest next to you whispers that it's always excellent, and that she has been at this dinner for eleven years.",
+      "ending": "fed"
+    },
+    "stairs": {
+      "text": "The upstairs hall has thirteen doors. You count again. Fourteen.",
+      "choices": [
+        {
+          "text": "Open the fourteenth door",
+          "goto": "room",
+          "requires_flag": "fourteen"
+        },
+        {
+          "text": "Go back down",
+          "goto": "hall"
+        }
+      ]
+    },
+    "room": {
+      "text": "A small study. A portrait of the host, painted recently, looking straight at you. The paint is still wet. On the desk is the guest list. Your name is on it, crossed out, then written in again.",
+      "ending": "guest_of_honor",
+      "rewards": [
+        {
+          "type": "antcoins",
+          "amount": 25
+        }
+      ]
+    }
+  }
+}

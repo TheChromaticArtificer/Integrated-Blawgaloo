@@ -1,0 +1,16 @@
+{
+  "values": [
+    "alexscaves:magnetic_caves",
+    "alexscaves:primordial_caves",
+    "alexscaves:toxic_caves",
+    "alexscaves:abyssal_chasm",
+    "alexscaves:forlorn_hollows",
+    "alexscaves:candy_cavity",
+    "integrated_boogaloo:cavaryn_toxic_caves",
+    "integrated_boogaloo:cavaryn_forlorn_hollows",
+    "integrated_boogaloo:thoraxis_magnetic_caves",
+    "integrated_boogaloo:elythia_primordial_surface",
+    "integrated_boogaloo:elythia_candy_surface"
+  ],
+  "replace": false
+}

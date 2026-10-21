@@ -1,0 +1,9 @@
+version:3955
+resourcePacks:["lucky","vanilla","mod_resources","netherexp:jne_retextures","moonlight:merged_pack","mod/infinity:resourcepacks/21","file/infinity","file/Better Gravestones 1.1.zip","file/[1.6] Enhanced Boss Bars.zip","file/§lColourful Containers§8.zip","file/§5§lModded §f§lContainers§8.zip","file/Excalibur_Lootr_v1.1.zip","file/Old+Iron+Chest.zip","mod/iceandfire:resourcepacks/iaf_legacy","file/iaftextureupdate0.1.zip","file/True Dovah.zip"]
+incompatibleResourcePacks:["mod/infinity:resourcepacks/21","file/Better Gravestones 1.1.zip","file/§5§lModded §f§lContainers§8.zip","file/Old+Iron+Chest.zip","file/iaftextureupdate0.1.zip","file/True Dovah.zip"]
+mipmapLevels:2
+renderDistance:12
+simulationDistance:12
+tutorialStep:none
+onboardAccessibility:false
+joinedFirstServer:true

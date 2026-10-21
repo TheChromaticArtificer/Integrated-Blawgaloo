@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "distillery": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "witchery:distillery"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "distillery"
+    ]
+  ]
+}

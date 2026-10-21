@@ -1,0 +1,109 @@
+{
+  "type": "lucky:group",
+  "luck": 2,
+  "chance": 0.06,
+  "outcomes": [
+    {
+      "type": "lucky:command",
+      "command": "/antcoin give {playerName} 500"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} times 5 50 15"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} subtitle {\"text\": \"JACKPOT! Antazon thanks you for your business\", \"color\": \"white\"}"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} title {\"text\": \"+500 AntCoins!\", \"color\": \"gold\", \"bold\": true}"
+    },
+    {
+      "type": "lucky:sound",
+      "sound_event": {
+        "sound_id": "minecraft:ui.toast.challenge_complete"
+      }
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "minecraft:firework_rocket",
+      "nbt": {
+        "LifeTime": 25,
+        "FireworksItem": {
+          "id": "minecraft:firework_rocket",
+          "count": 1,
+          "components": {
+            "minecraft:fireworks": {
+              "flight_duration": 1,
+              "explosions": [
+                {
+                  "shape": "large_ball",
+                  "colors": [
+                    16766720
+                  ],
+                  "has_trail": true,
+                  "has_twinkle": true
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "minecraft:firework_rocket",
+      "nbt": {
+        "LifeTime": 25,
+        "FireworksItem": {
+          "id": "minecraft:firework_rocket",
+          "count": 1,
+          "components": {
+            "minecraft:fireworks": {
+              "flight_duration": 1,
+              "explosions": [
+                {
+                  "shape": "star",
+                  "colors": [
+                    16711680
+                  ],
+                  "has_trail": true,
+                  "has_twinkle": true
+                }
+              ]
+            }
+          }
+        }
+      },
+      "delay": 10
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "minecraft:firework_rocket",
+      "nbt": {
+        "LifeTime": 25,
+        "FireworksItem": {
+          "id": "minecraft:firework_rocket",
+          "count": 1,
+          "components": {
+            "minecraft:fireworks": {
+              "flight_duration": 1,
+              "explosions": [
+                {
+                  "shape": "burst",
+                  "colors": [
+                    65280
+                  ],
+                  "has_trail": true,
+                  "has_twinkle": true
+                }
+              ]
+            }
+          }
+        }
+      },
+      "delay": 20
+    }
+  ]
+}

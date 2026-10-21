@@ -1,0 +1,146 @@
+{
+  "type": "lucky:group",
+  "luck": 0,
+  "chance": 0.6,
+  "outcomes": [
+    {
+      "type": "lucky:message",
+      "message": {
+        "text": "Ruins rose out of the ground!",
+        "color": "gold",
+        "bold": true
+      },
+      "overlay": true
+    },
+    {
+      "type": "lucky:random",
+      "outcomes": [
+        {
+          "type": "lucky:group",
+          "outcomes": [
+            {
+              "type": "lucky:structure",
+              "structure": "alexscaves:toxic_ruins_3",
+              "pos": [
+                "{blockPosX}-4",
+                "{blockPosY}-1",
+                "{blockPosZ}-4"
+              ]
+            },
+            {
+              "type": "lucky:command",
+              "command": "/fill {blockPosX}-4 {blockPosY}-1 {blockPosZ}-4 {blockPosX}+3 {blockPosY}+5 {blockPosZ}+3 minecraft:air replace minecraft:structure_block",
+              "delay": 5
+            },
+            {
+              "type": "lucky:command",
+              "command": "/fill {blockPosX}-4 {blockPosY}-1 {blockPosZ}-4 {blockPosX}+3 {blockPosY}+5 {blockPosZ}+3 minecraft:air replace minecraft:jigsaw",
+              "delay": 5
+            },
+            {
+              "type": "lucky:command",
+              "command": "/fill {blockPosX}-4 {blockPosY}-1 {blockPosZ}-4 {blockPosX}+3 {blockPosY}+5 {blockPosZ}+3 minecraft:air replace minecraft:structure_block",
+              "delay": 65
+            },
+            {
+              "type": "lucky:command",
+              "command": "/fill {blockPosX}-4 {blockPosY}-1 {blockPosZ}-4 {blockPosX}+3 {blockPosY}+5 {blockPosZ}+3 minecraft:air replace minecraft:jigsaw",
+              "delay": 65
+            }
+          ],
+          "weight": 1
+        },
+        {
+          "type": "lucky:structure",
+          "structure": "alexscaves:magnetic_ruins_0",
+          "pos": [
+            "{blockPosX}-4",
+            "{blockPosY}-1",
+            "{blockPosZ}-4"
+          ],
+          "weight": 1
+        },
+        {
+          "type": "lucky:group",
+          "outcomes": [
+            {
+              "type": "lucky:structure",
+              "structure": "alexscaves:forlorn_hut_0",
+              "pos": [
+                "{blockPosX}-4",
+                "{blockPosY}-1",
+                "{blockPosZ}-4"
+              ]
+            },
+            {
+              "type": "lucky:command",
+              "command": "/fill {blockPosX}-4 {blockPosY}-1 {blockPosZ}-4 {blockPosX}+3 {blockPosY}+4 {blockPosZ}+3 minecraft:air replace minecraft:structure_block",
+              "delay": 5
+            },
+            {
+              "type": "lucky:command",
+              "command": "/fill {blockPosX}-4 {blockPosY}-1 {blockPosZ}-4 {blockPosX}+3 {blockPosY}+4 {blockPosZ}+3 minecraft:air replace minecraft:jigsaw",
+              "delay": 5
+            },
+            {
+              "type": "lucky:command",
+              "command": "/fill {blockPosX}-4 {blockPosY}-1 {blockPosZ}-4 {blockPosX}+3 {blockPosY}+4 {blockPosZ}+3 minecraft:air replace minecraft:structure_block",
+              "delay": 65
+            },
+            {
+              "type": "lucky:command",
+              "command": "/fill {blockPosX}-4 {blockPosY}-1 {blockPosZ}-4 {blockPosX}+3 {blockPosY}+4 {blockPosZ}+3 minecraft:air replace minecraft:jigsaw",
+              "delay": 65
+            }
+          ],
+          "weight": 1
+        },
+        {
+          "type": "lucky:group",
+          "outcomes": [
+            {
+              "type": "lucky:structure",
+              "structure": "alexscaves:underground_cabin_1",
+              "pos": [
+                "{blockPosX}-4",
+                "{blockPosY}-1",
+                "{blockPosZ}-4"
+              ]
+            },
+            {
+              "type": "lucky:command",
+              "command": "/fill {blockPosX}-4 {blockPosY}-1 {blockPosZ}-4 {blockPosX}+3 {blockPosY}+3 {blockPosZ}+3 minecraft:air replace minecraft:structure_block",
+              "delay": 5
+            },
+            {
+              "type": "lucky:command",
+              "command": "/fill {blockPosX}-4 {blockPosY}-1 {blockPosZ}-4 {blockPosX}+3 {blockPosY}+3 {blockPosZ}+3 minecraft:air replace minecraft:jigsaw",
+              "delay": 5
+            },
+            {
+              "type": "lucky:command",
+              "command": "/fill {blockPosX}-4 {blockPosY}-1 {blockPosZ}-4 {blockPosX}+3 {blockPosY}+3 {blockPosZ}+3 minecraft:air replace minecraft:structure_block",
+              "delay": 65
+            },
+            {
+              "type": "lucky:command",
+              "command": "/fill {blockPosX}-4 {blockPosY}-1 {blockPosZ}-4 {blockPosX}+3 {blockPosY}+3 {blockPosZ}+3 minecraft:air replace minecraft:jigsaw",
+              "delay": 65
+            }
+          ],
+          "weight": 1
+        },
+        {
+          "type": "lucky:structure",
+          "structure": "alexscaves:deep_one_ruins_3",
+          "pos": [
+            "{blockPosX}-2",
+            "{blockPosY}-1",
+            "{blockPosZ}-2"
+          ],
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

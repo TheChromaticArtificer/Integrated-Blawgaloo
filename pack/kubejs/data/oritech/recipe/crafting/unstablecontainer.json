@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "b": {
+      "item": "antarchy:blood_crystal_shard"
+    },
+    "c": {
+      "item": "oritech:large_storage_block"
+    },
+    "f": {
+      "item": "oritech:super_ai_chip"
+    },
+    "m": {
+      "item": "pastel:bedrock_dust"
+    },
+    "s": {
+      "item": "oritech:flux_gate"
+    }
+  },
+  "pattern": [
+    "fsf",
+    "mcm",
+    "bbb"
+  ],
+  "result": {
+    "count": 1,
+    "id": "oritech:unstable_container"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "sender": "deadpool@antmail.com",
+  "sender_display": "Deadpool",
+  "sender_avatar_item": "marvel:deadpool_helmet",
+  "subject": "Who's paying for this",
+  "body": "Wait, Cyclops?? My movies could only afford two X-Men, I got Colossus and a teenager and that was the whole budget, and this pack just hands you Scott Summers in a syringe. Who's paying for this?? I know Craisin cant afford it. Disney snipers are out looking for you.",
+  "trigger": {
+    "type": "advancement",
+    "value": "integrated_boogaloo:deadpool/syringe_optic_blasts",
+    "delay_minutes": 2
+  },
+  "conditions": {
+    "mail_read": [
+      "integrated_boogaloo:deadpool_intro"
+    ]
+  }
+}

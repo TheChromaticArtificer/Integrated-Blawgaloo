@@ -1,0 +1,11 @@
+{
+  "tag": "integrated_boogaloo:antazon_sell/sea_serpent_scales",
+  "value": 6,
+  "limit": 64,
+  "limit_reset": "minecraft_day",
+  "green_tint": false,
+  "unlock_tasks": [
+    "integrated_boogaloo:exploration/elythia/sea_serpent"
+  ],
+  "unlock_mode": "any"
+}

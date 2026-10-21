@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "sereneseasons:spring_crops"
+		},
+		{
+			"weight": 1.0,
+			"key": "sereneseasons:summer_crops"
+		}
+	]
+}

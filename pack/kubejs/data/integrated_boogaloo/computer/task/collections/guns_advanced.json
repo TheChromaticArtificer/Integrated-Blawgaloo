@@ -1,0 +1,412 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.collection.guns_advanced.title",
+  "description": "task.integrated_boogaloo.collection.guns_advanced.description",
+  "icon": "scguns:whispers",
+  "program": "integrated_boogaloo:collections",
+  "category": "integrated_boogaloo:collections",
+  "sort_order": 301,
+  "position": {
+    "x": 1,
+    "y": 3
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "whispers",
+      "type": "item",
+      "target": "scguns:whispers",
+      "description": "item.scguns.whispers",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "echoes_2",
+      "type": "item",
+      "target": "scguns:echoes_2",
+      "description": "item.scguns.echoes_2",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "sculk_resonator",
+      "type": "item",
+      "target": "scguns:sculk_resonator",
+      "description": "item.scguns.sculk_resonator",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "forlorn_hope",
+      "type": "item",
+      "target": "scguns:forlorn_hope",
+      "description": "item.scguns.forlorn_hope",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "krauser",
+      "type": "item",
+      "target": "scguns:krauser",
+      "description": "item.scguns.krauser",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "soul_drummer",
+      "type": "item",
+      "target": "scguns:soul_drummer",
+      "description": "item.scguns.soul_drummer",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "uppercut",
+      "type": "item",
+      "target": "scguns:uppercut",
+      "description": "item.scguns.uppercut",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "micina",
+      "type": "item",
+      "target": "scguns:micina",
+      "description": "item.scguns.micina",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "valora",
+      "type": "item",
+      "target": "scguns:valora",
+      "description": "item.scguns.valora",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "prush_gun",
+      "type": "item",
+      "target": "scguns:prush_gun",
+      "description": "item.scguns.prush_gun",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "drill",
+      "type": "item",
+      "target": "scguns:drill",
+      "description": "item.scguns.drill",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "drill_conversion",
+      "type": "item",
+      "target": "scguns:drill_conversion",
+      "description": "item.scguns.drill_conversion",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "lockewood",
+      "type": "item",
+      "target": "scguns:lockewood",
+      "description": "item.scguns.lockewood",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "rg_jigsaw",
+      "type": "item",
+      "target": "scguns:rg_jigsaw",
+      "description": "item.scguns.rg_jigsaw",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "inertial",
+      "type": "item",
+      "target": "scguns:inertial",
+      "description": "item.scguns.inertial",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "nailer",
+      "type": "item",
+      "target": "scguns:nailer",
+      "description": "item.scguns.nailer",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "mas_55",
+      "type": "item",
+      "target": "scguns:mas_55",
+      "description": "item.scguns.mas_55",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "inquisitor",
+      "type": "item",
+      "target": "scguns:inquisitor",
+      "description": "item.scguns.inquisitor",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "plasgun",
+      "type": "item",
+      "target": "scguns:plasgun",
+      "description": "item.scguns.plasgun",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "cyclone",
+      "type": "item",
+      "target": "scguns:cyclone",
+      "description": "item.scguns.cyclone",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "zilk_45",
+      "type": "item",
+      "target": "scguns:zilk_45",
+      "description": "item.scguns.zilk_45",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "truant",
+      "type": "item",
+      "target": "scguns:truant",
+      "description": "item.scguns.truant",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "shard_culler",
+      "type": "item",
+      "target": "scguns:shard_culler",
+      "description": "item.scguns.shard_culler",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "minksy",
+      "type": "item",
+      "target": "scguns:minksy",
+      "description": "item.scguns.minksy",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "mas_peddler",
+      "type": "item",
+      "target": "scguns:mas_peddler",
+      "description": "item.scguns.mas_peddler",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "carapice",
+      "type": "item",
+      "target": "scguns:carapice",
+      "description": "item.scguns.carapice",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "shellurker",
+      "type": "item",
+      "target": "scguns:shellurker",
+      "description": "item.scguns.shellurker",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "weevil",
+      "type": "item",
+      "target": "scguns:weevil",
+      "description": "item.scguns.weevil",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "dark_matter",
+      "type": "item",
+      "target": "scguns:dark_matter",
+      "description": "item.scguns.dark_matter",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "lone_wonder",
+      "type": "item",
+      "target": "scguns:lone_wonder",
+      "description": "item.scguns.lone_wonder",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "raygun",
+      "type": "item",
+      "target": "scguns:raygun",
+      "description": "item.scguns.raygun",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "floundergat",
+      "type": "item",
+      "target": "scguns:floundergat",
+      "description": "item.scguns.floundergat",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "marlin",
+      "type": "item",
+      "target": "scguns:marlin",
+      "description": "item.scguns.marlin",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "bomb_lance",
+      "type": "item",
+      "target": "scguns:bomb_lance",
+      "description": "item.scguns.bomb_lance",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "hullbreaker",
+      "type": "item",
+      "target": "scguns:hullbreaker",
+      "description": "item.scguns.hullbreaker",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "sequoia",
+      "type": "item",
+      "target": "scguns:sequoia",
+      "description": "item.scguns.sequoia",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "hyperbaria",
+      "type": "item",
+      "target": "scguns:hyperbaria",
+      "description": "item.scguns.hyperbaria",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "empty_blasphemy",
+      "type": "item",
+      "target": "scguns:empty_blasphemy",
+      "description": "item.scguns.empty_blasphemy",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "blasphemy",
+      "type": "item",
+      "target": "scguns:blasphemy",
+      "description": "item.scguns.blasphemy",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pyroclastic_flow",
+      "type": "item",
+      "target": "scguns:pyroclastic_flow",
+      "description": "item.scguns.pyroclastic_flow",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "freyr",
+      "type": "item",
+      "target": "scguns:freyr",
+      "description": "item.scguns.freyr",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "mangalitsa",
+      "type": "item",
+      "target": "scguns:mangalitsa",
+      "description": "item.scguns.mangalitsa",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "vulcanic_repeater",
+      "type": "item",
+      "target": "scguns:vulcanic_repeater",
+      "description": "item.scguns.vulcanic_repeater",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "super_shotgun",
+      "type": "item",
+      "target": "scguns:super_shotgun",
+      "description": "item.scguns.super_shotgun",
+      "count": 1,
+      "sticky": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 5000
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "id": "rare",
+          "title": "task.integrated_boogaloo.reward.rare",
+          "rewards": [
+            {
+              "type": "item_pool",
+              "pool": "integrated_boogaloo:supplies_rare",
+              "mode": "random"
+            }
+          ]
+        },
+        {
+          "id": "lucky",
+          "title": "task.integrated_boogaloo.reward.lucky",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "lucky:lucky_block",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "id": "uranium",
+          "title": "task.integrated_boogaloo.reward.uranium",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "antarchy:uranium_ingot",
+              "count": 4
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

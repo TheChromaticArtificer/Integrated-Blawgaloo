@@ -1,0 +1,13 @@
+name = "Marvel Legacy"
+filename = "marvellegacy-1.1.1-alpha.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2b176a99e5c8d94381edf3e748ea5e9f61cde3cd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8779846
+project-id = 1631047

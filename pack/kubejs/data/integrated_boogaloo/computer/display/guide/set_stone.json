@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "title": "literal:Setting a Stone",
+  "width": 250,
+  "height": 120,
+  "elements": [
+    {
+      "type": "slot",
+      "x": 6,
+      "y": 8,
+      "item": "integrated_superheroes:power_stone",
+      "role": "input"
+    },
+    {
+      "type": "text",
+      "x": 28,
+      "y": 12,
+      "width": 10,
+      "text": "literal:+"
+    },
+    {
+      "type": "slot",
+      "x": 40,
+      "y": 8,
+      "item": "integrated_superheroes:infinity_gauntlet",
+      "role": "catalyst",
+      "tooltip": "literal:Anywhere in your inventory"
+    },
+    {
+      "type": "arrow",
+      "x": 62,
+      "y": 17,
+      "x2": 78,
+      "y2": 17
+    },
+    {
+      "type": "slot",
+      "x": 84,
+      "y": 8,
+      "item": "integrated_superheroes:infinity_gauntlet",
+      "role": "output",
+      "tooltip": "literal:Now holding the Stone"
+    },
+    {
+      "type": "text",
+      "x": 110,
+      "y": 6,
+      "width": 136,
+      "text": "literal:Use the Stone while a gauntlet is in your inventory."
+    },
+    {
+      "type": "rect",
+      "x": 4,
+      "y": 40,
+      "width": 242,
+      "height": 1,
+      "color": "line"
+    },
+    {
+      "type": "text",
+      "x": 6,
+      "y": 46,
+      "width": 240,
+      "text": "literal:While you hold a gauntlet:"
+    },
+    {
+      "type": "conditions",
+      "x": 6,
+      "y": 60,
+      "width": 240,
+      "entries": [
+        {
+          "kind": "custom",
+          "text": "literal:Left / Right: pick a Stone"
+        },
+        {
+          "kind": "custom",
+          "text": "literal:Up / Down: pick a power"
+        },
+        {
+          "kind": "custom",
+          "text": "literal:O: Space Stone target"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "x": 6,
+      "y": 92,
+      "width": 240,
+      "text": "literal:The Nano Gauntlet is built around a Mark 43 chestplate.",
+      "color": "muted"
+    }
+  ],
+  "reflow": true,
+  "auto_height": true
+}

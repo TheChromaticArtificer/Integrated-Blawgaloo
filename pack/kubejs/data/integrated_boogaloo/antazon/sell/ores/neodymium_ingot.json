@@ -1,0 +1,7 @@
+{
+  "tag": "integrated_boogaloo:antazon_sell/neodymium_ingot",
+  "value": 12,
+  "limit": 64,
+  "limit_reset": "minecraft_day",
+  "green_tint": false
+}

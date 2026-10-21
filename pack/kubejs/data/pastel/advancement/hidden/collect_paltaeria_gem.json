@@ -1,0 +1,20 @@
+{
+  "criteria": {
+    "collected_paltaeria": {
+      "trigger": "databank:has_advancement",
+      "conditions": {
+        "advancement": "pastel:lategame/collect_paltaeria"
+      }
+    },
+    "has_paltaeria_gem": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "antarchy:polished_antimetal"
+          }
+        ]
+      }
+    }
+  }
+}

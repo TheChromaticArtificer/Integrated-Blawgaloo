@@ -1,0 +1,108 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.big_bertha_hilt.title",
+  "description": "task.integrated_boogaloo.big_bertha_hilt.description",
+  "showcase": [
+    "@recipe:antarchy:big_bertha_hilt"
+  ],
+  "icon": "antarchy:big_bertha_hilt",
+  "program": "integrated_boogaloo:big_boogaloo",
+  "category": "integrated_boogaloo:big_boogaloo",
+  "sort_order": 51,
+  "position": {
+    "x": 4,
+    "y": 0
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:big_boogaloo/magic"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "antarchy:big_bertha_hilt",
+      "description": "task.integrated_boogaloo.big_bertha_hilt.goal",
+      "count": 1
+    },
+    {
+      "id": "nightmare_scale",
+      "type": "item",
+      "target": "antarchy:nightmare_scale",
+      "description": "task.integrated_boogaloo.big_bertha_hilt.nightmare_scale",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "demon_heart",
+      "type": "item",
+      "target": "witchery:demon_heart",
+      "description": "task.integrated_boogaloo.big_bertha_hilt.demon_heart",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "molevore_nose",
+      "type": "item",
+      "target": "antarchy:molevore_nose",
+      "description": "task.integrated_boogaloo.big_bertha_hilt.molevore_nose",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "hercules_horn",
+      "type": "item",
+      "target": "antarchy:hercules_horn",
+      "description": "task.integrated_boogaloo.big_bertha_hilt.hercules_horn",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "springbug_leg",
+      "type": "item",
+      "target": "antarchy:springbug_leg",
+      "description": "task.integrated_boogaloo.big_bertha_hilt.springbug_leg",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "primordial_scute",
+      "type": "item",
+      "target": "antarchy:primordial_scute",
+      "description": "task.integrated_boogaloo.big_bertha_hilt.primordial_scute",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "flytrap_goo",
+      "type": "item",
+      "target": "antarchy:flytrap_goo",
+      "description": "task.integrated_boogaloo.big_bertha_hilt.flytrap_goo",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "sweet_tooth",
+      "type": "item",
+      "target": "alexscaves:sweet_tooth",
+      "description": "task.integrated_boogaloo.big_bertha_hilt.sweet_tooth",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "tremorsaurus_egg",
+      "type": "item",
+      "target": "alexscaves:tremorsaurus_egg",
+      "description": "task.integrated_boogaloo.big_bertha_hilt.tremorsaurus_egg",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 300
+    }
+  ],
+  "line_axis": "horizontal"
+}

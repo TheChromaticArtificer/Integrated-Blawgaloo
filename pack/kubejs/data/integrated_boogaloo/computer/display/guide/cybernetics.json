@@ -1,0 +1,15 @@
+{
+  "title": "literal:Cybernetic surgery",
+  "variants": [
+    {
+      "id": "robo",
+      "title": "literal:Robosurgeon",
+      "display": "integrated_boogaloo:guide/robosurgeon"
+    },
+    {
+      "id": "table",
+      "title": "literal:Surgery Table",
+      "display": "integrated_boogaloo:guide/surgery_table"
+    }
+  ]
+}

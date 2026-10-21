@@ -1,0 +1,38 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:mod_loaded",
+        "modid": "create"
+      }
+    }
+  ],
+  "type": "createcybernetics:engineering_table",
+  "accept_mirrored": true,
+  "key": {
+    "F": {
+      "item": "alexscaves:volcanic_core"
+    },
+    "A": {
+      "item": "oritech:motor"
+    },
+    "T": {
+      "item": "antarchy:titanium_nugget"
+    },
+    "S": {
+      "item": "antarchy:titanium_nugget"
+    }
+  },
+  "pattern": [
+    "    T",
+    " SAST",
+    " SFST",
+    " SSS ",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "id": "createcybernetics:organsupgrades_heatengine"
+  }
+}

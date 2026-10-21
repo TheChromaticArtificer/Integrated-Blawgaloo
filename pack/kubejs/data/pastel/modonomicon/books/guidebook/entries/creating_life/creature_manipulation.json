@@ -1,0 +1,27 @@
+{
+  "name": "book.pastel.guidebook.creature_manipulation.name",
+  "icon": {
+    "item": "pastel:shulker_red_head"
+  },
+  "condition": {
+    "type": "modonomicon:false"
+  },
+  "category": "pastel:creating_life",
+  "hide_while_locked": true,
+  "parents": [
+    {
+      "entry": "pastel:creating_life/mob_heads"
+    }
+  ],
+  "background_u_index": 0,
+  "background_v_index": 0,
+  "x": 2,
+  "y": 6,
+  "pages": [
+    {
+      "type": "modonomicon:text",
+      "title": "book.pastel.guidebook.creature_manipulation.name",
+      "text": "book.pastel.guidebook.creature_manipulation.page0.text"
+    }
+  ]
+}

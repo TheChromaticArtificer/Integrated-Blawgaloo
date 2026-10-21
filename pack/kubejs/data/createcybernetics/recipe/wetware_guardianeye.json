@@ -1,0 +1,15 @@
+{
+  "type": "createcybernetics:grafting_table",
+  "wetware": [
+    {
+      "item": "createcybernetics:bodypart_eyeballs"
+    },
+    {
+      "item": "iceandfire:cockatrice_eye"
+    }
+  ],
+  "result": {
+    "id": "createcybernetics:wetware_guardianeye",
+    "count": 1
+  }
+}

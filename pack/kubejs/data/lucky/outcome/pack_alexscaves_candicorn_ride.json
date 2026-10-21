@@ -1,0 +1,27 @@
+{
+  "type": "lucky:group",
+  "luck": 1,
+  "chance": 1.25,
+  "outcomes": [
+    {
+      "type": "lucky:message",
+      "message": {
+        "text": "Saddle up!",
+        "color": "light_purple",
+        "bold": true
+      },
+      "overlay": true
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "alexscaves:candicorn",
+      "reinit": true,
+      "nbt": {
+        "Owner": "{playerUUID}",
+        "Tame": true,
+        "PersistenceRequired": true,
+        "Saddled": true
+      }
+    }
+  ]
+}

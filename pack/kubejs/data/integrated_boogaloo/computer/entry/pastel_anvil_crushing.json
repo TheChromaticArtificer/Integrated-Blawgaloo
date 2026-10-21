@@ -1,0 +1,24 @@
+{
+  "green_tint": false,
+  "type": "article",
+  "category": "general",
+  "folder": "integrated_boogaloo:world_of_color",
+  "sort_order": 65,
+  "title": "guide.integrated_boogaloo.entry.pastel_anvil_crushing.title",
+  "subtitle": "guide.integrated_boogaloo.entry.pastel_anvil_crushing.subtitle",
+  "content": [
+    {
+      "text": "guide.integrated_boogaloo.entry.pastel_anvil_crushing.body_1"
+    },
+    {
+      "display": "integrated_boogaloo:guide/anvil_crushing"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.pastel_anvil_crushing.body_2"
+    }
+  ],
+  "cover_item": "minecraft:anvil",
+  "lookup_recipes": [
+    "pastel:anvil_crushing"
+  ]
+}

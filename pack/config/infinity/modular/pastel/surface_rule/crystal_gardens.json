@@ -1,0 +1,142 @@
+{
+	"biomes": [
+		"pastel:crystal_gardens"
+	],
+	"rule": {
+		"type": "minecraft:sequence",
+		"sequence": [
+			{
+				"type": "minecraft:sequence",
+				"sequence": [
+					{
+						"if_true": {
+							"type": "minecraft:stone_depth",
+							"secondary_depth_range": 0,
+							"offset": 0,
+							"surface_type": "floor",
+							"add_surface_depth": false
+						},
+						"then_run": {
+							"type": "minecraft:block",
+							"result_state": {
+								"Name": "pastel:overgrown_blackslag",
+								"Properties": {
+									"snowy": "false"
+								}
+							}
+						},
+						"type": "minecraft:condition"
+					}
+				]
+			},
+			{
+				"if_true": {
+					"type": "minecraft:not",
+					"invert": {
+						"type": "minecraft:y_above",
+						"add_stone_depth": false,
+						"anchor": {
+							"absolute": -319
+						},
+						"surface_depth_multiplier": 1
+					}
+				},
+				"then_run": {
+					"type": "minecraft:block",
+					"result_state": {
+						"Name": "pastel:downstone"
+					}
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:vertical_gradient",
+					"random_name": "minecraft:deepslate",
+					"true_at_and_below": {
+						"absolute": -194
+					},
+					"false_at_and_above": {
+						"absolute": -190
+					}
+				},
+				"then_run": {
+					"type": "minecraft:block",
+					"result_state": {
+						"Name": "pastel:blackslag",
+						"Properties": {
+							"axis": "y"
+						}
+					}
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"type": "minecraft:sequence",
+				"sequence": [
+					{
+						"if_true": {
+							"type": "minecraft:stone_depth",
+							"secondary_depth_range": 0,
+							"offset": 0,
+							"surface_type": "floor",
+							"add_surface_depth": false
+						},
+						"then_run": {
+							"type": "minecraft:block",
+							"result_state": {
+								"Name": "pastel:overgrown_blackslag",
+								"Properties": {
+									"snowy": "false"
+								}
+							}
+						},
+						"type": "minecraft:condition"
+					}
+				]
+			},
+			{
+				"if_true": {
+					"type": "minecraft:not",
+					"invert": {
+						"type": "minecraft:y_above",
+						"add_stone_depth": false,
+						"anchor": {
+							"absolute": -319
+						},
+						"surface_depth_multiplier": 1
+					}
+				},
+				"then_run": {
+					"type": "minecraft:block",
+					"result_state": {
+						"Name": "pastel:downstone"
+					}
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"if_true": {
+					"type": "minecraft:vertical_gradient",
+					"random_name": "minecraft:deepslate",
+					"true_at_and_below": {
+						"absolute": -194
+					},
+					"false_at_and_above": {
+						"absolute": -190
+					}
+				},
+				"then_run": {
+					"type": "minecraft:block",
+					"result_state": {
+						"Name": "pastel:blackslag",
+						"Properties": {
+							"axis": "y"
+						}
+					}
+				},
+				"type": "minecraft:condition"
+			}
+		]
+	}
+}

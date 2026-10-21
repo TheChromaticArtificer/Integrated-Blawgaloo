@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "moonlight:placeable_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "moonlight:spawn_box"
+		}
+	]
+}

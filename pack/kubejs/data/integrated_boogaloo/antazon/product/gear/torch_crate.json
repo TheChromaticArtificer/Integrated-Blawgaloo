@@ -1,0 +1,23 @@
+{
+  "name": "computer.integrated_boogaloo.product.gear.torch_crate.name",
+  "description": "computer.integrated_boogaloo.product.gear.torch_crate.description",
+  "category": "gear",
+  "green_tint": false,
+  "quantity": 1,
+  "payments": [
+    {
+      "type": "antcoins",
+      "resource": "antcoins",
+      "amount": 20
+    }
+  ],
+  "thumbnail": {
+    "item": "minecraft:torch"
+  },
+  "rewards": [
+    {
+      "item": "minecraft:torch",
+      "count": 64
+    }
+  ]
+}

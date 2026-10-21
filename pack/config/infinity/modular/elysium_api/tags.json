@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "elysium_api:multilayer_jigsaw_non_solid_valid"
+		},
+		{
+			"weight": 1.0,
+			"key": "elysium_api:nether_wart_plantable_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "elysium_api:roots_plantable_on"
+		}
+	]
+}

@@ -1,0 +1,13 @@
+name = "Dark Loading Screen Neoforge"
+filename = "dark_loading_screen-neoforge-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a211952c6290c2755853a1cdf1935a6fb824b80e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8605002
+project-id = 1568908

@@ -1,0 +1,18 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "alexscaves:acid",
+			"data": {
+				"fluidName": "alexscaves:acid"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:purple_soda",
+			"data": {
+				"fluidName": "alexscaves:purple_soda"
+			}
+		}
+	]
+}

@@ -1,0 +1,56 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.pastel_liquid_crystal.title",
+  "description": "task.integrated_boogaloo.pastel_liquid_crystal.description",
+  "showcase": [
+    "@recipe:pastel:liquid_crystal_bucket"
+  ],
+  "icon": "pastel:liquid_crystal_bucket",
+  "program": "integrated_boogaloo:world_of_color",
+  "category": "integrated_boogaloo:world_of_color",
+  "sort_order": 15,
+  "position": {
+    "x": 8,
+    "y": 2
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:pastel_basics/temple"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "pastel:midgame/enter_liquid_crystal",
+      "description": "task.integrated_boogaloo.pastel_liquid_crystal.goal",
+      "count": 1
+    },
+    {
+      "id": "fruit",
+      "type": "item",
+      "target": "antarchy:broodfruit",
+      "description": "task.integrated_boogaloo.pastel_liquid_crystal.fruit",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "bucket",
+      "type": "item",
+      "target": "pastel:liquid_crystal_bucket",
+      "description": "task.integrated_boogaloo.pastel_liquid_crystal.bucket",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 40
+    },
+    {
+      "type": "archive",
+      "entry": "integrated_boogaloo:pastel_liquid_crystal"
+    }
+  ],
+  "line_axis": "vertical"
+}

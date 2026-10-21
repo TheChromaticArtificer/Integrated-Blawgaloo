@@ -1,0 +1,14 @@
+{
+  "criteria": {
+    "has": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "integrated_superheroes:syringe_rock_hide_ben_grimm"
+          }
+        ]
+      }
+    }
+  }
+}

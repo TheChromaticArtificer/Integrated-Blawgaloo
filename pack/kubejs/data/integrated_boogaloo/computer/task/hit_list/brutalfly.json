@@ -1,0 +1,71 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.hit_list_brutalfly.title",
+  "description": "task.integrated_boogaloo.hit_list_brutalfly.description",
+  "showcase": [
+    "@entity:antarchy:brutalfly"
+  ],
+  "icon_entity": "antarchy:brutalfly",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:hit_list_monsters",
+  "sort_order": 650,
+  "position": {
+    "x": 5,
+    "y": 6
+  },
+  "shape": "octagon",
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "kill",
+      "type": "stat",
+      "stat_type": "entity_killed",
+      "target": "antarchy:brutalfly",
+      "description": "task.integrated_boogaloo.hit_list_brutalfly.kill",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "choice",
+      "options": [
+        {
+          "id": "coins",
+          "title": "task.integrated_boogaloo.reward.coins",
+          "rewards": [
+            {
+              "type": "antcoins",
+              "amount": 100
+            }
+          ]
+        },
+        {
+          "id": "crate",
+          "title": "task.integrated_boogaloo.reward.supplies",
+          "rewards": [
+            {
+              "type": "item_pool",
+              "pool": "integrated_boogaloo:supplies_common",
+              "mode": "random"
+            }
+          ]
+        },
+        {
+          "id": "lucky",
+          "title": "task.integrated_boogaloo.reward.lucky",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "lucky:lucky_block",
+              "count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "experience_levels",
+      "levels": 5
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.storage_black_hole_chest.title",
+  "description": "task.integrated_boogaloo.storage_black_hole_chest.description",
+  "showcase": [
+    "@item:pastel:black_hole_chest",
+    "@recipe:pastel:black_hole_chest"
+  ],
+  "icon": "pastel:black_hole_chest",
+  "program": "integrated_boogaloo:storage",
+  "category": "integrated_boogaloo:storage",
+  "sort_order": 306,
+  "position": {
+    "x": 4,
+    "y": 7
+  },
+  "shape": "pentagon",
+  "size": 1.25,
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:storage/every_node"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "pastel:black_hole_chest",
+      "description": "task.integrated_boogaloo.storage_black_hole_chest.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 75
+    }
+  ],
+  "line_axis": "horizontal"
+}

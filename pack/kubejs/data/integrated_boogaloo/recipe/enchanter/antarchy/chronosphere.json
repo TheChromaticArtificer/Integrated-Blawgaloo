@@ -1,0 +1,52 @@
+{
+  "type": "pastel:enchanter",
+  "group": "antarchy",
+  "time": 1000,
+  "required_experience": 1000,
+  "ingredients": [
+    {
+      "item": "minecraft:book"
+    },
+    {
+      "item": "pastel:purple_pigment"
+    },
+    {
+      "item": "pastel:purple_pigment"
+    },
+    {
+      "item": "antarchy:queen_scale"
+    },
+    {
+      "item": "pastel:moonstone_core"
+    },
+    {
+      "item": "pastel:purple_pigment"
+    },
+    {
+      "item": "pastel:purple_pigment"
+    },
+    {
+      "item": "antarchy:queen_scale"
+    },
+    {
+      "item": "pastel:moonstone_core"
+    }
+  ],
+  "result": {
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "stored_enchantments": {
+        "antarchy:chronosphere": 1
+      }
+    }
+  },
+  "required_advancement": "integrated_boogaloo:unlocks/enchantments/antarchy",
+  "neoforge:conditions": [
+    {
+      "type": "pastel:enchantments_exist",
+      "values": [
+        "antarchy:chronosphere"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.elythia_glimmers.title",
+  "description": "task.integrated_boogaloo.elythia_glimmers.description",
+  "showcase": [
+    "@entity:antarchy:glimmer"
+  ],
+  "icon": "antarchy:glimmer_spawn_egg",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:elythia",
+  "sort_order": 5,
+  "position": {
+    "x": 1,
+    "y": 1
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:exploration/elythia/spirit_apples"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "antarchy:glimmer_keeper",
+      "description": "task.integrated_boogaloo.elythia_glimmers.goal",
+      "count": 1
+    },
+    {
+      "id": "frog",
+      "type": "advancement",
+      "target": "antarchy:hoppy_together",
+      "description": "task.integrated_boogaloo.elythia_glimmers.frog",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "deer",
+      "type": "advancement",
+      "target": "antarchy:deerly_beloved",
+      "description": "task.integrated_boogaloo.elythia_glimmers.deer",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "cow",
+      "type": "advancement",
+      "target": "antarchy:apple_of_my_eye",
+      "description": "task.integrated_boogaloo.elythia_glimmers.cow",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "elka",
+      "type": "advancement",
+      "target": "antarchy:elkcellent_choice",
+      "description": "task.integrated_boogaloo.elythia_glimmers.elka",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "ant",
+      "type": "advancement",
+      "target": "antarchy:spirant_animal",
+      "description": "task.integrated_boogaloo.elythia_glimmers.ant",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "choice",
+      "options": [
+        {
+          "id": "coins",
+          "title": "task.integrated_boogaloo.reward.coins",
+          "rewards": [
+            {
+              "type": "antcoins",
+              "amount": 150
+            }
+          ]
+        },
+        {
+          "id": "rare",
+          "title": "task.integrated_boogaloo.reward.rare",
+          "rewards": [
+            {
+              "type": "item_pool",
+              "pool": "integrated_boogaloo:supplies_rare",
+              "mode": "random"
+            }
+          ]
+        },
+        {
+          "id": "lucky",
+          "title": "task.integrated_boogaloo.reward.lucky",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "lucky:lucky_block",
+              "count": 3
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "line_axis": "horizontal"
+}

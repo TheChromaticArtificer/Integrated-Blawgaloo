@@ -1,0 +1,17 @@
+{
+  "sender": "deadpool@antmail.com",
+  "sender_display": "Deadpool",
+  "sender_avatar_item": "marvel:deadpool_helmet",
+  "subject": "100% chrome",
+  "body": "FULL BORG. You're basically a toaster with abs now. Can you get Wi-Fi? Can you run Doom on yourself? I'm coming over there to find out.",
+  "trigger": {
+    "type": "advancement",
+    "value": "createcybernetics:cyberware/weak_flesh",
+    "delay_minutes": 2
+  },
+  "conditions": {
+    "mail_read": [
+      "integrated_boogaloo:deadpool_intro"
+    ]
+  }
+}

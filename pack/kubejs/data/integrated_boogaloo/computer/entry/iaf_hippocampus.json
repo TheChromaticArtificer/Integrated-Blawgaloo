@@ -1,0 +1,22 @@
+{
+  "green_tint": false,
+  "type": "entity",
+  "category": "bestiary_wild",
+  "folder": "integrated_boogaloo:bestiary",
+  "sort_order": 80,
+  "entity": "iceandfire:hippocampus",
+  "cover_entity": "iceandfire:hippocampus",
+  "rotation": 45,
+  "title": "guide.integrated_boogaloo.entry.iaf_hippocampus.title",
+  "subtitle": "guide.integrated_boogaloo.entry.iaf_hippocampus.subtitle",
+  "description": [
+    "guide.integrated_boogaloo.entry.iaf_hippocampus.body_1",
+    "guide.integrated_boogaloo.entry.iaf_hippocampus.body_2",
+    "guide.integrated_boogaloo.entry.iaf_hippocampus.body_3"
+  ],
+  "lookup": [
+    "iceandfire:hippocampus_fin",
+    "iceandfire:hippocampus_slapper",
+    "iceandfire:shiny_scales"
+  ]
+}

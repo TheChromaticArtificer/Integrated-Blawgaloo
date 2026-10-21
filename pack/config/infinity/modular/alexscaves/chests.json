@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "alexscaves:gingerbarrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:metal_barrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "alexscaves:rusty_barrel"
+		}
+	]
+}

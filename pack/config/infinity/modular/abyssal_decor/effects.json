@@ -1,0 +1,13 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:spore_protection",
+			"data": {
+				"Instant": false,
+				"Color": 30000000,
+				"Category": "beneficial"
+			}
+		}
+	]
+}

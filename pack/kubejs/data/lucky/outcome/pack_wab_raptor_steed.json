@@ -1,0 +1,30 @@
+{
+  "type": "lucky:group",
+  "luck": 2,
+  "chance": 0.6,
+  "outcomes": [
+    {
+      "type": "lucky:message",
+      "message": {
+        "text": "A raptor steed!",
+        "color": "gold",
+        "bold": true
+      },
+      "overlay": true
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "wan_ancient_beasts:charger",
+      "reinit": true,
+      "nbt": {
+        "Owner": "{playerUUID}",
+        "Tame": true,
+        "PersistenceRequired": true
+      }
+    },
+    {
+      "type": "lucky:item",
+      "item": "wan_ancient_beasts:red_charger_armor"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "infinity_gauntlet:blocks/cube_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity_gauntlet:blocks/fg_6",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity_gauntlet:blocks/mindblock",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity_gauntlet:blocks/mindblockempty",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity_gauntlet:blocks/mjolnir",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity_gauntlet:blocks/mjolnir_strike",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity_gauntlet:blocks/neck_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity_gauntlet:blocks/neckstand",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity_gauntlet:blocks/orb_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity_gauntlet:blocks/reality_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity_gauntlet:blocks/soul_block",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity_gauntlet:blocks/uru_ore",
+			"data": {
+				"Type": "block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity_gauntlet:chests/disc",
+			"data": {
+				"Type": "chest"
+			}
+		}
+	]
+}

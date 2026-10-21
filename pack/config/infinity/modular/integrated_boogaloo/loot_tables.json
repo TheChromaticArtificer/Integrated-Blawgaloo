@@ -1,0 +1,2503 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/black_market_disk",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/cyber_stash",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/rift_dungeon/chest_tier_1",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/rift_dungeon/chest_tier_2",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/rift_dungeon/chest_tier_3",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/rift_dungeon/dispenser_tier_1",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/rift_dungeon/dispenser_tier_2",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/rift_dungeon/dispenser_tier_3",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/aquatic/jungle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/aquatic/underwater",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/aquatic/village",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/archery/bug",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/archery/medieval",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/archery/military",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/archery/village",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/arsenal/dungeon",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/arsenal/medieval",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/arsenal/military",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/arsenal/underwater",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/arsenal/village",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/building/frozen",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/building/medieval",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/building/underwater",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/building/village",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/cache/bug",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/cache/desert",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/cache/dungeon",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/cache/frozen",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/cache/haunted",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/cache/jungle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/cache/underwater",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/cache/village",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/explosives/dungeon",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/farm/jungle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/farm/military",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/farm/underwater",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/farm/village",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/food/desert",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/food/dungeon",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/food/frozen",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/food/jungle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/food/medieval",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/food/military",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/food/underwater",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/food/village",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/gear/medieval",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/gear/military",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/gear/sculk",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/gear/underwater",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/gear/village",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/junk/desert",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/junk/dungeon",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/junk/frozen",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/junk/village",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/magic/bug",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/magic/desert",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/magic/dungeon",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/magic/frozen",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/magic/jungle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/magic/medieval",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/magic/military",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/magic/village",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/materials/bug",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/materials/desert",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/materials/jungle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/materials/medieval",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/materials/military",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/materials/village",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/treasure/bug",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/treasure/desert",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/treasure/dungeon",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/treasure/frozen",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/treasure/jungle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/treasure/medieval",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/common/treasure/village",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/aquatic/industrial",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/aquatic/jungle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/archery/gothic",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/archery/medieval",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/archery/military",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/arsenal/bug",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/arsenal/gothic",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/arsenal/industrial",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/arsenal/jungle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/arsenal/medieval",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/arsenal/military",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/building/gothic",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/building/industrial",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/building/jungle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/building/military",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/building/witch",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/cache/gothic",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/cache/industrial",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/cache/jungle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/cache/medieval",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/cache/military",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/cache/witch",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/explosives/jungle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/farm/bug",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/farm/gothic",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/farm/jungle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/farm/military",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/food/gothic",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/food/jungle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/food/medieval",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/food/military",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/food/witch",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/gear/bug",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/gear/gothic",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/gear/industrial",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/gear/jungle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/gear/medieval",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/gear/military",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/junk/jungle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/magic/bug",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/magic/gothic",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/magic/industrial",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/magic/jungle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/magic/military",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/magic/witch",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/materials/bug",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/materials/gothic",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/materials/industrial",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/materials/jungle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/materials/medieval",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/materials/military",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/materials/witch",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/treasure/bug",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/treasure/gothic",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/treasure/haunted",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/treasure/industrial",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/treasure/jungle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/treasure/medieval",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/treasure/military",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/rare/treasure/witch",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/special/ati_structures_herobrine_stronghold",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/special/epic_ice_obelisk",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/special/epic_plains_obelisk",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/special/epic_sand_obelisk",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/trial/common",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/trial/common_ominous",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/trial/rare",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/trial/rare_ominous",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/trial/uncommon",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/trial/uncommon_ominous",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/trial/vault",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/trial/vault_ominous",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/trial/very_rare",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/trial/very_rare_ominous",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/aquatic/medieval",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/aquatic/military",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/aquatic/wither",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/archery/bug",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/archery/haunted",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/archery/medieval",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/archery/military",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/archery/wither",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/arsenal/bug",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/arsenal/desert",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/arsenal/dungeon",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/arsenal/industrial",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/arsenal/jungle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/arsenal/medieval",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/arsenal/military",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/building/frozen",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/building/haunted",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/building/jungle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/building/medieval",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/cache/desert",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/cache/dungeon",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/cache/frozen",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/cache/jungle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/cache/medieval",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/cache/military",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/cache/wither",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/farm/desert",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/farm/haunted",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/food/desert",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/food/dungeon",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/food/frozen",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/food/haunted",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/food/medieval",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/food/military",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/gear/frozen",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/gear/haunted",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/gear/jungle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/gear/military",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/gear/wither",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/junk/desert",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/junk/dungeon",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/junk/frozen",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/magic/bug",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/magic/desert",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/magic/dungeon",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/magic/frozen",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/magic/haunted",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/magic/jungle",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/magic/medieval",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/magic/military",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/magic/wither",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/materials/bug",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/materials/dungeon",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/materials/haunted",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/materials/medieval",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/materials/military",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/materials/wither",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/treasure/bug",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/treasure/desert",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/treasure/dungeon",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/treasure/frozen",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/treasure/haunted",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/treasure/medieval",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/treasure/military",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/uncommon/treasure/wither",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/aquatic/desert",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/aquatic/dungeon",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/aquatic/industrial",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/aquatic/jungle_large",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/aquatic/underwater",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/archery/alien",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/archery/desert",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/archery/frozen",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/archery/gothic",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/archery/industrial",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/archery/medieval",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/archery/military",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/archery/underwater",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/arsenal/alien",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/arsenal/dungeon",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/arsenal/frozen",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/arsenal/gothic",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/arsenal/industrial",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/arsenal/medieval",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/arsenal/military",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/arsenal/underwater",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/building/desert",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/building/frozen",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/building/gothic",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/building/industrial",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/building/medieval",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/cache/desert",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/cache/dungeon",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/cache/frozen_large",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/cache/gothic",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/cache/industrial",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/cache/jungle_large",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/cache/medieval",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/cache/underwater",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/explosives/desert",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/explosives/dungeon",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/explosives/frozen_large",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/explosives/jungle_large",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/farm/industrial",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/farm/military",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/farm/underwater",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/food/desert",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/food/dungeon",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/food/frozen",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/food/frozen_large",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/food/industrial",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/food/jungle_large",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/food/medieval",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/food/military",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/food/underwater",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/gear/desert",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/gear/frozen",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/gear/frozen_large",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/gear/gothic",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/gear/industrial",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/gear/medieval",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/gear/military",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/gear/underwater",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/junk/desert",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/junk/dungeon",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/junk/frozen_large",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/junk/jungle_large",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/magic/alien",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/magic/desert",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/magic/dungeon",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/magic/frozen",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/magic/frozen_large",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/magic/gothic",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/magic/industrial",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/magic/jungle_large",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/magic/medieval",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/magic/military",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/magic/underwater",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/materials/alien",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/materials/desert",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/materials/dungeon",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/materials/frozen",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/materials/frozen_large",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/materials/gothic",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/materials/industrial",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/materials/jungle_large",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/materials/underwater",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/treasure/alien",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/treasure/desert",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/treasure/dungeon",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/treasure/frozen",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/treasure/frozen_large",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/treasure/gothic",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/treasure/industrial",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/treasure/jungle_large",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/treasure/medieval",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/treasure/military",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/vault/treasure/underwater",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/very_rare/archery/herobrine",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/very_rare/archery/sculk",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/very_rare/archery/witch",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/very_rare/arsenal/herobrine",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/very_rare/arsenal/sculk",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/very_rare/arsenal/witch",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/very_rare/building/herobrine",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/very_rare/building/sculk",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/very_rare/building/witch",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/very_rare/cache/herobrine",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/very_rare/cache/sculk",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/very_rare/farm/witch",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/very_rare/food/herobrine",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/very_rare/food/witch",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/very_rare/gear/herobrine",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/very_rare/gear/sculk",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/very_rare/gear/witch",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/very_rare/guaranteed/herobrine",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/very_rare/guaranteed/sculk",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/very_rare/guaranteed/witch",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/very_rare/magic/herobrine",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/very_rare/magic/sculk",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/very_rare/magic/witch",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/very_rare/materials/herobrine",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/very_rare/materials/sculk",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/very_rare/materials/witch",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/very_rare/treasure/herobrine",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/very_rare/treasure/sculk",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/structures/very_rare/treasure/witch",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:chests/viking_survey_disk",
+			"data": {
+				"Type": "chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:entities/cyborg_disk",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:potion_pendants/greater_explorer",
+			"data": {
+				"Type": "command"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:potion_pendants/greater_miner",
+			"data": {
+				"Type": "command"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:potion_pendants/greater_wanderer",
+			"data": {
+				"Type": "command"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:potion_pendants/greater_warrior",
+			"data": {
+				"Type": "command"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:potion_pendants/lesser_absorption",
+			"data": {
+				"Type": "command"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:potion_pendants/lesser_calming",
+			"data": {
+				"Type": "command"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:potion_pendants/lesser_fire_resistance",
+			"data": {
+				"Type": "command"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:potion_pendants/lesser_haste",
+			"data": {
+				"Type": "command"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:potion_pendants/lesser_immunity",
+			"data": {
+				"Type": "command"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:potion_pendants/lesser_jump_boost",
+			"data": {
+				"Type": "command"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:potion_pendants/lesser_night_vision",
+			"data": {
+				"Type": "command"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:potion_pendants/lesser_nourishing",
+			"data": {
+				"Type": "command"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:potion_pendants/lesser_regeneration",
+			"data": {
+				"Type": "command"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:potion_pendants/lesser_resistance",
+			"data": {
+				"Type": "command"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:potion_pendants/lesser_slow_falling",
+			"data": {
+				"Type": "command"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:potion_pendants/lesser_speed",
+			"data": {
+				"Type": "command"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:potion_pendants/lesser_strength",
+			"data": {
+				"Type": "command"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:potion_pendants/lesser_toughness",
+			"data": {
+				"Type": "command"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_boogaloo:potion_pendants/lesser_water_breathing",
+			"data": {
+				"Type": "command"
+			}
+		}
+	]
+}

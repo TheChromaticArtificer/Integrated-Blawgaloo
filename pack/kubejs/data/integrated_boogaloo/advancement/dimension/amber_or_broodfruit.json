@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "amber_moss_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "antarchy:amber_moss_block"
+          }
+        ]
+      }
+    },
+    "broodfruit": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "antarchy:broodfruit"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "amber_moss_block",
+      "broodfruit"
+    ]
+  ]
+}

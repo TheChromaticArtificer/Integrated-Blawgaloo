@@ -1,0 +1,10 @@
+{
+  "type": {
+    "type": "databank:item",
+    "hidden_as": "minecraft:gray_dye",
+    "original": "pastel:midnight_chip"
+  },
+  "condition": {
+    "type": "databank:always_true"
+  }
+}

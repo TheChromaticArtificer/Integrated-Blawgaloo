@@ -1,0 +1,13 @@
+name = "Cartographer's Quills"
+filename = "cartographers_quills-1.0.0+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e147dd75b4e04382d7d407848fb4e0af9970f684"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8185253
+project-id = 1562434

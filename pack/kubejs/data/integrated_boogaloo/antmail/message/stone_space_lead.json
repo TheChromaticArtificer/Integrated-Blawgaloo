@@ -1,0 +1,13 @@
+{
+  "sender": "freightgeist@antmail.com",
+  "sender_display": "Freightgeist",
+  "sender_avatar_item": "hats:halo",
+  "subject": "Opening the Locket",
+  "body": "You have the Locket, Artist. It will not open by hand. Set it in a Fusion Shrine with a Moonstone Core, 16 White Pigment and a Kraken Tooth. Moonstone Cores are kept in Forgotten City vaults; the tooth comes from the Kraken.\n\nOpen the Locket and you get the Compass. Follow it. @archive:integrated_boogaloo:pastel_locket @display:integrated_boogaloo:guide/locket",
+  "trigger": {
+    "delay_minutes": 3,
+    "type": "advancement",
+    "value": "integrated_boogaloo:gauntlet/has_locket"
+  },
+  "once": true
+}

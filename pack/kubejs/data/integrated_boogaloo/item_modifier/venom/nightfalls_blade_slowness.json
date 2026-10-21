@@ -1,0 +1,15 @@
+{
+  "function": "pastel:fill_potion_fillable",
+  "ambient": false,
+  "show_particles": true,
+  "duration": 600,
+  "status_effect": [
+    "minecraft:slowness"
+  ],
+  "color": -1,
+  "amplifier": 0,
+  "ink_color": [
+    "pastel:magenta"
+  ],
+  "ink_cost": 2
+}

@@ -1,0 +1,21 @@
+{
+  "type": "witchery:brazier_summoning",
+  "altarPower": 500,
+  "inputItems": [
+    {
+      "count": 1,
+      "id": "witchery:wormwood"
+    },
+    {
+      "count": 1,
+      "id": "alexscaves:vesper_wing"
+    },
+    {
+      "count": 1,
+      "id": "iceandfire:ectoplasm"
+    }
+  ],
+  "outputEntities": [
+    "witchery:spectre"
+  ]
+}

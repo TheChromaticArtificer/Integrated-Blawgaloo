@@ -1,0 +1,14 @@
+{
+  "category": "integrated_boogaloo:brochures",
+  "title": "guide.integrated_boogaloo.disk.chronosphere_warranty.title",
+  "description": "guide.integrated_boogaloo.disk.chronosphere_warranty.description",
+  "subscribe": [
+    "integrated_boogaloo:chronosphere_newsletter"
+  ],
+  "files": [
+    {
+      "path": "warranty.txt",
+      "source": "integrated_boogaloo:chronosphere/warranty.txt"
+    }
+  ]
+}

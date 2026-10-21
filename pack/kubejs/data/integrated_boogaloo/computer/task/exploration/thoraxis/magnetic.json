@@ -1,0 +1,33 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.thoraxis_magnetic.title",
+  "description": "task.integrated_boogaloo.thoraxis_magnetic.description",
+  "icon": "alexscaves:raw_scarlet_neodymium",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:thoraxis",
+  "sort_order": 13,
+  "position": {
+    "x": 1,
+    "y": 2
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "biome_visited",
+      "target": "integrated_boogaloo:thoraxis_magnetic_caves",
+      "description": "task.integrated_boogaloo.thoraxis_magnetic.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 25
+    },
+    {
+      "type": "archive",
+      "entry": "integrated_boogaloo:cave_magnetic_caves"
+    }
+  ]
+}

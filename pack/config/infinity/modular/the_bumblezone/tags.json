@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:essence/life/force_disallowed_dead_bush_revives_to"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:essence/life/is_dead_bush"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:hanging_garden/forced_disallowed_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "the_bumblezone:sempiternal_sanctum/forced_disallowed_flowers"
+		}
+	]
+}

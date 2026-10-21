@@ -1,0 +1,79 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.hit_list_viltrumite_conquest.title",
+  "description": "task.integrated_boogaloo.hit_list_viltrumite_conquest.description",
+  "showcase": [
+    "@recipe:integrated_boogaloo:ritual/challenge_of_conquest",
+    "@item:viltrumitecore:scourge_culture"
+  ],
+  "icon": "viltrumitecore:scourge_culture",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:hit_list_titans",
+  "sort_order": 310,
+  "position": {
+    "x": 1,
+    "y": 3
+  },
+  "shape": "octagon",
+  "size": 1.5,
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:hit_list/viltrumite_squad"
+  ],
+  "objectives": [
+    {
+      "id": "defeat_conquest",
+      "type": "advancement",
+      "target": "integrated_superheroes:viltrumite/conquest",
+      "description": "task.integrated_boogaloo.hit_list_viltrumite_conquest.defeat_conquest",
+      "count": 1
+    }
+  ],
+  "archive_entries": [
+    "integrated_boogaloo:witchery_viltrumites"
+  ],
+  "rewards": [
+    {
+      "type": "choice",
+      "options": [
+        {
+          "id": "coins",
+          "title": "task.integrated_boogaloo.reward.coins",
+          "rewards": [
+            {
+              "type": "antcoins",
+              "amount": 1500
+            }
+          ]
+        },
+        {
+          "id": "crate",
+          "title": "task.integrated_boogaloo.reward.prestige",
+          "rewards": [
+            {
+              "type": "item_pool",
+              "pool": "integrated_boogaloo:prestige",
+              "mode": "random"
+            }
+          ]
+        },
+        {
+          "id": "lucky",
+          "title": "task.integrated_boogaloo.reward.lucky",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "lucky:lucky_block",
+              "count": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "experience_levels",
+      "levels": 30
+    }
+  ],
+  "line_axis": "horizontal"
+}

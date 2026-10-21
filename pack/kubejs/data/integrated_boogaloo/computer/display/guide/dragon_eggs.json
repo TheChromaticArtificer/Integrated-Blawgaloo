@@ -1,0 +1,20 @@
+{
+  "title": "literal:Hatching hoard dragon eggs",
+  "variants": [
+    {
+      "id": "fire",
+      "title": "literal:Fire",
+      "display": "integrated_boogaloo:guide/egg_fire"
+    },
+    {
+      "id": "ice",
+      "title": "literal:Ice",
+      "display": "integrated_boogaloo:guide/egg_ice"
+    },
+    {
+      "id": "lightning",
+      "title": "literal:Lightning",
+      "display": "integrated_boogaloo:guide/egg_lightning"
+    }
+  ]
+}

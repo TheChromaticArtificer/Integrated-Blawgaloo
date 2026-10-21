@@ -1,0 +1,11 @@
+{
+  "tag": "integrated_boogaloo:antazon_sell/mob_heads",
+  "value": 15,
+  "limit": 8,
+  "limit_reset": "minecraft_day",
+  "green_tint": false,
+  "unlock_disks": [
+    "integrated_boogaloo:taxidermist"
+  ],
+  "unlock_mode": "all"
+}

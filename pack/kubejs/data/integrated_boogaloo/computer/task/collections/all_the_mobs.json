@@ -1,0 +1,43 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.collection.all_the_mobs.title",
+  "description": "task.integrated_boogaloo.collection.all_the_mobs.description",
+  "icon": "minecraft:dragon_egg",
+  "program": "integrated_boogaloo:collections",
+  "category": "integrated_boogaloo:collections",
+  "sort_order": 407,
+  "position": {
+    "x": 7,
+    "y": 4
+  },
+  "shape": "pentagon",
+  "size": 1.5,
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:collections/eggs_overworld",
+    "integrated_boogaloo:collections/eggs_nether",
+    "integrated_boogaloo:collections/eggs_end",
+    "integrated_boogaloo:collections/eggs_elythia",
+    "integrated_boogaloo:collections/eggs_cavaryn",
+    "integrated_boogaloo:collections/eggs_thoraxis",
+    "integrated_boogaloo:collections/eggs_elsewhere"
+  ],
+  "objectives": [],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 25000
+    },
+    {
+      "type": "item",
+      "item": "antarchy:rainbow_sugar",
+      "count": 1
+    },
+    {
+      "type": "item_pool",
+      "pool": "integrated_boogaloo:prestige",
+      "mode": "choice"
+    }
+  ],
+  "line_axis": "horizontal"
+}

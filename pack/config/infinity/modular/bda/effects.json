@@ -1,0 +1,13 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "bda:entrapment",
+			"data": {
+				"Instant": false,
+				"Color": 6967864,
+				"Category": "harmful"
+			}
+		}
+	]
+}

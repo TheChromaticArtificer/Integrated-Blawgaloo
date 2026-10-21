@@ -1,0 +1,33 @@
+{
+  "name": "computer.integrated_boogaloo.product.seance.crystal_ball.name",
+  "description": "computer.integrated_boogaloo.product.seance.crystal_ball.description",
+  "category": "séance",
+  "green_tint": false,
+  "quantity": 1,
+  "payments": [
+    {
+      "type": "antcoins",
+      "resource": "antcoins",
+      "amount": 70
+    }
+  ],
+  "thumbnail": {
+    "item": "witchery:crystal_ball"
+  },
+  "availability": {
+    "server_stock": 0,
+    "player_limit": 1,
+    "player_limit_reset": "minecraft_week"
+  },
+  "unlock_disks": [
+    "integrated_boogaloo:seance_supplies"
+  ],
+  "unlock_mode": "all",
+  "hidden_until_unlocked": true,
+  "rewards": [
+    {
+      "item": "witchery:crystal_ball",
+      "count": 1
+    }
+  ]
+}

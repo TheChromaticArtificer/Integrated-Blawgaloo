@@ -1,0 +1,80 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.floppy_whole_collection.title",
+  "description": "task.integrated_boogaloo.floppy_whole_collection.description",
+  "icon": "antos:floppy_disk",
+  "program": "integrated_boogaloo:collections",
+  "category": "integrated_boogaloo:collections",
+  "sort_order": 1000,
+  "position": {
+    "x": 0,
+    "y": 10
+  },
+  "shape": "pentagon",
+  "size": 1.5,
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "window_shopper",
+      "type": "disk_installed",
+      "description": "task.integrated_boogaloo.floppy_whole_collection.window_shopper",
+      "target_category": "integrated_boogaloo:antazon",
+      "count": 15
+    },
+    {
+      "id": "free_money",
+      "type": "disk_installed",
+      "description": "task.integrated_boogaloo.floppy_whole_collection.free_money",
+      "target_category": "integrated_boogaloo:gift_cards",
+      "count": 3
+    },
+    {
+      "id": "data_recovery",
+      "type": "disk_installed",
+      "description": "task.integrated_boogaloo.floppy_whole_collection.data_recovery",
+      "target_category": "integrated_boogaloo:recovered",
+      "count": 9
+    },
+    {
+      "id": "program_files",
+      "type": "disk_installed",
+      "description": "task.integrated_boogaloo.floppy_whole_collection.program_files",
+      "target_category": "integrated_boogaloo:programs",
+      "count": 10
+    },
+    {
+      "id": "junk_mail",
+      "type": "disk_installed",
+      "description": "task.integrated_boogaloo.floppy_whole_collection.junk_mail",
+      "target_category": "integrated_boogaloo:brochures",
+      "count": 5
+    },
+    {
+      "id": "field_guide",
+      "type": "disk_installed",
+      "description": "task.integrated_boogaloo.floppy_whole_collection.field_guide",
+      "target_category": "integrated_boogaloo:bestiary",
+      "count": 3
+    },
+    {
+      "id": "lab_visit",
+      "type": "disk_installed",
+      "description": "task.integrated_boogaloo.floppy_whole_collection.lab_visit",
+      "target_category": "integrated_boogaloo:lab",
+      "count": 1
+    },
+    {
+      "id": "surveyor",
+      "type": "disk_installed",
+      "description": "task.integrated_boogaloo.floppy_whole_collection.surveyor",
+      "target_category": "integrated_boogaloo:surveys",
+      "count": 7
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 2300
+    }
+  ]
+}

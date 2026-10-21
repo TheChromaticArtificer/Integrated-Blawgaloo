@@ -1,0 +1,59 @@
+{
+  "green_tint": false,
+  "type": "article",
+  "category": "general",
+  "folder": "integrated_boogaloo:witchcraft",
+  "sort_order": 80,
+  "title": "guide.integrated_boogaloo.entry.witchery_brews.title",
+  "subtitle": "guide.integrated_boogaloo.entry.witchery_brews.subtitle",
+  "cover_item": "witchery:brew_of_love",
+  "gallery": [
+    {
+      "item": "witchery:brew_of_love"
+    },
+    {
+      "item": "witchery:brew_of_sleeping"
+    },
+    {
+      "item": "witchery:brew_of_frost"
+    },
+    {
+      "item": "witchery:brew_of_ink"
+    },
+    {
+      "item": "witchery:brew_of_webs"
+    },
+    {
+      "item": "witchery:brew_of_wasting"
+    },
+    {
+      "item": "witchery:brew_of_erosion"
+    },
+    {
+      "item": "witchery:brew_of_revealing"
+    },
+    {
+      "item": "witchery:brew_of_the_depths"
+    },
+    {
+      "item": "witchery:brew_of_raising"
+    },
+    {
+      "item": "witchery:brew_of_the_grotesque"
+    }
+  ],
+  "content": [
+    {
+      "text": "guide.integrated_boogaloo.entry.witchery_brews.body_1"
+    },
+    {
+      "display": "integrated_boogaloo:guide/cauldron_brew"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.witchery_brews.body_2"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.witchery_brews.body_3"
+    }
+  ]
+}

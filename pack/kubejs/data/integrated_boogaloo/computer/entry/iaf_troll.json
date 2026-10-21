@@ -1,0 +1,68 @@
+{
+  "green_tint": false,
+  "type": "entity",
+  "category": "bestiary_wild",
+  "folder": "integrated_boogaloo:bestiary",
+  "sort_order": 140,
+  "entity": "iceandfire:troll",
+  "cover_entity": "iceandfire:troll",
+  "rotation": 45,
+  "title": "guide.integrated_boogaloo.entry.iaf_troll.title",
+  "subtitle": "guide.integrated_boogaloo.entry.iaf_troll.subtitle",
+  "description": [
+    "guide.integrated_boogaloo.entry.iaf_troll.body_1",
+    "guide.integrated_boogaloo.entry.iaf_troll.body_2",
+    "guide.integrated_boogaloo.entry.iaf_troll.body_3"
+  ],
+  "gallery_title": "guide.integrated_boogaloo.entry.iaf_troll.gallery_title",
+  "gallery": [
+    {
+      "item": "iceandfire:troll_leather_forest"
+    },
+    {
+      "item": "iceandfire:troll_leather_mountain"
+    },
+    {
+      "item": "iceandfire:troll_tusk"
+    },
+    {
+      "item": "iceandfire:troll_weapon_axe"
+    },
+    {
+      "item": "iceandfire:troll_weapon_hammer"
+    },
+    {
+      "item": "iceandfire:troll_weapon_trunk"
+    },
+    {
+      "item": "iceandfire:troll_weapon_column"
+    }
+  ],
+  "lookup": [
+    "iceandfire:forest_troll_leather_boots",
+    "iceandfire:forest_troll_leather_chestplate",
+    "iceandfire:forest_troll_leather_helmet",
+    "iceandfire:forest_troll_leather_leggings",
+    "iceandfire:frost_troll_leather_boots",
+    "iceandfire:frost_troll_leather_chestplate",
+    "iceandfire:frost_troll_leather_helmet",
+    "iceandfire:frost_troll_leather_leggings",
+    "iceandfire:mountain_troll_leather_boots",
+    "iceandfire:mountain_troll_leather_chestplate",
+    "iceandfire:mountain_troll_leather_helmet",
+    "iceandfire:mountain_troll_leather_leggings",
+    "iceandfire:troll_leather_forest",
+    "iceandfire:troll_leather_frost",
+    "iceandfire:troll_leather_mountain",
+    "iceandfire:troll_skull",
+    "iceandfire:troll_tusk",
+    "iceandfire:troll_weapon",
+    "iceandfire:troll_weapon_axe",
+    "iceandfire:troll_weapon_column",
+    "iceandfire:troll_weapon_column_forest",
+    "iceandfire:troll_weapon_column_frost",
+    "iceandfire:troll_weapon_hammer",
+    "iceandfire:troll_weapon_trunk",
+    "iceandfire:troll_weapon_trunk_frost"
+  ]
+}

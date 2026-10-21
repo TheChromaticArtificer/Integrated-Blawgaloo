@@ -1,0 +1,32 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "infinity_gauntlet:mindp"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity_gauntlet:powerp"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity_gauntlet:reality_bubble"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity_gauntlet:realityp"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity_gauntlet:soulp"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity_gauntlet:spacep"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity_gauntlet:timep"
+		}
+	]
+}

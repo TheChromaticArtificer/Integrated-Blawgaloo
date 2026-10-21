@@ -1,0 +1,13 @@
+{
+  "sender": "freightgeist@antmail.com",
+  "sender_display": "Freightgeist",
+  "sender_avatar_item": "hats:halo",
+  "subject": "The Loneliness.",
+  "body": "These cities were so beautiful. It is a shame that war caused them to be empty, although that means what is there is free for the taking.\n\nThere are fragments of old governments around. Inside, you will find a valuable power source made of Moonstone. Be careful, however. It is not the safest place.",
+  "trigger": {
+    "delay_minutes": 3,
+    "type": "advancement",
+    "value": "pastel:lategame/collect_enough_hints"
+  },
+  "once": true
+}

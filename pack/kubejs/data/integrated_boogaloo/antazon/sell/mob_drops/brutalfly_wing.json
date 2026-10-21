@@ -1,0 +1,11 @@
+{
+  "item": "antarchy:brutalfly_wing",
+  "value": 12,
+  "limit": 64,
+  "limit_reset": "minecraft_day",
+  "green_tint": false,
+  "unlock_tasks": [
+    "integrated_boogaloo:exploration/elythia/brutalfly"
+  ],
+  "unlock_mode": "any"
+}

@@ -1,0 +1,15 @@
+{
+  "type": "oritech:pulverizer",
+  "ingredients": [
+    {
+      "item": "pastel:black_leaves"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "id": "pastel:black_pigment"
+    }
+  ],
+  "time": 60
+}

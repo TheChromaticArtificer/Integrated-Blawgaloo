@@ -1,0 +1,277 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.collection.eggs_cavaryn.title",
+  "description": "task.integrated_boogaloo.collection.eggs_cavaryn.description",
+  "icon": "antarchy:hercules_beetle_spawn_egg",
+  "program": "integrated_boogaloo:collections",
+  "category": "integrated_boogaloo:collections",
+  "sort_order": 404,
+  "position": {
+    "x": 4,
+    "y": 4
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "spawn_egg_brainiac",
+      "type": "item",
+      "target": "alexscaves:spawn_egg_brainiac",
+      "description": "item.alexscaves.spawn_egg_brainiac",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spawn_egg_corrodent",
+      "type": "item",
+      "target": "alexscaves:spawn_egg_corrodent",
+      "description": "item.alexscaves.spawn_egg_corrodent",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spawn_egg_forsaken",
+      "type": "item",
+      "target": "alexscaves:spawn_egg_forsaken",
+      "description": "item.alexscaves.spawn_egg_forsaken",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spawn_egg_gammaroach",
+      "type": "item",
+      "target": "alexscaves:spawn_egg_gammaroach",
+      "description": "item.alexscaves.spawn_egg_gammaroach",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spawn_egg_gloomoth",
+      "type": "item",
+      "target": "alexscaves:spawn_egg_gloomoth",
+      "description": "item.alexscaves.spawn_egg_gloomoth",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spawn_egg_nucleeper",
+      "type": "item",
+      "target": "alexscaves:spawn_egg_nucleeper",
+      "description": "item.alexscaves.spawn_egg_nucleeper",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spawn_egg_radgill",
+      "type": "item",
+      "target": "alexscaves:spawn_egg_radgill",
+      "description": "item.alexscaves.spawn_egg_radgill",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spawn_egg_raycat",
+      "type": "item",
+      "target": "alexscaves:spawn_egg_raycat",
+      "description": "item.alexscaves.spawn_egg_raycat",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spawn_egg_tremorzilla",
+      "type": "item",
+      "target": "alexscaves:spawn_egg_tremorzilla",
+      "description": "item.alexscaves.spawn_egg_tremorzilla",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spawn_egg_underzealot",
+      "type": "item",
+      "target": "alexscaves:spawn_egg_underzealot",
+      "description": "item.alexscaves.spawn_egg_underzealot",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spawn_egg_vesper",
+      "type": "item",
+      "target": "alexscaves:spawn_egg_vesper",
+      "description": "item.alexscaves.spawn_egg_vesper",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spawn_egg_watcher",
+      "type": "item",
+      "target": "alexscaves:spawn_egg_watcher",
+      "description": "item.alexscaves.spawn_egg_watcher",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "crawling_blight_spawn_egg",
+      "type": "item",
+      "target": "antarchy:crawling_blight_spawn_egg",
+      "description": "item.antarchy.crawling_blight_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "hercules_beetle_spawn_egg",
+      "type": "item",
+      "target": "antarchy:hercules_beetle_spawn_egg",
+      "description": "item.antarchy.hercules_beetle_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "jerry_spawn_egg",
+      "type": "item",
+      "target": "antarchy:jerry_spawn_egg",
+      "description": "item.antarchy.jerry_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "molevore_spawn_egg",
+      "type": "item",
+      "target": "antarchy:molevore_spawn_egg",
+      "description": "item.antarchy.molevore_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "moleworm_spawn_egg",
+      "type": "item",
+      "target": "antarchy:moleworm_spawn_egg",
+      "description": "item.antarchy.moleworm_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "rolly_polly_spawn_egg",
+      "type": "item",
+      "target": "antarchy:rolly_polly_spawn_egg",
+      "description": "item.antarchy.rolly_polly_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "skulking_fright_spawn_egg",
+      "type": "item",
+      "target": "antarchy:skulking_fright_spawn_egg",
+      "description": "item.antarchy.skulking_fright_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spit_bug_spawn_egg",
+      "type": "item",
+      "target": "antarchy:spit_bug_spawn_egg",
+      "description": "item.antarchy.spit_bug_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "springbug_spawn_egg",
+      "type": "item",
+      "target": "antarchy:springbug_spawn_egg",
+      "description": "item.antarchy.springbug_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "stink_bug_spawn_egg",
+      "type": "item",
+      "target": "antarchy:stink_bug_spawn_egg",
+      "description": "item.antarchy.stink_bug_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "termite_spawn_egg",
+      "type": "item",
+      "target": "antarchy:termite_spawn_egg",
+      "description": "item.antarchy.termite_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "worm_spawn_egg",
+      "type": "item",
+      "target": "antarchy:worm_spawn_egg",
+      "description": "item.antarchy.worm_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spawn_egg_death_worm",
+      "type": "item",
+      "target": "iceandfire:spawn_egg_death_worm",
+      "description": "item.iceandfire.spawn_egg_death_worm",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spawn_egg_hydra",
+      "type": "item",
+      "target": "iceandfire:spawn_egg_hydra",
+      "description": "item.iceandfire.spawn_egg_hydra",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spawn_egg_troll",
+      "type": "item",
+      "target": "iceandfire:spawn_egg_troll",
+      "description": "item.iceandfire.spawn_egg_troll",
+      "count": 1,
+      "sticky": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 3500
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "id": "rare",
+          "title": "task.integrated_boogaloo.reward.rare",
+          "rewards": [
+            {
+              "type": "item_pool",
+              "pool": "integrated_boogaloo:supplies_rare",
+              "mode": "random"
+            }
+          ]
+        },
+        {
+          "id": "lucky",
+          "title": "task.integrated_boogaloo.reward.lucky",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "lucky:lucky_block",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "id": "uranium",
+          "title": "task.integrated_boogaloo.reward.uranium",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "antarchy:uranium_ingot",
+              "count": 4
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "render_mob_from_spawn_egg": false
+}

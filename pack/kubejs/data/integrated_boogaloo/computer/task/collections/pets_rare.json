@@ -1,0 +1,140 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.collection.pets_rare.title",
+  "description": "task.integrated_boogaloo.collection.pets_rare.description",
+  "icon": "inventorypets:pet_cheetah",
+  "program": "integrated_boogaloo:collections",
+  "category": "integrated_boogaloo:collections",
+  "sort_order": 603,
+  "position": {
+    "x": 3,
+    "y": 6
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "pet_cheetah",
+      "type": "item",
+      "target": "inventorypets:pet_cheetah",
+      "description": "task.integrated_boogaloo.collection.pets_rare.pet_cheetah",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pet_dingot",
+      "type": "item",
+      "target": "inventorypets:pet_dingot",
+      "description": "task.integrated_boogaloo.collection.pets_rare.pet_dingot",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pet_dubstep",
+      "type": "item",
+      "target": "inventorypets:pet_dubstep",
+      "description": "task.integrated_boogaloo.collection.pets_rare.pet_dubstep",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pet_illuminati",
+      "type": "item",
+      "target": "inventorypets:pet_illuminati",
+      "description": "task.integrated_boogaloo.collection.pets_rare.pet_illuminati",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pet_mickerson",
+      "type": "item",
+      "target": "inventorypets:pet_mickerson",
+      "description": "task.integrated_boogaloo.collection.pets_rare.pet_mickerson",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pet_mishumaa_saba",
+      "type": "item",
+      "target": "inventorypets:pet_mishumaa_saba",
+      "description": "task.integrated_boogaloo.collection.pets_rare.pet_mishumaa_saba",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pet_pingot",
+      "type": "item",
+      "target": "inventorypets:pet_pingot",
+      "description": "task.integrated_boogaloo.collection.pets_rare.pet_pingot",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pet_purplicious_cow",
+      "type": "item",
+      "target": "inventorypets:pet_purplicious_cow",
+      "description": "task.integrated_boogaloo.collection.pets_rare.pet_purplicious_cow",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pet_qcm",
+      "type": "item",
+      "target": "inventorypets:pet_qcm",
+      "description": "task.integrated_boogaloo.collection.pets_rare.pet_qcm",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pet_siamese",
+      "type": "item",
+      "target": "inventorypets:pet_siamese",
+      "description": "task.integrated_boogaloo.collection.pets_rare.pet_siamese",
+      "count": 1,
+      "sticky": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 2500
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "id": "rare",
+          "title": "task.integrated_boogaloo.reward.rare",
+          "rewards": [
+            {
+              "type": "item_pool",
+              "pool": "integrated_boogaloo:supplies_rare",
+              "mode": "random"
+            }
+          ]
+        },
+        {
+          "id": "lucky",
+          "title": "task.integrated_boogaloo.reward.lucky",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "lucky:lucky_block",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "id": "uranium",
+          "title": "task.integrated_boogaloo.reward.uranium",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "antarchy:uranium_ingot",
+              "count": 4
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

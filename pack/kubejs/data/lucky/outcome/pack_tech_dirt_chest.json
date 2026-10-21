@@ -1,0 +1,28 @@
+{
+  "type": "lucky:group",
+  "luck": 0,
+  "chance": 1.25,
+  "outcomes": [
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} times 5 50 15"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} subtitle {\"text\": \"...it's a dirt chest\", \"color\": \"gray\"}"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} title {\"text\": \"TREASURE!\", \"color\": \"gold\", \"bold\": true}"
+    },
+    {
+      "type": "lucky:block",
+      "state_provider": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+          "Name": "ironchest:dirt_chest"
+        }
+      }
+    }
+  ]
+}

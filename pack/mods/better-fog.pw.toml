@@ -1,0 +1,13 @@
+name = "Better Fog"
+filename = "betterfog-neoforge-1.21.1-2.6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9a66220520c06195234f7cc69f44f4d989327a08"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8938115
+project-id = 836630

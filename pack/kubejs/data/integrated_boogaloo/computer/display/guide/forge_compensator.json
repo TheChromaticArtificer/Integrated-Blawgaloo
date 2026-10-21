@@ -1,0 +1,31 @@
+{
+  "template": "integrated_boogaloo:guide/templates/atomic_forge",
+  "values": {
+    "title": "literal:Atomic Forge: Heisenberg Compensator",
+    "inputs": [
+      {
+        "type": "slot",
+        "item": "marvel:adamantium_ingot",
+        "role": "input"
+      },
+      {
+        "type": "slot",
+        "item": "oritech:super_ai_chip",
+        "role": "input"
+      },
+      {
+        "type": "slot",
+        "item": "oritech:unholy_intelligence",
+        "role": "input"
+      }
+    ],
+    "outputs": [
+      {
+        "type": "slot",
+        "item": "oritech:heisenberg_compensator",
+        "role": "output"
+      }
+    ],
+    "duration": "literal:Time: 20s"
+  }
+}

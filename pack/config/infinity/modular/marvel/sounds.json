@@ -1,0 +1,216 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "marvel:empty"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:entity.iron_man_sentry.enter"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:entity.iron_man_sentry.exit"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:entity.iron_man_suit_part.equip"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:entity.red_skull.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:entity.red_skull.shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:entity.winter_soldier.target"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:item.iron_man_mark_5_suitcase.use"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:item.mjolnir.catch"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:item.mjolnir.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:item.mjolnir.hit_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:item.mjolnir.throw"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:item.space_stone.teleport"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:item.stormbreaker.catch"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:item.stormbreaker.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:item.stormbreaker.hit_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:item.stormbreaker.throw"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:item.tesseract.teleport"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:item.tesseract_crossbow.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:item.tesseract_crossbow.loading_end"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:item.tesseract_crossbow.loading_middle"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:item.tesseract_crossbow.loading_start"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:item.tesseract_crossbow.shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:item.vibranium_shield.catch"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:item.vibranium_shield.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:item.vibranium_shield.throw"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:suit.ant_man.grow"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:suit.ant_man.helmet_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:suit.ant_man.helmet_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:suit.ant_man.shrink"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:suit.captain_marvel.photon_blast"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:suit.captain_marvel.photon_blast_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:suit.cyclops.optic_blast"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:suit.cyclops.optic_blast_big"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:suit.cyclops.optic_blast_explosion"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:suit.iron_man.helmet_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:suit.iron_man.helmet_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:suit.iron_man.invisible"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:suit.iron_man.repulsor_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:suit.iron_man.repulsor_shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:suit.iron_man.unibeam_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:suit.iron_man.unibeam_shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:suit.iron_man.visible"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:suit.kinetic_black_panther.helmet_down"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:suit.kinetic_black_panther.helmet_up"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:suit.kinetic_black_panther.suit_down"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:suit.kinetic_black_panther.suit_up"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:suit.quicksilver.sonic_boom"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:suit.spider_man.spider_sense"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:suit.spider_man.web_shoot"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:suit.wasp.sting"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:suit.wolverine.claws_in"
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:suit.wolverine.claws_out"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "createcybernetics:grafting_table",
+  "wetware": [
+    {
+      "item": "createcybernetics:bodypart_lungs"
+    },
+    {
+      "item": "iceandfire:fire_dragon_blood"
+    }
+  ],
+  "result": {
+    "id": "createcybernetics:wetware_firebreathinglungs",
+    "count": 1
+  }
+}

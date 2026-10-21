@@ -1,0 +1,41 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.storage_disk_16384k.title",
+  "description": "task.integrated_boogaloo.storage_disk_16384k.description",
+  "showcase": [
+    "@recipe:extradisks:16384k_item_storage_disk"
+  ],
+  "icon": "extradisks:16384k_item_storage_disk",
+  "program": "integrated_boogaloo:storage",
+  "category": "integrated_boogaloo:storage",
+  "sort_order": 7,
+  "position": {
+    "x": 6,
+    "y": 0
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:storage/disk_256k"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "extradisks:16384k_item_storage_disk",
+      "description": "task.integrated_boogaloo.storage_disk_16384k.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 500
+    },
+    {
+      "type": "item",
+      "item": "extradisks:16384k_item_storage_part",
+      "count": 1
+    }
+  ],
+  "line_axis": "horizontal"
+}

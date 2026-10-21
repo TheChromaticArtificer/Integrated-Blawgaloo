@@ -1,0 +1,39 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.marvel_engineering_x_genes.title",
+  "description": "task.integrated_boogaloo.marvel_engineering_x_genes.description",
+  "showcase": [
+    "@recipe:marvel:x_genes"
+  ],
+  "icon": "marvel:x_genes",
+  "program": "integrated_boogaloo:super_serums",
+  "category": "integrated_boogaloo:super_serums",
+  "sort_order": 50,
+  "position": {
+    "x": 1,
+    "y": 1
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:marvel_engineering/blood_sample"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "integrated_boogaloo:deadpool/has_x_genes",
+      "description": "task.integrated_boogaloo.marvel_engineering_x_genes.goal",
+      "count": 1
+    }
+  ],
+  "archive_entries": [
+    "integrated_boogaloo:serum_lab"
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 50
+    }
+  ],
+  "line_axis": "horizontal"
+}

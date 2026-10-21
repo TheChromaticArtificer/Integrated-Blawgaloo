@@ -1,0 +1,169 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "epic:epic_temple",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "epic:epic_temple"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "epic:epic_temple_large",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "epic:epic_temple_large"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "epic:epic_temple_ruin",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "epic:epic_temple_ruin"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "epic:ice_obelisk",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "epic:ice_obelisk"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "epic:large_dungeon",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "epic:large_dungeon"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "epic:large_ice_dungeon",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "epic:large_ice_dungeon"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "epic:large_sand_dungeon",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "epic:large_sand_dungeon"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "epic:medium_ice_dungeon",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "epic:medium_ice_dungeon"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "epic:medium_plains_dungeon",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "epic:medium_plains_dungeon"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "epic:medium_sand_dungeon",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "epic:medium_sand_dungeon"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "epic:plains_obelisk",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "epic:plains_obelisk"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "epic:sand_obelisk",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "epic:sand_obelisk"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "epic:small_ice_dungeon",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "epic:small_ice_dungeon"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "epic:small_plains_dungeon",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "epic:small_plains_dungeon"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "epic:small_sand_dungeon",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "epic:small_sand_dungeon"
+			}
+		}
+	]
+}

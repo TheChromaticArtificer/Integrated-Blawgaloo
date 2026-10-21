@@ -1,0 +1,32 @@
+{
+  "name": "book.pastel.guidebook.boogaloo.blood_crystal.name",
+  "condition": {
+    "type": "modonomicon:advancement",
+    "advancement_id": "pastel:hidden/collect_raw_bloodstone"
+  },
+  "icon": {
+    "item": "antarchy:blood_crystal_shard"
+  },
+  "category": "pastel:creating_life",
+  "hide_while_locked": true,
+  "parents": [
+    {
+      "entry": "pastel:creating_life/resplendent_feathers"
+    }
+  ],
+  "background_u_index": 0,
+  "background_v_index": 0,
+  "x": 8,
+  "y": 3,
+  "turnin": "pastel:grow_bloodstone_in_crystallarieum",
+  "pages": [
+    {
+      "type": "modonomicon:spotlight",
+      "title": "book.pastel.guidebook.boogaloo.blood_crystal.name",
+      "item": {
+        "item": "antarchy:blood_crystal_shard"
+      },
+      "text": "book.pastel.guidebook.boogaloo.blood_crystal.page0"
+    }
+  ]
+}

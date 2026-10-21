@@ -1,0 +1,243 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "pastel:city_below",
+			"data": {
+				"step": "underground_decoration",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"ambient": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"misc": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"water_ambient": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"axolotls": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"underground_water_creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"water_creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"id": "pastel:city_below"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:excavation_site",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+				},
+				"id": "pastel:excavation_site"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:lizard_den/basal_marble",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"type": "pastel:lizard",
+								"weight": 1,
+								"minCount": 1,
+								"maxCount": 2
+							}
+						]
+					}
+				},
+				"id": "pastel:lizard_den/basal_marble"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:lizard_den/blackslag",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"type": "pastel:lizard",
+								"weight": 1,
+								"minCount": 1,
+								"maxCount": 2
+							}
+						]
+					}
+				},
+				"id": "pastel:lizard_den/blackslag"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:lizard_den/dripstone",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"type": "pastel:lizard",
+								"weight": 1,
+								"minCount": 1,
+								"maxCount": 2
+							}
+						]
+					}
+				},
+				"id": "pastel:lizard_den/dripstone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:lizard_den/shalerite",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"type": "pastel:lizard",
+								"weight": 1,
+								"minCount": 1,
+								"maxCount": 2
+							}
+						]
+					}
+				},
+				"id": "pastel:lizard_den/shalerite"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:pedestal_ruins_deepslate",
+			"data": {
+				"step": "strongholds",
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+				},
+				"id": "pastel:pedestal_ruins_deepslate"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:pedestal_ruins_stone",
+			"data": {
+				"step": "strongholds",
+				"terrain_adaptation": "bury",
+				"spawn_overrides": {
+				},
+				"id": "pastel:pedestal_ruins_stone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:preservation_ruins",
+			"data": {
+				"step": "top_layer_modification",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+						]
+					}
+				},
+				"id": "pastel:preservation_ruins"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:undergrowth_manor",
+			"data": {
+				"step": "underground_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"ambient": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"misc": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"water_ambient": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"axolotls": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"underground_water_creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"water_creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					}
+				},
+				"id": "pastel:undergrowth_manor"
+			}
+		}
+	]
+}

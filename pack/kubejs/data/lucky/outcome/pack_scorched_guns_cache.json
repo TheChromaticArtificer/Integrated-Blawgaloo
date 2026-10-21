@@ -1,0 +1,72 @@
+{
+  "type": "lucky:random",
+  "luck": 1,
+  "chance": 1.25,
+  "outcomes": [
+    {
+      "type": "lucky:group",
+      "outcomes": [
+        {
+          "type": "lucky:item",
+          "item": "scguns:flintlock_pistol"
+        },
+        {
+          "type": "lucky:item",
+          "item": "scguns:pistol_ammo_box"
+        }
+      ]
+    },
+    {
+      "type": "lucky:group",
+      "outcomes": [
+        {
+          "type": "lucky:item",
+          "item": "scguns:combat_shotgun"
+        },
+        {
+          "type": "lucky:item",
+          "item": "scguns:shotgun_ammo_box"
+        }
+      ]
+    },
+    {
+      "type": "lucky:group",
+      "outcomes": [
+        {
+          "type": "lucky:item",
+          "item": "scguns:musket"
+        },
+        {
+          "type": "lucky:item",
+          "item": "scguns:rifle_ammo_box"
+        }
+      ]
+    },
+    {
+      "type": "lucky:group",
+      "outcomes": [
+        {
+          "type": "lucky:item",
+          "item": "scguns:flare_pistol"
+        },
+        {
+          "type": "lucky:item",
+          "item": "scguns:special_ammo_box"
+        }
+      ]
+    },
+    {
+      "type": "lucky:group",
+      "outcomes": [
+        {
+          "type": "lucky:item",
+          "item": "scguns:defender_pistol"
+        },
+        {
+          "type": "lucky:item",
+          "item": "scguns:pistol_ammo_box"
+        }
+      ]
+    }
+  ]
+}

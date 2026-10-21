@@ -1,0 +1,54 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.cavaryn_metals.title",
+  "description": "task.integrated_boogaloo.cavaryn_metals.description",
+  "showcase": [
+    "@item:antarchy:broodstone_titanium_ore",
+    "@recipe:antarchy:broodstone_titanium_ore"
+  ],
+  "icon": "antarchy:broodstone_titanium_ore",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:cavaryn",
+  "sort_order": 11,
+  "position": {
+    "x": 0,
+    "y": 2
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "integrated_boogaloo:dimension/metal",
+      "description": "task.integrated_boogaloo.cavaryn_metals.goal",
+      "count": 1
+    },
+    {
+      "id": "ti",
+      "type": "item",
+      "target": "antarchy:titanium_ingot",
+      "description": "task.integrated_boogaloo.cavaryn_metals.ti",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "u",
+      "type": "item",
+      "target": "antarchy:uranium_ingot",
+      "description": "task.integrated_boogaloo.cavaryn_metals.u",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "item",
+      "item": "antarchy:titanium_nugget",
+      "count": 9
+    },
+    {
+      "type": "antcoins",
+      "amount": 10
+    }
+  ]
+}

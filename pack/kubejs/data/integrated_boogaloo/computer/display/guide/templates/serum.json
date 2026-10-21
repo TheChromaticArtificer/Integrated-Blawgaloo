@@ -1,0 +1,99 @@
+{
+  "version": 1,
+  "width": 250,
+  "height": 88,
+  "variables": {
+    "title": {
+      "type": "string"
+    },
+    "inputs": {
+      "type": "array"
+    },
+    "outputs": {
+      "type": "array"
+    },
+    "duration": {
+      "type": "string",
+      "default": "literal:"
+    },
+    "station_item": {
+      "type": "string",
+      "default": "oritech:assembler_block"
+    },
+    "where": {
+      "type": "string",
+      "default": "literal:In the Assembler"
+    }
+  },
+  "title": "$title",
+  "elements": [
+    {
+      "type": "group",
+      "x": 6,
+      "y": 8,
+      "layout": "grid",
+      "columns": 4,
+      "cell_width": 20,
+      "cell_height": 20,
+      "elements": "$inputs"
+    },
+    {
+      "type": "arrow",
+      "x": 92,
+      "y": 17,
+      "x2": 108,
+      "y2": 17
+    },
+    {
+      "type": "item",
+      "x": 112,
+      "y": 6,
+      "size": 22,
+      "item": "$station_item",
+      "tooltip": "$where"
+    },
+    {
+      "type": "arrow",
+      "x": 138,
+      "y": 17,
+      "x2": 154,
+      "y2": 17
+    },
+    {
+      "type": "group",
+      "x": 160,
+      "y": 8,
+      "layout": "grid",
+      "columns": 1,
+      "cell_width": 20,
+      "cell_height": 20,
+      "elements": "$outputs"
+    },
+    {
+      "type": "text",
+      "x": 6,
+      "y": 34,
+      "width": 240,
+      "text": "$where",
+      "color": "muted"
+    },
+    {
+      "type": "text",
+      "x": 6,
+      "y": 46,
+      "width": 240,
+      "text": "$duration",
+      "color": "muted"
+    },
+    {
+      "type": "text",
+      "x": 6,
+      "y": 60,
+      "width": 240,
+      "text": "literal:Most serums start with X-Genes from a villager's blood.",
+      "color": "muted"
+    }
+  ],
+  "reflow": true,
+  "auto_height": true
+}

@@ -1,0 +1,21 @@
+{
+  "type": "createcybernetics:engineering_deconstruct",
+  "inputs": [
+    {
+      "item": "createcybernetics:brainupgrades_iceprotocol"
+    },
+    {
+      "item": "createcybernetics:scavenged_iceprotocol"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "antarchy:titanium_nugget",
+      "count": 16
+    },
+    {
+      "id": "oritech:silicon",
+      "count": 2
+    }
+  ]
+}

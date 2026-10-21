@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "boogaloo_core:shrine_center"
+		},
+		{
+			"weight": 1.0,
+			"key": "boogaloo_core:spotted/glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "boogaloo_core:torches"
+		}
+	]
+}

@@ -1,0 +1,35 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.super_serums_gambit.title",
+  "description": "task.integrated_boogaloo.super_serums_gambit.description",
+  "showcase": [
+    "@recipe:integrated_superheroes:syringe_kinetic_charge_remy_lebeau"
+  ],
+  "icon": "integrated_superheroes:syringe_kinetic_charge_remy_lebeau",
+  "program": "integrated_boogaloo:super_serums",
+  "category": "integrated_boogaloo:super_serums",
+  "sort_order": 41,
+  "position": {
+    "x": 13,
+    "y": 1
+  },
+  "availability": "automatic",
+  "archive_entries": [
+    "integrated_boogaloo:serum_gambit"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "integrated_boogaloo:deadpool/syringe_gambit",
+      "description": "task.integrated_boogaloo.super_serums_gambit.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 75
+    }
+  ]
+}

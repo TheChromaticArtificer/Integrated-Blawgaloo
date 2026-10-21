@@ -1,0 +1,72 @@
+{
+  "type": "lucky:group",
+  "luck": -2,
+  "chance": 0.06,
+  "outcomes": [
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} times 5 50 15"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} subtitle {\"text\": \"It's your turn\", \"color\": \"gray\"}"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} title {\"text\": \"Death Comes Knocking\", \"color\": \"dark_gray\", \"bold\": true}"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/time set 18000"
+    },
+    {
+      "type": "lucky:effect",
+      "status_effect": {
+        "id": "minecraft:darkness",
+        "amplifier": 0,
+        "duration": 120
+      }
+    },
+    {
+      "type": "lucky:random",
+      "outcomes": [
+        {
+          "type": "lucky:entity",
+          "entity_type": "witchery:death",
+          "reinit": true,
+          "pos": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}+5"
+          ],
+          "delay": 40,
+          "weight": 2
+        },
+        {
+          "type": "lucky:entity",
+          "entity_type": "witchery:lilith",
+          "reinit": true,
+          "pos": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}+5"
+          ],
+          "delay": 40,
+          "weight": 1
+        },
+        {
+          "type": "lucky:entity",
+          "entity_type": "witchery:horned_huntsman",
+          "reinit": true,
+          "pos": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}+5"
+          ],
+          "delay": 40,
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

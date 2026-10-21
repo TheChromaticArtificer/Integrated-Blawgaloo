@@ -1,0 +1,41 @@
+{
+  "green_tint": false,
+  "type": "article",
+  "category": "general",
+  "folder": "integrated_boogaloo:witchcraft",
+  "sort_order": 115,
+  "title": "guide.integrated_boogaloo.entry.witchery_viltrumites.title",
+  "subtitle": "guide.integrated_boogaloo.entry.witchery_viltrumites.subtitle",
+  "cover_item": "witchery:otherwhere_chalk",
+  "gallery": [
+    {
+      "item": "witchery:otherwhere_chalk"
+    },
+    {
+      "item": "witchery:infernal_chalk"
+    },
+    {
+      "item": "witchery:taglock"
+    },
+    {
+      "item": "minecraft:nether_star"
+    }
+  ],
+  "content": [
+    {
+      "text": "guide.integrated_boogaloo.entry.witchery_viltrumites.body_1"
+    },
+    {
+      "display": "integrated_boogaloo:guide/rites_viltrum"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.witchery_viltrumites.body_2"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.witchery_viltrumites.body_3"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.witchery_viltrumites.body_4"
+    }
+  ]
+}

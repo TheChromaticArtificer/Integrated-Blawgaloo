@@ -1,0 +1,33 @@
+{
+  "name": "Brain",
+  "description": "Lightly used. Previous owner wasn't using it much.",
+  "category": "black_market",
+  "green_tint": false,
+  "quantity": 1,
+  "payments": [
+    {
+      "type": "antcoins",
+      "resource": "antcoins",
+      "amount": 150
+    }
+  ],
+  "thumbnail": {
+    "item": "createcybernetics:bodypart_brain"
+  },
+  "availability": {
+    "server_stock": 0,
+    "player_limit": 2,
+    "player_limit_reset": "minecraft_day"
+  },
+  "unlock_disks": [
+    "integrated_boogaloo:antazon_after_hours"
+  ],
+  "unlock_mode": "all",
+  "hidden_until_unlocked": true,
+  "rewards": [
+    {
+      "item": "createcybernetics:bodypart_brain",
+      "count": 1
+    }
+  ]
+}

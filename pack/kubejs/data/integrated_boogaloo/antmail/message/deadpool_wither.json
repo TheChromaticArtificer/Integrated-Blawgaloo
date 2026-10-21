@@ -1,0 +1,17 @@
+{
+  "sender": "deadpool@antmail.com",
+  "sender_display": "Deadpool",
+  "sender_avatar_item": "marvel:deadpool_helmet",
+  "subject": "You made that thing",
+  "body": "YOU STACKED SOUL SAND AND THREE SKULLS AND SUMMONED A FLYING MURDER SKELETON AND THEN YOU LOOKED SURPRISED?? WHAT THE FORK DID YOU THINK IT WAS GONNA DO, HELP YOU MOVE\n\nsorry. caps lock. Now there are two idiots I have to keep alive.",
+  "trigger": {
+    "type": "advancement",
+    "value": "minecraft:nether/summon_wither",
+    "delay_minutes": 3
+  },
+  "conditions": {
+    "mail_read": [
+      "integrated_boogaloo:deadpool_intro"
+    ]
+  }
+}

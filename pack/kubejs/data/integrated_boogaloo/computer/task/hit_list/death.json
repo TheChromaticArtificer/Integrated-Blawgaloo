@@ -1,0 +1,72 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.hit_list_death.title",
+  "description": "task.integrated_boogaloo.hit_list_death.description",
+  "showcase": [
+    "@entity:witchery:death"
+  ],
+  "icon_entity": "witchery:death",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:hit_list_titans",
+  "sort_order": 220,
+  "position": {
+    "x": 2,
+    "y": 2
+  },
+  "shape": "octagon",
+  "size": 1.25,
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "kill",
+      "type": "stat",
+      "stat_type": "entity_killed",
+      "target": "witchery:death",
+      "count": 1,
+      "description": "task.integrated_boogaloo.hit_list_death.kill"
+    }
+  ],
+  "rewards": [
+    {
+      "type": "choice",
+      "options": [
+        {
+          "id": "coins",
+          "title": "task.integrated_boogaloo.reward.coins",
+          "rewards": [
+            {
+              "type": "antcoins",
+              "amount": 800
+            }
+          ]
+        },
+        {
+          "id": "crate",
+          "title": "task.integrated_boogaloo.reward.prestige",
+          "rewards": [
+            {
+              "type": "item_pool",
+              "pool": "integrated_boogaloo:prestige",
+              "mode": "random"
+            }
+          ]
+        },
+        {
+          "id": "lucky",
+          "title": "task.integrated_boogaloo.reward.lucky",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "lucky:lucky_block",
+              "count": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "experience_levels",
+      "levels": 20
+    }
+  ]
+}

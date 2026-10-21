@@ -1,0 +1,63 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.engineering_accelerator.title",
+  "description": "task.integrated_boogaloo.engineering_accelerator.description",
+  "showcase": [
+    "@item:oritech:accelerator_controller",
+    "@recipe:oritech:accelerator_controller"
+  ],
+  "icon": "oritech:accelerator_controller",
+  "program": "integrated_boogaloo:engineering",
+  "category": "integrated_boogaloo:engineering",
+  "sort_order": 25,
+  "position": {
+    "x": 9,
+    "y": 2
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:engineering/superconductor",
+    "integrated_boogaloo:pastel_basics/ruin"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "integrated_boogaloo:engineering/accelerator",
+      "description": "task.integrated_boogaloo.engineering_accelerator.goal",
+      "count": 1
+    },
+    {
+      "id": "ring",
+      "type": "item",
+      "target": "oritech:accelerator_ring",
+      "description": "task.integrated_boogaloo.engineering_accelerator.ring",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "dust",
+      "type": "item",
+      "target": "pastel:bedrock_dust",
+      "description": "task.integrated_boogaloo.engineering_accelerator.dust",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "item_pool",
+      "pool": "integrated_boogaloo:supplies_rare",
+      "mode": "random"
+    },
+    {
+      "type": "antcoins",
+      "amount": 60
+    },
+    {
+      "type": "archive",
+      "entry": "integrated_boogaloo:tech_accelerator"
+    }
+  ],
+  "line_axis": "horizontal"
+}

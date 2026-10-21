@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "summoned": {
+      "trigger": "minecraft:summoned_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:copper_golem"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

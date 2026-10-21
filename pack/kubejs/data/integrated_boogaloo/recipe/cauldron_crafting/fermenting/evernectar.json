@@ -1,0 +1,76 @@
+{
+  "type": "witchery:cauldron_crafting",
+  "altarPower": 500,
+  "inputItems": [
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "pastel:liquid_crystal_bucket"
+      },
+      "order": 0
+    },
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "pastel:nectardew_burgeon"
+      },
+      "order": 1
+    },
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "pastel:pure_coal"
+      },
+      "order": 2
+    },
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "pastel:pure_coal"
+      },
+      "order": 3
+    },
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "pastel:frostbite_essence"
+      },
+      "order": 4
+    },
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "pastel:frostbite_essence"
+      },
+      "order": 5
+    },
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "pastel:star_fragment"
+      },
+      "order": 6
+    },
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "alexscaves:uranium_shard"
+      },
+      "order": 7
+    }
+  ],
+  "outputItems": [
+    {
+      "id": "pastel:evernectar",
+      "count": 1
+    }
+  ]
+}

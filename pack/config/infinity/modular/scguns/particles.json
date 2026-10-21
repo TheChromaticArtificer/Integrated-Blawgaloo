@@ -1,0 +1,92 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "scguns:acid_bubble"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:bearpack_shell"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:beowulf_impact"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:blood"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:brass_casing"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:copper_casing"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:diamond_steel_casing"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:green_flame"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:iron_casing"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:laser"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:plasma_explosion"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:plasma_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:ramrod_impact"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:rocket_explosion"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:rocket_trail"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:shell"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:shulk_casing"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:small_laser"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:sonic_blast"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:sulfur_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:sulfur_smoke"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:turret_muzzle_flash"
+		}
+	]
+}

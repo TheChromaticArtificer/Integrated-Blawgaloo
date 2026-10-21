@@ -1,0 +1,182 @@
+{
+  "structures": [
+    {
+      "structure": "ati_structures:castillo",
+      "weight": 2
+    },
+    {
+      "structure": "ati_structures:catalonian_castle",
+      "weight": 2
+    },
+    {
+      "structure": "ati_structures:marble_chateau",
+      "weight": 2
+    },
+    {
+      "structure": "ati_structures:fortified_temple",
+      "weight": 2
+    },
+    {
+      "structure": "ati_structures:steam_house",
+      "weight": 2
+    },
+    {
+      "structure": "ati_structures:ati_stoneworks",
+      "weight": 2
+    },
+    {
+      "structure": "ati_structures:granite_fort",
+      "weight": 2
+    },
+    {
+      "structure": "ati_structures:manor",
+      "weight": 2
+    },
+    {
+      "structure": "ati_structures:woodland_keep",
+      "weight": 2
+    },
+    {
+      "structure": "ati_structures:ruined_castle",
+      "weight": 2
+    },
+    {
+      "structure": "ati_structures:old_residence",
+      "weight": 2
+    },
+    {
+      "structure": "ati_structures:tavern",
+      "weight": 2
+    },
+    {
+      "structure": "ati_structures:villager_inn",
+      "weight": 2
+    },
+    {
+      "structure": "ati_structures:quarry",
+      "weight": 2
+    },
+    {
+      "structure": "ati_structures:arachnid_dwelling",
+      "weight": 2
+    },
+    {
+      "structure": "epic:epic_temple",
+      "weight": 2
+    },
+    {
+      "structure": "epic:epic_temple_large",
+      "weight": 1
+    },
+    {
+      "structure": "ati_structures:ancient_temple",
+      "weight": 2
+    },
+    {
+      "structure": "ati_structures:jungle_settlement",
+      "weight": 2
+    },
+    {
+      "structure": "ati_structures:jungle_grotto",
+      "weight": 2
+    },
+    {
+      "structure": "ati_structures:desert_outpost",
+      "weight": 2
+    },
+    {
+      "structure": "ati_structures:old_fort",
+      "weight": 2
+    },
+    {
+      "structure": "ati_structures:sinking_temple",
+      "weight": 2
+    },
+    {
+      "structure": "scguns:osgood_lab",
+      "weight": 2
+    },
+    {
+      "structure": "scguns:asgharian_citadel",
+      "weight": 2
+    },
+    {
+      "structure": "createcybernetics:lab",
+      "weight": 2
+    },
+    {
+      "structure": "iceandfire:gorgon_temple",
+      "weight": 2
+    },
+    {
+      "structure": "iceandfire:mausoleum",
+      "weight": 2
+    },
+    {
+      "structure": "iceandfire:fire_dragon_roost",
+      "weight": 2
+    },
+    {
+      "structure": "iceandfire:ice_dragon_roost",
+      "weight": 2
+    },
+    {
+      "structure": "iceandfire:lightning_dragon_roost",
+      "weight": 2
+    },
+    {
+      "structure": "wan_ancient_beasts:mesa_temple",
+      "weight": 2
+    },
+    {
+      "structure": "wan_ancient_beasts:ruined_castle",
+      "weight": 2
+    },
+    {
+      "structure": "wan_ancient_beasts:digsite_large_badlands",
+      "weight": 1
+    },
+    {
+      "structure": "wan_ancient_beasts:digsite_large_desert",
+      "weight": 1
+    },
+    {
+      "structure": "wan_ancient_beasts:digsite_large_savanna",
+      "weight": 1
+    },
+    {
+      "structure": "wan_ancient_beasts:digsite_large_jungle",
+      "weight": 1
+    },
+    {
+      "structure": "wan_ancient_beasts:digsite_large_plains",
+      "weight": 1
+    },
+    {
+      "structure": "wan_ancient_beasts:digsite_large_taiga",
+      "weight": 1
+    },
+    {
+      "structure": "wan_ancient_beasts:digsite_large_oldgrowthtaiga",
+      "weight": 1
+    },
+    {
+      "structure": "wan_ancient_beasts:digsite_large_peaks",
+      "weight": 1
+    },
+    {
+      "structure": "wan_ancient_beasts:digsite_large_icespikes",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 52,
+    "separation": 24,
+    "salt": 1640215803,
+    "exclusion_zone": {
+      "other_set": "bda:hooligan_villages",
+      "chunk_count": 8
+    }
+  }
+}

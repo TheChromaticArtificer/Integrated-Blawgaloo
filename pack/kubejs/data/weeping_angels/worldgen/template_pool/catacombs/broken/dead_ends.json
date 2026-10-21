@@ -1,0 +1,69 @@
+{
+  "name": "weeping_angels:catacombs/broken/dead_ends",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "weeping_angels:catacomb/dead_ends/catacomb_hallway_broken_5_empty",
+        "processors": "integrated_boogaloo:structures/weeping_angels/catacombs"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "weeping_angels:catacomb/dead_ends/catacomb_hallway_broken_5",
+        "processors": "integrated_boogaloo:structures/weeping_angels/catacombs"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "weeping_angels:catacomb/dead_ends/catacomb_hallway_broken_5_dead",
+        "processors": "integrated_boogaloo:structures/weeping_angels/catacombs"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "weeping_angels:catacomb/dead_ends/house",
+        "processors": "integrated_boogaloo:structures/weeping_angels/catacombs"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "weeping_angels:catacomb/dead_ends/skull_deadend",
+        "processors": "integrated_boogaloo:structures/weeping_angels/catacombs"
+      }
+    },
+    {
+      "weight": 7,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "weeping_angels:catacomb/dead_ends/skull_deadend_2",
+        "processors": "integrated_boogaloo:structures/weeping_angels/catacombs"
+      }
+    },
+    {
+      "weight": 6,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "weeping_angels:catacomb/dead_ends/skull_deadend_3",
+        "processors": "integrated_boogaloo:structures/weeping_angels/catacombs"
+      }
+    }
+  ]
+}

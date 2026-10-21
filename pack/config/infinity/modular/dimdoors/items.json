@@ -1,0 +1,2428 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dimdoors:amalgam_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:amalgam_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:amalgam_lump"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:amalgam_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:amalgam_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:amalgam_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:amalgam_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:black_ancient_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:black_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:black_glazed_terracotta_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:black_glazed_terracotta_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:black_glazed_terracotta_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:black_glazed_terracotta_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:black_glazed_terracotta_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:black_glazed_terracotta_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:black_terracotta_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:black_terracotta_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:black_terracotta_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:black_terracotta_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:black_terracotta_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:black_terracotta_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:blue_ancient_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:blue_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:blue_glazed_terracotta_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:blue_glazed_terracotta_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:blue_glazed_terracotta_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:blue_glazed_terracotta_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:blue_glazed_terracotta_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:blue_glazed_terracotta_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:blue_terracotta_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:blue_terracotta_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:blue_terracotta_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:blue_terracotta_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:blue_terracotta_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:blue_terracotta_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:brown_ancient_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:brown_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:brown_glazed_terracotta_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:brown_glazed_terracotta_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:brown_glazed_terracotta_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:brown_glazed_terracotta_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:brown_glazed_terracotta_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:brown_glazed_terracotta_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:brown_terracotta_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:brown_terracotta_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:brown_terracotta_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:brown_terracotta_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:brown_terracotta_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:brown_terracotta_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:clay_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:clay_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:clay_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:clay_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:clay_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:clay_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:clod"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:clod_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:clod_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:creepy_record"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:cyan_ancient_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:cyan_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:cyan_glazed_terracotta_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:cyan_glazed_terracotta_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:cyan_glazed_terracotta_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:cyan_glazed_terracotta_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:cyan_glazed_terracotta_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:cyan_glazed_terracotta_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:cyan_terracotta_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:cyan_terracotta_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:cyan_terracotta_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:cyan_terracotta_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:cyan_terracotta_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:cyan_terracotta_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:dark_sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:dark_sand_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:dark_sand_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:dark_sand_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:dark_sand_layer"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:dark_sand_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:dark_sand_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:dark_sand_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:deepslate_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:deepslate_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:deepslate_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:deepslate_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:deepslate_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:deepslate_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:dimensional_eraser"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:driftwood_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:driftwood_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:driftwood_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:driftwood_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:driftwood_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:driftwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:driftwood_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:driftwood_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:driftwood_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:driftwood_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:driftwood_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:driftwood_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:end_stone_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:end_stone_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:end_stone_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:end_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:end_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:end_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:enduring_fibers"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:eternal_fluid_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:fabric_of_finality"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:frayed_filament"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:fuzzy_fireball"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:garment_of_reality_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:garment_of_reality_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:garment_of_reality_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:garment_of_reality_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:gravel_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:gravel_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:gravel_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:gravel_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:gravel_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:gravel_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:gray_ancient_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:gray_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:gray_glazed_terracott_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:gray_glazed_terracott_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:gray_glazed_terracott_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:gray_glazed_terracott_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:gray_glazed_terracott_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:gray_glazed_terracott_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:gray_terracotta_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:gray_terracotta_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:gray_terracotta_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:gray_terracotta_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:gray_terracotta_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:gray_terracotta_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:green_ancient_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:green_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:green_glazed_terracotta_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:green_glazed_terracotta_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:green_glazed_terracotta_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:green_glazed_terracotta_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:green_glazed_terracotta_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:green_glazed_terracotta_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:green_terracotta_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:green_terracotta_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:green_terracotta_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:green_terracotta_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:green_terracotta_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:green_terracotta_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:gritty_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:infrangible_fiber"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_abyssal_decor_bellmetal_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_abyssal_decor_blackwood_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_abyssal_decor_blackwood_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_abyssal_decor_blood_coral_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_abyssal_decor_blood_coral_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_abyssal_decor_brick_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_abyssal_decor_cinnamon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_abyssal_decor_cinnamon_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_abyssal_decor_deepbronze_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_abyssal_decor_deepbronze_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_abyssal_decor_dull_iron_bar_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_abyssal_decor_dull_iron_bar_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_abyssal_decor_dull_iron_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_abyssal_decor_dull_iron_railing_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_abyssal_decor_dull_iron_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_abyssal_decor_dull_iron_vent_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_abyssal_decor_gilded_black_pearl_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_abyssal_decor_gilded_black_pearl_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_abyssal_decor_iron_push_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_abyssal_decor_iron_vent_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_abyssal_decor_mossy_stone_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_abyssal_decor_ornate_dull_iron_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_abyssal_decor_ornate_stone_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_abyssal_decor_seabrass_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_abyssal_decor_seabrass_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_abyssal_decor_stone_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_abyssal_decor_white_pearl_bar_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_abyssal_decor_white_pearl_bar_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_abyssal_decor_white_wood_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_abyssal_decor_white_wood_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_alexscaves_pewen_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_alexscaves_pewen_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_alexscaves_thornwood_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_alexscaves_thornwood_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_antarchy_nadir_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_antarchy_nadir_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_antarchy_ouranwood_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_antarchy_ouranwood_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_antarchy_peach_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_antarchy_peach_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_antarchy_royal_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_antarchy_royal_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_antarchy_titanium_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_antarchy_titanium_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_antarchy_truffalo_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_antarchy_truffalo_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_antarchy_uranium_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_antarchy_uranium_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_dimdoors_amalgam_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_dimdoors_amalgam_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_dimdoors_driftwood_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_dimdoors_driftwood_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_dimdoors_gold_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_dimdoors_quartz_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_dimdoors_stone_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_acacia_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_acacia_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_airlock_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_airlock_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_bamboo_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_bamboo_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_birch_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_birch_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_black_curtain"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_blue_curtain"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_bostwick_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_brown_curtain"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_bunker_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_camo_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_camo_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_cherry_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_cherry_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_copper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_copper_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_crimson_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_crimson_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_custom_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_custom_rotating_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_cyan_curtain"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_dark_oak_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_dark_oak_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_exposed_copper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_exposed_copper_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_factory_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_forcefield_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_gray_curtain"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_green_curtain"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_iron_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_iron_sliding_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_iron_sliding_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_iron_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_jail_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_jail_swing_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_jungle_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_jungle_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_laboratory_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_light_blue_curtain"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_light_gray_curtain"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_lime_curtain"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_magenta_curtain"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_mangrove_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_mangrove_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_metal_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_oak_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_oak_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_office_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_orange_curtain"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_oxidized_copper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_oxidized_copper_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_pink_curtain"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_purple_curtain"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_red_curtain"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_reinforced_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_saloon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_shoji_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_sliding_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_spruce_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_spruce_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_warped_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_warped_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_waxed_copper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_waxed_copper_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_waxed_exposed_copper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_waxed_exposed_copper_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_waxed_oxidized_copper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_waxed_oxidized_copper_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_waxed_weathered_copper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_waxed_weathered_copper_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_weathered_copper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_weathered_copper_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_white_curtain"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_wood_accordion_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_wood_sliding_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_wood_sliding_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_wooden_french_sliding_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_malisisdoorsreborn_yellow_curtain"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_acacia_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_acacia_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_bamboo_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_bamboo_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_birch_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_birch_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_cherry_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_cherry_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_copper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_copper_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_crimson_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_crimson_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_dark_oak_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_dark_oak_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_exposed_copper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_exposed_copper_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_iron_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_iron_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_jungle_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_jungle_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_mangrove_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_mangrove_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_oak_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_oak_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_oxidized_copper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_oxidized_copper_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_pale_oak_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_pale_oak_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_poplar_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_poplar_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_spruce_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_spruce_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_warped_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_warped_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_waxed_copper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_waxed_copper_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_waxed_exposed_copper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_waxed_exposed_copper_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_waxed_oxidized_copper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_waxed_oxidized_copper_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_waxed_weathered_copper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_waxed_weathered_copper_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_weathered_copper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_minecraft_weathered_copper_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_natures_spirit_aspen_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_natures_spirit_aspen_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_natures_spirit_blooming_paper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_natures_spirit_blooming_paper_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_natures_spirit_cedar_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_natures_spirit_cedar_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_natures_spirit_coconut_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_natures_spirit_coconut_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_natures_spirit_cypress_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_natures_spirit_cypress_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_natures_spirit_fir_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_natures_spirit_fir_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_natures_spirit_framed_paper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_natures_spirit_framed_paper_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_natures_spirit_ghaf_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_natures_spirit_ghaf_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_natures_spirit_joshua_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_natures_spirit_joshua_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_natures_spirit_larch_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_natures_spirit_larch_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_natures_spirit_mahogany_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_natures_spirit_mahogany_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_natures_spirit_maple_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_natures_spirit_maple_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_natures_spirit_olive_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_natures_spirit_olive_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_natures_spirit_palo_verde_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_natures_spirit_palo_verde_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_natures_spirit_paper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_natures_spirit_paper_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_natures_spirit_redwood_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_natures_spirit_redwood_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_natures_spirit_saxaul_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_natures_spirit_saxaul_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_natures_spirit_sugi_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_natures_spirit_sugi_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_natures_spirit_willow_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_natures_spirit_willow_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_natures_spirit_wisteria_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_natures_spirit_wisteria_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_netherexp_claret_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_netherexp_claret_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_pastel_chestnut_noxwood_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_pastel_chestnut_noxwood_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_pastel_ebony_noxwood_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_pastel_ebony_noxwood_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_pastel_ivory_noxwood_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_pastel_ivory_noxwood_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_pastel_slate_noxwood_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_pastel_slate_noxwood_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_pastel_weeping_gala_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_pastel_weeping_gala_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_securitycraft_keypad_door_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_securitycraft_keypad_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_securitycraft_reinforced_iron_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_securitycraft_scanner_door_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_securitycraft_scanner_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_supplementaries_gold_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_supplementaries_gold_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_supplementaries_netherite_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_supplementaries_netherite_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_wan_ancient_beasts_ginkgo_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_wan_ancient_beasts_ginkgo_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_witchery_alder_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_witchery_alder_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_witchery_hawthorn_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_witchery_hawthorn_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_witchery_rowan_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:item_ag_dim_witchery_rowan_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:leak_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:light_blue_ancient_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:light_blue_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:light_blue_glazed_terracotta_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:light_blue_glazed_terracotta_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:light_blue_glazed_terracotta_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:light_blue_glazed_terracotta_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:light_blue_glazed_terracotta_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:light_blue_glazed_terracotta_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:light_blue_terracotta_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:light_blue_terracotta_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:light_blue_terracotta_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:light_blue_terracotta_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:light_blue_terracotta_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:light_blue_terracotta_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:light_gray_ancient_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:light_gray_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:light_gray_glazed_terracott_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:light_gray_glazed_terracott_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:light_gray_glazed_terracott_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:light_gray_glazed_terracott_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:light_gray_glazed_terracott_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:light_gray_glazed_terracott_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:light_gray_terr_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:light_gray_terr_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:light_gray_terr_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:light_gray_terr_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:light_gray_terr_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:light_gray_terr_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:lime_ancient_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:lime_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:lime_glazed_terracotta_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:lime_glazed_terracotta_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:lime_glazed_terracotta_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:lime_glazed_terracotta_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:lime_glazed_terracotta_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:lime_glazed_terracotta_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:lime_terracotta_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:lime_terracotta_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:lime_terracotta_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:lime_terracotta_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:lime_terracotta_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:lime_terracotta_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:liminal_lint"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:lint_layer"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:magenta_ancient_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:magenta_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:magenta_glazed_terracotta_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:magenta_glazed_terracotta_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:magenta_glazed_terracotta_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:magenta_glazed_terracotta_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:magenta_glazed_terracotta_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:magenta_glazed_terracotta_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:magenta_terracotta_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:magenta_terracotta_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:magenta_terracotta_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:magenta_terracotta_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:magenta_terracotta_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:magenta_terracotta_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:mask_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:mask_wand"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:mud_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:mud_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:mud_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:mud_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:mud_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:mud_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:netherrack_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:netherrack_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:netherrack_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:netherrack_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:netherrack_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:netherrack_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:orange_ancient_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:orange_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:orange_glazed_terracotta_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:orange_glazed_terracotta_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:orange_glazed_terracotta_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:orange_glazed_terracotta_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:orange_glazed_terracotta_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:orange_glazed_terracotta_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:orange_terracotta_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:orange_terracotta_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:orange_terracotta_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:orange_terracotta_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:orange_terracotta_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:orange_terracotta_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:pale_sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:pink_ancient_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:pink_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:pink_glazed_terracotta_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:pink_glazed_terracotta_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:pink_glazed_terracotta_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:pink_glazed_terracotta_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:pink_glazed_terracotta_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:pink_glazed_terracotta_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:pink_terracotta_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:pink_terracotta_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:pink_terracotta_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:pink_terracotta_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:pink_terracotta_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:pink_terracotta_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:purple_ancient_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:purple_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:purple_glazed_terracotta_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:purple_glazed_terracotta_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:purple_glazed_terracotta_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:purple_glazed_terracotta_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:purple_glazed_terracotta_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:purple_glazed_terracotta_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:purple_terracotta_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:purple_terracotta_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:purple_terracotta_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:purple_terracotta_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:purple_terracotta_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:purple_terracotta_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:quartz_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:reality_sponge"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:red_ancient_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:red_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:red_glazed_terracotta_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:red_glazed_terracotta_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:red_glazed_terracotta_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:red_glazed_terracotta_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:red_glazed_terracotta_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:red_glazed_terracotta_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:red_sand_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:red_sand_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:red_sand_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:red_sand_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:red_sand_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:red_sand_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:red_terracotta_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:red_terracotta_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:red_terracotta_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:red_terracotta_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:red_terracotta_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:red_terracotta_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:rift_blade"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:rift_configuration_tool"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:rift_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:rift_pearl"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:rift_remover"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:rift_stabilizer"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:rust"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:sand_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:sand_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:sand_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:sand_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:sand_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:sand_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:solid_static"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:stable_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:stone_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:terracotta_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:terracotta_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:terracotta_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:terracotta_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:terracotta_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:terracotta_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:they_stare_back_record"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:unraveled_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:unraveled_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:unraveled_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:unraveled_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:unraveled_spike"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:unraveled_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:unraveled_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:unravelled_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:white_ancient_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:white_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:white_glazed_terracotta_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:white_glazed_terracotta_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:white_glazed_terracotta_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:white_glazed_terracotta_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:white_glazed_terracotta_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:white_glazed_terracotta_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:white_terracotta_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:white_terracotta_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:white_terracotta_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:white_terracotta_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:white_terracotta_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:white_terracotta_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:white_void_record"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:world_thread"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:world_thread_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:world_thread_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:world_thread_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:world_thread_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:yellow_ancient_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:yellow_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:yellow_glazed_terracotta_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:yellow_glazed_terracotta_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:yellow_glazed_terracotta_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:yellow_glazed_terracotta_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:yellow_glazed_terracotta_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:yellow_glazed_terracotta_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:yellow_terracotta_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:yellow_terracotta_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:yellow_terracotta_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:yellow_terracotta_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:yellow_terracotta_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:yellow_terracotta_wall"
+		}
+	]
+}

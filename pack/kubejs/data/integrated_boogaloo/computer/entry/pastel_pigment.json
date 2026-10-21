@@ -1,0 +1,92 @@
+{
+  "green_tint": false,
+  "type": "item",
+  "category": "pastel_basics",
+  "folder": "integrated_boogaloo:world_of_color",
+  "sort_order": 60,
+  "title": "guide.integrated_boogaloo.entry.pastel_pigment.title",
+  "subtitle": "guide.integrated_boogaloo.entry.pastel_pigment.subtitle",
+  "item": "pastel:magenta_pigment",
+  "gallery": [
+    {
+      "item": "pastel:white_pigment"
+    },
+    {
+      "item": "pastel:orange_pigment"
+    },
+    {
+      "item": "pastel:magenta_pigment"
+    },
+    {
+      "item": "pastel:light_blue_pigment"
+    },
+    {
+      "item": "pastel:yellow_pigment"
+    },
+    {
+      "item": "pastel:lime_pigment"
+    },
+    {
+      "item": "pastel:pink_pigment"
+    },
+    {
+      "item": "pastel:gray_pigment"
+    },
+    {
+      "item": "pastel:light_gray_pigment"
+    },
+    {
+      "item": "pastel:cyan_pigment"
+    },
+    {
+      "item": "pastel:purple_pigment"
+    },
+    {
+      "item": "pastel:blue_pigment"
+    },
+    {
+      "item": "pastel:brown_pigment"
+    },
+    {
+      "item": "pastel:green_pigment"
+    },
+    {
+      "item": "pastel:red_pigment"
+    },
+    {
+      "item": "pastel:black_pigment"
+    }
+  ],
+  "lookup": [
+    "pastel:black_leaves",
+    "pastel:blue_leaves",
+    "pastel:brown_leaves",
+    "pastel:cyan_leaves",
+    "pastel:gray_leaves",
+    "pastel:green_leaves",
+    "pastel:light_blue_leaves",
+    "pastel:light_gray_leaves",
+    "pastel:lime_leaves",
+    "pastel:magenta_leaves",
+    "pastel:orange_leaves",
+    "pastel:pink_leaves",
+    "pastel:purple_leaves",
+    "pastel:red_leaves",
+    "pastel:white_leaves",
+    "pastel:yellow_leaves"
+  ],
+  "content": [
+    {
+      "text": "guide.integrated_boogaloo.entry.pastel_pigment.body_1"
+    },
+    {
+      "display": "integrated_boogaloo:guide/anvil_crushing"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.pastel_pigment.body_2"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.pastel_pigment.body_3"
+    }
+  ]
+}

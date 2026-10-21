@@ -1,0 +1,10 @@
+{
+  "type": {
+    "type": "databank:item",
+    "hidden_as": "minecraft:oak_sapling",
+    "original": "pastel:gray_sapling"
+  },
+  "condition": {
+    "type": "databank:always_true"
+  }
+}

@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "gravestone:gravestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "gravestone:obituary"
+		}
+	]
+}

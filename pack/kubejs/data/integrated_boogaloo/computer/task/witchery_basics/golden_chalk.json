@@ -1,0 +1,50 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.witchery_golden_chalk.title",
+  "description": "task.integrated_boogaloo.witchery_golden_chalk.description",
+  "showcase": [
+    "@item:witchery:golden_ritual_chalk",
+    "@recipe:witchery:golden_ritual_chalk"
+  ],
+  "icon": "witchery:golden_ritual_chalk",
+  "program": "integrated_boogaloo:witchcraft",
+  "category": "integrated_boogaloo:witchcraft",
+  "sort_order": 11,
+  "position": {
+    "x": 6,
+    "y": 1
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:witchery_basics/first_chalk",
+    "integrated_boogaloo:witchery_basics/first_cauldron"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "witchery:golden_chalk",
+      "description": "task.integrated_boogaloo.witchery_golden_chalk.goal",
+      "count": 1
+    },
+    {
+      "id": "root",
+      "type": "item",
+      "target": "witchery:mandrake_root",
+      "description": "task.integrated_boogaloo.witchery_golden_chalk.root",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "item",
+      "item": "antarchy:uranium_nugget",
+      "count": 6
+    }
+  ],
+  "line_axis": "horizontal",
+  "archive_entries": [
+    "integrated_boogaloo:witchery_rituals"
+  ]
+}

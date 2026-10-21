@@ -1,0 +1,36 @@
+{
+  "type": "witchery:cauldron_crafting",
+  "altarPower": 500,
+  "inputItems": [
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "pastel:infused_beverage"
+      },
+      "order": 0
+    },
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "minecraft:blaze_powder"
+      },
+      "order": 1
+    },
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "pastel:incandescent_amalgam"
+      },
+      "order": 2
+    }
+  ],
+  "outputItems": [
+    {
+      "id": "pastel:pure_alcohol",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,2844 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:alluaudia"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:alluaudia_bundle"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:anemone"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:aspen_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:aspen_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:aspen_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:aspen_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:aspen_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:aspen_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:aspen_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:aspen_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:aspen_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:aspen_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:aspen_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:aspen_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:aspen_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:aspen_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:aspen_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:aspen_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:aspen_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:aureate_succulent"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:azolla"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:beach_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:begonia"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:black_chalk"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:black_chalk_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:black_chalk_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:black_iris"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:black_kaolin"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:black_kaolin_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:black_kaolin_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:black_kaolin_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:black_kaolin_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:black_kaolin_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:black_paper_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:bleeding_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:blooming_paper_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:blooming_paper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:blooming_paper_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:blooming_paper_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:blue_bulbs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:blue_chalk"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:blue_chalk_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:blue_chalk_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:blue_iris"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:blue_kaolin"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:blue_kaolin_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:blue_kaolin_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:blue_kaolin_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:blue_kaolin_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:blue_kaolin_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:blue_paper_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:blue_wisteria_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:blue_wisteria_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:blue_wisteria_vines"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:bluebell"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:brown_chalk"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:brown_chalk_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:brown_chalk_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:brown_kaolin"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:brown_kaolin_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:brown_kaolin_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:brown_kaolin_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:brown_kaolin_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:brown_kaolin_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:brown_paper_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:calcite_cluster"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:calcite_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:carnation"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cattail"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cedar_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cedar_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cedar_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cedar_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cedar_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cedar_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cedar_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cedar_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cedar_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cedar_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cedar_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cedar_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cedar_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cedar_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cedar_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cedar_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cedar_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:chalk_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cheese_arrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cheese_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:chert"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:chert_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:chert_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:chert_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:chert_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:chert_coal_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:chert_copper_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:chert_diamond_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:chert_emerald_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:chert_gold_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:chert_iron_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:chert_lapis_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:chert_redstone_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:chert_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:chert_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:chert_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:chert_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:chert_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:chert_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:chiseled_chert"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:chiseled_pink_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:chiseled_travertine"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cobbled_travertine"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cobbled_travertine_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cobbled_travertine_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cobbled_travertine_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:coconut"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:coconut_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:coconut_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:coconut_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:coconut_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:coconut_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:coconut_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:coconut_half"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:coconut_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:coconut_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:coconut_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:coconut_mosaic"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:coconut_mosaic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:coconut_mosaic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:coconut_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:coconut_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:coconut_shell"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:coconut_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:coconut_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:coconut_sprout"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:coconut_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:coconut_thatch"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:coconut_thatch_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:coconut_thatch_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:coconut_thatch_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:coconut_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:coconut_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cracked_chert_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cracked_chert_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cracked_travertine_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cracked_travertine_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cut_pink_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cut_pink_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cyan_chalk"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cyan_chalk_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cyan_chalk_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cyan_kaolin"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cyan_kaolin_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cyan_kaolin_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cyan_kaolin_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cyan_kaolin_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cyan_kaolin_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cyan_paper_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cypress_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cypress_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cypress_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cypress_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cypress_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cypress_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cypress_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cypress_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cypress_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cypress_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cypress_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cypress_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cypress_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cypress_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cypress_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cypress_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:cypress_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:desert_turnip"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:desert_turnip_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:desert_turnip_root_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:drowsy_succulent"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:dwarf_blossoms"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:evergreen_thatch"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:evergreen_thatch_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:evergreen_thatch_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:evergreen_thatch_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:fir_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:fir_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:fir_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:fir_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:fir_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:fir_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:fir_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:fir_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:fir_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:fir_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:fir_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:fir_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:fir_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:fir_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:fir_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:fir_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:fir_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:flaxen_fern"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:foamy_succulent"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:foxglove"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:framed_paper_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:framed_paper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:framed_paper_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:framed_paper_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:frigid_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:frosty_fir_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:frosty_redwood_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:gardenia"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:ghaf_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:ghaf_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:ghaf_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:ghaf_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:ghaf_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:ghaf_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:ghaf_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:ghaf_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:ghaf_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:ghaf_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:ghaf_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:ghaf_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:ghaf_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:ghaf_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:ghaf_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:ghaf_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:ghaf_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:gray_chalk"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:gray_chalk_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:gray_chalk_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:gray_kaolin"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:gray_kaolin_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:gray_kaolin_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:gray_kaolin_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:gray_kaolin_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:gray_kaolin_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:gray_paper_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:gray_polypore"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:gray_polypore_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:green_bearberries"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:green_bitter_sprouts"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:green_chalk"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:green_chalk_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:green_chalk_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:green_kaolin"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:green_kaolin_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:green_kaolin_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:green_kaolin_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:green_kaolin_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:green_kaolin_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:green_paper_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:half_pizza"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:helvola_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:helvola_pad"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:hibiscus"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:imperial_succulent"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:joshua_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:joshua_bundle"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:joshua_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:joshua_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:joshua_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:joshua_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:joshua_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:joshua_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:joshua_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:joshua_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:joshua_mosaic"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:joshua_mosaic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:joshua_mosaic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:joshua_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:joshua_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:joshua_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:joshua_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:joshua_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:joshua_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:joshua_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:kaolin"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:kaolin_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:kaolin_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:kaolin_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:kaolin_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:kaolin_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:larch_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:larch_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:larch_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:larch_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:larch_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:larch_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:larch_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:larch_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:larch_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:larch_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:larch_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:larch_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:larch_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:larch_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:larch_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:larch_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:larch_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:large_calcite_bud"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:large_flaxen_fern"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:large_lush_fern"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:lavender"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:light_blue_chalk"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:light_blue_chalk_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:light_blue_chalk_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:light_blue_kaolin"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:light_blue_kaolin_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:light_blue_kaolin_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:light_blue_kaolin_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:light_blue_kaolin_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:light_blue_kaolin_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:light_blue_paper_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:light_gray_chalk"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:light_gray_chalk_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:light_gray_chalk_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:light_gray_kaolin"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:light_gray_kaolin_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:light_gray_kaolin_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:light_gray_kaolin_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:light_gray_kaolin_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:light_gray_kaolin_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:light_gray_paper_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:lime_chalk"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:lime_chalk_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:lime_chalk_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:lime_kaolin"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:lime_kaolin_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:lime_kaolin_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:lime_kaolin_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:lime_kaolin_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:lime_kaolin_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:lime_paper_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:lotus_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:lotus_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:lush_fern"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:magenta_chalk"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:magenta_chalk_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:magenta_chalk_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:magenta_kaolin"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:magenta_kaolin_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:magenta_kaolin_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:magenta_kaolin_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:magenta_kaolin_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:magenta_kaolin_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:magenta_paper_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:mahogany_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:mahogany_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:mahogany_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:mahogany_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:mahogany_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:mahogany_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:mahogany_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:mahogany_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:mahogany_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:mahogany_mosaic"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:mahogany_mosaic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:mahogany_mosaic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:mahogany_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:mahogany_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:mahogany_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:mahogany_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:mahogany_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:mahogany_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:mahogany_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:mahogany_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:maple_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:maple_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:maple_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:maple_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:maple_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:maple_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:maple_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:maple_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:maple_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:maple_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:maple_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:maple_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:maple_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:maple_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:maple_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:marigold"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:melic_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:mossy_cobbled_travertine"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:mossy_cobbled_travertine_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:mossy_cobbled_travertine_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:mossy_cobbled_travertine_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:mossy_travertine_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:mossy_travertine_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:mossy_travertine_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:mossy_travertine_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:oat_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:olive_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:olive_branch"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:olive_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:olive_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:olive_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:olive_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:olive_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:olive_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:olive_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:olive_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:olive_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:olive_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:olive_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:olive_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:olive_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:olive_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:olive_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:olive_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:olives"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:orange_chalk"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:orange_chalk_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:orange_chalk_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:orange_kaolin"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:orange_kaolin_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:orange_kaolin_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:orange_kaolin_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:orange_kaolin_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:orange_kaolin_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:orange_maple_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:orange_maple_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:orange_paper_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:ornate_succulent"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:palo_verde_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:palo_verde_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:palo_verde_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:palo_verde_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:palo_verde_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:palo_verde_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:palo_verde_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:palo_verde_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:palo_verde_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:palo_verde_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:palo_verde_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:palo_verde_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:palo_verde_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:palo_verde_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:palo_verde_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:palo_verde_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:palo_verde_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:paper_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:paper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:paper_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:paper_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:paper_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:paper_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:paper_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:part_blue_wisteria_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:part_pink_wisteria_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:part_purple_wisteria_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:part_white_wisteria_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:pink_chalk"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:pink_chalk_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:pink_chalk_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:pink_kaolin"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:pink_kaolin_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:pink_kaolin_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:pink_kaolin_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:pink_kaolin_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:pink_kaolin_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:pink_paper_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:pink_sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:pink_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:pink_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:pink_sandstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:pink_sandstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:pink_wisteria_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:pink_wisteria_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:pink_wisteria_vines"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:polished_chert"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:polished_chert_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:polished_chert_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:polished_chert_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:polished_travertine"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:polished_travertine_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:polished_travertine_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:polished_travertine_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:protea"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:purple_bearberries"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:purple_bitter_sprouts"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:purple_chalk"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:purple_chalk_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:purple_chalk_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:purple_heather"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:purple_kaolin"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:purple_kaolin_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:purple_kaolin_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:purple_kaolin_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:purple_kaolin_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:purple_kaolin_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:purple_paper_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:purple_wildflower"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:purple_wisteria_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:purple_wisteria_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:purple_wisteria_vines"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:quarter_pizza"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:red_bearberries"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:red_bitter_sprouts"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:red_chalk"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:red_chalk_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:red_chalk_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:red_heather"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:red_kaolin"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:red_kaolin_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:red_kaolin_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:red_kaolin_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:red_kaolin_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:red_kaolin_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:red_maple_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:red_maple_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:red_moss_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:red_moss_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:red_paper_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:redwood_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:redwood_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:redwood_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:redwood_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:redwood_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:redwood_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:redwood_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:redwood_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:redwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:redwood_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:redwood_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:redwood_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:redwood_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:redwood_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:redwood_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:redwood_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:redwood_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:regal_succulent"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:ruby_blossoms"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:sage_succulent"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:sandy_soil"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:saxaul_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:saxaul_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:saxaul_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:saxaul_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:saxaul_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:saxaul_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:saxaul_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:saxaul_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:saxaul_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:saxaul_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:saxaul_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:saxaul_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:saxaul_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:saxaul_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:saxaul_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:saxaul_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:saxaul_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:scorched_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:sedge_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:shiitake_mushroom"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:shiitake_mushroom_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:silverbush"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:small_calcite_bud"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:smooth_pink_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:smooth_pink_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:smooth_pink_sandstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:snapdragon"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:stripped_alluaudia"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:stripped_alluaudia_bundle"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:stripped_aspen_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:stripped_aspen_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:stripped_cedar_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:stripped_cedar_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:stripped_coconut_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:stripped_coconut_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:stripped_cypress_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:stripped_cypress_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:stripped_fir_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:stripped_fir_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:stripped_ghaf_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:stripped_ghaf_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:stripped_joshua_bundle"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:stripped_joshua_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:stripped_larch_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:stripped_larch_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:stripped_mahogany_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:stripped_mahogany_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:stripped_maple_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:stripped_maple_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:stripped_olive_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:stripped_olive_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:stripped_palo_verde_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:stripped_palo_verde_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:stripped_redwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:stripped_redwood_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:stripped_saxaul_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:stripped_saxaul_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:stripped_sugi_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:stripped_sugi_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:stripped_willow_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:stripped_willow_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:stripped_wisteria_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:stripped_wisteria_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:sugi_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:sugi_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:sugi_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:sugi_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:sugi_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:sugi_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:sugi_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:sugi_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:sugi_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:sugi_mosaic"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:sugi_mosaic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:sugi_mosaic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:sugi_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:sugi_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:sugi_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:sugi_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:sugi_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:sugi_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:sugi_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:sugi_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:tall_beach_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:tall_frigid_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:tall_melic_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:tall_oat_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:tall_scorched_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:tall_sedge_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:three_quarters_pizza"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:tiger_lily"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:travertine"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:travertine_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:travertine_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:travertine_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:travertine_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:travertine_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:travertine_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:travertine_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:travertine_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:travertine_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:travertine_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:white_chalk"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:white_chalk_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:white_chalk_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:white_heather"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:white_kaolin"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:white_kaolin_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:white_kaolin_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:white_kaolin_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:white_kaolin_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:white_kaolin_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:white_paper_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:white_wisteria_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:white_wisteria_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:white_wisteria_vines"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:whole_pizza"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:willow_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:willow_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:willow_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:willow_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:willow_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:willow_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:willow_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:willow_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:willow_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:willow_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:willow_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:willow_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:willow_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:willow_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:willow_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:willow_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:willow_vines"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:willow_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:wisteria_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:wisteria_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:wisteria_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:wisteria_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:wisteria_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:wisteria_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:wisteria_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:wisteria_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:wisteria_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:wisteria_mosaic"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:wisteria_mosaic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:wisteria_mosaic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:wisteria_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:wisteria_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:wisteria_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:wisteria_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:wisteria_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:wisteria_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:wisteria_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:xeric_thatch"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:xeric_thatch_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:xeric_thatch_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:xeric_thatch_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:yellow_aspen_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:yellow_chalk"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:yellow_chalk_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:yellow_chalk_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:yellow_kaolin"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:yellow_kaolin_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:yellow_kaolin_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:yellow_kaolin_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:yellow_kaolin_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:yellow_kaolin_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:yellow_maple_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:yellow_maple_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:yellow_paper_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:yellow_wildflower"
+		}
+	]
+}

@@ -1,0 +1,130 @@
+{
+  "type": "quiz",
+  "title": "program.integrated_boogaloo.ant_facts.title",
+  "green_tint": false,
+  "questions_per_run": 5,
+  "reward_on": "perfect",
+  "reward_limit": "once",
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 50
+    }
+  ],
+  "questions": [
+    {
+      "question": "Which ant takes you to Elythia when you right-click it?",
+      "answers": [
+        "Brown Ant",
+        "Red Ant",
+        "Termite"
+      ],
+      "correct": 0,
+      "entity": "antarchy:brown_ant"
+    },
+    {
+      "question": "Which one takes you to Cavaryn?",
+      "answers": [
+        "Termite",
+        "Brown Ant",
+        "Red Ant"
+      ],
+      "correct": 0,
+      "entity": "antarchy:termite"
+    },
+    {
+      "question": "Which one takes you to Thoraxis?",
+      "answers": [
+        "Red Ant",
+        "Termite",
+        "Brown Ant"
+      ],
+      "correct": 0,
+      "entity": "antarchy:red_ant"
+    },
+    {
+      "question": "What do you sacrifice in a Mossy Ouranwood frame to light a portal to Elythia?",
+      "answers": [
+        "A Brown Ant",
+        "A Glimmer",
+        "An emerald"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What do you feed a wild Glimmer to tame it?",
+      "answers": [
+        "A Spirit Apple",
+        "Broodfruit",
+        "Sugar"
+      ],
+      "correct": 0,
+      "entity": "antarchy:glimmer"
+    },
+    {
+      "question": "How do you carry a tame Glimmer around?",
+      "answers": [
+        "In a glass bottle",
+        "On your head",
+        "In a chest"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which Glimmer variant doesn't come from any habitat, only a lucky roll?",
+      "answers": [
+        "Ant",
+        "Frog",
+        "Elka"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What calms an injured Hercules Beetle?",
+      "answers": [
+        "Broodfruit",
+        "A Spirit Apple",
+        "Milk"
+      ],
+      "correct": 0,
+      "entity": "antarchy:hercules_beetle"
+    },
+    {
+      "question": "In Thoraxis, how does Bluestone compare to Redstone?",
+      "answers": [
+        "It reacts the opposite way",
+        "It's stronger",
+        "It's the same"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Who is immune to a Chronosphere's time field?",
+      "answers": [
+        "Kings and Queens",
+        "Glimmers",
+        "Nobody"
+      ],
+      "correct": 0,
+      "entity": "antarchy:queen"
+    },
+    {
+      "question": "Does a bed work in Thoraxis?",
+      "answers": [
+        "No, use a respawn anchor",
+        "Yes",
+        "Only at night"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What happens in Cavaryn if you stay in one spot too long?",
+      "answers": [
+        "A swarm comes for you",
+        "You fall asleep",
+        "Nothing"
+      ],
+      "correct": 0
+    }
+  ]
+}

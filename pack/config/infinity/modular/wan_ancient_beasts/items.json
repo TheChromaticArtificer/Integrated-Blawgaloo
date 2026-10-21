@@ -1,0 +1,536 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:amber_ginkgo_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:amber_ginkgo_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:amber_ginkgo_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:ancient_club"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:ancient_upgrade_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:beak_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:bellflower"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:bellflower_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:black_charger_armor"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:black_hang_glider"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:blue_charger_armor"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:blue_hang_glider"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:bones_banner_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:brown_charger_armor"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:brown_hang_glider"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:charger_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:charger_skull"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:chisel"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:cooked_ancient_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:cooked_toxlacanth"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:crusher_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:crusher_skull"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:crusher_spike"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:cyan_charger_armor"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:cyan_hang_glider"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:dino_banner_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:eater_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:eater_skull"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:eater_tooth"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:equisetum"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:equisetum_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:fall_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:fearsome_horn"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:fossil_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:frozen_ancient_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:frozen_straw_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:ginkgo_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:ginkgo_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:ginkgo_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:ginkgo_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:ginkgo_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:ginkgo_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:ginkgo_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:ginkgo_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:ginkgo_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:ginkgo_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:ginkgo_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:ginkgo_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:ginkgo_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:ginkgo_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:ginkgo_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:glider_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:glider_feather"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:glider_skull"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:gray_charger_armor"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:gray_hang_glider"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:green_charger_armor"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:green_hang_glider"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:hang_glider"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:horns_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:jaw_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:light_blue_charger_armor"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:light_blue_hang_glider"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:light_gray_charger_armor"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:light_gray_hang_glider"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:lime_charger_armor"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:lime_hang_glider"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:loot_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:magenta_charger_armor"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:magenta_hang_glider"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:moonflower"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:nasty_stew"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:nest"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:olden_moss_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:olden_moss_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:orange_charger_armor"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:orange_hang_glider"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:paleo_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:petrified_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:petrified_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:pink_charger_armor"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:pink_hang_glider"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:purple_charger_armor"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:purple_hang_glider"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:quick_red_sand_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:quick_sand_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:rafflesia"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:rafflesia_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:raider_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:raider_horn"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:raider_skull"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:raw_ancient_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:red_charger_armor"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:red_hang_glider"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:reinforced_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:shrieking_horn"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:snatcher_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:snatcher_skull"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:sniff_armor_trim_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:sniffer_skull"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:soarer_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:soarer_skull"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:spectral_horn"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:spike_armor_trim_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:spike_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:steal_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:straw_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:straw_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:straw_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:stripped_ginkgo_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:stripped_ginkgo_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:stripped_petrified_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:stripped_petrified_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:stroll_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:sundew"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:sundew_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:surfer_armor"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:surfer_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:surfer_skull"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:suspicious_ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:suspicious_red_sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:tide_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:toxlacanth"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:toxlacanth_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:verdant_ginkgo_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:verdant_ginkgo_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:verdant_ginkgo_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:walker_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:walker_skull"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:white_charger_armor"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:white_hang_glider"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:yellow_charger_armor"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:yellow_hang_glider"
+		}
+	]
+}

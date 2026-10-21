@@ -1,0 +1,38 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.collection.discography.title",
+  "description": "task.integrated_boogaloo.collection.discography.description",
+  "icon": "minecraft:jukebox",
+  "program": "integrated_boogaloo:collections",
+  "category": "integrated_boogaloo:collections",
+  "sort_order": 702,
+  "position": {
+    "x": 2,
+    "y": 7
+  },
+  "shape": "pentagon",
+  "size": 1.5,
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:collections/records_classic",
+    "integrated_boogaloo:collections/records_mixtape"
+  ],
+  "objectives": [],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 6000
+    },
+    {
+      "type": "item",
+      "item": "antarchy:rainbow_sugar",
+      "count": 1
+    },
+    {
+      "type": "item_pool",
+      "pool": "integrated_boogaloo:prestige",
+      "mode": "choice"
+    }
+  ],
+  "line_axis": "horizontal"
+}

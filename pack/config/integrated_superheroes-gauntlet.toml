@@ -1,0 +1,188 @@
+	[abilities.power]
+		overcharge = true
+		annihilationBeam = true
+		moonToss = true
+
+	[abilities.space]
+		spaceFold = true
+		dimensionalRift = true
+		singularity = true
+		banish = true
+
+	[abilities.reality]
+		transmute = true
+		gravityField = true
+		sizeShift = true
+		realityClipboard = true
+
+	[abilities.soul]
+		soulExchange = true
+		soulSever = true
+		reapRestore = true
+		soulSight = true
+
+	[abilities.time]
+		chronostasis = true
+		temporalDilation = true
+		timeField = true
+		timeSurge = true
+		rewind = true
+
+	[abilities.mind]
+		command = true
+		mindBeam = true
+		frenzy = true
+		mindLink = true
+
+	[abilities.snap]
+		infinityBeam = true
+		lifeHalvingSnap = true
+		restoreSnap = true
+		selectiveSnap = true
+
+	[cooldowns.power]
+		# Default: 400
+		# Range: 0 ~ 72000
+		overcharge = 400
+		# Default: 100
+		# Range: 0 ~ 72000
+		annihilationBeam = 100
+		# Default: 600
+		# Range: 0 ~ 72000
+		moonToss = 600
+
+	[cooldowns.space]
+		# Default: 100
+		# Range: 0 ~ 72000
+		spaceFold = 100
+		# Default: 0
+		# Range: 0 ~ 72000
+		dimensionalRift = 0
+		# Default: 600
+		# Range: 0 ~ 72000
+		singularity = 600
+		# Default: 400
+		# Range: 0 ~ 72000
+		banish = 400
+
+	[cooldowns.reality]
+		# Default: 20
+		# Range: 0 ~ 72000
+		transmute = 20
+		# Default: 200
+		# Range: 0 ~ 72000
+		gravityField = 200
+		# Default: 0
+		# Range: 0 ~ 72000
+		sizeShift = 0
+		# Default: 0
+		# Range: 0 ~ 72000
+		realityClipboard = 0
+
+	[cooldowns.soul]
+		# Default: 100
+		# Range: 0 ~ 72000
+		soulExchange = 100
+		# Default: 240
+		# Range: 0 ~ 72000
+		soulSever = 240
+		# Default: 200
+		# Range: 0 ~ 72000
+		reapRestore = 200
+		# Default: 200
+		# Range: 0 ~ 72000
+		soulSight = 200
+
+	[cooldowns.time]
+		# Default: 0
+		# Range: 0 ~ 72000
+		chronostasis = 0
+		# Default: 100
+		# Range: 0 ~ 72000
+		temporalDilation = 100
+		# Default: 600
+		# Range: 0 ~ 72000
+		timeField = 600
+		# Default: 600
+		# Range: 0 ~ 72000
+		timeSurge = 600
+		# Default: 900
+		# Range: 0 ~ 72000
+		rewind = 900
+
+	[cooldowns.mind]
+		# Default: 300
+		# Range: 0 ~ 72000
+		command = 300
+		# Default: 100
+		# Range: 0 ~ 72000
+		mindBeam = 100
+		# Default: 400
+		# Range: 0 ~ 72000
+		frenzy = 400
+		# Default: 400
+		# Range: 0 ~ 72000
+		mindLink = 400
+
+	[cooldowns.snap]
+		# Default: 200
+		# Range: 0 ~ 72000
+		infinityBeam = 200
+		# Default: 1200
+		# Range: 0 ~ 72000
+		lifeHalvingSnap = 1200
+		# Default: 1200
+		# Range: 0 ~ 72000
+		restoreSnap = 1200
+		# Default: 1200
+		# Range: 0 ~ 72000
+		selectiveSnap = 1200
+
+[general]
+	# Default: 1.0
+	# Range: 0.1 ~ 10.0
+	powerMultiplier = 1.0
+	infinityTier = true
+	terrainGriefing = true
+	worldWideEffects = true
+	# Default: 1024
+	# Range: 16 ~ 65536
+	blockEditsPerTick = 1024
+
+[reality]
+	copyBlockEntityContents = true
+	# Default: 32768
+	# Range: 1 ~ 1048576
+	maxRegionVolume = 32768
+
+[space]
+	# Default: 5000
+	# Range: 64 ~ 1000000
+	banishDistance = 5000
+
+[soul]
+	# Default: 8
+	# Range: 0 ~ 64
+	allyCap = 8
+
+[time]
+	# Default: 10
+	# Range: 2 ~ 60
+	rewindSeconds = 10
+	# Default: 6000
+	# Range: 0 ~ 720000
+	timeLoopCooldown = 6000
+
+[timeSurge]
+	# Default: 20
+	# Range: 1 ~ 200
+	tickMultiplier = 20
+	# Default: 4
+	# Range: 1 ~ 8
+	chunkRadius = 4
+	# Default: 20
+	# Range: 0 ~ 200
+	daySpeed = 20
+	# Default: 8
+	# Range: 0 ~ 64
+	blockEntityTicks = 8

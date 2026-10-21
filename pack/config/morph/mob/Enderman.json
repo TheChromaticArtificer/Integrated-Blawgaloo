@@ -1,0 +1,15 @@
+{
+  "forEntity": "minecraft:enderman",
+  "traits": [
+    {
+      "type": "traitHostile"
+    },
+    {
+      "type": "traitWaterSensitivity"
+    },
+    {
+      "type": "abilityTeleport",
+      "distance": 32.0
+    }
+  ]
+}

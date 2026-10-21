@@ -1,0 +1,31 @@
+{
+  "green_tint": false,
+  "type": "article",
+  "category": "general",
+  "folder": "integrated_boogaloo:workshop",
+  "sort_order": 70,
+  "title": "guide.integrated_boogaloo.entry.tech_thinking_machines.title",
+  "subtitle": "guide.integrated_boogaloo.entry.tech_thinking_machines.subtitle",
+  "cover_item": "oritech:super_ai_chip",
+  "lookup": [
+    "oritech:advanced_computing_engine",
+    "oritech:silicon_wafer",
+    "oritech:unholy_intelligence",
+    "oritech:dubios_container",
+    "oritech:heisenberg_compensator"
+  ],
+  "content": [
+    {
+      "text": "guide.integrated_boogaloo.entry.tech_thinking_machines.body_1"
+    },
+    {
+      "display": "integrated_boogaloo:guide/atomic_forge"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.tech_thinking_machines.body_2"
+    },
+    {
+      "display": "integrated_boogaloo:guide/unholy"
+    }
+  ]
+}

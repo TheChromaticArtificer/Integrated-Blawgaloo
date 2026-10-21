@@ -1,0 +1,33 @@
+{
+  "type": "lucky:group",
+  "luck": 1,
+  "chance": 1.25,
+  "outcomes": [
+    {
+      "type": "lucky:message",
+      "message": {
+        "text": "Backyard BBQ!",
+        "color": "gold",
+        "bold": true
+      },
+      "overlay": true
+    },
+    {
+      "type": "lucky:item",
+      "item": "refurbished_furniture:red_grill"
+    },
+    {
+      "type": "lucky:item",
+      "item": "refurbished_furniture:red_cooler"
+    },
+    {
+      "type": "lucky:item",
+      "item": "refurbished_furniture:frying_pan"
+    },
+    {
+      "type": "lucky:item",
+      "item": "minecraft:beef",
+      "count": 6
+    }
+  ]
+}

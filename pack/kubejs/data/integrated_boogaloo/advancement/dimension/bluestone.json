@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "bluestone": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "antarchy:bluestone"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "bluestone"
+    ]
+  ]
+}

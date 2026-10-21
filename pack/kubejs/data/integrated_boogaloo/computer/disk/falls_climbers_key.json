@@ -1,0 +1,29 @@
+{
+  "category": "integrated_boogaloo:recovered",
+  "title": "guide.integrated_boogaloo.disk.falls_climbers_key.title",
+  "description": "guide.integrated_boogaloo.disk.falls_climbers_key.description",
+  "hidden": true,
+  "encryption": {
+    "password": "only way is up",
+    "password_any": [
+      "onlywayisup"
+    ],
+    "hint": "guide.integrated_boogaloo.disk.falls_climbers_key.hint"
+  },
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 300
+    }
+  ],
+  "files": [
+    {
+      "path": "climb.paint",
+      "source": "integrated_boogaloo:solemn_falls/climb.json"
+    },
+    {
+      "path": "key.txt",
+      "source": "integrated_boogaloo:solemn_falls/climbers_key.txt"
+    }
+  ]
+}

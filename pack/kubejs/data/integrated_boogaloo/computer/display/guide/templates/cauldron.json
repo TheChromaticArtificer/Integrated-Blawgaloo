@@ -1,0 +1,125 @@
+{
+  "version": 1,
+  "width": 250,
+  "height": 130,
+  "variables": {
+    "title": {
+      "type": "string"
+    },
+    "inputs": {
+      "type": "array"
+    },
+    "outputs": {
+      "type": "array"
+    },
+    "power": {
+      "type": "string"
+    }
+  },
+  "title": "$title",
+  "elements": [
+    {
+      "type": "text",
+      "x": 6,
+      "y": 4,
+      "width": 200,
+      "text": "literal:1. Fill the cauldron and light it"
+    },
+    {
+      "type": "slot",
+      "x": 6,
+      "y": 16,
+      "item": "witchery:cauldron",
+      "role": "tool"
+    },
+    {
+      "type": "slot",
+      "x": 28,
+      "y": 16,
+      "item": "minecraft:water_bucket",
+      "role": "input"
+    },
+    {
+      "type": "slot",
+      "x": 50,
+      "y": 16,
+      "item": "minecraft:flint_and_steel",
+      "role": "tool",
+      "consumption": "literal:Takes durability."
+    },
+    {
+      "type": "conditions",
+      "x": 80,
+      "y": 18,
+      "width": 166,
+      "entries": [
+        {
+          "kind": "altar_power",
+          "text": "literal:Altar nearby"
+        },
+        {
+          "kind": "fire",
+          "text": "literal:Fire under it"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "x": 6,
+      "y": 42,
+      "width": 200,
+      "text": "literal:2. Add these in order, left to right"
+    },
+    {
+      "type": "group",
+      "x": 6,
+      "y": 54,
+      "layout": "grid",
+      "columns": 8,
+      "cell_width": 20,
+      "cell_height": 20,
+      "elements": "$inputs"
+    },
+    {
+      "type": "text",
+      "x": 6,
+      "y": 80,
+      "width": 200,
+      "text": "literal:3. Bottle it or take it out"
+    },
+    {
+      "type": "slot",
+      "x": 6,
+      "y": 92,
+      "item": "minecraft:glass_bottle",
+      "role": "input"
+    },
+    {
+      "type": "arrow",
+      "x": 28,
+      "y": 101,
+      "x2": 48,
+      "y2": 101
+    },
+    {
+      "type": "group",
+      "x": 54,
+      "y": 92,
+      "layout": "grid",
+      "columns": 3,
+      "cell_width": 20,
+      "cell_height": 20,
+      "elements": "$outputs"
+    },
+    {
+      "type": "text",
+      "x": 124,
+      "y": 96,
+      "width": 124,
+      "text": "$power",
+      "color": "muted"
+    }
+  ],
+  "reflow": true,
+  "auto_height": true
+}

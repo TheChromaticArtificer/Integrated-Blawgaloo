@@ -1,0 +1,220 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.collection.pets_creature.title",
+  "description": "task.integrated_boogaloo.collection.pets_creature.description",
+  "icon": "inventorypets:pet_chicken",
+  "program": "integrated_boogaloo:collections",
+  "category": "integrated_boogaloo:collections",
+  "sort_order": 601,
+  "position": {
+    "x": 1,
+    "y": 6
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "pet_chicken",
+      "type": "item",
+      "target": "inventorypets:pet_chicken",
+      "description": "task.integrated_boogaloo.collection.pets_creature.pet_chicken",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pet_cow",
+      "type": "item",
+      "target": "inventorypets:pet_cow",
+      "description": "task.integrated_boogaloo.collection.pets_creature.pet_cow",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pet_pig",
+      "type": "item",
+      "target": "inventorypets:pet_pig",
+      "description": "task.integrated_boogaloo.collection.pets_creature.pet_pig",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pet_sheep",
+      "type": "item",
+      "target": "inventorypets:pet_sheep",
+      "description": "task.integrated_boogaloo.collection.pets_creature.pet_sheep",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pet_wolf",
+      "type": "item",
+      "target": "inventorypets:pet_wolf",
+      "description": "task.integrated_boogaloo.collection.pets_creature.pet_wolf",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pet_blaze",
+      "type": "item",
+      "target": "inventorypets:pet_blaze",
+      "description": "task.integrated_boogaloo.collection.pets_creature.pet_blaze",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pet_creeper",
+      "type": "item",
+      "target": "inventorypets:pet_creeper",
+      "description": "task.integrated_boogaloo.collection.pets_creature.pet_creeper",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pet_enderman",
+      "type": "item",
+      "target": "inventorypets:pet_enderman",
+      "description": "task.integrated_boogaloo.collection.pets_creature.pet_enderman",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pet_ghast",
+      "type": "item",
+      "target": "inventorypets:pet_ghast",
+      "description": "task.integrated_boogaloo.collection.pets_creature.pet_ghast",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pet_iron_golem",
+      "type": "item",
+      "target": "inventorypets:pet_iron_golem",
+      "description": "task.integrated_boogaloo.collection.pets_creature.pet_iron_golem",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pet_magma_cube",
+      "type": "item",
+      "target": "inventorypets:pet_magma_cube",
+      "description": "task.integrated_boogaloo.collection.pets_creature.pet_magma_cube",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pet_mooshroom",
+      "type": "item",
+      "target": "inventorypets:pet_mooshroom",
+      "description": "task.integrated_boogaloo.collection.pets_creature.pet_mooshroom",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pet_ocelot",
+      "type": "item",
+      "target": "inventorypets:pet_ocelot",
+      "description": "task.integrated_boogaloo.collection.pets_creature.pet_ocelot",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pet_pufferfish",
+      "type": "item",
+      "target": "inventorypets:pet_pufferfish",
+      "description": "task.integrated_boogaloo.collection.pets_creature.pet_pufferfish",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pet_silverfish",
+      "type": "item",
+      "target": "inventorypets:pet_silverfish",
+      "description": "task.integrated_boogaloo.collection.pets_creature.pet_silverfish",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pet_slime",
+      "type": "item",
+      "target": "inventorypets:pet_slime",
+      "description": "task.integrated_boogaloo.collection.pets_creature.pet_slime",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pet_snow_golem",
+      "type": "item",
+      "target": "inventorypets:pet_snow_golem",
+      "description": "task.integrated_boogaloo.collection.pets_creature.pet_snow_golem",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pet_spider",
+      "type": "item",
+      "target": "inventorypets:pet_spider",
+      "description": "task.integrated_boogaloo.collection.pets_creature.pet_spider",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pet_squid",
+      "type": "item",
+      "target": "inventorypets:pet_squid",
+      "description": "task.integrated_boogaloo.collection.pets_creature.pet_squid",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pet_wither",
+      "type": "item",
+      "target": "inventorypets:pet_wither",
+      "description": "task.integrated_boogaloo.collection.pets_creature.pet_wither",
+      "count": 1,
+      "sticky": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 1500
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "id": "supplies",
+          "title": "task.integrated_boogaloo.reward.supplies",
+          "rewards": [
+            {
+              "type": "item_pool",
+              "pool": "integrated_boogaloo:supplies_common",
+              "mode": "random"
+            }
+          ]
+        },
+        {
+          "id": "lucky",
+          "title": "task.integrated_boogaloo.reward.lucky",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "lucky:lucky_block",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "id": "titanium",
+          "title": "task.integrated_boogaloo.reward.titanium",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "antarchy:titanium_nugget",
+              "count": 9
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

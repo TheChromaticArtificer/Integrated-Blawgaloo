@@ -1,0 +1,17 @@
+{
+  "sender": "deadpool@antmail.com",
+  "sender_display": "Deadpool",
+  "sender_avatar_item": "marvel:deadpool_helmet",
+  "subject": "Disney princess",
+  "body": "Disney owns Marvel and Frozen now, so technically Iceman is a Disney princess and nobody can stop me from saying it. Turn on Ice Slide from the wheel and sprint, then look up to build an ice ramp into the sky like Elsa running away from her responsibilities. And skip the Monstrous Nightmares while Ice Form's on, you'll take extra damage and end up like Olaf in July.",
+  "trigger": {
+    "type": "advancement",
+    "value": "integrated_boogaloo:deadpool/syringe_iceman",
+    "delay_minutes": 2
+  },
+  "conditions": {
+    "mail_read": [
+      "integrated_boogaloo:deadpool_intro"
+    ]
+  }
+}

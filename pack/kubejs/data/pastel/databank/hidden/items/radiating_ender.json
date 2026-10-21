@@ -1,0 +1,10 @@
+{
+  "type": {
+    "type": "databank:item",
+    "hidden_as": "minecraft:cobblestone",
+    "original": "pastel:radiating_ender"
+  },
+  "condition": {
+    "type": "databank:always_true"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.locked_down_who_goes_there.title",
+  "description": "task.integrated_boogaloo.locked_down_who_goes_there.description",
+  "showcase": [
+    "@recipe:securitycraft:whitelist_module"
+  ],
+  "icon": "securitycraft:whitelist_module",
+  "program": "integrated_boogaloo:locked_down",
+  "category": "integrated_boogaloo:locked_down",
+  "sort_order": 8,
+  "position": {
+    "x": 2,
+    "y": -1
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:locked_down/keycards"
+  ],
+  "objectives": [
+    {
+      "id": "allow",
+      "type": "item",
+      "target": "securitycraft:whitelist_module",
+      "description": "task.integrated_boogaloo.locked_down_who_goes_there.allow",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "deny",
+      "type": "item",
+      "target": "securitycraft:blacklist_module",
+      "description": "task.integrated_boogaloo.locked_down_who_goes_there.deny",
+      "count": 1,
+      "sticky": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 25
+    },
+    {
+      "type": "item_pool",
+      "pool": "integrated_boogaloo:locked_down_supplies",
+      "mode": "random"
+    }
+  ],
+  "line_axis": "horizontal"
+}

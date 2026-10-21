@@ -1,0 +1,22 @@
+{
+  "green_tint": false,
+  "type": "entity",
+  "category": "bestiary_uncanny",
+  "folder": "integrated_boogaloo:bestiary",
+  "sort_order": 160,
+  "entity": "iceandfire:siren",
+  "cover_entity": "iceandfire:siren",
+  "rotation": 45,
+  "title": "guide.integrated_boogaloo.entry.iaf_siren.title",
+  "subtitle": "guide.integrated_boogaloo.entry.iaf_siren.subtitle",
+  "description": [
+    "guide.integrated_boogaloo.entry.iaf_siren.body_1",
+    "guide.integrated_boogaloo.entry.iaf_siren.body_2",
+    "guide.integrated_boogaloo.entry.iaf_siren.body_3"
+  ],
+  "lookup": [
+    "iceandfire:siren_tear",
+    "iceandfire:siren_flute",
+    "iceandfire:earplugs"
+  ]
+}

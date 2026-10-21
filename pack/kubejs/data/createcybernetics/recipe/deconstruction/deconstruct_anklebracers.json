@@ -1,0 +1,17 @@
+{
+  "type": "createcybernetics:engineering_deconstruct",
+  "inputs": [
+    {
+      "item": "createcybernetics:legupgrades_anklebracers"
+    },
+    {
+      "item": "createcybernetics:scavenged_anklebracers"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "antarchy:titanium_nugget",
+      "count": 30
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "witchery:brazier_summoning",
+  "altarPower": 500,
+  "inputItems": [
+    {
+      "count": 1,
+      "id": "witchery:wormwood"
+    },
+    {
+      "count": 1,
+      "id": "alexscaves:pure_darkness"
+    },
+    {
+      "count": 1,
+      "id": "witchery:focused_will"
+    }
+  ],
+  "outputEntities": [
+    "witchery:poltergeist"
+  ]
+}

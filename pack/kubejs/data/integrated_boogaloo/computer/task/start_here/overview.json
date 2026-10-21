@@ -1,0 +1,22 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.start_here_overview.title",
+  "description": "task.integrated_boogaloo.start_here_overview.description",
+  "showcase": [
+    "@recipe:antos:antroid_phone"
+  ],
+  "icon": "antos:antroid_phone",
+  "program": "integrated_boogaloo:start_here",
+  "category": "integrated_boogaloo:start_here",
+  "sort_order": 0,
+  "position": {
+    "x": 0,
+    "y": 0
+  },
+  "shape": "circle",
+  "size": 1.5,
+  "icon_scale": 0.9,
+  "availability": "automatic",
+  "objectives": [],
+  "rewards": []
+}

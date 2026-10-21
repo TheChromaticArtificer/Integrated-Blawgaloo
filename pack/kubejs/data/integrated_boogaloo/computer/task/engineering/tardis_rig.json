@@ -1,0 +1,48 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.engineering_tardis_rig.title",
+  "description": "task.integrated_boogaloo.engineering_tardis_rig.description",
+  "showcase": [
+    "@recipe:timevortex:rig_controller",
+    "@recipe:timevortex:rig_pylon"
+  ],
+  "icon": "timevortex:rig_controller",
+  "program": "integrated_boogaloo:engineering",
+  "category": "integrated_boogaloo:engineering",
+  "sort_order": 65,
+  "position": {
+    "x": 11,
+    "y": -3
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:engineering/tardis_dimensions"
+  ],
+  "objectives": [
+    {
+      "id": "controller",
+      "type": "item",
+      "target": "timevortex:rig_controller",
+      "description": "task.integrated_boogaloo.engineering_tardis_rig.controller",
+      "count": 1
+    },
+    {
+      "id": "pylons",
+      "type": "item",
+      "target": "timevortex:rig_pylon",
+      "description": "task.integrated_boogaloo.engineering_tardis_rig.pylons",
+      "count": 4
+    }
+  ],
+  "archive_entries": [
+    "integrated_boogaloo:tardis"
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 60
+    }
+  ],
+  "line_axis": "horizontal",
+  "shape": "pentagon"
+}

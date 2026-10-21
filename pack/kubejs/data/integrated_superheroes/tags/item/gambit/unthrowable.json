@@ -1,0 +1,2209 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:nether_star",
+    "minecraft:dragon_egg",
+    "minecraft:bundle",
+    "minecraft:elytra",
+    "minecraft:totem_of_undying",
+    "minecraft:enchanted_golden_apple",
+    "integrated_superheroes:infinity_gauntlet",
+    "integrated_superheroes:nano_gauntlet",
+    "integrated_superheroes:mind_stone",
+    "integrated_superheroes:power_stone",
+    "integrated_superheroes:reality_stone",
+    "integrated_superheroes:soul_stone",
+    "integrated_superheroes:space_stone",
+    "integrated_superheroes:time_stone",
+    {
+      "id": "integrated_superheroes:red_book",
+      "required": false
+    },
+    {
+      "id": "integrated_superheroes:netherite_arc_reactor",
+      "required": false
+    },
+    "marvellegacy:syringe_empty",
+    "marvel:x_genes",
+    {
+      "id": "#c:shulker_boxes",
+      "required": false
+    },
+    {
+      "id": "marvellegacy:syringe_spider_powers_peter_parker",
+      "required": false
+    },
+    {
+      "id": "marvellegacy:syringe_weapon_x_logan",
+      "required": false
+    },
+    {
+      "id": "marvel:space_stone",
+      "required": false
+    },
+    {
+      "id": "infinity_gauntlet:infinity_gauntlet_item",
+      "required": false
+    },
+    {
+      "id": "infinity_gauntlet:nano_gauntlet_item",
+      "required": false
+    },
+    {
+      "id": "infinity_gauntlet:power",
+      "required": false
+    },
+    {
+      "id": "infinity_gauntlet:mind",
+      "required": false
+    },
+    {
+      "id": "infinity_gauntlet:reality",
+      "required": false
+    },
+    {
+      "id": "infinity_gauntlet:soul",
+      "required": false
+    },
+    {
+      "id": "infinity_gauntlet:space",
+      "required": false
+    },
+    {
+      "id": "infinity_gauntlet:time",
+      "required": false
+    },
+    {
+      "id": "infinity_gauntlet:infinity_stone_case",
+      "required": false
+    },
+    {
+      "id": "iceandfire:gorgon_head",
+      "required": false
+    },
+    {
+      "id": "iceandfire:bestiary",
+      "required": false
+    },
+    {
+      "id": "alexscaves:cave_book",
+      "required": false
+    },
+    {
+      "id": "alexscaves:cave_codex",
+      "required": false
+    },
+    {
+      "id": "alexscaves:cave_tablet",
+      "required": false
+    },
+    {
+      "id": "alexscaves:holocoder_bound",
+      "required": false
+    },
+    {
+      "id": "alexscaves:sack_of_sating",
+      "required": false
+    },
+    {
+      "id": "alexscaves:totem_of_possession",
+      "required": false
+    },
+    {
+      "id": "alexscaves:totem_of_possession_active",
+      "required": false
+    },
+    {
+      "id": "alexscaves:totem_of_possession_bound",
+      "required": false
+    },
+    {
+      "id": "antarchy:big_bertha_blade",
+      "required": false
+    },
+    {
+      "id": "antarchy:big_bertha_handle",
+      "required": false
+    },
+    {
+      "id": "antarchy:big_bertha_hilt",
+      "required": false
+    },
+    {
+      "id": "antarchy:critter_cage_filled_colored",
+      "required": false
+    },
+    {
+      "id": "antarchy:critter_cage_filled_plain",
+      "required": false
+    },
+    {
+      "id": "antarchy:eye_of_the_storm",
+      "required": false
+    },
+    {
+      "id": "antarchy:fallen_king_crown_item",
+      "required": false
+    },
+    {
+      "id": "antarchy:fire_dragon_pet",
+      "required": false
+    },
+    {
+      "id": "antarchy:ice_dragon_pet",
+      "required": false
+    },
+    {
+      "id": "antarchy:king_scale",
+      "required": false
+    },
+    {
+      "id": "antarchy:kraken_tooth",
+      "required": false
+    },
+    {
+      "id": "antarchy:lightning_dragon_pet",
+      "required": false
+    },
+    {
+      "id": "antarchy:lucid_eye",
+      "required": false
+    },
+    {
+      "id": "antarchy:queen_scale",
+      "required": false
+    },
+    {
+      "id": "antarchy:undertrial_key",
+      "required": false
+    },
+    {
+      "id": "antos:antroid_phone",
+      "required": false
+    },
+    {
+      "id": "antos:floppy_disk",
+      "required": false
+    },
+    {
+      "id": "citadel:citadel_book",
+      "required": false
+    },
+    {
+      "id": "citadel:debug",
+      "required": false
+    },
+    {
+      "id": "citadel:effect_item",
+      "required": false
+    },
+    {
+      "id": "citadel:fancy_item",
+      "required": false
+    },
+    {
+      "id": "citadel:icon_item",
+      "required": false
+    },
+    {
+      "id": "dimdoors:rift_key",
+      "required": false
+    },
+    {
+      "id": "dog:cosmic_worm",
+      "required": false
+    },
+    {
+      "id": "extradisks:1024k_item_storage_disk",
+      "required": false
+    },
+    {
+      "id": "extradisks:1024k_item_storage_part",
+      "required": false
+    },
+    {
+      "id": "extradisks:1048576b_fluid_storage_disk",
+      "required": false
+    },
+    {
+      "id": "extradisks:1048576b_fluid_storage_part",
+      "required": false
+    },
+    {
+      "id": "extradisks:1048576k_item_storage_disk",
+      "required": false
+    },
+    {
+      "id": "extradisks:1048576k_item_storage_part",
+      "required": false
+    },
+    {
+      "id": "extradisks:16384b_fluid_storage_disk",
+      "required": false
+    },
+    {
+      "id": "extradisks:16384b_fluid_storage_part",
+      "required": false
+    },
+    {
+      "id": "extradisks:16384k_item_storage_disk",
+      "required": false
+    },
+    {
+      "id": "extradisks:16384k_item_storage_part",
+      "required": false
+    },
+    {
+      "id": "extradisks:256k_item_storage_disk",
+      "required": false
+    },
+    {
+      "id": "extradisks:256k_item_storage_part",
+      "required": false
+    },
+    {
+      "id": "extradisks:262144b_fluid_storage_disk",
+      "required": false
+    },
+    {
+      "id": "extradisks:262144b_fluid_storage_part",
+      "required": false
+    },
+    {
+      "id": "extradisks:262144k_item_storage_disk",
+      "required": false
+    },
+    {
+      "id": "extradisks:262144k_item_storage_part",
+      "required": false
+    },
+    {
+      "id": "extradisks:4096k_item_storage_disk",
+      "required": false
+    },
+    {
+      "id": "extradisks:4096k_item_storage_part",
+      "required": false
+    },
+    {
+      "id": "extradisks:65536b_fluid_storage_disk",
+      "required": false
+    },
+    {
+      "id": "extradisks:65536b_fluid_storage_part",
+      "required": false
+    },
+    {
+      "id": "extradisks:65536k_item_storage_disk",
+      "required": false
+    },
+    {
+      "id": "extradisks:65536k_item_storage_part",
+      "required": false
+    },
+    {
+      "id": "extradisks:infinite_fluid_storage_disk",
+      "required": false
+    },
+    {
+      "id": "extradisks:infinite_fluid_storage_part",
+      "required": false
+    },
+    {
+      "id": "extradisks:infinite_item_storage_disk",
+      "required": false
+    },
+    {
+      "id": "extradisks:infinite_item_storage_part",
+      "required": false
+    },
+    {
+      "id": "gravestone:obituary",
+      "required": false
+    },
+    {
+      "id": "iceandfire:deathworm_egg",
+      "required": false
+    },
+    {
+      "id": "iceandfire:deathworm_egg_giant",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragon_flute",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragon_horn",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragon_horn_fire",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragon_horn_ice",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragon_horn_lightning",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonegg_amethyst",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonegg_black",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonegg_blue",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonegg_bronze",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonegg_copper",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonegg_electric",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonegg_gray",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonegg_green",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonegg_red",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonegg_sapphire",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonegg_silver",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonegg_white",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dread_key",
+      "required": false
+    },
+    {
+      "id": "iceandfire:hippogryph_egg",
+      "required": false
+    },
+    {
+      "id": "iceandfire:summoning_crystal_fire",
+      "required": false
+    },
+    {
+      "id": "iceandfire:summoning_crystal_fire_active",
+      "required": false
+    },
+    {
+      "id": "iceandfire:summoning_crystal_ice",
+      "required": false
+    },
+    {
+      "id": "iceandfire:summoning_crystal_ice_active",
+      "required": false
+    },
+    {
+      "id": "iceandfire:summoning_crystal_lightning",
+      "required": false
+    },
+    {
+      "id": "iceandfire:summoning_crystal_lightning_active",
+      "required": false
+    },
+    {
+      "id": "infinity_gauntlet:gauntletbase_full",
+      "required": false
+    },
+    {
+      "id": "inventorypets:blue_screen",
+      "required": false
+    },
+    {
+      "id": "inventorypets:easter_egg",
+      "required": false
+    },
+    {
+      "id": "inventorypets:egg_nog",
+      "required": false
+    },
+    {
+      "id": "inventorypets:feed_bag",
+      "required": false
+    },
+    {
+      "id": "inventorypets:feed_bag_new",
+      "required": false
+    },
+    {
+      "id": "inventorypets:holiday_cookie",
+      "required": false
+    },
+    {
+      "id": "inventorypets:holiday_gift",
+      "required": false
+    },
+    {
+      "id": "inventorypets:item_petrifier",
+      "required": false
+    },
+    {
+      "id": "inventorypets:oak_leaves",
+      "required": false
+    },
+    {
+      "id": "inventorypets:patreon_head",
+      "required": false
+    },
+    {
+      "id": "inventorypets:patreon_shirt",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_anvil",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_apple",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_april_fool",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_banana",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_bed",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_biome",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_black_hole",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_blaze",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_brewing_stand",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_cheetah",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_chest",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_chicken",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_christmas_tree",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_cloud",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_cobblestone",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_cow",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_crafting_table",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_creeper",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_dingot",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_dirt",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_double_chest",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_dubstep",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_enchanting_table",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_end_portal",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_enderman",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_flying_saddle",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_furnace",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_ghast",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_heart",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_house",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_illuminati",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_iron_golem",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_juggernaut",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_jukebox",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_lead",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_loot",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_magma_cube",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_menorah",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_meta",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_meta_100",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_meta_25",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_meta_50",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_meta_75",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_meta_aoe",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_meta_fan",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_meta_mob",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_meta_peaceful",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_meta_special",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_meta_utility",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_meta_youtuber",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_mickerson",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_mishumaa_saba",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_moon",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_mooshroom",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_nether_portal",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_ocelot",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_pacman",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_pet",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_pig",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_pingot",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_pixie",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_politically_correct",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_pufferfish",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_purplicious_cow",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_qcm",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_quiver",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_saddle",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_sated_chest",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_sated_double_chest",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_sheep",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_shield",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_siamese",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_silverfish",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_slime",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_snow_golem",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_spider",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_sponge",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_squid",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_sun",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_torch",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_wither",
+      "required": false
+    },
+    {
+      "id": "inventorypets:pet_wolf",
+      "required": false
+    },
+    {
+      "id": "inventorypets:petachieve_1",
+      "required": false
+    },
+    {
+      "id": "inventorypets:petachieve_10",
+      "required": false
+    },
+    {
+      "id": "inventorypets:petachieve_20",
+      "required": false
+    },
+    {
+      "id": "inventorypets:petachieve_30",
+      "required": false
+    },
+    {
+      "id": "inventorypets:petachieve_40",
+      "required": false
+    },
+    {
+      "id": "inventorypets:petachieve_5",
+      "required": false
+    },
+    {
+      "id": "inventorypets:petachieve_50",
+      "required": false
+    },
+    {
+      "id": "inventorypets:petachieve_60",
+      "required": false
+    },
+    {
+      "id": "inventorypets:petachieve_all",
+      "required": false
+    },
+    {
+      "id": "inventorypets:petachieve_general",
+      "required": false
+    },
+    {
+      "id": "inventorypets:siamese_gift",
+      "required": false
+    },
+    {
+      "id": "inventorypets:solstice_boots",
+      "required": false
+    },
+    {
+      "id": "inventorypets:solstice_chestplate",
+      "required": false
+    },
+    {
+      "id": "inventorypets:solstice_helmet",
+      "required": false
+    },
+    {
+      "id": "inventorypets:solstice_leggings",
+      "required": false
+    },
+    {
+      "id": "inventorypets:solstice_sword",
+      "required": false
+    },
+    {
+      "id": "inventorypets:soul_sand_spawn",
+      "required": false
+    },
+    {
+      "id": "inventorypets:start_button",
+      "required": false
+    },
+    {
+      "id": "inventorypets:temp_chest",
+      "required": false
+    },
+    {
+      "id": "inventorypets:temp_double_chest",
+      "required": false
+    },
+    {
+      "id": "inventorypets:temp_feed_bag",
+      "required": false
+    },
+    {
+      "id": "inventorypets:temp_sated_chest",
+      "required": false
+    },
+    {
+      "id": "inventorypets:temp_sated_double_chest",
+      "required": false
+    },
+    {
+      "id": "inventorypets:windows_31",
+      "required": false
+    },
+    {
+      "id": "inventorypets:windows_7",
+      "required": false
+    },
+    {
+      "id": "inventorypets:windows_8",
+      "required": false
+    },
+    {
+      "id": "inventorypets:windows_me",
+      "required": false
+    },
+    {
+      "id": "inventorypets:windows_mojave",
+      "required": false
+    },
+    {
+      "id": "inventorypets:windows_xp",
+      "required": false
+    },
+    {
+      "id": "marvel:diamond_arc_reactor",
+      "required": false
+    },
+    {
+      "id": "marvel:grow",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_5_suitcase",
+      "required": false
+    },
+    {
+      "id": "marvel:optic_blast",
+      "required": false
+    },
+    {
+      "id": "marvel:palladium_arc_reactor",
+      "required": false
+    },
+    {
+      "id": "marvel:photon_blast",
+      "required": false
+    },
+    {
+      "id": "marvel:repulsor",
+      "required": false
+    },
+    {
+      "id": "marvel:repulsor_war_machine",
+      "required": false
+    },
+    {
+      "id": "marvel:shoulder_turret",
+      "required": false
+    },
+    {
+      "id": "marvel:shrink",
+      "required": false
+    },
+    {
+      "id": "marvel:sonic_boom",
+      "required": false
+    },
+    {
+      "id": "marvel:suit_power",
+      "required": false
+    },
+    {
+      "id": "marvel:unibeam",
+      "required": false
+    },
+    {
+      "id": "marvel:unibeam_war_machine",
+      "required": false
+    },
+    {
+      "id": "marvel:veronica_remote",
+      "required": false
+    },
+    {
+      "id": "marvel:veronica_satellite",
+      "required": false
+    },
+    {
+      "id": "minecraft:black_bundle",
+      "required": false
+    },
+    {
+      "id": "minecraft:black_bundle_filled",
+      "required": false
+    },
+    {
+      "id": "minecraft:blue_bundle",
+      "required": false
+    },
+    {
+      "id": "minecraft:blue_bundle_filled",
+      "required": false
+    },
+    {
+      "id": "minecraft:brown_bundle",
+      "required": false
+    },
+    {
+      "id": "minecraft:brown_bundle_filled",
+      "required": false
+    },
+    {
+      "id": "minecraft:cyan_bundle",
+      "required": false
+    },
+    {
+      "id": "minecraft:cyan_bundle_filled",
+      "required": false
+    },
+    {
+      "id": "minecraft:gray_bundle",
+      "required": false
+    },
+    {
+      "id": "minecraft:gray_bundle_filled",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_bundle",
+      "required": false
+    },
+    {
+      "id": "minecraft:green_bundle_filled",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_blue_bundle",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_blue_bundle_filled",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_gray_bundle",
+      "required": false
+    },
+    {
+      "id": "minecraft:light_gray_bundle_filled",
+      "required": false
+    },
+    {
+      "id": "minecraft:lime_bundle",
+      "required": false
+    },
+    {
+      "id": "minecraft:lime_bundle_filled",
+      "required": false
+    },
+    {
+      "id": "minecraft:magenta_bundle",
+      "required": false
+    },
+    {
+      "id": "minecraft:magenta_bundle_filled",
+      "required": false
+    },
+    {
+      "id": "minecraft:orange_bundle",
+      "required": false
+    },
+    {
+      "id": "minecraft:orange_bundle_filled",
+      "required": false
+    },
+    {
+      "id": "minecraft:pink_bundle",
+      "required": false
+    },
+    {
+      "id": "minecraft:pink_bundle_filled",
+      "required": false
+    },
+    {
+      "id": "minecraft:purple_bundle",
+      "required": false
+    },
+    {
+      "id": "minecraft:purple_bundle_filled",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_bundle",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_bundle_filled",
+      "required": false
+    },
+    {
+      "id": "minecraft:white_bundle",
+      "required": false
+    },
+    {
+      "id": "minecraft:white_bundle_filled",
+      "required": false
+    },
+    {
+      "id": "minecraft:yellow_bundle",
+      "required": false
+    },
+    {
+      "id": "minecraft:yellow_bundle_filled",
+      "required": false
+    },
+    {
+      "id": "modonomicon:leaflet",
+      "required": false
+    },
+    {
+      "id": "modonomicon:modonomicon",
+      "required": false
+    },
+    {
+      "id": "modonomicon:modonomicon_blue",
+      "required": false
+    },
+    {
+      "id": "modonomicon:modonomicon_green",
+      "required": false
+    },
+    {
+      "id": "modonomicon:modonomicon_purple",
+      "required": false
+    },
+    {
+      "id": "modonomicon:modonomicon_red",
+      "required": false
+    },
+    {
+      "id": "mts:mts.handbook_car",
+      "required": false
+    },
+    {
+      "id": "mts:mts.handbook_plane",
+      "required": false
+    },
+    {
+      "id": "mts:mts.key",
+      "required": false
+    },
+    {
+      "id": "oritech:creative_storage_block",
+      "required": false
+    },
+    {
+      "id": "oritech:creative_tank_block",
+      "required": false
+    },
+    {
+      "id": "oritech:large_storage_block",
+      "required": false
+    },
+    {
+      "id": "oritech:small_storage_block",
+      "required": false
+    },
+    {
+      "id": "oritech:small_tank_block",
+      "required": false
+    },
+    {
+      "id": "oritech:unstable_container",
+      "required": false
+    },
+    {
+      "id": "pastel:aether_graced_nectar_gloves",
+      "required": false
+    },
+    {
+      "id": "pastel:ashen_circlet",
+      "required": false
+    },
+    {
+      "id": "pastel:azure_dike_belt",
+      "required": false
+    },
+    {
+      "id": "pastel:azure_dike_ring",
+      "required": false
+    },
+    {
+      "id": "pastel:bag_of_holding",
+      "required": false
+    },
+    {
+      "id": "pastel:black_hole_chest",
+      "required": false
+    },
+    {
+      "id": "pastel:bottomless_bundle",
+      "required": false
+    },
+    {
+      "id": "pastel:bottomless_bundle_empty_locked",
+      "required": false
+    },
+    {
+      "id": "pastel:bottomless_bundle_filled",
+      "required": false
+    },
+    {
+      "id": "pastel:bottomless_bundle_filled_locked",
+      "required": false
+    },
+    {
+      "id": "pastel:celestial_pocketwatch",
+      "required": false
+    },
+    {
+      "id": "pastel:circlet_of_arrogance",
+      "required": false
+    },
+    {
+      "id": "pastel:compacting_chest",
+      "required": false
+    },
+    {
+      "id": "pastel:creative_ink_assortment",
+      "required": false
+    },
+    {
+      "id": "pastel:crescent_clock",
+      "required": false
+    },
+    {
+      "id": "pastel:crescent_clock_spinning",
+      "required": false
+    },
+    {
+      "id": "pastel:enchanter_structure_placer",
+      "required": false
+    },
+    {
+      "id": "pastel:enchantment_canvas_bound",
+      "required": false
+    },
+    {
+      "id": "pastel:ender_splice_bound",
+      "required": false
+    },
+    {
+      "id": "pastel:everpromise_ribbon",
+      "required": false
+    },
+    {
+      "id": "pastel:extended_bundle",
+      "required": false
+    },
+    {
+      "id": "pastel:fanciful_belt",
+      "required": false
+    },
+    {
+      "id": "pastel:fanciful_bismuth_ring",
+      "required": false
+    },
+    {
+      "id": "pastel:fanciful_circlet",
+      "required": false
+    },
+    {
+      "id": "pastel:fanciful_gloves",
+      "required": false
+    },
+    {
+      "id": "pastel:fanciful_pendant",
+      "required": false
+    },
+    {
+      "id": "pastel:fanciful_tuff_ring",
+      "required": false
+    },
+    {
+      "id": "pastel:fusion_shrine_structure_placer",
+      "required": false
+    },
+    {
+      "id": "pastel:gleaming_pin",
+      "required": false
+    },
+    {
+      "id": "pastel:gloves_of_dawns_grasp",
+      "required": false
+    },
+    {
+      "id": "pastel:greater_potion_pendant",
+      "required": false
+    },
+    {
+      "id": "pastel:guidebook",
+      "required": false
+    },
+    {
+      "id": "pastel:heartbound_chest",
+      "required": false
+    },
+    {
+      "id": "pastel:heartsingers_reward",
+      "required": false
+    },
+    {
+      "id": "pastel:ink_assortment",
+      "required": false
+    },
+    {
+      "id": "pastel:knowledge_gem",
+      "required": false
+    },
+    {
+      "id": "pastel:knowledge_gem_high",
+      "required": false
+    },
+    {
+      "id": "pastel:knowledge_gem_low",
+      "required": false
+    },
+    {
+      "id": "pastel:knowledge_gem_mid",
+      "required": false
+    },
+    {
+      "id": "pastel:laurels_of_serenity",
+      "required": false
+    },
+    {
+      "id": "pastel:lesser_potion_pendant",
+      "required": false
+    },
+    {
+      "id": "pastel:mysterious_locket",
+      "required": false
+    },
+    {
+      "id": "pastel:mysterious_locket_socketed",
+      "required": false
+    },
+    {
+      "id": "pastel:neat_ring",
+      "required": false
+    },
+    {
+      "id": "pastel:pedestal_tier_1_structure_placer",
+      "required": false
+    },
+    {
+      "id": "pastel:pedestal_tier_2_structure_placer",
+      "required": false
+    },
+    {
+      "id": "pastel:pedestal_tier_3_structure_placer",
+      "required": false
+    },
+    {
+      "id": "pastel:pigment_palette",
+      "required": false
+    },
+    {
+      "id": "pastel:puff_circlet",
+      "required": false
+    },
+    {
+      "id": "pastel:radiance_pin",
+      "required": false
+    },
+    {
+      "id": "pastel:shieldgrasp_amulet",
+      "required": false
+    },
+    {
+      "id": "pastel:take_off_belt",
+      "required": false
+    },
+    {
+      "id": "pastel:totem_pendant",
+      "required": false
+    },
+    {
+      "id": "pastel:tuning_stamp_linked",
+      "required": false
+    },
+    {
+      "id": "pastel:weeping_circlet",
+      "required": false
+    },
+    {
+      "id": "pastel:whispy_circlet",
+      "required": false
+    },
+    {
+      "id": "randomium:any_item",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:1024b_fluid_storage_disk",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:1024b_fluid_storage_part",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:16k_storage_disk",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:16k_storage_part",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:1k_storage_disk",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:1k_storage_part",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:256b_fluid_storage_disk",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:256b_fluid_storage_part",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:4096b_fluid_storage_disk",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:4096b_fluid_storage_part",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:4k_storage_disk",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:4k_storage_part",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:64b_fluid_storage_disk",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:64b_fluid_storage_part",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:64k_storage_disk",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:64k_storage_part",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:black_disk_interface",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:black_wireless_transmitter",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:blue_disk_interface",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:blue_wireless_transmitter",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:brown_disk_interface",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:brown_wireless_transmitter",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:configuration_card",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:cyan_disk_interface",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:cyan_wireless_transmitter",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:disk_drive",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:disk_interface",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:fallback_security_card",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:gray_disk_interface",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:gray_wireless_transmitter",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:green_disk_interface",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:green_wireless_transmitter",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:light_gray_disk_interface",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:light_gray_wireless_transmitter",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:lime_disk_interface",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:lime_wireless_transmitter",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:magenta_disk_interface",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:magenta_wireless_transmitter",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:network_card",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:orange_disk_interface",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:orange_wireless_transmitter",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:pink_disk_interface",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:pink_wireless_transmitter",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:purple_disk_interface",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:purple_wireless_transmitter",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:red_disk_interface",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:red_wireless_transmitter",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:security_card",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:white_disk_interface",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:white_wireless_transmitter",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:wireless_grid",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:wireless_transmitter",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:yellow_disk_interface",
+      "required": false
+    },
+    {
+      "id": "refinedstorage:yellow_wireless_transmitter",
+      "required": false
+    },
+    {
+      "id": "securitycraft:admin_tool",
+      "required": false
+    },
+    {
+      "id": "securitycraft:briefcase",
+      "required": false
+    },
+    {
+      "id": "securitycraft:camera_monitor",
+      "required": false
+    },
+    {
+      "id": "securitycraft:codebreaker",
+      "required": false
+    },
+    {
+      "id": "securitycraft:keycard_holder",
+      "required": false
+    },
+    {
+      "id": "securitycraft:keycard_holder_full",
+      "required": false
+    },
+    {
+      "id": "securitycraft:portable_tune_player",
+      "required": false
+    },
+    {
+      "id": "securitycraft:remote_access_mine",
+      "required": false
+    },
+    {
+      "id": "securitycraft:sc_manual",
+      "required": false
+    },
+    {
+      "id": "securitycraft:sonic_security_system",
+      "required": false
+    },
+    {
+      "id": "supplementaries:cage_full",
+      "required": false
+    },
+    {
+      "id": "supplementaries:key",
+      "required": false
+    },
+    {
+      "id": "supplementaries:quiver",
+      "required": false
+    },
+    {
+      "id": "supplementaries:quiver_dyed",
+      "required": false
+    },
+    {
+      "id": "supplementaries:sack",
+      "required": false
+    },
+    {
+      "id": "supplementaries:safe",
+      "required": false
+    },
+    {
+      "id": "tempad:card_wallet",
+      "required": false
+    },
+    {
+      "id": "tempad:card_wallet_full",
+      "required": false
+    },
+    {
+      "id": "tempad:chronometer",
+      "required": false
+    },
+    {
+      "id": "tempad:creative_chronometer",
+      "required": false
+    },
+    {
+      "id": "tempad:knowledge_projector",
+      "required": false
+    },
+    {
+      "id": "tempad:location_broadcaster",
+      "required": false
+    },
+    {
+      "id": "tempad:location_broadcaster_enabled",
+      "required": false
+    },
+    {
+      "id": "tempad:location_card_written",
+      "required": false
+    },
+    {
+      "id": "tempad:screening_device",
+      "required": false
+    },
+    {
+      "id": "tempad:screening_device_enabled",
+      "required": false
+    },
+    {
+      "id": "tempad:tempad",
+      "required": false
+    },
+    {
+      "id": "tempad:timedoor_projector_with_card",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:backpack_tank",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:bat",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:bee",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:black_sleeping_bag",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:blank_upgrade",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:blast_furnace_upgrade",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:blaze",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:blue_sleeping_bag",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:bookshelf",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:brown_sleeping_bag",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:cactus",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:cake",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:chicken",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:coal",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:cow",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:crafting_upgrade",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:creeper",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:cyan_sleeping_bag",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:diamond",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:diamond_tier_upgrade",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:dragon",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:emerald",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:end",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:enderman",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:feeding_upgrade",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:fox",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:furnace_upgrade",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:ghast",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:gold",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:gold_tier_upgrade",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:gray_sleeping_bag",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:green_sleeping_bag",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:hay",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:horse",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:hose",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:hose_drink",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:hose_nozzle",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:hose_spill",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:hose_suck",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:iron",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:iron_golem",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:iron_tier_upgrade",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:jukebox_upgrade",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:lantern_upgrade",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:lapis",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:light_blue_sleeping_bag",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:light_gray_sleeping_bag",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:lime_sleeping_bag",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:magenta_sleeping_bag",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:magma_cube",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:magnet_upgrade",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:melon",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:nether",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:netherite",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:netherite_tier_upgrade",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:ocelot",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:orange_sleeping_bag",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:pickup_upgrade",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:pig",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:pink_sleeping_bag",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:pumpkin",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:purple_sleeping_bag",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:quartz",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:red_sleeping_bag",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:redstone",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:refill_upgrade",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:sandstone",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:sheep",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:skeleton",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:smoker_upgrade",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:snow",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:spider",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:sponge",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:squid",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:standard",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:supporter_star",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:tanks_upgrade",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:travelers_backpack",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:villager",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:void_upgrade",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:warden",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:white_sleeping_bag",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:wither",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:wolf",
+      "required": false
+    },
+    {
+      "id": "travelersbackpack:yellow_sleeping_bag",
+      "required": false
+    },
+    {
+      "id": "vista:cassette",
+      "required": false
+    },
+    {
+      "id": "vista:picture_tape",
+      "required": false
+    },
+    {
+      "id": "witchery:armor_protection_poppet",
+      "required": false
+    },
+    {
+      "id": "witchery:attuned_stone",
+      "required": false
+    },
+    {
+      "id": "witchery:bark_belt",
+      "required": false
+    },
+    {
+      "id": "witchery:batwing_pendant",
+      "required": false
+    },
+    {
+      "id": "witchery:biting_belt",
+      "required": false
+    },
+    {
+      "id": "witchery:bloodstone_pendant",
+      "required": false
+    },
+    {
+      "id": "witchery:corrupt_poppet",
+      "required": false
+    },
+    {
+      "id": "witchery:coven_contract",
+      "required": false
+    },
+    {
+      "id": "witchery:death_protection_poppet",
+      "required": false
+    },
+    {
+      "id": "witchery:demonic_contract",
+      "required": false
+    },
+    {
+      "id": "witchery:dreamweaver_charm",
+      "required": false
+    },
+    {
+      "id": "witchery:gold_ring",
+      "required": false
+    },
+    {
+      "id": "witchery:guidebook",
+      "required": false
+    },
+    {
+      "id": "witchery:gulgs_gurdle",
+      "required": false
+    },
+    {
+      "id": "witchery:hags_ring",
+      "required": false
+    },
+    {
+      "id": "witchery:hags_ring_lumber",
+      "required": false
+    },
+    {
+      "id": "witchery:hags_ring_miner",
+      "required": false
+    },
+    {
+      "id": "witchery:hags_ring_reach",
+      "required": false
+    },
+    {
+      "id": "witchery:hunger_protection_poppet",
+      "required": false
+    },
+    {
+      "id": "witchery:infinity_egg",
+      "required": false
+    },
+    {
+      "id": "witchery:leonards_urn",
+      "required": false
+    },
+    {
+      "id": "witchery:mogs_quiver",
+      "required": false
+    },
+    {
+      "id": "witchery:moon_charm",
+      "required": false
+    },
+    {
+      "id": "witchery:necromantic_stone",
+      "required": false
+    },
+    {
+      "id": "witchery:poppet",
+      "required": false
+    },
+    {
+      "id": "witchery:seer_stone",
+      "required": false
+    },
+    {
+      "id": "witchery:taglock_full",
+      "required": false
+    },
+    {
+      "id": "witchery:vampiric_poppet",
+      "required": false
+    },
+    {
+      "id": "witchery:voodoo_poppet",
+      "required": false
+    },
+    {
+      "id": "witchery:voodoo_protection_poppet",
+      "required": false
+    },
+    {
+      "id": "witchery:waystone_bound",
+      "required": false
+    },
+    {
+      "id": "witchery:waystone_bound_player",
+      "required": false
+    }
+  ]
+}

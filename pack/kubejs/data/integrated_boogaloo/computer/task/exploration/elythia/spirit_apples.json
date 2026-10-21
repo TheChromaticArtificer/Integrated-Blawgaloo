@@ -1,0 +1,40 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.elythia_spirit_apples.title",
+  "description": "task.integrated_boogaloo.elythia_spirit_apples.description",
+  "showcase": [
+    "@recipe:antarchy:spirit_apple"
+  ],
+  "icon": "antarchy:spirit_apple",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:elythia",
+  "sort_order": 4,
+  "position": {
+    "x": 0,
+    "y": 1
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:exploration/elythia/arrival"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "integrated_boogaloo:dimension/spirit_apple",
+      "description": "task.integrated_boogaloo.elythia_spirit_apples.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 20
+    },
+    {
+      "type": "archive",
+      "entry": "antarchy:glimmer"
+    }
+  ],
+  "line_axis": "vertical"
+}

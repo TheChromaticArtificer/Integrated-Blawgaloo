@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "randomium:any_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "randomium:randomium"
+		},
+		{
+			"weight": 1.0,
+			"key": "randomium:randomium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "randomium:randomium_ore_deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "randomium:randomium_ore_end"
+		}
+	]
+}

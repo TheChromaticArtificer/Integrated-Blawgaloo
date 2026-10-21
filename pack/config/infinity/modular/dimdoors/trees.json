@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dimdoors:driftwood_tree",
+			"data": {
+				"Type": "tree"
+			}
+		}
+	]
+}

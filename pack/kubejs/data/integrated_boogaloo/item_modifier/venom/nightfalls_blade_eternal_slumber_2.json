@@ -1,0 +1,15 @@
+{
+  "function": "pastel:fill_potion_fillable",
+  "ambient": false,
+  "show_particles": true,
+  "duration": 400,
+  "status_effect": [
+    "pastel:eternal_slumber"
+  ],
+  "color": -1,
+  "amplifier": 1,
+  "ink_color": [
+    "pastel:purple"
+  ],
+  "ink_cost": 32
+}

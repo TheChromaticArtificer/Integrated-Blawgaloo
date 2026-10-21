@@ -1,0 +1,44 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.witchery_werewolf.title",
+  "description": "task.integrated_boogaloo.witchery_werewolf.description",
+  "showcase": [
+    "@item:witchery:wolfsbane",
+    "@recipe:witchery:wolfsbane"
+  ],
+  "icon": "witchery:wolfsbane",
+  "program": "integrated_boogaloo:witchcraft",
+  "category": "integrated_boogaloo:witchcraft",
+  "sort_order": 18,
+  "position": {
+    "x": 0,
+    "y": 3
+  },
+  "shape": "diamond",
+  "availability": "automatic",
+  "invisible_until_completed": true,
+  "requires": [
+    "integrated_boogaloo:witchery_basics/moon"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "witchery:werewolf/1",
+      "description": "task.integrated_boogaloo.witchery_werewolf.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "item",
+      "item": "lucky:lucky_block",
+      "count": 1
+    },
+    {
+      "type": "archive",
+      "entry": "integrated_boogaloo:witchery_lycanthropy"
+    }
+  ],
+  "line_axis": "vertical"
+}

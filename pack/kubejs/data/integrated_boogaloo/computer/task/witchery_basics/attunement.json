@@ -1,0 +1,61 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.witchery_attunement.title",
+  "description": "task.integrated_boogaloo.witchery_attunement.description",
+  "showcase": [
+    "@recipe:kubejs:attuned_topaz"
+  ],
+  "icon": "kubejs:attuned_topaz",
+  "program": "integrated_boogaloo:witchcraft",
+  "category": "integrated_boogaloo:witchcraft",
+  "sort_order": 5,
+  "position": {
+    "x": 3,
+    "y": 0
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:witchery_basics/first_whiff",
+    "integrated_boogaloo:pastel_basics/first_pedestal"
+  ],
+  "objectives": [
+    {
+      "id": "topaz",
+      "type": "advancement",
+      "target": "integrated_boogaloo:witchcraft/attuned_topaz",
+      "description": "task.integrated_boogaloo.witchery_attunement.topaz",
+      "count": 1
+    },
+    {
+      "id": "stone",
+      "type": "item",
+      "target": "witchery:attuned_stone",
+      "description": "task.integrated_boogaloo.witchery_attunement.stone",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "citrine",
+      "type": "item",
+      "target": "kubejs:attuned_citrine",
+      "description": "task.integrated_boogaloo.witchery_attunement.citrine",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "archive_entries": [
+    "integrated_boogaloo:pastel_pedestal"
+  ],
+  "rewards": [
+    {
+      "type": "item",
+      "item": "lucky:lucky_block",
+      "count": 1
+    },
+    {
+      "type": "archive",
+      "entry": "integrated_boogaloo:witchery_attunement"
+    }
+  ],
+  "line_axis": "horizontal"
+}

@@ -1,0 +1,47 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.locked_down_passcodes.title",
+  "description": "task.integrated_boogaloo.locked_down_passcodes.description",
+  "showcase": [
+    "@recipe:securitycraft:keypad_item"
+  ],
+  "icon": "securitycraft:keypad_item",
+  "program": "integrated_boogaloo:locked_down",
+  "category": "integrated_boogaloo:locked_down",
+  "sort_order": 1,
+  "position": {
+    "x": 0,
+    "y": 0
+  },
+  "shape": "hexagon",
+  "size": 1.25,
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:engineering/processing_unit"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "securitycraft:keypad_item",
+      "description": "task.integrated_boogaloo.locked_down_passcodes.goal",
+      "count": 1,
+      "sticky": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 10
+    },
+    {
+      "type": "item",
+      "item": "securitycraft:keypad_item",
+      "count": 1
+    },
+    {
+      "type": "archive",
+      "entry": "integrated_boogaloo:tech_security"
+    }
+  ]
+}

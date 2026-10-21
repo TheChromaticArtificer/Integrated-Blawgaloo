@@ -1,0 +1,25 @@
+{
+  "type": "lucky:random",
+  "luck": -2,
+  "outcomes": [
+    {
+      "type": "lucky:difficulty",
+      "difficulty": "hard"
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "minecraft:slime",
+      "nbt": {
+        "Size": 10
+      }
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "minecraft:magma_cube",
+      "nbt": {
+        "Size": 10
+      }
+    }
+  ],
+  "chance": 1.0
+}

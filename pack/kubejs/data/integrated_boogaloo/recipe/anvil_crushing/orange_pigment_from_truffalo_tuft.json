@@ -1,0 +1,17 @@
+{
+  "type": "pastel:anvil_crushing",
+  "ingredient": [
+    {
+      "item": "antarchy:orange_truffalo_tuft"
+    }
+  ],
+  "crushedItemsPerPointOfDamage": 1,
+  "experience": 0.05,
+  "result": {
+    "id": "pastel:orange_pigment",
+    "count": 2
+  },
+  "particleEffectIdentifier": "enchanted_hit",
+  "particleCount": 10,
+  "soundEventIdentifier": "block.wool.break"
+}

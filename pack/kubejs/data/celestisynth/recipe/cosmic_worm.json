@@ -1,0 +1,26 @@
+{
+  "type": "celestisynth:starlit_factory",
+  "core_material": {
+    "item": "iceandfire:fire_dragon_heart"
+  },
+  "extra_core_material": {
+    "item": "iceandfire:ice_dragon_heart"
+  },
+  "supporting_core_material": {
+    "item": "iceandfire:lightning_dragon_heart"
+  },
+  "supporting_material_top": {
+    "item": "viltrumitecore:viltrumite_blood_sample"
+  },
+  "supporting_material_middle": {
+    "item": "alexscaves:pure_darkness"
+  },
+  "supporting_material_bottom": {
+    "item": "antarchy:worm_tooth"
+  },
+  "forging_time": 1500,
+  "result": {
+    "count": 1,
+    "id": "dog:cosmic_worm"
+  }
+}

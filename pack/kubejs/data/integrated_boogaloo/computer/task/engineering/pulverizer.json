@@ -1,0 +1,41 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.engineering_pulverizer.title",
+  "description": "task.integrated_boogaloo.engineering_pulverizer.description",
+  "showcase": [
+    "@item:oritech:pulverizer_block",
+    "@recipe:oritech:pulverizer_block"
+  ],
+  "icon": "oritech:pulverizer_block",
+  "program": "integrated_boogaloo:engineering",
+  "category": "integrated_boogaloo:engineering",
+  "sort_order": 15,
+  "position": {
+    "x": 0,
+    "y": 0
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:engineering/generator"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "minecraft:oritech/pulverizer",
+      "description": "task.integrated_boogaloo.engineering_pulverizer.goal",
+      "count": 1
+    }
+  ],
+  "archive_entries": [
+    "integrated_boogaloo:tech_basics"
+  ],
+  "rewards": [
+    {
+      "type": "item",
+      "item": "oritech:motor",
+      "count": 2
+    }
+  ],
+  "line_axis": "horizontal"
+}

@@ -1,0 +1,35 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.super_serums_human_torch.title",
+  "description": "task.integrated_boogaloo.super_serums_human_torch.description",
+  "showcase": [
+    "@recipe:integrated_superheroes:syringe_flame_on_johnny_storm"
+  ],
+  "icon": "integrated_superheroes:syringe_flame_on_johnny_storm",
+  "program": "integrated_boogaloo:super_serums",
+  "category": "integrated_boogaloo:super_serums",
+  "sort_order": 50,
+  "position": {
+    "x": 2,
+    "y": 2
+  },
+  "availability": "automatic",
+  "archive_entries": [
+    "integrated_boogaloo:serum_human_torch"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "integrated_boogaloo:deadpool/syringe_human_torch",
+      "description": "task.integrated_boogaloo.super_serums_human_torch.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 100
+    }
+  ]
+}

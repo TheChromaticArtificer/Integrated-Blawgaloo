@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "kind": "SCREEN",
+      "className": "com.craisinlord.antos.content.client.screen.ComputerScreen",
+      "attribution": "NONE",
+      "firstSeen": 1792469151831,
+      "lastSeen": 1792539591853
+    },
+    {
+      "kind": "SCREEN",
+      "className": "earth.terrarium.adastra.client.screens.PlanetsScreen",
+      "attribution": "NONE",
+      "firstSeen": 1792484429399,
+      "lastSeen": 1792503452669
+    },
+    {
+      "kind": "SCREEN",
+      "className": "net.neoforged.neoforge.client.gui.ModListScreen",
+      "attribution": "NONE",
+      "firstSeen": 1792480057320,
+      "lastSeen": 1792502502351
+    },
+    {
+      "kind": "SCREEN",
+      "className": "com.iafenvoy.jupiter.render.screen.ConfigSelectScreen",
+      "attribution": "NONE",
+      "firstSeen": 1792502458603,
+      "lastSeen": 1792502502155
+    },
+    {
+      "kind": "SCREEN",
+      "className": "com.iafenvoy.jupiter.render.screen.ConfigContainerScreen",
+      "attribution": "NONE",
+      "firstSeen": 1792502459797,
+      "lastSeen": 1792502459797
+    },
+    {
+      "kind": "SCREEN",
+      "className": "dev.emi.emi.screen.RecipeScreen",
+      "attribution": "NONE",
+      "firstSeen": 1792471749669,
+      "lastSeen": 1792501482362
+    },
+    {
+      "kind": "SCREEN",
+      "className": "de.maxhenkel.gravestone.gui.ObituaryScreen",
+      "attribution": "NONE",
+      "firstSeen": 1792472103323,
+      "lastSeen": 1792500451423
+    },
+    {
+      "kind": "SCREEN",
+      "className": "net.neoforged.neoforge.client.gui.ConfigurationScreen",
+      "attribution": "NONE",
+      "firstSeen": 1792500023714,
+      "lastSeen": 1792500031959
+    },
+    {
+      "kind": "SCREEN",
+      "className": "net.neoforged.neoforge.client.gui.ConfigurationScreen$ConfigurationSectionScreen",
+      "attribution": "NONE",
+      "firstSeen": 1792500024928,
+      "lastSeen": 1792500031763
+    },
+    {
+      "kind": "SCREEN",
+      "className": "dev.su5ed.mffs.screen.ProjectorScreen",
+      "attribution": "NONE",
+      "firstSeen": 1792487119277,
+      "lastSeen": 1792488013048
+    },
+    {
+      "kind": "SCREEN",
+      "className": "dev.su5ed.mffs.screen.FortronCapacitorScreen",
+      "attribution": "NONE",
+      "firstSeen": 1792487147271,
+      "lastSeen": 1792487929169
+    },
+    {
+      "kind": "SCREEN",
+      "className": "dev.su5ed.mffs.screen.CoercionDeriverScreen",
+      "attribution": "NONE",
+      "firstSeen": 1792487246022,
+      "lastSeen": 1792487605327
+    },
+    {
+      "kind": "SCREEN",
+      "className": "com.plaaasma.timevortex.client.monitor.MonitorScreen",
+      "attribution": "NONE",
+      "firstSeen": 1792484822568,
+      "lastSeen": 1792485108401
+    },
+    {
+      "kind": "SCREEN",
+      "className": "net.irisshaders.iris.gui.screen.ShaderPackScreen",
+      "attribution": "NONE",
+      "firstSeen": 1792485025744,
+      "lastSeen": 1792485071896
+    },
+    {
+      "kind": "SCREEN",
+      "className": "dev.emi.emi.screen.ConfigScreen",
+      "attribution": "NONE",
+      "firstSeen": 1792473042559,
+      "lastSeen": 1792473042559
+    },
+    {
+      "kind": "SCREEN",
+      "className": "com.klikli_dev.modonomicon.client.gui.book.entry.BookEntryDoublePageScreen",
+      "attribution": "NONE",
+      "firstSeen": 1792472466319,
+      "lastSeen": 1792472636508
+    },
+    {
+      "kind": "SCREEN",
+      "className": "com.klikli_dev.modonomicon.client.gui.book.search.BookSearchScreen",
+      "attribution": "NONE",
+      "firstSeen": 1792472613008,
+      "lastSeen": 1792472629858
+    },
+    {
+      "kind": "SCREEN",
+      "className": "com.klikli_dev.modonomicon.client.gui.book.node.BookParentNodeScreen",
+      "attribution": "NONE",
+      "firstSeen": 1792472468047,
+      "lastSeen": 1792472628758
+    },
+    {
+      "kind": "SCREEN",
+      "className": "mezz.jei.gui.recipes.RecipesGui",
+      "attribution": "NONE",
+      "firstSeen": 1792321408883,
+      "lastSeen": 1792457164175
+    },
+    {
+      "kind": "SCREEN",
+      "className": "dev.sterner.witchery.client.AbilitySelectionScreen",
+      "attribution": "NONE",
+      "firstSeen": 1792335124971,
+      "lastSeen": 1792335136771
+    },
+    {
+      "kind": "SCREEN",
+      "className": "net.mehvahdjukaar.vista.client.ui.VistaWelcomeScreen",
+      "attribution": "NONE",
+      "firstSeen": 1792321232187,
+      "lastSeen": 1792321232187
+    }
+  ]
+}

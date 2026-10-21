@@ -1,0 +1,357 @@
+{
+  "marvel:mjolnir": [
+    {
+      "attribute": "apothic_attributes:armor_shred",
+      "value": 0.25,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_knockback",
+      "value": 1.5,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:player.entity_interaction_range",
+      "value": 0.5,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:stormbreaker": [
+    {
+      "attribute": "apothic_attributes:crit_damage",
+      "value": 0.5,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "apothic_attributes:prot_pierce",
+      "value": 10,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "apothic_attributes:armor_pierce",
+      "value": 15,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:player.entity_interaction_range",
+      "value": 1.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "antarchy:royal_guardian_sword": [
+    {
+      "attribute": "apothic_attributes:life_steal",
+      "value": 0.03,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "apothic_attributes:overheal",
+      "value": 0.25,
+      "operation": "ADDITION"
+    }
+  ],
+  "antarchy:royal_assailant_battleaxe": [
+    {
+      "attribute": "apothic_attributes:armor_shred",
+      "value": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "apothic_attributes:crit_chance",
+      "value": 0.1,
+      "operation": "ADDITION"
+    }
+  ],
+  "antarchy:big_bertha": [
+    {
+      "attribute": "apothic_attributes:crit_chance",
+      "value": 0.15,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "apothic_attributes:crit_damage",
+      "value": 0.5,
+      "operation": "ADDITION"
+    }
+  ],
+  "antarchy:blood_gods_blade": [
+    {
+      "attribute": "apothic_attributes:life_steal",
+      "value": 0.06,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "apothic_attributes:overheal",
+      "value": 0.2,
+      "operation": "ADDITION"
+    }
+  ],
+  "antarchy:blood_crystal_katana": [
+    {
+      "attribute": "apothic_attributes:life_steal",
+      "value": 0.03,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "value": 0.1,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "antarchy:nightmare_sword": [
+    {
+      "attribute": "antarchy:double_damage_chance",
+      "value": 0.1,
+      "operation": "ADDITION"
+    }
+  ],
+  "antarchy:ultimate_sword": [
+    {
+      "attribute": "apothic_attributes:crit_chance",
+      "value": 0.1,
+      "operation": "ADDITION"
+    }
+  ],
+  "antarchy:ultimate_axe": [
+    {
+      "attribute": "apothic_attributes:armor_pierce",
+      "value": 10,
+      "operation": "ADDITION"
+    }
+  ],
+  "pastel:bedrock_sword": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 110,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "apothic_attributes:armor_shred",
+      "value": 0.15,
+      "operation": "ADDITION"
+    }
+  ],
+  "pastel:bedrock_axe": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 129,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "apothic_attributes:armor_pierce",
+      "value": 10,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "apothic_attributes:mining_speed",
+      "value": 0.25,
+      "operation": "ADDITION"
+    }
+  ],
+  "iceandfire:dragonsteel_fire_sword": [
+    {
+      "attribute": "apothic_attributes:fire_damage",
+      "value": 20,
+      "operation": "ADDITION"
+    }
+  ],
+  "iceandfire:dragonsteel_ice_sword": [
+    {
+      "attribute": "apothic_attributes:cold_damage",
+      "value": 20,
+      "operation": "ADDITION"
+    }
+  ],
+  "iceandfire:dragonsteel_lightning_sword": [
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "value": 0.1,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "apothic_attributes:crit_chance",
+      "value": 0.05,
+      "operation": "ADDITION"
+    }
+  ],
+  "celestisynth:solaris": [
+    {
+      "attribute": "apothic_attributes:fire_damage",
+      "value": 30,
+      "operation": "ADDITION"
+    }
+  ],
+  "celestisynth:frostbound": [
+    {
+      "attribute": "apothic_attributes:cold_damage",
+      "value": 30,
+      "operation": "ADDITION"
+    }
+  ],
+  "celestisynth:crescentia": [
+    {
+      "attribute": "apothic_attributes:crit_chance",
+      "value": 0.1,
+      "operation": "ADDITION"
+    }
+  ],
+  "celestisynth:breezebreaker": [
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "value": 0.1,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "celestisynth:poltergeist": [
+    {
+      "attribute": "apothic_attributes:armor_shred",
+      "value": 0.15,
+      "operation": "ADDITION"
+    }
+  ],
+  "celestisynth:keres": [
+    {
+      "attribute": "apothic_attributes:life_steal",
+      "value": 0.03,
+      "operation": "ADDITION"
+    }
+  ],
+  "celestisynth:aquaflora": [
+    {
+      "attribute": "apothic_attributes:healing_received",
+      "value": 0.15,
+      "operation": "ADDITION"
+    }
+  ],
+  "celestisynth:rainfall_serenity": [
+    {
+      "attribute": "apothic_attributes:arrow_velocity",
+      "value": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "apothic_attributes:draw_speed",
+      "value": 0.15,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:katanas": [
+    {
+      "attribute": "apothic_attributes:crit_chance",
+      "value": 0.08,
+      "operation": "ADDITION"
+    }
+  ],
+  "dimdoors:rift_blade": [
+    {
+      "attribute": "minecraft:player.entity_interaction_range",
+      "value": 1.5,
+      "operation": "ADDITION"
+    }
+  ],
+  "alexscaves:extinction_spear": [
+    {
+      "attribute": "apothic_attributes:armor_pierce",
+      "value": 10,
+      "operation": "ADDITION"
+    }
+  ],
+  "pastel:knotted_sword": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 17.5,
+      "operation": "ADDITION"
+    }
+  ],
+  "pastel:nightfalls_blade": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 23,
+      "operation": "ADDITION"
+    }
+  ],
+  "pastel:dreamflayer": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 14,
+      "operation": "ADDITION"
+    }
+  ],
+  "pastel:malachite_ultra_greatsword": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 32,
+      "operation": "ADDITION"
+    }
+  ],
+  "pastel:malachite_bident": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 25,
+      "operation": "ADDITION"
+    }
+  ],
+  "pastel:fractal_glass_crest_bident": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 52.5,
+      "operation": "ADDITION"
+    }
+  ],
+  "pastel:ferocious_glass_crest_bident": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 71,
+      "operation": "ADDITION"
+    }
+  ],
+  "pastel:glass_crest_ultra_greatsword": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 79,
+      "operation": "ADDITION"
+    }
+  ],
+  "pastel:draconic_twinsword": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 126,
+      "operation": "ADDITION"
+    }
+  ],
+  "pastel:dragon_talon": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 118,
+      "operation": "ADDITION"
+    }
+  ],
+  "pastel:malachite_crossbow": [
+    {
+      "attribute": "apothic_attributes:arrow_damage",
+      "value": 2.5,
+      "operation": "ADDITION"
+    }
+  ],
+  "pastel:glass_crest_crossbow": [
+    {
+      "attribute": "apothic_attributes:arrow_damage",
+      "value": 4.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "pastel:bedrock_bow": [
+    {
+      "attribute": "apothic_attributes:arrow_damage",
+      "value": 5.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "pastel:bedrock_crossbow": [
+    {
+      "attribute": "apothic_attributes:arrow_damage",
+      "value": 5.0,
+      "operation": "ADDITION"
+    }
+  ]
+}

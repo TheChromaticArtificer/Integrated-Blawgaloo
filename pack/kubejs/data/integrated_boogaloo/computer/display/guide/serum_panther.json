@@ -1,0 +1,10 @@
+{
+  "template": "integrated_boogaloo:guide/templates/serum",
+  "recipe_binding": {
+    "recipe": "kubejs:oritech/assembler/syringe_heart_shaped_herb_tchalla",
+    "adapter": "boogaloo_core:oritech"
+  },
+  "values": {
+    "title": "literal:Serum recipe"
+  }
+}

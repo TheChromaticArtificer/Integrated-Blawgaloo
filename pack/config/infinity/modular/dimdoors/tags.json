@@ -1,0 +1,432 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dimdoors:ancient_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/air"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/amalgam"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/amalgam_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/basalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/blackstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/blackstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/blackstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/blackstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/clay"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/clay_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/clay_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/clay_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/clay_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/clay_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/clay_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/clod_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/clod_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/cobblestone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/dark_sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/dark_sand_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/dark_sand_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/dark_sand_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/dark_sand_layer"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/dark_sand_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/dark_sand_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/dark_sand_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/deepslate_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/deepslate_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/deepslate_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/diorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/driftwood_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/driftwood_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/driftwood_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/driftwood_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/driftwood_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/driftwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/driftwood_plank"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/driftwood_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/driftwood_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/driftwood_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/driftwood_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/endstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/endstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/endstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/endstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/furnace"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/gritty_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/lint_layer"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/moss_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/mud"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/mud_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/mud_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/mud_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/mud_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/mud_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/mud_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/netherrack"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/netherrack_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/netherrack_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/netherrack_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/netherrack_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/netherwart_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/pale_sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/prismarine_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/prismarine_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/rail"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/red_sand_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/red_sand_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/red_sand_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/sand_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/sand_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/sand_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/skeleton_skull"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/skeleton_wall_skull"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/solid_static"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/stone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/stone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/stone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/unraveled_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/unraveled_fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/unraveled_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/unraveled_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/unraveled_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/unraveled_spike"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/unraveled_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/unraveled_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:decays_to/wither_rose"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:dimensional_doorss"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:driftwood_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:fabric"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:leaves_type/driftwood"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:minor_plants"
+		},
+		{
+			"weight": 1.0,
+			"key": "dimdoors:wood_type/driftwood"
+		}
+	]
+}

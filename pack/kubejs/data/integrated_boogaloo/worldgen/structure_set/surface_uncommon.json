@@ -1,0 +1,154 @@
+{
+  "structures": [
+    {
+      "structure": "ati_structures:dark_tower",
+      "weight": 3
+    },
+    {
+      "structure": "ati_structures:dark_keep",
+      "weight": 3
+    },
+    {
+      "structure": "ati_structures:dojo",
+      "weight": 3
+    },
+    {
+      "structure": "ati_structures:monastery_tower",
+      "weight": 3
+    },
+    {
+      "structure": "ati_structures:small_keep",
+      "weight": 3
+    },
+    {
+      "structure": "ati_structures:illager_tower",
+      "weight": 3
+    },
+    {
+      "structure": "ati_structures:overgrown_outpost",
+      "weight": 3
+    },
+    {
+      "structure": "ati_structures:wither_keep",
+      "weight": 2
+    },
+    {
+      "structure": "ati_structures:mosque",
+      "weight": 3
+    },
+    {
+      "structure": "ati_structures:ice_tribe",
+      "weight": 2
+    },
+    {
+      "structure": "ati_structures:lighthouse",
+      "weight": 3
+    },
+    {
+      "structure": "scguns:osgood_lab_outpost",
+      "weight": 3
+    },
+    {
+      "structure": "scguns:asgharian_tower",
+      "weight": 3
+    },
+    {
+      "structure": "scguns:trench",
+      "weight": 2
+    },
+    {
+      "structure": "createcybernetics:ripper_clinic",
+      "weight": 2
+    },
+    {
+      "structure": "iceandfire:graveyard",
+      "weight": 2
+    },
+    {
+      "structure": "iceandfire:cyclops_cave",
+      "weight": 2
+    },
+    {
+      "structure": "iceandfire:hydra_cave",
+      "weight": 2
+    },
+    {
+      "structure": "iceandfire:siren_island",
+      "weight": 2
+    },
+    {
+      "structure": "witchery:hobgoblin_hut",
+      "weight": 2
+    },
+    {
+      "structure": "wan_ancient_beasts:desert_ruins",
+      "weight": 1
+    },
+    {
+      "structure": "wan_ancient_beasts:abandoned_village",
+      "weight": 2
+    },
+    {
+      "structure": "wan_ancient_beasts:ancient_nest",
+      "weight": 2
+    },
+    {
+      "structure": "wan_ancient_beasts:ice_spike_castle",
+      "weight": 2
+    },
+    {
+      "structure": "wan_ancient_beasts:training_outpost",
+      "weight": 2
+    },
+    {
+      "structure": "wan_ancient_beasts:mesa_temple_small",
+      "weight": 2
+    },
+    {
+      "structure": "wan_ancient_beasts:digsite_badlands",
+      "weight": 1
+    },
+    {
+      "structure": "wan_ancient_beasts:digsite_desert",
+      "weight": 1
+    },
+    {
+      "structure": "wan_ancient_beasts:digsite_savanna",
+      "weight": 1
+    },
+    {
+      "structure": "wan_ancient_beasts:digsite_jungle",
+      "weight": 1
+    },
+    {
+      "structure": "wan_ancient_beasts:digsite_plains",
+      "weight": 1
+    },
+    {
+      "structure": "wan_ancient_beasts:digsite_taiga",
+      "weight": 1
+    },
+    {
+      "structure": "wan_ancient_beasts:digsite_oldgrowthtaiga",
+      "weight": 1
+    },
+    {
+      "structure": "wan_ancient_beasts:digsite_peaks",
+      "weight": 1
+    },
+    {
+      "structure": "wan_ancient_beasts:digsite_icespikes",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 34,
+    "separation": 14,
+    "salt": 1640215802,
+    "exclusion_zone": {
+      "other_set": "bda:hooligan_villages",
+      "chunk_count": 8
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "book.pastel.guidebook.boogaloo.radium.name",
+  "icon": {
+    "item": "alexscaves:uranium_shard"
+  },
+  "condition": {
+    "type": "modonomicon:advancement",
+    "advancement_id": "pastel:collect_quitoxic_reeds"
+  },
+  "category": "pastel:general",
+  "hide_while_locked": true,
+  "parents": [],
+  "background_u_index": 0,
+  "background_v_index": 0,
+  "x": -2,
+  "y": -2,
+  "pages": [
+    {
+      "type": "modonomicon:spotlight",
+      "title": "item.alexscaves.uranium_shard",
+      "item": {
+        "item": "alexscaves:uranium_shard"
+      },
+      "text": "book.pastel.guidebook.boogaloo.radium.page0"
+    },
+    {
+      "type": "modonomicon:spotlight",
+      "title": "item.alexscaves.radon_bottle",
+      "item": {
+        "item": "alexscaves:radon_bottle"
+      },
+      "text": "book.pastel.guidebook.boogaloo.radium.page1"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "computer.integrated_boogaloo.product.ammo.rockets.name",
+  "description": "computer.integrated_boogaloo.product.ammo.rockets.description",
+  "category": "ammo",
+  "green_tint": false,
+  "quantity": 1,
+  "payments": [
+    {
+      "type": "antcoins",
+      "resource": "antcoins",
+      "amount": 60
+    }
+  ],
+  "thumbnail": {
+    "item": "scguns:rocket"
+  },
+  "unlock_tasks": [
+    "integrated_boogaloo:armory/arming_up"
+  ],
+  "unlock_mode": "all",
+  "rewards": [
+    {
+      "item": "scguns:rocket",
+      "count": 4
+    }
+  ],
+  "reviews": [
+    {
+      "id": "deadpool",
+      "author": "Deadpool",
+      "title": "computer.integrated_boogaloo.product.ammo.rockets.review.deadpool.title",
+      "body": "computer.integrated_boogaloo.product.ammo.rockets.review.deadpool.body",
+      "rating": 5,
+      "badge": "VERIFIED MERC"
+    }
+  ]
+}

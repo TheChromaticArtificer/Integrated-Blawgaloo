@@ -1,0 +1,792 @@
+{
+  "version": 1,
+  "title": "literal:A replication network",
+  "width": 250,
+  "height": 75,
+  "elements": [
+    {
+      "id": "network",
+      "type": "scene",
+      "x": 2,
+      "y": 2,
+      "width": 150,
+      "height": 166,
+      "yaw": 210,
+      "pitch": 35,
+      "scale": 0.95,
+      "blocks": [
+        {
+          "pos": [
+            -1,
+            -1,
+            -2
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            -1,
+            -1
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            -1,
+            0
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            -1,
+            1
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            -1,
+            2
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            -1,
+            3
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            -2
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            -1
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            0
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            1
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            2
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            3
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            -2
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            -1
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            0
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            1
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            2
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            3
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            2,
+            -1,
+            -2
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            2,
+            -1,
+            -1
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            2,
+            -1,
+            0
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            2,
+            -1,
+            1
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            2,
+            -1,
+            2
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            2,
+            -1,
+            3
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            3,
+            -1,
+            -2
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            3,
+            -1,
+            -1
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            3,
+            -1,
+            0
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            3,
+            -1,
+            1
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            3,
+            -1,
+            2
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            3,
+            -1,
+            3
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            4,
+            -1,
+            -2
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            4,
+            -1,
+            -1
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            4,
+            -1,
+            0
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            4,
+            -1,
+            1
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            4,
+            -1,
+            2
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            4,
+            -1,
+            3
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            5,
+            -1,
+            -2
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            5,
+            -1,
+            -1
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            5,
+            -1,
+            0
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            5,
+            -1,
+            1
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            5,
+            -1,
+            2
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            5,
+            -1,
+            3
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            6,
+            -1,
+            -2
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            6,
+            -1,
+            -1
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            6,
+            -1,
+            0
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            6,
+            -1,
+            1
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            6,
+            -1,
+            2
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            6,
+            -1,
+            3
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            0,
+            0
+          ],
+          "state": "replication:replicator",
+          "id": "replicator",
+          "highlight": true,
+          "groups": [
+            "replicator"
+          ]
+        },
+        {
+          "pos": [
+            3,
+            0,
+            0
+          ],
+          "state": "replication:disintegrator",
+          "id": "disintegrator",
+          "highlight": true,
+          "groups": [
+            "disintegrator"
+          ]
+        },
+        {
+          "pos": [
+            3,
+            0,
+            2
+          ],
+          "state": "replication:identification_chamber",
+          "id": "chamber",
+          "highlight": true,
+          "groups": [
+            "chamber"
+          ]
+        },
+        {
+          "pos": [
+            5,
+            0,
+            0
+          ],
+          "state": "replication:matter_tank",
+          "id": "tank1",
+          "groups": [
+            "tanks"
+          ]
+        },
+        {
+          "pos": [
+            5,
+            1,
+            0
+          ],
+          "state": "replication:matter_tank",
+          "id": "tank2",
+          "groups": [
+            "tanks"
+          ]
+        },
+        {
+          "pos": [
+            0,
+            0,
+            2
+          ],
+          "state": "replication:replication_terminal",
+          "id": "terminal",
+          "highlight": true,
+          "groups": [
+            "terminal"
+          ]
+        },
+        {
+          "pos": [
+            1,
+            0,
+            2
+          ],
+          "state": "replication:chip_storage",
+          "id": "chips",
+          "groups": [
+            "terminal"
+          ]
+        },
+        {
+          "pos": [
+            0,
+            0,
+            1
+          ],
+          "state": "replication:matter_network_pipe[north=true,south=true,east=true,west=false,up=false,down=false]",
+          "id": "pipe0",
+          "groups": [
+            "pipes"
+          ]
+        },
+        {
+          "pos": [
+            1,
+            0,
+            1
+          ],
+          "state": "replication:matter_network_pipe[north=false,south=true,east=true,west=true,up=false,down=false]",
+          "id": "pipe1",
+          "groups": [
+            "pipes"
+          ]
+        },
+        {
+          "pos": [
+            2,
+            0,
+            1
+          ],
+          "state": "replication:matter_network_pipe[north=false,south=false,east=true,west=true,up=false,down=false]",
+          "id": "pipe2",
+          "groups": [
+            "pipes"
+          ]
+        },
+        {
+          "pos": [
+            3,
+            0,
+            1
+          ],
+          "state": "replication:matter_network_pipe[north=true,south=true,east=true,west=true,up=false,down=false]",
+          "id": "pipe3",
+          "groups": [
+            "pipes"
+          ]
+        },
+        {
+          "pos": [
+            4,
+            0,
+            1
+          ],
+          "state": "replication:matter_network_pipe[north=false,south=false,east=true,west=true,up=false,down=false]",
+          "id": "pipe4",
+          "groups": [
+            "pipes"
+          ]
+        },
+        {
+          "pos": [
+            5,
+            0,
+            1
+          ],
+          "state": "replication:matter_network_pipe[north=true,south=false,east=false,west=true,up=false,down=false]",
+          "id": "pipe5",
+          "groups": [
+            "pipes"
+          ]
+        }
+      ],
+      "items": [
+        {
+          "pos": [
+            0,
+            1.2,
+            0
+          ],
+          "id": "replication:replicator_enclosure",
+          "spin": true,
+          "scale": 0.5,
+          "from": "upgrades"
+        },
+        {
+          "pos": [
+            0.6,
+            1.2,
+            0
+          ],
+          "id": "replication:replicator_motor",
+          "spin": true,
+          "scale": 0.5,
+          "from": "upgrades"
+        }
+      ],
+      "paths": [
+        {
+          "kind": "data",
+          "points": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              5,
+              0,
+              1
+            ],
+            [
+              5,
+              0,
+              0
+            ]
+          ],
+          "color": "#9B5CF0",
+          "from": "pipes"
+        }
+      ],
+      "steps": [
+        {
+          "id": "disintegrator",
+          "title": "literal:Break it down",
+          "text": "literal:The Disintegrator turns items into matter.",
+          "groups": [
+            "disintegrator"
+          ]
+        },
+        {
+          "id": "tanks",
+          "title": "literal:Store matter",
+          "text": "literal:Matter Tanks hold each kind.",
+          "groups": [
+            "tanks"
+          ]
+        },
+        {
+          "id": "chamber",
+          "title": "literal:Learn patterns",
+          "text": "literal:The Identification Chamber scans an item into a pattern.",
+          "groups": [
+            "chamber"
+          ]
+        },
+        {
+          "id": "terminal",
+          "title": "literal:Terminal and chips",
+          "text": "literal:Patterns live on memory chips in Chip Storage.",
+          "groups": [
+            "terminal"
+          ]
+        },
+        {
+          "id": "replicator",
+          "title": "literal:Build it back",
+          "text": "literal:The Replicator spends matter to make anything it has a pattern for.",
+          "groups": [
+            "replicator"
+          ]
+        },
+        {
+          "id": "pipes",
+          "title": "literal:Connect it",
+          "text": "literal:Matter pipes tie it all together.",
+          "groups": [
+            "pipes"
+          ]
+        },
+        {
+          "id": "upgrades",
+          "title": "literal:Upgrades",
+          "text": "literal:An enclosure and motor speed the Replicator up."
+        }
+      ],
+      "hero": true,
+      "ratio": 0.94
+    },
+    {
+      "type": "text",
+      "x": 6,
+      "y": 4,
+      "width": 238,
+      "text": "literal:Eight kinds of matter. The rare kinds are the bottleneck."
+    },
+    {
+      "type": "group",
+      "x": 6,
+      "y": 25,
+      "layout": "grid",
+      "columns": 4,
+      "cell_width": 20,
+      "cell_height": 20,
+      "elements": [
+        {
+          "type": "slot",
+          "x": 0,
+          "y": 0,
+          "item": "replication:replicator"
+        },
+        {
+          "type": "slot",
+          "x": 0,
+          "y": 0,
+          "item": "replication:disintegrator"
+        },
+        {
+          "type": "slot",
+          "x": 0,
+          "y": 0,
+          "item": "replication:identification_chamber"
+        },
+        {
+          "type": "slot",
+          "x": 0,
+          "y": 0,
+          "item": "replication:matter_tank"
+        },
+        {
+          "type": "slot",
+          "x": 0,
+          "y": 0,
+          "item": "replication:replication_terminal"
+        },
+        {
+          "type": "slot",
+          "x": 0,
+          "y": 0,
+          "item": "replication:chip_storage"
+        },
+        {
+          "type": "slot",
+          "x": 0,
+          "y": 0,
+          "item": "replication:memory_chip"
+        },
+        {
+          "type": "slot",
+          "x": 0,
+          "y": 0,
+          "item": "replication:matter_blueprint"
+        }
+      ]
+    }
+  ],
+  "reflow": true,
+  "auto_height": true,
+  "hide_title": true
+}

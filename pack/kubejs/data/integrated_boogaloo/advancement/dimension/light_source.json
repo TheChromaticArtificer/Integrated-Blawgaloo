@@ -1,0 +1,52 @@
+{
+  "criteria": {
+    "torch": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:torch"
+          }
+        ]
+      }
+    },
+    "lantern": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:lantern"
+          }
+        ]
+      }
+    },
+    "soul_torch": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:soul_torch"
+          }
+        ]
+      }
+    },
+    "glowcap_mushroom": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "antarchy:glowcap_mushroom"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "torch",
+      "lantern",
+      "soul_torch",
+      "glowcap_mushroom"
+    ]
+  ]
+}

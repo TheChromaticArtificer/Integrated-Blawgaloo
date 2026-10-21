@@ -1,0 +1,28 @@
+{
+  "type": "lucky:group",
+  "luck": -2,
+  "chance": 0.6,
+  "outcomes": [
+    {
+      "type": "lucky:message",
+      "message": {
+        "text": "HUGE BUG PROBLEM",
+        "bold": true,
+        "color": "dark_red"
+      },
+      "overlay": true
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "antarchy:crawling_blight",
+      "count": 15,
+      "reinit": true
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "antarchy:skulking_fright",
+      "count": 15,
+      "reinit": true
+    }
+  ]
+}

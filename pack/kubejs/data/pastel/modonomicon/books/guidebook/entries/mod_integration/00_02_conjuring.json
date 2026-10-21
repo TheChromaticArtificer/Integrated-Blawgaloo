@@ -1,0 +1,23 @@
+{
+  "name": "book.pastel.guidebook.mod_integration.conjuring.name",
+  "icon": {
+    "item": "pastel:guidebook"
+  },
+  "condition": {
+    "type": "modonomicon:false"
+  },
+  "category": "pastel:mod_integration",
+  "hide_while_locked": true,
+  "parents": [],
+  "background_u_index": 0,
+  "background_v_index": 0,
+  "x": 0,
+  "y": 2,
+  "pages": [
+    {
+      "type": "modonomicon:text",
+      "text": "book.pastel.guidebook.mod_integration.conjuring.page0.text",
+      "title": "book.pastel.guidebook.mod_integration.conjuring.name"
+    }
+  ]
+}

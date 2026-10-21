@@ -1,0 +1,11 @@
+{
+  "sender": "trayaurus@antmail.com",
+  "sender_avatar_item": "antarchy:diamond_minecart",
+  "subject": "Don't stand near the eggs",
+  "body": "That hive in Thoraxis is full of eggs, and they open when you get close. Whatever comes out jumps straight onto your face!!\n\nIf one gets you, it lets go after about a minute and leaves something inside you. You've got about another minute after that. A Surgery Kit cuts it out: shears, string, iron, a golden apple and some wool. Make one before you go in.\n\nAlso, their blood is acid. Watch where you step.\n\nYour old friend,\nDr. T",
+  "trigger": {
+    "delay_minutes": 3,
+    "type": "advancement",
+    "value": "integrated_boogaloo:dimension/xenomorph_hive"
+  }
+}

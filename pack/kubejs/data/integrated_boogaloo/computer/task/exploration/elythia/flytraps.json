@@ -1,0 +1,33 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.elythia_flytraps.title",
+  "description": "task.integrated_boogaloo.elythia_flytraps.description",
+  "showcase": [
+    "@recipe:antarchy:flytrap_goo"
+  ],
+  "icon": "antarchy:flytrap_goo",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:elythia",
+  "sort_order": 20,
+  "position": {
+    "x": 2,
+    "y": 4
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "integrated_boogaloo:dimension/flytrap_goo",
+      "description": "task.integrated_boogaloo.elythia_flytraps.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "item",
+      "item": "antarchy:titanium_nugget",
+      "count": 6
+    }
+  ]
+}

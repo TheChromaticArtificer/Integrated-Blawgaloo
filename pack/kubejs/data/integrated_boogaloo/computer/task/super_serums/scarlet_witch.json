@@ -1,0 +1,35 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.super_serums_scarlet_witch.title",
+  "description": "task.integrated_boogaloo.super_serums_scarlet_witch.description",
+  "showcase": [
+    "@recipe:integrated_superheroes:syringe_chaos_magic_wanda_maximoff"
+  ],
+  "icon": "integrated_superheroes:syringe_chaos_magic_wanda_maximoff",
+  "program": "integrated_boogaloo:super_serums",
+  "category": "integrated_boogaloo:super_serums",
+  "sort_order": 37,
+  "position": {
+    "x": 9,
+    "y": 1
+  },
+  "availability": "automatic",
+  "archive_entries": [
+    "integrated_boogaloo:serum_scarlet_witch"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "integrated_boogaloo:deadpool/syringe_scarlet_witch",
+      "description": "task.integrated_boogaloo.super_serums_scarlet_witch.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 75
+    }
+  ]
+}

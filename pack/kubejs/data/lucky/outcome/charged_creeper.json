@@ -1,0 +1,19 @@
+{
+  "type": "lucky:group",
+  "luck": -2,
+  "outcomes": [
+    {
+      "type": "lucky:difficulty",
+      "difficulty": "hard"
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "minecraft:creeper"
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "minecraft:lightning_bolt"
+    }
+  ],
+  "chance": 1.0
+}

@@ -1,0 +1,35 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.super_serums_colossus.title",
+  "description": "task.integrated_boogaloo.super_serums_colossus.description",
+  "showcase": [
+    "@recipe:integrated_superheroes:syringe_organic_steel_piotr_rasputin"
+  ],
+  "icon": "integrated_superheroes:syringe_organic_steel_piotr_rasputin",
+  "program": "integrated_boogaloo:super_serums",
+  "category": "integrated_boogaloo:super_serums",
+  "sort_order": 34,
+  "position": {
+    "x": 6,
+    "y": 1
+  },
+  "availability": "automatic",
+  "archive_entries": [
+    "integrated_boogaloo:serum_colossus"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "integrated_boogaloo:deadpool/syringe_colossus",
+      "description": "task.integrated_boogaloo.super_serums_colossus.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 75
+    }
+  ]
+}

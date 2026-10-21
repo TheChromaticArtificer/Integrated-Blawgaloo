@@ -1,0 +1,6 @@
+{
+  "cameraRoll": true,
+  "maxCameraRoll": 80.0,
+  "cameraRollMultiplier": 0.11,
+  "cameraRollRoughness": 7.0
+}

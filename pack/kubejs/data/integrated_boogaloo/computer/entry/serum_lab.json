@@ -1,0 +1,25 @@
+{
+  "green_tint": false,
+  "type": "article",
+  "category": "general",
+  "folder": "integrated_boogaloo:super_serums",
+  "sort_order": -10,
+  "title": "guide.integrated_boogaloo.entry.serum_lab.title",
+  "subtitle": "guide.integrated_boogaloo.entry.serum_lab.subtitle",
+  "cover_item": "marvellegacy:syringe_empty",
+  "lookup": [
+    "marvel:villager_blood_sample",
+    "marvel:x_genes"
+  ],
+  "content": [
+    {
+      "text": "guide.integrated_boogaloo.entry.serum_lab.body_1"
+    },
+    {
+      "display": "integrated_boogaloo:guide/serum_pipeline"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.serum_lab.body_2"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.collection.every_pet.title",
+  "description": "task.integrated_boogaloo.collection.every_pet.description",
+  "icon": "inventorypets:pet_qcm",
+  "program": "integrated_boogaloo:collections",
+  "category": "integrated_boogaloo:collections",
+  "sort_order": 605,
+  "position": {
+    "x": 5,
+    "y": 6
+  },
+  "shape": "pentagon",
+  "size": 1.5,
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:collections/pets_working",
+    "integrated_boogaloo:collections/pets_creature",
+    "integrated_boogaloo:collections/pets_faraway",
+    "integrated_boogaloo:collections/pets_rare",
+    "integrated_boogaloo:collections/pets_holiday",
+    "integrated_boogaloo:inventory_pets/starter_collection"
+  ],
+  "objectives": [
+    {
+      "id": "all",
+      "type": "advancement",
+      "target": "inventorypets:all",
+      "description": "task.integrated_boogaloo.collection.every_pet.all",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 10000
+    },
+    {
+      "type": "item",
+      "item": "antarchy:rainbow_sugar",
+      "count": 1
+    },
+    {
+      "type": "item_pool",
+      "pool": "integrated_boogaloo:prestige",
+      "mode": "choice"
+    }
+  ],
+  "line_axis": "horizontal"
+}

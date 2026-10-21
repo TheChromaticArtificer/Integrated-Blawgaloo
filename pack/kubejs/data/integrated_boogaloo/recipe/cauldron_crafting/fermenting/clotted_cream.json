@@ -1,0 +1,28 @@
+{
+  "type": "witchery:cauldron_crafting",
+  "altarPower": 200,
+  "inputItems": [
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "minecraft:milk_bucket"
+      },
+      "order": 0
+    },
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "minecraft:sugar"
+      },
+      "order": 1
+    }
+  ],
+  "outputItems": [
+    {
+      "id": "pastel:clotted_cream",
+      "count": 4
+    }
+  ]
+}

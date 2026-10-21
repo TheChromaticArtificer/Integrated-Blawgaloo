@@ -1,0 +1,11 @@
+{
+  "preset": "radial",
+  "title": "literal:Enchanter: use",
+  "recipe_binding": {
+    "recipe": "pastel:enchanter/pastel_books/first_strike",
+    "adapter": "boogaloo_core:pastel"
+  },
+  "values": {
+    "heading": "literal:Enchanter: use"
+  }
+}

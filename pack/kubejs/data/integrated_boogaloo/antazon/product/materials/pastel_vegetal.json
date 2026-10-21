@@ -1,0 +1,37 @@
+{
+  "name": "computer.integrated_boogaloo.product.materials.pastel_vegetal.name",
+  "description": "computer.integrated_boogaloo.product.materials.pastel_vegetal.description",
+  "category": "materials",
+  "tags": [
+    "no_deals"
+  ],
+  "green_tint": false,
+  "quantity": 1,
+  "payments": [
+    {
+      "type": "antcoins",
+      "resource": "antcoins",
+      "amount": 80
+    }
+  ],
+  "thumbnail": {
+    "item": "pastel:vegetal"
+  },
+  "unlock_tasks": [
+    "integrated_boogaloo:pastel_basics/fading"
+  ],
+  "unlock_mode": "all",
+  "hidden_until_unlocked": false,
+  "notify_on_unlock": true,
+  "availability": {
+    "server_stock": 0,
+    "player_limit": 4,
+    "player_limit_reset": "minecraft_day"
+  },
+  "rewards": [
+    {
+      "item": "pastel:vegetal",
+      "count": 16
+    }
+  ]
+}

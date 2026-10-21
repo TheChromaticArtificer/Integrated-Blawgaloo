@@ -1,0 +1,11 @@
+{
+  "sender": "coldcraft@antmail.com",
+  "sender_display": "ColdCraft City",
+  "sender_avatar_item": "minecraft:clock",
+  "subject": "Unsubscribe confirmation",
+  "body": "You asked to unsubscribe. We have resubscribed you, twice, for your safety.\n\nVisit soon.\nColdCraft City",
+  "trigger": {
+    "type": "random",
+    "pool": "integrated_boogaloo:coldcraft_newsletter"
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "version": 1,
+  "title": "literal:Arc reactors",
+  "width": 250,
+  "height": 128,
+  "elements": [
+    {
+      "type": "text",
+      "x": 4,
+      "y": 4,
+      "width": 120,
+      "text": "literal:Netherite Arc Reactor"
+    },
+    {
+      "type": "group",
+      "x": 4,
+      "y": 16,
+      "layout": "grid",
+      "columns": 3,
+      "cell_width": 20,
+      "cell_height": 20,
+      "elements": [
+        {
+          "type": "slot",
+          "x": 0,
+          "y": 0,
+          "item": "minecraft:copper_ingot",
+          "role": "input"
+        },
+        {
+          "type": "slot",
+          "x": 0,
+          "y": 0,
+          "item": "minecraft:glowstone_dust",
+          "role": "input"
+        },
+        {
+          "type": "slot",
+          "x": 0,
+          "y": 0,
+          "item": "minecraft:copper_ingot",
+          "role": "input"
+        },
+        {
+          "type": "slot",
+          "x": 0,
+          "y": 0,
+          "item": "minecraft:glowstone_dust",
+          "role": "input"
+        },
+        {
+          "type": "slot",
+          "x": 0,
+          "y": 0,
+          "item": "minecraft:redstone_block",
+          "role": "input"
+        },
+        {
+          "type": "slot",
+          "x": 0,
+          "y": 0,
+          "item": "minecraft:glowstone_dust",
+          "role": "input"
+        },
+        {
+          "type": "slot",
+          "x": 0,
+          "y": 0,
+          "item": "minecraft:copper_ingot",
+          "role": "input"
+        },
+        {
+          "type": "slot",
+          "x": 0,
+          "y": 0,
+          "item": "minecraft:glowstone_dust",
+          "role": "input"
+        },
+        {
+          "type": "slot",
+          "x": 0,
+          "y": 0,
+          "item": "minecraft:copper_ingot",
+          "role": "input"
+        }
+      ]
+    },
+    {
+      "type": "arrow",
+      "x": 68,
+      "y": 35,
+      "x2": 82,
+      "y2": 35
+    },
+    {
+      "type": "slot",
+      "x": 86,
+      "y": 26,
+      "item": "marvel:palladium_arc_reactor",
+      "role": "output"
+    },
+    {
+      "type": "text",
+      "x": 128,
+      "y": 4,
+      "width": 120,
+      "text": "literal:Titanium Arc Reactor"
+    },
+    {
+      "type": "group",
+      "x": 128,
+      "y": 16,
+      "layout": "grid",
+      "columns": 3,
+      "cell_width": 20,
+      "cell_height": 20,
+      "elements": [
+        {
+          "type": "slot",
+          "x": 0,
+          "y": 0,
+          "item": "antarchy:titanium_ingot",
+          "role": "input"
+        },
+        {
+          "type": "slot",
+          "x": 0,
+          "y": 0,
+          "item": "alexscaves:radon_lamp_light_blue",
+          "role": "input"
+        },
+        {
+          "type": "slot",
+          "x": 0,
+          "y": 0,
+          "item": "antarchy:titanium_ingot",
+          "role": "input"
+        },
+        {
+          "type": "slot",
+          "x": 0,
+          "y": 0,
+          "item": "alexscaves:radon_lamp_light_blue",
+          "role": "input"
+        },
+        {
+          "type": "slot",
+          "x": 0,
+          "y": 0,
+          "item": "marvel:palladium_arc_reactor",
+          "role": "input"
+        },
+        {
+          "type": "slot",
+          "x": 0,
+          "y": 0,
+          "item": "alexscaves:radon_lamp_light_blue",
+          "role": "input"
+        },
+        {
+          "type": "slot",
+          "x": 0,
+          "y": 0,
+          "item": "antarchy:titanium_ingot",
+          "role": "input"
+        },
+        {
+          "type": "slot",
+          "x": 0,
+          "y": 0,
+          "item": "alexscaves:radon_lamp_light_blue",
+          "role": "input"
+        },
+        {
+          "type": "slot",
+          "x": 0,
+          "y": 0,
+          "item": "antarchy:titanium_ingot",
+          "role": "input"
+        }
+      ]
+    },
+    {
+      "type": "arrow",
+      "x": 192,
+      "y": 35,
+      "x2": 206,
+      "y2": 35
+    },
+    {
+      "type": "slot",
+      "x": 210,
+      "y": 26,
+      "item": "marvel:diamond_arc_reactor",
+      "role": "output"
+    },
+    {
+      "type": "text",
+      "x": 4,
+      "y": 84,
+      "width": 244,
+      "text": "literal:Suits are built at a Suit Table. Upgrading uses up the old piece.",
+      "color": "muted"
+    },
+    {
+      "type": "slot",
+      "x": 4,
+      "y": 106,
+      "item": "marvel:suit_table",
+      "role": "tool",
+      "task": "integrated_boogaloo:marvel_engineering/workshop"
+    }
+  ],
+  "reflow": true,
+  "auto_height": true
+}

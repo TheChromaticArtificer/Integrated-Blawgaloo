@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "gigeresque:black_fluid",
+			"data": {
+				"fluidName": "gigeresque:black_fluid_still"
+			}
+		}
+	]
+}

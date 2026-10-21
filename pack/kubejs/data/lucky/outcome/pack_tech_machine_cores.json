@@ -1,0 +1,26 @@
+{
+  "type": "lucky:group",
+  "luck": 1,
+  "chance": 1.25,
+  "outcomes": [
+    {
+      "type": "lucky:message",
+      "message": {
+        "text": "Machine cores!",
+        "color": "gold",
+        "bold": true
+      },
+      "overlay": true
+    },
+    {
+      "type": "lucky:item",
+      "item": "oritech:machine_core_1",
+      "count": 4
+    },
+    {
+      "type": "lucky:item",
+      "item": "oritech:machine_core_2",
+      "count": 2
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+name = "Electric Boogaloo"
+filename = "electric_boogaloo-1.0.0+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1a3ae4c62bc48c8f098626f72dcae43278ceacf6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8152708
+project-id = 1555131

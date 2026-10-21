@@ -1,0 +1,76 @@
+{
+  "type": "witchery:cauldron_crafting",
+  "altarPower": 500,
+  "inputItems": [
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "pastel:liquid_crystal_bucket"
+      },
+      "order": 0
+    },
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "minecraft:sugar"
+      },
+      "order": 1
+    },
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "minecraft:sugar"
+      },
+      "order": 2
+    },
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "antarchy:peach"
+      },
+      "order": 3
+    },
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "antarchy:peach"
+      },
+      "order": 4
+    },
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "pastel:jade_vine_petals"
+      },
+      "order": 5
+    },
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "pastel:jade_vine_petals"
+      },
+      "order": 6
+    },
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "pastel:blood_orchid_petal"
+      },
+      "order": 7
+    }
+  ],
+  "outputItems": [
+    {
+      "id": "pastel:peach_jam",
+      "count": 4
+    }
+  ]
+}

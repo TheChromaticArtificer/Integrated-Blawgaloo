@@ -1,0 +1,10 @@
+{
+  "sender": "null@antmail.com",
+  "subject": "your door",
+  "body": "you should get a better door\n\nthat one doesnt stay shut",
+  "trigger": {
+    "type": "advancement",
+    "value": "boogaloo_core:watching/ghost_door",
+    "delay": 1
+  }
+}

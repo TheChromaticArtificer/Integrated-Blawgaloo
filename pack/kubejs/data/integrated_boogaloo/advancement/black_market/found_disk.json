@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "found": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "antos:floppy_disk",
+            "components": {
+              "antos:floppy_disk": "integrated_boogaloo:antazon_after_hours"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

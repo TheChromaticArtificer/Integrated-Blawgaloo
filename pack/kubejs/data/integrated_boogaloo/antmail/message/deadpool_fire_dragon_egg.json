@@ -1,0 +1,17 @@
+{
+  "sender": "deadpool@antmail.com",
+  "sender_display": "Deadpool",
+  "sender_avatar_item": "marvel:deadpool_helmet",
+  "subject": "Your egg needs a fire",
+  "body": "Congrats you're a parent. Set that Nightmare egg next to an open flame and it starts counting down to hatch. Im a great parent btw, I raised a unicorn. It was stuffed but it never once burned my house down so its a low bar and you'll be fine.\n\n-Uncle Wade",
+  "trigger": {
+    "type": "advancement",
+    "value": "integrated_boogaloo:deadpool/has_fire_dragon_egg",
+    "delay_minutes": 2
+  },
+  "conditions": {
+    "mail_read": [
+      "integrated_boogaloo:deadpool_intro"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "criteria": {
+    "deadpool_helmet": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "marvel:deadpool_helmet"
+          }
+        ]
+      }
+    },
+    "deadpool_chestplate": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "marvel:deadpool_chestplate"
+          }
+        ]
+      }
+    },
+    "deadpool_leggings": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "marvel:deadpool_leggings"
+          }
+        ]
+      }
+    },
+    "deadpool_boots": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "marvel:deadpool_boots"
+          }
+        ]
+      }
+    }
+  }
+}

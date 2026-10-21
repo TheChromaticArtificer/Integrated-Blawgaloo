@@ -1,0 +1,77 @@
+{
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "minecraft:village/plains/town_centers/plains_fountain_01",
+        "processors": "integrated_boogaloo:structures/village/plains/mossify_20_percent",
+        "projection": "rigid"
+      },
+      "weight": 50
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "minecraft:village/plains/town_centers/plains_meeting_point_1",
+        "processors": "integrated_boogaloo:structures/village/plains/mossify_20_percent",
+        "projection": "rigid"
+      },
+      "weight": 50
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "minecraft:village/plains/town_centers/plains_meeting_point_2",
+        "processors": "integrated_boogaloo:structures/village/plains/inline_1",
+        "projection": "rigid"
+      },
+      "weight": 50
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "minecraft:village/plains/town_centers/plains_meeting_point_3",
+        "processors": "integrated_boogaloo:structures/village/plains/mossify_70_percent",
+        "projection": "rigid"
+      },
+      "weight": 50
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "minecraft:village/plains/zombie/town_centers/plains_fountain_01",
+        "processors": "integrated_boogaloo:structures/village/plains/zombie_plains",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "minecraft:village/plains/zombie/town_centers/plains_meeting_point_1",
+        "processors": "integrated_boogaloo:structures/village/plains/zombie_plains",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "minecraft:village/plains/zombie/town_centers/plains_meeting_point_2",
+        "processors": "integrated_boogaloo:structures/village/plains/zombie_plains",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "minecraft:village/plains/zombie/town_centers/plains_meeting_point_3",
+        "processors": "integrated_boogaloo:structures/village/plains/zombie_plains",
+        "projection": "rigid"
+      },
+      "weight": 1
+    }
+  ],
+  "fallback": "minecraft:empty"
+}

@@ -1,0 +1,21 @@
+{
+  "type": "createcybernetics:grafting_table",
+  "wetware": [
+    {
+      "item": "createcybernetics:bodypart_muscle"
+    },
+    {
+      "item": "oritech:magnetic_coil"
+    },
+    {
+      "item": "iceandfire:lightning_dragon_blood"
+    },
+    {
+      "item": "iceandfire:lightning_dragon_blood"
+    }
+  ],
+  "result": {
+    "id": "createcybernetics:wetware_electrocytemuscle",
+    "count": 1
+  }
+}

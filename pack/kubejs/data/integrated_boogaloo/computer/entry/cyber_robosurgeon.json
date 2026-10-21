@@ -1,0 +1,30 @@
+{
+  "green_tint": false,
+  "type": "article",
+  "category": "general",
+  "folder": "integrated_boogaloo:cybernetics",
+  "sort_order": 40,
+  "title": "guide.integrated_boogaloo.entry.cyber_robosurgeon.title",
+  "subtitle": "guide.integrated_boogaloo.entry.cyber_robosurgeon.subtitle",
+  "cover_item": "createcybernetics:robosurgeon",
+  "lookup": [
+    "createcybernetics:surgery_chamber"
+  ],
+  "content": [
+    {
+      "text": "guide.integrated_boogaloo.entry.cyber_robosurgeon.body_1"
+    },
+    {
+      "display": "integrated_boogaloo:guide/cybernetics"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.cyber_robosurgeon.body_2"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.cyber_robosurgeon.body_3"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.cyber_robosurgeon.body_4"
+    }
+  ]
+}

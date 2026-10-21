@@ -1,0 +1,26 @@
+{
+  "type": "celestisynth:starlit_factory",
+  "core_material": {
+    "item": "antarchy:ultimate_chestplate"
+  },
+  "extra_core_material": {
+    "item": "pastel:moonstone_block"
+  },
+  "supporting_core_material": {
+    "item": "pastel:moonstruck_nectar"
+  },
+  "supporting_material_top": {
+    "item": "pastel:star_fragment"
+  },
+  "supporting_material_middle": {
+    "item": "pastel:moonstone_block"
+  },
+  "supporting_material_bottom": {
+    "item": "iceandfire:pixie_dust"
+  },
+  "forging_time": 600,
+  "result": {
+    "count": 1,
+    "id": "celestisynth:lunar_stone_chestplate"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "computer.integrated_boogaloo.product.pest_control.bear_traps.name",
+  "description": "computer.integrated_boogaloo.product.pest_control.bear_traps.description",
+  "category": "pest control",
+  "green_tint": false,
+  "quantity": 1,
+  "payments": [
+    {
+      "type": "antcoins",
+      "resource": "antcoins",
+      "amount": 50
+    }
+  ],
+  "thumbnail": {
+    "item": "witchery:bear_trap"
+  },
+  "availability": {
+    "server_stock": 0,
+    "player_limit": 2,
+    "player_limit_reset": "minecraft_day"
+  },
+  "unlock_disks": [
+    "integrated_boogaloo:pest_control"
+  ],
+  "unlock_mode": "all",
+  "hidden_until_unlocked": true,
+  "rewards": [
+    {
+      "item": "witchery:bear_trap",
+      "count": 2
+    }
+  ]
+}

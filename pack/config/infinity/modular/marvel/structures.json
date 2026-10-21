@@ -1,0 +1,70 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "marvel:hydra_base_classic",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "marvel:hydra_base_classic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:hydra_base_mountain",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "marvel:hydra_base_mountain"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:hydra_base_winter",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "marvel:hydra_base_winter"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:hydra_outpost_classic",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "marvel:hydra_outpost_classic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:hydra_outpost_mountain",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "marvel:hydra_outpost_mountain"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "marvel:hydra_outpost_winter",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "marvel:hydra_outpost_winter"
+			}
+		}
+	]
+}

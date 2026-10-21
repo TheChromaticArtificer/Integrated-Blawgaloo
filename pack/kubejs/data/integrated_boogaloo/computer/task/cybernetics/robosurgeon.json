@@ -1,0 +1,45 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.cybernetics_robosurgeon.title",
+  "description": "task.integrated_boogaloo.cybernetics_robosurgeon.description",
+  "showcase": [
+    "@item:createcybernetics:robosurgeon",
+    "@recipe:createcybernetics:robosurgeon"
+  ],
+  "icon": "createcybernetics:robosurgeon",
+  "program": "integrated_boogaloo:cybernetics",
+  "category": "integrated_boogaloo:cybernetics",
+  "sort_order": 10,
+  "position": {
+    "x": 5,
+    "y": 1
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:cybernetics/install"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "createcybernetics:robosurgeon",
+      "description": "task.integrated_boogaloo.cybernetics_robosurgeon.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "archive",
+      "entry": "integrated_boogaloo:cyber_robosurgeon"
+    },
+    {
+      "type": "archive",
+      "entry": "integrated_boogaloo:cyber_cyberdeck"
+    },
+    {
+      "type": "antcoins",
+      "amount": 150
+    }
+  ],
+  "line_axis": "horizontal"
+}

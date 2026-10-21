@@ -1,0 +1,11 @@
+{
+  "sender": "trayaurus@antmail.com",
+  "sender_avatar_item": "antarchy:diamond_minecart",
+  "subject": "Are you all right?",
+  "body": "Something's changed about you. You seem corrupted in some way.\n\nIf it helps reach our end goal, I won't ask. Just don't bite me. I've put what I could find in the book. @archive:integrated_boogaloo:witchery_vampirism\n\nYour old friend,\nDr. T",
+  "trigger": {
+    "delay_minutes": 3,
+    "type": "advancement",
+    "value": "witchery:vampire/1"
+  }
+}

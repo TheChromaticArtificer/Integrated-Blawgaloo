@@ -1,0 +1,21 @@
+{
+  "type": "createcybernetics:engineering_deconstruct",
+  "inputs": [
+    {
+      "item": "createcybernetics:eyeupgrades_trajectorycalculator"
+    },
+    {
+      "item": "createcybernetics:scavenged_trajectorycalculator"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "minecraft:glass_pane",
+      "count": 4
+    },
+    {
+      "id": "oritech:silicon",
+      "count": 5
+    }
+  ]
+}

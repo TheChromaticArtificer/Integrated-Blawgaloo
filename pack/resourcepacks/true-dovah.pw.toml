@@ -1,0 +1,13 @@
+name = "True Dovah"
+filename = "True Dovah.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9d4a91f78ca753f0973677b9e97b917cf6b3fb7d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6768497
+project-id = 1306763

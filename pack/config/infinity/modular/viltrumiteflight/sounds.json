@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "viltrumiteflight:sonic_boom"
+		},
+		{
+			"weight": 1.0,
+			"key": "viltrumiteflight:takeoff"
+		},
+		{
+			"weight": 1.0,
+			"key": "viltrumiteflight:wind_loop"
+		}
+	]
+}

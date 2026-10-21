@@ -1,0 +1,70 @@
+{
+  "type": "lucky:group",
+  "luck": 1,
+  "chance": 1.25,
+  "outcomes": [
+    {
+      "type": "lucky:message",
+      "message": {
+        "text": "A fossilized egg... what's inside?",
+        "color": "gold",
+        "bold": true
+      },
+      "overlay": true
+    },
+    {
+      "type": "lucky:random",
+      "outcomes": [
+        {
+          "type": "lucky:item",
+          "item": "ancient_dried_spawn_eggs:ancient_dried_spawn_egg",
+          "components": {
+            "ancient_dried_spawn_eggs:entity_id": "antarchy:apple_cow"
+          }
+        },
+        {
+          "type": "lucky:item",
+          "item": "ancient_dried_spawn_eggs:ancient_dried_spawn_egg",
+          "components": {
+            "ancient_dried_spawn_eggs:entity_id": "antarchy:rolly_polly"
+          }
+        },
+        {
+          "type": "lucky:item",
+          "item": "ancient_dried_spawn_eggs:ancient_dried_spawn_egg",
+          "components": {
+            "ancient_dried_spawn_eggs:entity_id": "alexscaves:subterranodon"
+          }
+        },
+        {
+          "type": "lucky:item",
+          "item": "ancient_dried_spawn_eggs:ancient_dried_spawn_egg",
+          "components": {
+            "ancient_dried_spawn_eggs:entity_id": "iceandfire:hippogryph"
+          }
+        },
+        {
+          "type": "lucky:item",
+          "item": "ancient_dried_spawn_eggs:ancient_dried_spawn_egg",
+          "components": {
+            "ancient_dried_spawn_eggs:entity_id": "minecraft:sniffer"
+          }
+        },
+        {
+          "type": "lucky:item",
+          "item": "ancient_dried_spawn_eggs:ancient_dried_spawn_egg",
+          "components": {
+            "ancient_dried_spawn_eggs:entity_id": "minecraft:camel"
+          }
+        },
+        {
+          "type": "lucky:item",
+          "item": "ancient_dried_spawn_eggs:ancient_dried_spawn_egg",
+          "components": {
+            "ancient_dried_spawn_eggs:entity_id": "wan_ancient_beasts:walker"
+          }
+        }
+      ]
+    }
+  ]
+}

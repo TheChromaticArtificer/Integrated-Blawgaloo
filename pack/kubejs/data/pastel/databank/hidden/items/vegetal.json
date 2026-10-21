@@ -1,0 +1,10 @@
+{
+  "type": {
+    "type": "databank:item",
+    "hidden_as": "minecraft:gunpowder",
+    "original": "pastel:vegetal"
+  },
+  "condition": {
+    "type": "databank:always_true"
+  }
+}

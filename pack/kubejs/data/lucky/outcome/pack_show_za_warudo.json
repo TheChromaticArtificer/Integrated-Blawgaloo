@@ -1,0 +1,6 @@
+{
+  "type": "lucky:command",
+  "luck": 0,
+  "chance": 0.3,
+  "command": "/boogaloo_core lucky show za_warudo {playerName} {blockPosX} {blockPosY} {blockPosZ}"
+}

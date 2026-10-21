@@ -1,0 +1,10 @@
+{
+  "type": {
+    "type": "databank:item",
+    "hidden_as": "minecraft:air",
+    "original": "minecraft:air"
+  },
+  "condition": {
+    "type": "databank:always_true"
+  }
+}

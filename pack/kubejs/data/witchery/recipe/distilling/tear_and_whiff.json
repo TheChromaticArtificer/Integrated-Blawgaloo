@@ -1,0 +1,32 @@
+{
+  "type": "witchery:distilling",
+  "altar_power": 5,
+  "cooking_time": 100,
+  "inputs": [
+    {
+      "item": "witchery:breath_of_the_goddess"
+    },
+    {
+      "item": "iceandfire:siren_tear"
+    }
+  ],
+  "jar_consumption": 3,
+  "outputs": [
+    {
+      "count": 1,
+      "id": "witchery:tear_of_the_goddess"
+    },
+    {
+      "count": 1,
+      "id": "witchery:whiff_of_magic"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:slime_ball"
+    },
+    {
+      "count": 1,
+      "id": "witchery:foul_fume"
+    }
+  ]
+}

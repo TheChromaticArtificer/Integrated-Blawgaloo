@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "unlocked_raw_azurite_ampoule": {
+      "trigger": "databank:has_advancement",
+      "conditions": {
+        "advancement": "pastel:unlocks/ampoules/raw_azurite_ampoule"
+      }
+    },
+    "collected_paltaeria_gem": {
+      "trigger": "databank:has_advancement",
+      "conditions": {
+        "advancement": "pastel:hidden/collect_paltaeria_gem"
+      }
+    },
+    "created_pure_azurite": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "antarchy:bluestone_block"
+          }
+        ]
+      }
+    }
+  }
+}

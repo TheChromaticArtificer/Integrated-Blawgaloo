@@ -1,0 +1,18 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dog:entities/devourer_head",
+			"data": {
+				"Type": "entity"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "dog:gameplay/dragon_devour",
+			"data": {
+				"Type": "chest"
+			}
+		}
+	]
+}

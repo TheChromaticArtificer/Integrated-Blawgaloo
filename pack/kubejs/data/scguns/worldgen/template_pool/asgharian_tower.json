@@ -1,0 +1,15 @@
+{
+  "name": "scguns:asgharian_tower",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "scguns:asgharian_tower",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/scguns/asgharian_tower/57"
+      }
+    }
+  ]
+}

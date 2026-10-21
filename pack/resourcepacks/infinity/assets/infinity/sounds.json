@@ -1,0 +1,1199 @@
+{
+	"disc.minecraft.aerie": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/swamp/aerie"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.aerie"
+	},
+	"disc.minecraft.living_mice": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/living_mice"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.living_mice"
+	},
+	"disc.antarchy.haywire": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "antarchy:music/game/thoraxis/haywire"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.antarchy.haywire"
+	},
+	"disc.ivory.hope_instilled": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "ivory:music/hope_instilled"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.ivory.hope_instilled"
+	},
+	"disc.supplementaries.heave_ho": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "supplementaries:music/heave_ho"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.supplementaries.heave_ho"
+	},
+	"disc.alexscaves.lux": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "alexscaves:music/lux"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.alexscaves.lux"
+	},
+	"disc.minecraft.taswell": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/creative/taswell"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.taswell"
+	},
+	"disc.minecraft.labyrinthine": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/swamp/labyrinthine"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.labyrinthine"
+	},
+	"disc.minecraft.eld_unknown": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/eld_unknown"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.eld_unknown"
+	},
+	"disc.minecraft.crescent_dunes": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/crescent_dunes"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.crescent_dunes"
+	},
+	"disc.minecraft.floating_dream": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/floating_dream"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.floating_dream"
+	},
+	"disc.minecraft.fireflies": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/fireflies"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.fireflies"
+	},
+	"disc.antarchy.wistful_wanderings": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "antarchy:music/game/elythia/wistful_wanderings"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.antarchy.wistful_wanderings"
+	},
+	"disc.minecraft.shores": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/shores"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.shores"
+	},
+	"disc.natures_spirit.music.overworld.wisteria": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "natures_spirit:music.overworld.wisteria"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.natures_spirit.music.overworld.wisteria"
+	},
+	"disc.pastel.radiarc_home": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "pastel:music/radiarc_home"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.pastel.radiarc_home"
+	},
+	"disc.pastel.radiarc_amble": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "pastel:music/radiarc_amble"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.pastel.radiarc_amble"
+	},
+	"disc.pastel.davejf_the_mist": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "pastel:music/davejf_the_mist"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.pastel.davejf_the_mist"
+	},
+	"disc.pastel.proper_motions_everreflective": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "pastel:music/proper_motions_everreflective"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.pastel.proper_motions_everreflective"
+	},
+	"disc.antarchy.idyll": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "antarchy:music/game/elythia/idyll"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.antarchy.idyll"
+	},
+	"disc.minecraft.komorebi": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/komorebi"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.komorebi"
+	},
+	"disc.refurbished_furniture.dance_music": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "refurbished_furniture:block/television/dance_music"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.refurbished_furniture.dance_music"
+	},
+	"disc.alexscaves.dulcet": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "alexscaves:music/dulcet"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.alexscaves.dulcet"
+	},
+	"disc.minecraft.bromeliad": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/bromeliad"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.bromeliad"
+	},
+	"disc.irons_spellbooks.music_disc_dead_king_lullaby": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "irons_spellbooks:music/music_disc_dead_king_lullaby"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.irons_spellbooks.music_disc_dead_king_lullaby"
+	},
+	"disc.minecraft.the_end": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/end/the_end"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.the_end"
+	},
+	"disc.antarchy.inversion_layer": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "antarchy:music/game/thoraxis/inversion_layer"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.antarchy.inversion_layer"
+	},
+	"disc.minecraft.wet_hands": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/wet_hands"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.wet_hands"
+	},
+	"disc.alexscaves.ray": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "alexscaves:music/ray"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.alexscaves.ray"
+	},
+	"disc.minecraft.aria_math": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/creative/aria_math"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.aria_math"
+	},
+	"disc.minecraft.oxygene": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/oxygene"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.oxygene"
+	},
+	"disc.minecraft.boss": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/end/boss"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.boss"
+	},
+	"disc.minecraft.floating_trees": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/menu/floating_trees"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.floating_trees"
+	},
+	"disc.alexscaves.fusion": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "alexscaves:music/fusion"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.alexscaves.fusion"
+	},
+	"disc.minecraft.haggstrom": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/haggstrom"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.haggstrom"
+	},
+	"disc.halcyon.under_the_sky": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "halcyon:music/under_the_sky"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.halcyon.under_the_sky"
+	},
+	"disc.minecraft.wending": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/wending"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.wending"
+	},
+	"disc.minecraft.memories": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/memories"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.memories"
+	},
+	"disc.antarchy.inverted_inferno": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "antarchy:music/game/thoraxis/inverted_inferno"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.antarchy.inverted_inferno"
+	},
+	"disc.antarchy.whistling_void": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "antarchy:music/game/thoraxis/whistling_void"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.antarchy.whistling_void"
+	},
+	"disc.minecraft.moog_city_2": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/menu/moog_city_2"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.moog_city_2"
+	},
+	"disc.minecraft.key": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/key"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.key"
+	},
+	"disc.minecraft.home": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/home"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.home"
+	},
+	"disc.supplementaries.pancake": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "supplementaries:music/pancake"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.supplementaries.pancake"
+	},
+	"disc.minecraft.chrysopoeia": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/nether/crimson_forest/chrysopoeia"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.chrysopoeia"
+	},
+	"disc.antarchy.assimilation": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "antarchy:music/game/thoraxis/assimilation"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.antarchy.assimilation"
+	},
+	"disc.minecraft.dragon_fish": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/water/dragon_fish"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.dragon_fish"
+	},
+	"disc.minecraft.an_ordinary_day": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/an_ordinary_day"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.an_ordinary_day"
+	},
+	"disc.natures_spirit.music.overworld.redwood": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "natures_spirit:music.overworld.redwood"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.natures_spirit.music.overworld.redwood"
+	},
+	"disc.minecraft.firebugs": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/swamp/firebugs"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.firebugs"
+	},
+	"disc.minecraft.mice_on_venus": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/mice_on_venus"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.mice_on_venus"
+	},
+	"disc.dog.scourge_intro": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "dog:music/scourge_intro"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.dog.scourge_intro"
+	},
+	"disc.minecraft.biome_fest": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/creative/biome_fest"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.biome_fest"
+	},
+	"disc.minecraft.watcher": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/watcher"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.watcher"
+	},
+	"disc.irons_spellbooks.drums": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "irons_spellbooks:fire_boss/music/drums"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.irons_spellbooks.drums"
+	},
+	"disc.irons_spellbooks.music_disc_flame_still_burns": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "irons_spellbooks:music/music_disc_flame_still_burns"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.irons_spellbooks.music_disc_flame_still_burns"
+	},
+	"disc.irons_spellbooks.first_phase_melody": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "irons_spellbooks:dead_king/music/first_phase_melody"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.irons_spellbooks.first_phase_melody"
+	},
+	"disc.alexscaves.forgotten_tides": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "alexscaves:music/forgotten_tides"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.alexscaves.forgotten_tides"
+	},
+	"disc.minecraft.mutation": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/menu/mutation"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.mutation"
+	},
+	"disc.minecraft.comforting_memories": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/comforting_memories"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.comforting_memories"
+	},
+	"disc.dog.eulogy_for_the_ego": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "dog:music/eulogy_for_the_ego"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.dog.eulogy_for_the_ego"
+	},
+	"disc.pastel.radiarc_amnion": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "pastel:music/radiarc_amnion"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.pastel.radiarc_amnion"
+	},
+	"disc.alexscaves.paleoverdant": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "alexscaves:music/paleoverdant"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.alexscaves.paleoverdant"
+	},
+	"disc.ivory.challenger": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "ivory:music/challenger"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.ivory.challenger"
+	},
+	"disc.irons_spellbooks.music_disc_whispers_of_ice": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "irons_spellbooks:music/music_disc_whispers_of_ice"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.irons_spellbooks.music_disc_whispers_of_ice"
+	},
+	"disc.minecraft.nightly": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/nightly"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.nightly"
+	},
+	"disc.minecraft.ballad_of_the_cats": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/nether/ballad_of_the_cats"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.ballad_of_the_cats"
+	},
+	"disc.irons_spellbooks.bells_b": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "irons_spellbooks:fire_boss/music/bells_b"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.irons_spellbooks.bells_b"
+	},
+	"disc.irons_spellbooks.bells_a": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "irons_spellbooks:fire_boss/music/bells_a"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.irons_spellbooks.bells_a"
+	},
+	"disc.natures_spirit.music.overworld.maple": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "natures_spirit:music.overworld.maple"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.natures_spirit.music.overworld.maple"
+	},
+	"disc.minecraft.endless": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/endless"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.endless"
+	},
+	"disc.minecraft.puzzlebox": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/puzzlebox"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.puzzlebox"
+	},
+	"disc.minecraft.haunt_muskie": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/creative/haunt_muskie"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.haunt_muskie"
+	},
+	"disc.infinity_gauntlet.tape_music_1": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "infinity_gauntlet:tape_music_1"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.infinity_gauntlet.tape_music_1"
+	},
+	"disc.minecraft.sweden": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/sweden"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.sweden"
+	},
+	"disc.minecraft.dreiton": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/creative/dreiton"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.dreiton"
+	},
+	"disc.minecraft.ebb": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/ebb"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.ebb"
+	},
+	"disc.alexscaves.tasty": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "alexscaves:music/tasty"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.alexscaves.tasty"
+	},
+	"disc.minecraft.yakusoku": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/yakusoku"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.yakusoku"
+	},
+	"disc.minecraft.alpha": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/end/alpha"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.alpha"
+	},
+	"disc.irons_spellbooks.melody_a": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "irons_spellbooks:fire_boss/music/melody_a"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.irons_spellbooks.melody_a"
+	},
+	"disc.pastel.radiarc_submerged": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "pastel:music/radiarc_submerged"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.pastel.radiarc_submerged"
+	},
+	"disc.pastel.radiarc_irrelevance_fading": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "pastel:music/radiarc_irrelevance_fading"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.pastel.radiarc_irrelevance_fading"
+	},
+	"disc.pastel.radiarc_finality": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "pastel:music/radiarc_finality"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.pastel.radiarc_finality"
+	},
+	"disc.irons_spellbooks.melody_b": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "irons_spellbooks:fire_boss/music/melody_b"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.irons_spellbooks.melody_b"
+	},
+	"disc.minecraft.clark": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/clark"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.clark"
+	},
+	"disc.pastel.radiarc_circumstance": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "pastel:music/radiarc_circumstance"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.pastel.radiarc_circumstance"
+	},
+	"disc.minecraft.danny": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/danny"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.danny"
+	},
+	"disc.minecraft.dry_hands": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/dry_hands"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.dry_hands"
+	},
+	"disc.minecraft.dead_voxel": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/nether/dead_voxel"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.dead_voxel"
+	},
+	"disc.minecraft.featherfall": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/featherfall"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.featherfall"
+	},
+	"disc.minecraft.rubedo": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/nether/nether_wastes/rubedo"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.rubedo"
+	},
+	"disc.minecraft.one_more_day": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/one_more_day"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.one_more_day"
+	},
+	"disc.alexscaves.pristine_dawnrise": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "alexscaves:music/pristine_dawnrise"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.alexscaves.pristine_dawnrise"
+	},
+	"disc.irons_spellbooks.first_phase_accent_01": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "irons_spellbooks:dead_king/music/first_phase_accent_01"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.irons_spellbooks.first_phase_accent_01"
+	},
+	"disc.minecraft.so_below": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/nether/soulsand_valley/so_below"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.so_below"
+	},
+	"disc.dog.collapse_intro": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "dog:music/collapse_intro"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.dog.collapse_intro"
+	},
+	"disc.alexscaves.alloy_allure": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "alexscaves:music/alloy_allure"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.alexscaves.alloy_allure"
+	},
+	"disc.dog.universal_collapse": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "dog:music/universal_collapse"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.dog.universal_collapse"
+	},
+	"disc.antarchy.the_queen": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "antarchy:music/game/thoraxis/the_queen"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.antarchy.the_queen"
+	},
+	"disc.minecraft.deeper": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/deeper"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.deeper"
+	},
+	"disc.minecraft.pokopoko": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/pokopoko"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.pokopoko"
+	},
+	"disc.minecraft.minecraft": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/minecraft"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.minecraft"
+	},
+	"disc.minecraft.below_and_above": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/below_and_above"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.below_and_above"
+	},
+	"disc.minecraft.lilypad": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/lilypad"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.lilypad"
+	},
+	"disc.alexscaves.arid_reverie": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "alexscaves:music/arid_reverie"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.alexscaves.arid_reverie"
+	},
+	"disc.minecraft.broken_clocks": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/broken_clocks"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.broken_clocks"
+	},
+	"disc.irons_spellbooks.second_phase_melody_alt": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "irons_spellbooks:dead_king/music/second_phase_melody_alt"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.irons_spellbooks.second_phase_melody_alt"
+	},
+	"disc.irons_spellbooks.intro": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "irons_spellbooks:dead_king/music/intro"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.irons_spellbooks.intro"
+	},
+	"disc.minecraft.subwoofer_lullaby": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/subwoofer_lullaby"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.subwoofer_lullaby"
+	},
+	"disc.minecraft.a_familiar_room": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/a_familiar_room"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.a_familiar_room"
+	},
+	"disc.minecraft.blind_spots": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/creative/blind_spots"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.blind_spots"
+	},
+	"disc.pastel.radiarc_uncertainty": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "pastel:music/radiarc_uncertainty"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.pastel.radiarc_uncertainty"
+	},
+	"disc.pastel.sunsette_darker_than_hell": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "pastel:music/sunsette_darker_than_hell"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.pastel.sunsette_darker_than_hell"
+	},
+	"disc.minecraft.warmth": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/nether/warmth"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.warmth"
+	},
+	"disc.vista.sojourn": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "vista:music/sojourn"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.vista.sojourn"
+	},
+	"disc.antarchy.venenatus": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "antarchy:music/game/cavaryn/venenatus"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.antarchy.venenatus"
+	},
+	"disc.minecraft.infinite_amethyst": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/infinite_amethyst"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.infinite_amethyst"
+	},
+	"disc.pastel.radiarc_despite": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "pastel:music/radiarc_despite"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.pastel.radiarc_despite"
+	},
+	"disc.minecraft.shuniji": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/water/shuniji"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.shuniji"
+	},
+	"disc.minecraft.concrete_halls": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/nether/concrete_halls"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.concrete_halls"
+	},
+	"disc.dog.scourge_of_the_universe": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "dog:music/scourge_of_the_universe"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.dog.scourge_of_the_universe"
+	},
+	"disc.minecraft.beginning_2": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/menu/beginning_2"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.beginning_2"
+	},
+	"disc.antarchy.lucid_lullaby": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "antarchy:music/game/thoraxis/lucid_lullaby"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.antarchy.lucid_lullaby"
+	},
+	"disc.irons_spellbooks.backtrack": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "irons_spellbooks:fire_boss/music/backtrack"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.irons_spellbooks.backtrack"
+	},
+	"disc.minecraft.axolotl": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/water/axolotl"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.axolotl"
+	},
+	"disc.minecraft.left_to_bloom": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/left_to_bloom"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.left_to_bloom"
+	},
+	"disc.minecraft.echo_in_the_wind": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/echo_in_the_wind"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.echo_in_the_wind"
+	},
+	"disc.minecraft.ancestry": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/ancestry"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.ancestry"
+	},
+	"disc.natures_spirit.music.overworld.aspen": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "natures_spirit:music.overworld.aspen"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.natures_spirit.music.overworld.aspen"
+	},
+	"disc.minecraft.stand_tall": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/stand_tall"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.stand_tall"
+	},
+	"disc.irons_spellbooks.suspense": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "irons_spellbooks:dead_king/music/suspense"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.irons_spellbooks.suspense"
+	},
+	"disc.minecraft.os_piano": {
+		"sounds": [
+			{
+				"stream": true,
+				"name": "minecraft:music/game/os_piano"
+			}
+		],
+		"subtitle": "infinity:subtitles.disc.minecraft.os_piano"
+	}
+}

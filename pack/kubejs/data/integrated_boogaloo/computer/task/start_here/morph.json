@@ -1,0 +1,36 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.start_here_morph.title",
+  "description": "task.integrated_boogaloo.start_here_morph.description",
+  "showcase": [
+    "@entity:minecraft:zombie"
+  ],
+  "icon": "minecraft:zombie_head",
+  "program": "integrated_boogaloo:start_here",
+  "category": "integrated_boogaloo:start_here",
+  "sort_order": 11,
+  "position": {
+    "x": 0,
+    "y": 2
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "minecraft:adventure/kill_a_mob",
+      "description": "task.integrated_boogaloo.start_here_morph.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 10
+    }
+  ],
+  "connects": [
+    "integrated_boogaloo:start_here/floppy_disks"
+  ],
+  "line_axis": "vertical"
+}

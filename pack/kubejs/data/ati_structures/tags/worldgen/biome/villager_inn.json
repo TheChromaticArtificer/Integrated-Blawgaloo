@@ -1,0 +1,67 @@
+{
+  "replace": true,
+  "values": [
+    {
+      "id": "#integrated_api:collections/regular_forests",
+      "required": false
+    },
+    {
+      "id": "#integrated_api:collections/birch_forests",
+      "required": false
+    },
+    {
+      "id": "#integrated_api:collections/flower_forests",
+      "required": false
+    },
+    "natures_spirit:maple_woodlands",
+    "natures_spirit:aspen_forest",
+    "natures_spirit:coniferous_covert",
+    {
+      "id": "#integrated_api:collections/dark_oak_forests",
+      "required": false
+    },
+    {
+      "id": "#integrated_api:collections/spooky_forests",
+      "required": false
+    },
+    {
+      "id": "#integrated_api:collections/taigas",
+      "required": false
+    },
+    {
+      "id": "#integrated_api:collections/giant_taigas",
+      "required": false
+    },
+    {
+      "id": "#integrated_api:collections/jungles",
+      "required": false
+    },
+    {
+      "id": "#integrated_api:collections/bamboos",
+      "required": false
+    },
+    {
+      "id": "#integrated_api:collections/swamps",
+      "required": false
+    },
+    {
+      "id": "#integrated_api:collections/mangroves",
+      "required": false
+    },
+    {
+      "id": "#integrated_api:collections/plains",
+      "required": false
+    },
+    {
+      "id": "#integrated_api:collections/meadows",
+      "required": false
+    },
+    {
+      "id": "#integrated_api:collections/floral",
+      "required": false
+    },
+    "natures_spirit:alpine_clearings",
+    "natures_spirit:prairie",
+    "natures_spirit:shrubland"
+  ]
+}

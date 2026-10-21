@@ -1,0 +1,21 @@
+{
+  "type": "createcybernetics:engineering_deconstruct",
+  "inputs": [
+    {
+      "item": "createcybernetics:brainupgrades_neuralcontextualizer"
+    },
+    {
+      "item": "createcybernetics:scavenged_neuralcontextualizer"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "antarchy:titanium_nugget",
+      "count": 10
+    },
+    {
+      "id": "createcybernetics:component_synthnerves",
+      "count": 2
+    }
+  ]
+}

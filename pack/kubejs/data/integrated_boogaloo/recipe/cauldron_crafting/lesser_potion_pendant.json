@@ -1,0 +1,44 @@
+{
+  "type": "witchery:cauldron_crafting",
+  "altarPower": 1000,
+  "inputItems": [
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "pastel:fanciful_pendant"
+      },
+      "order": 0
+    },
+    {
+      "color": -3394765,
+      "itemStack": {
+        "count": 1,
+        "id": "antarchy:uranium_block"
+      },
+      "order": 1
+    },
+    {
+      "color": -27493,
+      "itemStack": {
+        "count": 1,
+        "id": "pastel:pink_block"
+      },
+      "order": 2
+    },
+    {
+      "color": -6710785,
+      "itemStack": {
+        "count": 1,
+        "id": "witchery:whiff_of_magic"
+      },
+      "order": 3
+    }
+  ],
+  "outputItems": [
+    {
+      "count": 1,
+      "id": "pastel:lesser_potion_pendant"
+    }
+  ]
+}

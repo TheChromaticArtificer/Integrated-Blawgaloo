@@ -1,0 +1,15 @@
+{
+  "name": "epic:epic_dungeon/small_ice_dungeon",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/small_ice_dungeon",
+        "location": "epic:epic_dungeon/ice_dungeon/small_ice_dungeon"
+      },
+      "weight": 1
+    }
+  ]
+}

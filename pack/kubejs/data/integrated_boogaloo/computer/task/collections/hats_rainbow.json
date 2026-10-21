@@ -1,0 +1,193 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.collection.hats_rainbow.title",
+  "description": "task.integrated_boogaloo.collection.hats_rainbow.description",
+  "icon": "hats:rgbtoptophathat",
+  "program": "integrated_boogaloo:collections",
+  "category": "integrated_boogaloo:collections",
+  "sort_order": 502,
+  "position": {
+    "x": 2,
+    "y": 5
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "bandanargb",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/bandanargb",
+      "description": "item.hats.bandanargb",
+      "count": 1
+    },
+    {
+      "id": "baseballhatrgb",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/baseballhatrgb",
+      "description": "item.hats.baseballhatrgb",
+      "count": 1
+    },
+    {
+      "id": "beaniergb",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/beaniergb",
+      "description": "item.hats.beaniergb",
+      "count": 1
+    },
+    {
+      "id": "beehatpride",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/beehatpride",
+      "description": "item.hats.beehatpride",
+      "count": 1
+    },
+    {
+      "id": "beehattrans",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/beehattrans",
+      "description": "item.hats.beehattrans",
+      "count": 1
+    },
+    {
+      "id": "cowboyrgb",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/cowboyrgb",
+      "description": "item.hats.cowboyrgb",
+      "count": 1
+    },
+    {
+      "id": "poofballrgb",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/poofballrgb",
+      "description": "item.hats.poofballrgb",
+      "count": 1
+    },
+    {
+      "id": "rainboworbiters",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/rainboworbiters",
+      "description": "item.hats.rainboworbiters",
+      "count": 1
+    },
+    {
+      "id": "rgbbigribbon",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/rgbbigribbon",
+      "description": "item.hats.rgbbigribbon",
+      "count": 1
+    },
+    {
+      "id": "rgbbowler",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/rgbbowler",
+      "description": "item.hats.rgbbowler",
+      "count": 1
+    },
+    {
+      "id": "rgbdragonskull",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/rgbdragonskull",
+      "description": "item.hats.rgbdragonskull",
+      "count": 1
+    },
+    {
+      "id": "rgbdrinkinhat",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/rgbdrinkinhat",
+      "description": "item.hats.rgbdrinkinhat",
+      "count": 1
+    },
+    {
+      "id": "rgbeasterhead",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/rgbeasterhead",
+      "description": "item.hats.rgbeasterhead",
+      "count": 1
+    },
+    {
+      "id": "rgbfullhelm",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/rgbfullhelm",
+      "description": "item.hats.rgbfullhelm",
+      "count": 1
+    },
+    {
+      "id": "rgbpartyhat",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/rgbpartyhat",
+      "description": "item.hats.rgbpartyhat",
+      "count": 1
+    },
+    {
+      "id": "rgbsmallbowler",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/rgbsmallbowler",
+      "description": "item.hats.rgbsmallbowler",
+      "count": 1
+    },
+    {
+      "id": "rgbsunglasses",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/rgbsunglasses",
+      "description": "item.hats.rgbsunglasses",
+      "count": 1
+    },
+    {
+      "id": "rgbtoptophathat",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/rgbtoptophathat",
+      "description": "item.hats.rgbtoptophathat",
+      "count": 1
+    },
+    {
+      "id": "rgbushanka",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/rgbushanka",
+      "description": "item.hats.rgbushanka",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 1000
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "id": "supplies",
+          "title": "task.integrated_boogaloo.reward.supplies",
+          "rewards": [
+            {
+              "type": "item_pool",
+              "pool": "integrated_boogaloo:supplies_common",
+              "mode": "random"
+            }
+          ]
+        },
+        {
+          "id": "lucky",
+          "title": "task.integrated_boogaloo.reward.lucky",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "lucky:lucky_block",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "id": "titanium",
+          "title": "task.integrated_boogaloo.reward.titanium",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "antarchy:titanium_nugget",
+              "count": 9
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

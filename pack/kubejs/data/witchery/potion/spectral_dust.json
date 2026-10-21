@@ -1,0 +1,11 @@
+{
+  "altar_power": 2000,
+  "base_duration": 900,
+  "capacity_cost": -5,
+  "color": -3623681,
+  "item": {
+    "count": 1,
+    "id": "iceandfire:ectoplasm"
+  },
+  "special_effect": "witchery:reflect_damage"
+}

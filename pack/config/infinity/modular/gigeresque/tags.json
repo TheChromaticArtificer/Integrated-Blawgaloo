@@ -1,0 +1,48 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "gigeresque:acid_resistant"
+		},
+		{
+			"weight": 1.0,
+			"key": "gigeresque:alien_repellents"
+		},
+		{
+			"weight": 1.0,
+			"key": "gigeresque:allow_mist_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "gigeresque:burster_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "gigeresque:destructible_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "gigeresque:dungeon_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "gigeresque:dungeon_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "gigeresque:nest_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "gigeresque:nest_cross_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "gigeresque:spore_replace"
+		},
+		{
+			"weight": 1.0,
+			"key": "gigeresque:weak_block"
+		}
+	]
+}

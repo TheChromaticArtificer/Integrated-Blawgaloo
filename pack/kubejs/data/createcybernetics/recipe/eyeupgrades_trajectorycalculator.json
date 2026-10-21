@@ -1,0 +1,41 @@
+{
+  "type": "createcybernetics:engineering_table",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "F": {
+      "item": "oritech:enderic_lens"
+    },
+    "P": {
+      "item": "minecraft:orange_dye"
+    },
+    "B": {
+      "item": "oritech:enderic_lens"
+    },
+    "G": {
+      "item": "oritech:advanced_computing_engine"
+    },
+    "S": {
+      "item": "oritech:processing_unit"
+    },
+    "N": {
+      "item": "minecraft:gold_nugget"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "M": {
+      "item": "scguns:advanced_round"
+    }
+  },
+  "pattern": [
+    " NRN ",
+    " FMF ",
+    "PGBSP",
+    " FGF "
+  ],
+  "result": {
+    "count": 1,
+    "id": "createcybernetics:eyeupgrades_trajectorycalculator"
+  }
+}

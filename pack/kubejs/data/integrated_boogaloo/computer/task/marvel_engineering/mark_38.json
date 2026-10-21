@@ -1,0 +1,39 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.marvel_engineering_mark_38.title",
+  "description": "task.integrated_boogaloo.marvel_engineering_mark_38.description",
+  "showcase": [
+    "@recipe:marvel:iron_man_mark_38_chestplate"
+  ],
+  "icon": "marvel:iron_man_mark_38_chestplate",
+  "program": "integrated_boogaloo:engineering",
+  "category": "integrated_boogaloo:engineering",
+  "sort_order": 44,
+  "position": {
+    "x": 13,
+    "y": 4
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:marvel_engineering/mk33"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "integrated_boogaloo:engineering/mark_38",
+      "description": "task.integrated_boogaloo.marvel_engineering_mark_38.goal",
+      "count": 1
+    }
+  ],
+  "archive_entries": [
+    "integrated_boogaloo:suit_marks_late"
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 200
+    }
+  ],
+  "line_axis": "vertical"
+}

@@ -1,0 +1,13 @@
+name = "AntOS Computer | Quests + Guidebook"
+filename = "antos-neoforge-1.21.1-1.4.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a085774d0064996d77f09d25552b67c0734273ff"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9269978
+project-id = 1700593

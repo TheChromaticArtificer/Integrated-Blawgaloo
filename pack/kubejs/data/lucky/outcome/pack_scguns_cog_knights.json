@@ -1,0 +1,48 @@
+{
+  "type": "lucky:group",
+  "luck": -2,
+  "chance": 0.6,
+  "outcomes": [
+    {
+      "type": "lucky:message",
+      "message": {
+        "text": "Cog knights march in!",
+        "color": "gold",
+        "bold": true
+      },
+      "overlay": true
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "scguns:cog_knight",
+      "reinit": true,
+      "pos": [
+        "{blockPosX}",
+        "{blockPosY}",
+        "{blockPosZ}+5"
+      ]
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "scguns:cog_minion",
+      "reinit": true,
+      "count": 4,
+      "pos": {
+        "type": "lucky:random_in_shape",
+        "center": [
+          "{blockPosX}",
+          "{blockPosY}",
+          "{blockPosZ}"
+        ],
+        "shape": {
+          "type": "lucky:sphere",
+          "size": [
+            5,
+            1,
+            5
+          ]
+        }
+      }
+    }
+  ]
+}

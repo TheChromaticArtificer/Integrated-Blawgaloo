@@ -1,0 +1,644 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.collection.guns_field.title",
+  "description": "task.integrated_boogaloo.collection.guns_field.description",
+  "icon": "scguns:musket",
+  "program": "integrated_boogaloo:collections",
+  "category": "integrated_boogaloo:collections",
+  "sort_order": 300,
+  "position": {
+    "x": 0,
+    "y": 3
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "musket",
+      "type": "item",
+      "target": "scguns:musket",
+      "description": "item.scguns.musket",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "flintlock_pistol",
+      "type": "item",
+      "target": "scguns:flintlock_pistol",
+      "description": "item.scguns.flintlock_pistol",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "handcannon",
+      "type": "item",
+      "target": "scguns:handcannon",
+      "description": "item.scguns.handcannon",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "blunderbuss",
+      "type": "item",
+      "target": "scguns:blunderbuss",
+      "description": "item.scguns.blunderbuss",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "fencer_carabine",
+      "type": "item",
+      "target": "scguns:fencer_carabine",
+      "description": "item.scguns.fencer_carabine",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "fencer_thumper",
+      "type": "item",
+      "target": "scguns:fencer_thumper",
+      "description": "item.scguns.fencer_thumper",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "doublet",
+      "type": "item",
+      "target": "scguns:doublet",
+      "description": "item.scguns.doublet",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "repeating_musket",
+      "type": "item",
+      "target": "scguns:repeating_musket",
+      "description": "item.scguns.repeating_musket",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "longarm",
+      "type": "item",
+      "target": "scguns:longarm",
+      "description": "item.scguns.longarm",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "laser_musket",
+      "type": "item",
+      "target": "scguns:laser_musket",
+      "description": "item.scguns.laser_musket",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "teslock_rifle",
+      "type": "item",
+      "target": "scguns:teslock_rifle",
+      "description": "item.scguns.teslock_rifle",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "plasmabuss",
+      "type": "item",
+      "target": "scguns:plasmabuss",
+      "description": "item.scguns.plasmabuss",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "scrapper",
+      "type": "item",
+      "target": "scguns:scrapper",
+      "description": "item.scguns.scrapper",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "rusty_gnat",
+      "type": "item",
+      "target": "scguns:rusty_gnat",
+      "description": "item.scguns.rusty_gnat",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "umax_pistol",
+      "type": "item",
+      "target": "scguns:umax_pistol",
+      "description": "item.scguns.umax_pistol",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "makeshift_rifle",
+      "type": "item",
+      "target": "scguns:makeshift_rifle",
+      "description": "item.scguns.makeshift_rifle",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "boomstick",
+      "type": "item",
+      "target": "scguns:boomstick",
+      "description": "item.scguns.boomstick",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "bruiser",
+      "type": "item",
+      "target": "scguns:bruiser",
+      "description": "item.scguns.bruiser",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "llr_director",
+      "type": "item",
+      "target": "scguns:llr_director",
+      "description": "item.scguns.llr_director",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "birdfeeder",
+      "type": "item",
+      "target": "scguns:birdfeeder",
+      "description": "item.scguns.birdfeeder",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "blooper",
+      "type": "item",
+      "target": "scguns:blooper",
+      "description": "item.scguns.blooper",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "arc_worker",
+      "type": "item",
+      "target": "scguns:arc_worker",
+      "description": "item.scguns.arc_worker",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "whistler",
+      "type": "item",
+      "target": "scguns:whistler",
+      "description": "item.scguns.whistler",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "defender_pistol",
+      "type": "item",
+      "target": "scguns:defender_pistol",
+      "description": "item.scguns.defender_pistol",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "trenchur",
+      "type": "item",
+      "target": "scguns:trenchur",
+      "description": "item.scguns.trenchur",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "greaser_smg",
+      "type": "item",
+      "target": "scguns:greaser_smg",
+      "description": "item.scguns.greaser_smg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "m3_carabine",
+      "type": "item",
+      "target": "scguns:m3_carabine",
+      "description": "item.scguns.m3_carabine",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "m3_marksman",
+      "type": "item",
+      "target": "scguns:m3_marksman",
+      "description": "item.scguns.m3_marksman",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "combat_shotgun",
+      "type": "item",
+      "target": "scguns:combat_shotgun",
+      "description": "item.scguns.combat_shotgun",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "venturi",
+      "type": "item",
+      "target": "scguns:venturi",
+      "description": "item.scguns.venturi",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "iron_javelin",
+      "type": "item",
+      "target": "scguns:iron_javelin",
+      "description": "item.scguns.iron_javelin",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "iron_spear",
+      "type": "item",
+      "target": "scguns:iron_spear",
+      "description": "item.scguns.iron_spear",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "auvtomag",
+      "type": "item",
+      "target": "scguns:auvtomag",
+      "description": "item.scguns.auvtomag",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pulsar",
+      "type": "item",
+      "target": "scguns:pulsar",
+      "description": "item.scguns.pulsar",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "gyrojet_pistol",
+      "type": "item",
+      "target": "scguns:gyrojet_pistol",
+      "description": "item.scguns.gyrojet_pistol",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "brawler",
+      "type": "item",
+      "target": "scguns:brawler",
+      "description": "item.scguns.brawler",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "crusader",
+      "type": "item",
+      "target": "scguns:crusader",
+      "description": "item.scguns.crusader",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "mk43_rifle",
+      "type": "item",
+      "target": "scguns:mk43_rifle",
+      "description": "item.scguns.mk43_rifle",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "triquetra",
+      "type": "item",
+      "target": "scguns:triquetra",
+      "description": "item.scguns.triquetra",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "rocket_rifle",
+      "type": "item",
+      "target": "scguns:rocket_rifle",
+      "description": "item.scguns.rocket_rifle",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "ultra_knight_hawk",
+      "type": "item",
+      "target": "scguns:ultra_knight_hawk",
+      "description": "item.scguns.ultra_knight_hawk",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pax",
+      "type": "item",
+      "target": "scguns:pax",
+      "description": "item.scguns.pax",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "winnie",
+      "type": "item",
+      "target": "scguns:winnie",
+      "description": "item.scguns.winnie",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "winnie_millend",
+      "type": "item",
+      "target": "scguns:winnie_millend",
+      "description": "item.scguns.winnie_millend",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "callwell",
+      "type": "item",
+      "target": "scguns:callwell",
+      "description": "item.scguns.callwell",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "callwell_conversion",
+      "type": "item",
+      "target": "scguns:callwell_conversion",
+      "description": "item.scguns.callwell_conversion",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "callwell_terminal",
+      "type": "item",
+      "target": "scguns:callwell_terminal",
+      "description": "item.scguns.callwell_terminal",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "saketini",
+      "type": "item",
+      "target": "scguns:saketini",
+      "description": "item.scguns.saketini",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "saketini_ironport",
+      "type": "item",
+      "target": "scguns:saketini_ironport",
+      "description": "item.scguns.saketini_ironport",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "red_raydar",
+      "type": "item",
+      "target": "scguns:red_raydar",
+      "description": "item.scguns.red_raydar",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "kiln_gun",
+      "type": "item",
+      "target": "scguns:kiln_gun",
+      "description": "item.scguns.kiln_gun",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "big_bore",
+      "type": "item",
+      "target": "scguns:big_bore",
+      "description": "item.scguns.big_bore",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "m22_waltz",
+      "type": "item",
+      "target": "scguns:m22_waltz",
+      "description": "item.scguns.m22_waltz",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "waltz_conversion",
+      "type": "item",
+      "target": "scguns:waltz_conversion",
+      "description": "item.scguns.waltz_conversion",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "osgood_50",
+      "type": "item",
+      "target": "scguns:osgood_50",
+      "description": "item.scguns.osgood_50",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "grandle_og",
+      "type": "item",
+      "target": "scguns:grandle_og",
+      "description": "item.scguns.grandle_og",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "grandle",
+      "type": "item",
+      "target": "scguns:grandle",
+      "description": "item.scguns.grandle",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "cogloader",
+      "type": "item",
+      "target": "scguns:cogloader",
+      "description": "item.scguns.cogloader",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "gale",
+      "type": "item",
+      "target": "scguns:gale",
+      "description": "item.scguns.gale",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "jr_wristbreaker",
+      "type": "item",
+      "target": "scguns:jr_wristbreaker",
+      "description": "item.scguns.jr_wristbreaker",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "jackhammer",
+      "type": "item",
+      "target": "scguns:jackhammer",
+      "description": "item.scguns.jackhammer",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "hammer_gl",
+      "type": "item",
+      "target": "scguns:hammer_gl",
+      "description": "item.scguns.hammer_gl",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "howler",
+      "type": "item",
+      "target": "scguns:howler",
+      "description": "item.scguns.howler",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "howler_conversion",
+      "type": "item",
+      "target": "scguns:howler_conversion",
+      "description": "item.scguns.howler_conversion",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "gauss_rifle",
+      "type": "item",
+      "target": "scguns:gauss_rifle",
+      "description": "item.scguns.gauss_rifle",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "niami",
+      "type": "item",
+      "target": "scguns:niami",
+      "description": "item.scguns.niami",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spitfire",
+      "type": "item",
+      "target": "scguns:spitfire",
+      "description": "item.scguns.spitfire",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "gattaler",
+      "type": "item",
+      "target": "scguns:gattaler",
+      "description": "item.scguns.gattaler",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "thunderhead",
+      "type": "item",
+      "target": "scguns:thunderhead",
+      "description": "item.scguns.thunderhead",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "scratches",
+      "type": "item",
+      "target": "scguns:scratches",
+      "description": "item.scguns.scratches",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "cr4k_mining_laser",
+      "type": "item",
+      "target": "scguns:cr4k_mining_laser",
+      "description": "item.scguns.cr4k_mining_laser",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "dozier_rl",
+      "type": "item",
+      "target": "scguns:dozier_rl",
+      "description": "item.scguns.dozier_rl",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "libertas",
+      "type": "item",
+      "target": "scguns:libertas",
+      "description": "item.scguns.libertas",
+      "count": 1,
+      "sticky": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 6000
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "id": "rare",
+          "title": "task.integrated_boogaloo.reward.rare",
+          "rewards": [
+            {
+              "type": "item_pool",
+              "pool": "integrated_boogaloo:supplies_rare",
+              "mode": "random"
+            }
+          ]
+        },
+        {
+          "id": "lucky",
+          "title": "task.integrated_boogaloo.reward.lucky",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "lucky:lucky_block",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "id": "uranium",
+          "title": "task.integrated_boogaloo.reward.uranium",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "antarchy:uranium_ingot",
+              "count": 4
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
