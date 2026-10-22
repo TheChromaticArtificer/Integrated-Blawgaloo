@@ -133,22 +133,6 @@ file = "config/antarchy/antarchy_mobs.toml"
 hash = "5c85b525524c75d1edf322c77aaa0dc77db51d19b788f5dee8da325a1d5a83d3"
 
 [[files]]
-file = "config/antarchy/antarchy_tools-1.toml.bak"
-hash = "1b1240b4b93ca7ab04213a28f24865f3143009bebd73b950df6884e00a534367"
-
-[[files]]
-file = "config/antarchy/antarchy_tools-2.toml.bak"
-hash = "1b1240b4b93ca7ab04213a28f24865f3143009bebd73b950df6884e00a534367"
-
-[[files]]
-file = "config/antarchy/antarchy_tools-3.toml.bak"
-hash = "2847326aeedc854105472c6d5222476277cc6c016f754665598046316512375e"
-
-[[files]]
-file = "config/antarchy/antarchy_tools-4.toml.bak"
-hash = "78843de30301c3f53f5215f1ab25fba6aca3c8f721a2c5f576b380a86406fc6c"
-
-[[files]]
 file = "config/antarchy/antarchy_tools.toml"
 hash = "1b1240b4b93ca7ab04213a28f24865f3143009bebd73b950df6884e00a534367"
 
@@ -202,10 +186,6 @@ hash = "cae5ba66971b2f61e0b523c5aeb8b8d4fa806f0bea8a1709860e4fea94426ac9"
 
 [[files]]
 file = "config/bda/main.json"
-hash = "de2238ddd0747bec991fd97594c0e982f8c4f61a9f461c0f37baab9288723782"
-
-[[files]]
-file = "config/bda/main.json.bak"
 hash = "de2238ddd0747bec991fd97594c0e982f8c4f61a9f461c0f37baab9288723782"
 
 [[files]]
@@ -275,10 +255,6 @@ hash = "5b2183607ef0f4181f9e1cbba2d4f5e3e8e8bff43e42dacf9e847ad0b53b2685"
 [[files]]
 file = "config/boogaloo_core-starlit.toml"
 hash = "e764308f204e36b5e1e5c06ff16f4fdbd31a2d04b4a10facd7acecbcf8b8d782"
-
-[[files]]
-file = "config/boogaloo_core-watching-1.toml.bak"
-hash = "b8d6aec510e082aa81b92ced67468cde8357fd4fce7801bba2b0024bbfde9ab6"
 
 [[files]]
 file = "config/boogaloo_core-watching.toml"
@@ -547,26 +523,6 @@ hash = "88b1db478a0ee9c37e9ec28335b204a966fe17e9ba0310bcf2caffd28b5589a5"
 [[files]]
 file = "config/everycomp-common.toml"
 hash = "6bccd9a5af80821fe4b83ea397da43adac0b8511bfb7d3b297c038f2b69da8f1"
-
-[[files]]
-file = "config/everycomp-entries-1.toml.bak"
-hash = "3ac75eb5db7411eaef72ac466b3e63cf6864158c544005a80baf2918da8a90bb"
-
-[[files]]
-file = "config/everycomp-entries-2.toml.bak"
-hash = "d0c38fe4e04470ba013436508b12ea91b241ab522620403cb1dad9821b1e8f93"
-
-[[files]]
-file = "config/everycomp-entries-3.toml.bak"
-hash = "87fed2c7c5cccdf7f5782ff6d4a351eb0eee1e184fe80fb0d57ca7c2c30c9079"
-
-[[files]]
-file = "config/everycomp-entries-4.toml.bak"
-hash = "87fed2c7c5cccdf7f5782ff6d4a351eb0eee1e184fe80fb0d57ca7c2c30c9079"
-
-[[files]]
-file = "config/everycomp-entries-5.toml.bak"
-hash = "87fed2c7c5cccdf7f5782ff6d4a351eb0eee1e184fe80fb0d57ca7c2c30c9079"
 
 [[files]]
 file = "config/everycomp-entries.toml"
@@ -3361,16 +3317,8 @@ file = "config/integrated_superheroes-gauntlet.toml"
 hash = "fea61c684e906b66de1c75f271dffea53d9d05db8bc9bfcc87854f549da0c919"
 
 [[files]]
-file = "config/integrated_superheroes-heroes-1.toml.bak"
-hash = "8112857abb9a989f0d26e97e5dddf785e98ffb4322990e21ee4cccd895bc5c45"
-
-[[files]]
 file = "config/integrated_superheroes-heroes.toml"
 hash = "fbf4227a8fc04c91ba7a9d82f54f9f15f58033f776d33dc49b582b33de8cff01"
-
-[[files]]
-file = "config/integrated_superheroes-villains-1.toml.bak"
-hash = "7ff83c6beb7fad90e6deae1eae99091ab28215da71672158672282a37960a098"
 
 [[files]]
 file = "config/integrated_superheroes-villains.toml"
@@ -3505,15 +3453,7 @@ file = "config/jei/ingredient-list-mod-sort-order.ini"
 hash = "e30c32149fafd9bc32f3fc945f02f1989511bb9469876d3f3d9b12cb20966cce"
 
 [[files]]
-file = "config/jei/ingredient-list-mod-sort-order.ini.bak.1"
-hash = "e30c32149fafd9bc32f3fc945f02f1989511bb9469876d3f3d9b12cb20966cce"
-
-[[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
-hash = "2cabb71b5e07aaf9a414b4f7ccf1694077ab0827cde19431f032061cd51651d3"
-
-[[files]]
-file = "config/jei/ingredient-list-type-sort-order.ini.bak.1"
 hash = "2cabb71b5e07aaf9a414b4f7ccf1694077ab0827cde19431f032061cd51651d3"
 
 [[files]]
@@ -3521,15 +3461,7 @@ file = "config/jei/jei-client.ini"
 hash = "f6841387ba118885299e6fe6574daaa62ad5adcf4e73f851ec2e9f8977ea066d"
 
 [[files]]
-file = "config/jei/jei-client.ini.bak.1"
-hash = "f6841387ba118885299e6fe6574daaa62ad5adcf4e73f851ec2e9f8977ea066d"
-
-[[files]]
 file = "config/jei/jei-colors.ini"
-hash = "755f199a3868224bdccb2a8ffd8f1a4eb2d96140757f444ba31f8d677a66034f"
-
-[[files]]
-file = "config/jei/jei-colors.ini.bak.1"
 hash = "755f199a3868224bdccb2a8ffd8f1a4eb2d96140757f444ba31f8d677a66034f"
 
 [[files]]
@@ -3537,23 +3469,11 @@ file = "config/jei/jei-debug.ini"
 hash = "4ea3ef84cbf0b9044fb0cf6e3bfce1806119dfcec5324eaaca3a7e2548ea9393"
 
 [[files]]
-file = "config/jei/jei-debug.ini.bak.1"
-hash = "4ea3ef84cbf0b9044fb0cf6e3bfce1806119dfcec5324eaaca3a7e2548ea9393"
-
-[[files]]
 file = "config/jei/jei-mod-id-format.ini"
 hash = "6a91c09d1cabc1980d90ab102a03ec58c0551213ab16a459b599d768b334d054"
 
 [[files]]
-file = "config/jei/jei-mod-id-format.ini.bak.1"
-hash = "6a91c09d1cabc1980d90ab102a03ec58c0551213ab16a459b599d768b334d054"
-
-[[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "5abc17ca150f139281c8c5a368ca6a4caecd726d34973cc24467697264596b15"
-
-[[files]]
-file = "config/jei/recipe-category-sort-order.ini.bak.1"
 hash = "5abc17ca150f139281c8c5a368ca6a4caecd726d34973cc24467697264596b15"
 
 [[files]]
@@ -3651,10 +3571,6 @@ hash = "1febf6ff1d35f4ffe34d6e5444e3c9496155a6abf3f49eb4ef5650d102645249"
 [[files]]
 file = "config/mffs-client.toml"
 hash = "dbd88e004ac4f834a41d29a546f490c22815b40e6af1ce568ddb84fbef819df6"
-
-[[files]]
-file = "config/mffs-common-1.toml.bak"
-hash = "1d35406dabb99dded0e9e0b40040036a51215753fe9a8f9188ebbce0717a335d"
 
 [[files]]
 file = "config/mffs-common.toml"
@@ -5257,10 +5173,6 @@ file = "config/neoforge-client.toml"
 hash = "d58d93e2c429410d0abf25507d1679f732e1023b03bb52414348efcf5cf3ddb0"
 
 [[files]]
-file = "config/neoforge-common-1.toml.bak"
-hash = "fe878a2717a145cd890621eac5b3be1e1fd656f7ff9abc6e8d53f670d37474c4"
-
-[[files]]
 file = "config/neoforge-common.toml"
 hash = "8575eb5db529376141370dc9cf80bc762c4c70c22f538d3c89254b592e329f73"
 
@@ -5505,20 +5417,8 @@ file = "config/trender.json"
 hash = "0a282f3623f7f9443a1d10b5768865f69e58b74e000dcfb4f40399626b7a6124"
 
 [[files]]
-file = "config/vanillabackport-client-1.toml.bak"
-hash = "14c5e0b3900667b0b224e760f4268aabb74dbb55afefe19e9ff2f7a372f7de17"
-
-[[files]]
-file = "config/vanillabackport-client-2.toml.bak"
-hash = "52908e6b607acb0132818d29fd7c2fcaf02dbc8b743c509400db8f65f1e00eb1"
-
-[[files]]
 file = "config/vanillabackport-client.toml"
 hash = "57884b81ab880f91edf1be6d95e69e9b841ef4ebcdb691611e1c11368fc410af"
-
-[[files]]
-file = "config/vanillabackport-common-1.toml.bak"
-hash = "15c887868f49ecd06f43c62a6a98fcc1503908470f317f5a257cead14b1c4d38"
 
 [[files]]
 file = "config/vanillabackport-common.toml"
@@ -5563,10 +5463,6 @@ hash = "9193eec2bfe28f6e913b411e5e845e4302daf5249a0bb740fdf9bdbf6ffe33e1"
 [[files]]
 file = "config/wan_ancient_beasts-server.toml"
 hash = "d4cb5637f316ef2d3cdf4fe0bdebbdfe98c340e6000a0b146381d9df8dc9dddc"
-
-[[files]]
-file = "config/waystones-common-1.toml.bak"
-hash = "6593ece7b4bd866df147a060d09ad915bb60b524ba5eb55ade89ee96308858b8"
 
 [[files]]
 file = "config/waystones-common.toml"
