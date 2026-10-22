@@ -1,0 +1,16 @@
+{
+  "green_tint": false,
+  "type": "structure",
+  "category": "surveys",
+  "folder": "integrated_boogaloo:overworld",
+  "sort_order": 40,
+  "cover_item": "minecraft:filled_map",
+  "title": "guide.integrated_boogaloo.entry.survey_catalonian_castle.title",
+  "subtitle": "guide.integrated_boogaloo.entry.survey_catalonian_castle.subtitle",
+  "description": [
+    "guide.integrated_boogaloo.entry.survey_catalonian_castle.body"
+  ],
+  "structure": "ati_structures:catalonian_castle",
+  "dimension": "minecraft:overworld",
+  "search_radius": 100
+}

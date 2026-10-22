@@ -1,0 +1,41 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.gauntlet_time_stone.title",
+  "description": "task.integrated_boogaloo.gauntlet_time_stone.description",
+  "showcase": [
+    "@recipe:integrated_superheroes:time_stone"
+  ],
+  "icon": "integrated_superheroes:time_stone",
+  "program": "integrated_boogaloo:big_boogaloo",
+  "category": "integrated_boogaloo:big_boogaloo",
+  "sort_order": 21,
+  "position": {
+    "x": 7,
+    "y": -3
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:big_bertha/big_bertha"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "integrated_boogaloo:gauntlet/has_time_stone",
+      "description": "task.integrated_boogaloo.gauntlet_time_stone.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "experience_levels",
+      "levels": 10
+    },
+    {
+      "type": "archive",
+      "entry": "integrated_boogaloo:stone_time"
+    }
+  ],
+  "line_axis": "horizontal",
+  "line_bend": 0.13
+}

@@ -1,0 +1,11 @@
+{
+  "sender": "thoraxisrealty@antmail.com",
+  "sender_display": "Thoraxis Real Estate",
+  "sender_avatar_item": "minecraft:oak_door",
+  "subject": "Still looking?",
+  "body": "Every home in Thoraxis comes with a view of the sky. But, the sky will view you back.\n\nThoraxis Real Estate",
+  "trigger": {
+    "type": "random",
+    "pool": "integrated_boogaloo:thoraxis_realty_newsletter"
+  }
+}

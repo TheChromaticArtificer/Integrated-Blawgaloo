@@ -1,0 +1,33 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.cavaryn_attention.title",
+  "description": "task.integrated_boogaloo.cavaryn_attention.description",
+  "showcase": [
+    "@item:antarchy:termite_nest",
+    "@recipe:antarchy:termite_nest"
+  ],
+  "icon": "antarchy:termite_nest",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:cavaryn",
+  "sort_order": 3,
+  "position": {
+    "x": 0,
+    "y": 4
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "antarchy:anger_the_hive_mind",
+      "description": "task.integrated_boogaloo.cavaryn_attention.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 25
+    }
+  ]
+}

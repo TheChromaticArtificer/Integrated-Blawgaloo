@@ -1,0 +1,17 @@
+{
+  "type": "createcybernetics:engineering_deconstruct",
+  "inputs": [
+    {
+      "item": "createcybernetics:armupgrades_flywheel"
+    },
+    {
+      "item": "createcybernetics:scavenged_flywheel"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "antarchy:titanium_nugget",
+      "count": 28
+    }
+  ]
+}

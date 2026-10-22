@@ -1,0 +1,37 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.witchery_waystone.title",
+  "description": "task.integrated_boogaloo.witchery_waystone.description",
+  "showcase": [
+    "@item:waystones:waystone",
+    "@recipe:waystones:waystone"
+  ],
+  "icon": "waystones:waystone",
+  "program": "integrated_boogaloo:witchcraft",
+  "category": "integrated_boogaloo:witchcraft",
+  "sort_order": 34,
+  "position": {
+    "x": 5,
+    "y": -1
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:witchery_basics/warp_stone"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "waystones:waystone",
+      "description": "task.integrated_boogaloo.witchery_waystone.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 20
+    }
+  ],
+  "line_axis": "vertical"
+}

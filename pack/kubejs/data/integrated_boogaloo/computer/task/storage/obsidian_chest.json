@@ -1,0 +1,39 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.storage_obsidian_chest.title",
+  "description": "task.integrated_boogaloo.storage_obsidian_chest.description",
+  "showcase": [
+    "@item:ironchest:obsidian_chest",
+    "@recipe:ironchest:obsidian_chest"
+  ],
+  "icon": "ironchest:obsidian_chest",
+  "program": "integrated_boogaloo:storage",
+  "category": "integrated_boogaloo:storage",
+  "sort_order": 204,
+  "position": {
+    "x": 4,
+    "y": 3
+  },
+  "shape": "pentagon",
+  "size": 1.25,
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:storage/diamond_chest"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "ironchest:obsidian_chest",
+      "description": "task.integrated_boogaloo.storage_obsidian_chest.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 20
+    }
+  ],
+  "line_axis": "horizontal"
+}

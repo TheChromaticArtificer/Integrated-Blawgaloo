@@ -1,0 +1,13 @@
+name = "Viltrumite"
+filename = "viltrumitecore-1.11.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bf725ffbd696c347749235a809473a97c6a91a0e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9248686
+project-id = 1553010

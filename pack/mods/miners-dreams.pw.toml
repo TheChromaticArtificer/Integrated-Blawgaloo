@@ -1,0 +1,13 @@
+name = "Miner's Dreams"
+filename = "miners_dream-neoforge-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ccc5b406f7c16eb63f568c49435316f26ef93430"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9003485
+project-id = 1711771

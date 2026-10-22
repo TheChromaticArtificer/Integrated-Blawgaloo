@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "PWP",
+    "MFL",
+    "CBC"
+  ],
+  "key": {
+    "P": {
+      "item": "pastel:prickly_bayleaf"
+    },
+    "C": {
+      "item": "pastel:clotted_cream"
+    },
+    "M": {
+      "tag": "pastel:common_meats"
+    },
+    "F": {
+      "tag": "pastel:water_meats"
+    },
+    "L": {
+      "tag": "pastel:lean_meats"
+    },
+    "W": {
+      "tag": "pastel:drinkable_spirits"
+    },
+    "B": {
+      "item": "minecraft:bowl"
+    }
+  },
+  "result": {
+    "id": "pastel:triple_meat_pot_stew",
+    "count": 1
+  }
+}

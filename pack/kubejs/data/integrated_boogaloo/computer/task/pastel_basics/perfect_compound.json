@@ -1,0 +1,82 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.pastel_perfect_compound.title",
+  "description": "task.integrated_boogaloo.pastel_perfect_compound.description",
+  "showcase": [
+    "@recipe:pastel:midnight_aberration"
+  ],
+  "icon": "pastel:midnight_aberration",
+  "program": "integrated_boogaloo:world_of_color",
+  "category": "integrated_boogaloo:world_of_color",
+  "sort_order": 17,
+  "position": {
+    "x": 7,
+    "y": 2
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:pastel_basics/liquid_crystal",
+    "integrated_boogaloo:pastel_basics/failing"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "pastel:midgame/create_midnight_aberration",
+      "description": "task.integrated_boogaloo.pastel_perfect_compound.goal",
+      "count": 1
+    },
+    {
+      "id": "neolith",
+      "type": "item",
+      "target": "pastel:neolith",
+      "description": "task.integrated_boogaloo.pastel_perfect_compound.neolith",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "choice",
+      "options": [
+        {
+          "id": "coins",
+          "title": "task.integrated_boogaloo.reward.coins",
+          "rewards": [
+            {
+              "type": "antcoins",
+              "amount": 80
+            }
+          ]
+        },
+        {
+          "id": "color",
+          "title": "task.integrated_boogaloo.reward.color",
+          "rewards": [
+            {
+              "type": "item_pool",
+              "pool": "integrated_boogaloo:color_box",
+              "mode": "random"
+            }
+          ]
+        },
+        {
+          "id": "lucky",
+          "title": "task.integrated_boogaloo.reward.lucky",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "lucky:lucky_block",
+              "count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "archive",
+      "entry": "integrated_boogaloo:pastel_midnight"
+    }
+  ],
+  "line_axis": "horizontal"
+}

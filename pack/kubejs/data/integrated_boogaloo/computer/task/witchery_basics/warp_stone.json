@@ -1,0 +1,50 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.witchery_warp_stone.title",
+  "description": "task.integrated_boogaloo.witchery_warp_stone.description",
+  "showcase": [
+    "@item:waystones:warp_stone",
+    "@recipe:kubejs:waystones/crafting/warp_stone"
+  ],
+  "icon": "waystones:warp_stone",
+  "program": "integrated_boogaloo:witchcraft",
+  "category": "integrated_boogaloo:witchcraft",
+  "sort_order": 33,
+  "position": {
+    "x": 5,
+    "y": 0
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:witchery_basics/distillery"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "waystones:warp_stone",
+      "description": "task.integrated_boogaloo.witchery_warp_stone.goal",
+      "count": 1
+    },
+    {
+      "id": "dew",
+      "type": "item",
+      "target": "witchery:ender_dew",
+      "description": "task.integrated_boogaloo.witchery_warp_stone.dew",
+      "count": 4,
+      "optional": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "item",
+      "item": "waystones:return_scroll",
+      "count": 3
+    },
+    {
+      "type": "antcoins",
+      "amount": 15
+    }
+  ],
+  "line_axis": "vertical"
+}

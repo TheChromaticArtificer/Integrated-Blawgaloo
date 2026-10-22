@@ -1,0 +1,26 @@
+{
+  "type": "celestisynth:starlit_factory",
+  "core_material": {
+    "item": "pastel:moonstone_core"
+  },
+  "extra_core_material": {
+    "item": "marvel:vibranium_ingot"
+  },
+  "supporting_core_material": {
+    "item": "pastel:glistering_shooting_star"
+  },
+  "supporting_material_top": {
+    "item": "pastel:moonstone_block"
+  },
+  "supporting_material_middle": {
+    "item": "pastel:moonstruck_nectar"
+  },
+  "supporting_material_bottom": {
+    "item": "iceandfire:pixie_dust"
+  },
+  "forging_time": 700,
+  "result": {
+    "count": 1,
+    "id": "celestisynth:crescentia"
+  }
+}

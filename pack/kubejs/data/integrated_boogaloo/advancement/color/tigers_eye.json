@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "tigers_eye": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "antarchy:tigers_eye"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "tigers_eye"
+    ]
+  ]
+}

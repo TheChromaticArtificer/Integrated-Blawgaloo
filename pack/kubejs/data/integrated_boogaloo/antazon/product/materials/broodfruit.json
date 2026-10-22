@@ -1,0 +1,32 @@
+{
+  "name": "computer.integrated_boogaloo.product.materials.broodfruit.name",
+  "description": "computer.integrated_boogaloo.product.materials.broodfruit.description",
+  "category": "materials",
+  "green_tint": false,
+  "quantity": 1,
+  "payments": [
+    {
+      "type": "antcoins",
+      "resource": "antcoins",
+      "amount": 60
+    }
+  ],
+  "thumbnail": {
+    "item": "antarchy:broodfruit"
+  },
+  "unlock_tasks": [
+    "integrated_boogaloo:exploration/cavaryn/beetle_buddies"
+  ],
+  "unlock_mode": "all",
+  "availability": {
+    "server_stock": 0,
+    "player_limit": 2,
+    "player_limit_reset": "minecraft_week"
+  },
+  "rewards": [
+    {
+      "item": "antarchy:broodfruit",
+      "count": 8
+    }
+  ]
+}

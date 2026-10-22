@@ -1,0 +1,1289 @@
+{
+  "version": 1,
+  "title": "literal:Titration Barrel",
+  "width": 250,
+  "height": 163,
+  "elements": [
+    {
+      "id": "barrel",
+      "type": "scene",
+      "x": 2,
+      "y": 2,
+      "width": 110,
+      "height": 116,
+      "yaw": 200,
+      "pitch": 25,
+      "scale": 1.5,
+      "blocks": [
+        {
+          "pos": [
+            -1,
+            -1,
+            -1
+          ],
+          "state": "minecraft:oak_planks",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            -1,
+            0
+          ],
+          "state": "minecraft:oak_planks",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            -1,
+            1
+          ],
+          "state": "minecraft:oak_planks",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            -1
+          ],
+          "state": "minecraft:oak_planks",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            0
+          ],
+          "state": "minecraft:oak_planks",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            1
+          ],
+          "state": "minecraft:oak_planks",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            -1
+          ],
+          "state": "minecraft:oak_planks",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            0
+          ],
+          "state": "minecraft:oak_planks",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            1
+          ],
+          "state": "minecraft:oak_planks",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            0,
+            0
+          ],
+          "state": "pastel:titration_barrel[barrel_state=empty,facing=south]",
+          "id": "barrel",
+          "highlight": true
+        }
+      ],
+      "moves": [
+        {
+          "item": "minecraft:sweet_berries",
+          "from": [
+            0,
+            2.5,
+            1
+          ],
+          "to": [
+            0,
+            0.6,
+            0
+          ],
+          "arc": 0.3,
+          "duration": 0.9,
+          "steps": [
+            "fill"
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "id": "fill",
+          "title": "literal:Fill it",
+          "text": "literal:Pour in the liquid, then add the ingredients.",
+          "markers": [
+            {
+              "icon": "right_click",
+              "block": "barrel",
+              "item": "minecraft:water_bucket"
+            }
+          ]
+        },
+        {
+          "id": "seal",
+          "title": "literal:Seal it",
+          "text": "literal:Seal the barrel and leave it.",
+          "states": {
+            "barrel": "pastel:titration_barrel[barrel_state=filled,facing=south]"
+          },
+          "progress": {
+            "label": "literal:Fermenting",
+            "seconds": 4
+          },
+          "time": 4
+        },
+        {
+          "id": "tap",
+          "title": "literal:Tap it",
+          "text": "literal:Open it and fill bottles. Longer waits make it stronger.",
+          "states": {
+            "barrel": "pastel:titration_barrel[barrel_state=filled,facing=south]"
+          },
+          "markers": [
+            {
+              "icon": "right_click",
+              "block": "barrel",
+              "item": "minecraft:glass_bottle"
+            }
+          ]
+        }
+      ],
+      "autoplay": true,
+      "hero": true,
+      "ratio": 0.9
+    },
+    {
+      "type": "text",
+      "x": 6,
+      "y": 4,
+      "width": 238,
+      "text": "literal:Time counts in real hours, even while you're away."
+    },
+    {
+      "type": "conditions",
+      "x": 6,
+      "y": 25,
+      "width": 238,
+      "entries": [
+        {
+          "kind": "time",
+          "text": "literal:Real hours"
+        }
+      ]
+    },
+    {
+      "type": "recipe_list",
+      "id": "rows",
+      "x": 2,
+      "y": 41,
+      "width": 246,
+      "height": 116,
+      "title_width": 96,
+      "rows": [
+        {
+          "title": "literal:Bristle Mead",
+          "inputs": [
+            {
+              "item": "minecraft:water_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "item": "minecraft:honey_bottle",
+              "count": 4
+            },
+            {
+              "item": "pastel:sawblade_holly_berry",
+              "count": 4
+            },
+            {
+              "item": "pastel:bristle_sprouts",
+              "count": 8
+            },
+            {
+              "item": "pastel:jaramel",
+              "count": 2
+            }
+          ],
+          "outputs": [
+            "pastel:bristle_mead"
+          ],
+          "text": "literal:Seal it and wait at least 24 hours"
+        },
+        {
+          "title": "literal:Clotted Cream",
+          "inputs": [
+            {
+              "item": "minecraft:sugar",
+              "count": 4
+            }
+          ],
+          "outputs": [
+            "pastel:clotted_cream"
+          ],
+          "text": "literal:Seal it and wait at least 1 hours"
+        },
+        {
+          "title": "literal:Clotted Cream",
+          "inputs": [
+            {
+              "item": "pastel:milky_resin"
+            },
+            {
+              "item": "minecraft:sugar",
+              "count": 4
+            }
+          ],
+          "outputs": [
+            "pastel:clotted_cream"
+          ],
+          "text": "literal:Seal it and wait at least 1 hours"
+        },
+        {
+          "title": "literal:Faded Koi",
+          "inputs": [
+            {
+              "item": "pastel:liquid_crystal_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "item": "pastel:koi",
+              "count": 8
+            },
+            {
+              "item": "pastel:bottle_of_fading"
+            }
+          ],
+          "outputs": [
+            "pastel:faded_koi"
+          ],
+          "text": "literal:Seal it and wait at least 2 hours"
+        },
+        {
+          "title": "literal:Pure Alcohol",
+          "inputs": [
+            {
+              "item": "minecraft:water_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "tag": "pastel:drinkable_spirits"
+            },
+            {
+              "item": "minecraft:blaze_powder",
+              "count": 4
+            },
+            {
+              "item": "pastel:incandescent_amalgam"
+            }
+          ],
+          "outputs": [
+            "pastel:pure_alcohol"
+          ],
+          "text": "literal:Seal it and wait at least 48 hours"
+        },
+        {
+          "title": "literal:Fermented Spider Eye",
+          "inputs": [
+            {
+              "item": "minecraft:water_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "item": "minecraft:spider_eye",
+              "count": 2
+            },
+            {
+              "item": "minecraft:brown_mushroom",
+              "count": 2
+            },
+            {
+              "item": "minecraft:sugar",
+              "count": 2
+            }
+          ],
+          "outputs": [
+            "minecraft:fermented_spider_eye"
+          ],
+          "text": "literal:Seal it and wait at least 1 hours"
+        },
+        {
+          "title": "literal:Freigeist",
+          "inputs": [
+            {
+              "item": "pastel:liquid_crystal_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "item": "pastel:amaranth_grains",
+              "count": 4
+            },
+            {
+              "item": "pastel:onyx_powder",
+              "count": 8
+            },
+            {
+              "item": "pastel:frostbite_essence",
+              "count": 8
+            },
+            {
+              "item": "pastel:bloodboil_syrup",
+              "count": 2
+            },
+            {
+              "item": "minecraft:nether_wart",
+              "count": 2
+            }
+          ],
+          "outputs": [
+            "pastel:freigeist"
+          ],
+          "text": "literal:Seal it and wait at least 48 hours"
+        },
+        {
+          "title": "literal:Fresh Chocolate",
+          "inputs": [
+            {
+              "item": "minecraft:cocoa_beans",
+              "count": 4
+            },
+            {
+              "item": "pastel:clotted_cream"
+            },
+            {
+              "item": "minecraft:sweet_berries",
+              "count": 2
+            }
+          ],
+          "outputs": [
+            "pastel:fresh_chocolate"
+          ],
+          "text": "literal:Seal it and wait at least 4 hours"
+        },
+        {
+          "title": "literal:Honey Bottle",
+          "inputs": [
+            {
+              "item": "minecraft:water_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "item": "pastel:sawblade_holly_berry",
+              "count": 16
+            },
+            {
+              "item": "pastel:aloe_leaf"
+            }
+          ],
+          "outputs": [
+            "minecraft:honey_bottle"
+          ],
+          "text": "literal:Seal it and wait at least 1 hours"
+        },
+        {
+          "title": "literal:Infused Beverage",
+          "inputs": [
+            {
+              "item": "minecraft:water_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "item": "minecraft:wheat",
+              "count": 4
+            },
+            {
+              "item": "pastel:clotted_cream"
+            },
+            {
+              "tag": "c:eggs",
+              "count": 2
+            }
+          ],
+          "outputs": [
+            "pastel:infused_beverage"
+          ],
+          "text": "literal:Seal it and wait at least 24 hours"
+        },
+        {
+          "title": "literal:Infused Beverage",
+          "inputs": [
+            {
+              "item": "minecraft:water_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "item": "minecraft:wheat",
+              "count": 4
+            },
+            {
+              "item": "minecraft:sweet_berries"
+            },
+            {
+              "item": "minecraft:sugar_cane"
+            }
+          ],
+          "outputs": [
+            "pastel:infused_beverage"
+          ],
+          "text": "literal:Seal it and wait at least 4 hours"
+        },
+        {
+          "title": "literal:Infused Beverage",
+          "inputs": [
+            {
+              "item": "minecraft:water_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "item": "minecraft:apple",
+              "count": 8
+            }
+          ],
+          "outputs": [
+            "pastel:infused_beverage"
+          ],
+          "text": "literal:Seal it and wait at least 12 hours"
+        },
+        {
+          "title": "literal:Infused Beverage",
+          "inputs": [
+            {
+              "item": "minecraft:water_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "item": "minecraft:apple",
+              "count": 6
+            },
+            {
+              "item": "minecraft:sugar",
+              "count": 4
+            }
+          ],
+          "outputs": [
+            "pastel:infused_beverage"
+          ],
+          "text": "literal:Seal it and wait at least 24 hours"
+        },
+        {
+          "title": "literal:Infused Beverage",
+          "inputs": [
+            {
+              "item": "minecraft:water_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "item": "minecraft:short_grass",
+              "count": 6
+            },
+            {
+              "item": "minecraft:fern",
+              "count": 2
+            },
+            {
+              "item": "minecraft:sugar",
+              "count": 4
+            }
+          ],
+          "outputs": [
+            "pastel:infused_beverage"
+          ],
+          "text": "literal:Seal it and wait at least 24 hours"
+        },
+        {
+          "title": "literal:Infused Beverage",
+          "inputs": [
+            {
+              "item": "minecraft:water_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "item": "minecraft:wheat",
+              "count": 6
+            }
+          ],
+          "outputs": [
+            "pastel:infused_beverage"
+          ],
+          "text": "literal:Seal it and wait at least 4 hours"
+        },
+        {
+          "title": "literal:Infused Beverage",
+          "inputs": [
+            {
+              "item": "minecraft:water_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "item": "minecraft:sweet_berries",
+              "count": 8
+            }
+          ],
+          "outputs": [
+            "pastel:infused_beverage"
+          ],
+          "text": "literal:Seal it and wait at least 12 hours"
+        },
+        {
+          "title": "literal:Infused Beverage",
+          "inputs": [
+            {
+              "item": "minecraft:water_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "item": "minecraft:sweet_berries",
+              "count": 6
+            },
+            {
+              "item": "minecraft:sugar",
+              "count": 4
+            }
+          ],
+          "outputs": [
+            "pastel:infused_beverage"
+          ],
+          "text": "literal:Seal it and wait at least 24 hours"
+        },
+        {
+          "title": "literal:Infused Beverage",
+          "inputs": [
+            {
+              "item": "minecraft:water_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "item": "minecraft:flowering_azalea_leaves",
+              "count": 4
+            },
+            {
+              "item": "minecraft:honeycomb"
+            },
+            {
+              "item": "pastel:nightdew_sprout"
+            }
+          ],
+          "outputs": [
+            "pastel:infused_beverage"
+          ],
+          "text": "literal:Seal it and wait at least 24 hours"
+        },
+        {
+          "title": "literal:Infused Beverage",
+          "inputs": [
+            {
+              "item": "minecraft:water_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "item": "minecraft:beetroot",
+              "count": 8
+            },
+            {
+              "item": "pastel:clotted_cream"
+            }
+          ],
+          "outputs": [
+            "pastel:infused_beverage"
+          ],
+          "text": "literal:Seal it and wait at least 24 hours"
+        },
+        {
+          "title": "literal:Infused Beverage",
+          "inputs": [
+            {
+              "item": "minecraft:water_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "item": "minecraft:enchanted_golden_apple",
+              "count": 4
+            }
+          ],
+          "outputs": [
+            "pastel:infused_beverage"
+          ],
+          "text": "literal:Seal it and wait at least 72 hours"
+        },
+        {
+          "title": "literal:Infused Beverage",
+          "inputs": [
+            {
+              "item": "minecraft:water_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "item": "pastel:amaranth_grains",
+              "count": 12
+            }
+          ],
+          "outputs": [
+            "pastel:infused_beverage"
+          ],
+          "text": "literal:Seal it and wait at least 24 hours"
+        },
+        {
+          "title": "literal:Infused Beverage",
+          "inputs": [
+            {
+              "item": "minecraft:water_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "item": "antarchy:peach",
+              "count": 8
+            }
+          ],
+          "outputs": [
+            "pastel:infused_beverage"
+          ],
+          "text": "literal:Seal it and wait at least 12 hours"
+        },
+        {
+          "title": "literal:Infused Beverage",
+          "inputs": [
+            {
+              "item": "minecraft:water_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "item": "minecraft:glow_berries",
+              "count": 8
+            }
+          ],
+          "outputs": [
+            "pastel:infused_beverage"
+          ],
+          "text": "literal:Seal it and wait at least 12 hours"
+        },
+        {
+          "title": "literal:Infused Beverage",
+          "inputs": [
+            {
+              "item": "minecraft:water_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "item": "minecraft:glow_berries",
+              "count": 6
+            },
+            {
+              "item": "minecraft:sugar",
+              "count": 4
+            }
+          ],
+          "outputs": [
+            "pastel:infused_beverage"
+          ],
+          "text": "literal:Seal it and wait at least 24 hours"
+        },
+        {
+          "title": "literal:Infused Beverage",
+          "inputs": [
+            {
+              "item": "minecraft:water_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "item": "minecraft:golden_apple",
+              "count": 4
+            }
+          ],
+          "outputs": [
+            "pastel:infused_beverage"
+          ],
+          "text": "literal:Seal it and wait at least 48 hours"
+        },
+        {
+          "title": "literal:Infused Beverage",
+          "inputs": [
+            {
+              "item": "minecraft:water_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "item": "minecraft:carrot",
+              "count": 6
+            },
+            {
+              "item": "minecraft:sugar",
+              "count": 4
+            }
+          ],
+          "outputs": [
+            "pastel:infused_beverage"
+          ],
+          "text": "literal:Seal it and wait at least 24 hours"
+        },
+        {
+          "title": "literal:Infused Beverage",
+          "inputs": [
+            {
+              "item": "minecraft:water_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "item": "minecraft:crimson_fungus",
+              "count": 8
+            },
+            {
+              "item": "minecraft:weeping_vines",
+              "count": 2
+            },
+            {
+              "item": "pastel:clotted_cream",
+              "count": 4
+            }
+          ],
+          "outputs": [
+            "pastel:infused_beverage"
+          ],
+          "text": "literal:Seal it and wait at least 24 hours"
+        },
+        {
+          "title": "literal:Infused Beverage",
+          "inputs": [
+            {
+              "item": "minecraft:water_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "item": "minecraft:wheat",
+              "count": 6
+            },
+            {
+              "item": "minecraft:honey_bottle"
+            }
+          ],
+          "outputs": [
+            "pastel:infused_beverage"
+          ],
+          "text": "literal:Seal it and wait at least 4 hours"
+        },
+        {
+          "title": "literal:Infused Beverage",
+          "inputs": [
+            {
+              "item": "minecraft:water_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "item": "minecraft:wheat",
+              "count": 4
+            },
+            {
+              "item": "minecraft:sugar",
+              "count": 2
+            }
+          ],
+          "outputs": [
+            "pastel:infused_beverage"
+          ],
+          "text": "literal:Seal it and wait at least 4 hours"
+        },
+        {
+          "title": "literal:Infused Beverage",
+          "inputs": [
+            {
+              "item": "minecraft:water_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "item": "minecraft:honey_bottle",
+              "count": 4
+            }
+          ],
+          "outputs": [
+            "pastel:infused_beverage"
+          ],
+          "text": "literal:Seal it and wait at least 24 hours"
+        },
+        {
+          "title": "literal:Infused Beverage",
+          "inputs": [
+            {
+              "item": "minecraft:water_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "item": "minecraft:apple",
+              "count": 4
+            },
+            {
+              "item": "pastel:myceylon",
+              "count": 8
+            }
+          ],
+          "outputs": [
+            "pastel:infused_beverage"
+          ],
+          "text": "literal:Seal it and wait at least 4 hours"
+        },
+        {
+          "title": "literal:Infused Beverage",
+          "inputs": [
+            {
+              "item": "minecraft:water_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "item": "pastel:myceylon",
+              "count": 6
+            },
+            {
+              "item": "minecraft:sugar",
+              "count": 4
+            }
+          ],
+          "outputs": [
+            "pastel:infused_beverage"
+          ],
+          "text": "literal:Seal it and wait at least 24 hours"
+        },
+        {
+          "title": "literal:Infused Beverage",
+          "inputs": [
+            {
+              "item": "pastel:liquid_crystal_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "item": "pastel:moonstone_powder",
+              "count": 4
+            },
+            {
+              "item": "pastel:neolith",
+              "count": 2
+            },
+            {
+              "item": "pastel:jadeite_petals",
+              "count": 4
+            },
+            {
+              "item": "pastel:pure_coal"
+            },
+            {
+              "item": "pastel:nectardew_burgeon"
+            }
+          ],
+          "outputs": [
+            "pastel:infused_beverage"
+          ],
+          "text": "literal:Seal it and wait at least 24 hours"
+        },
+        {
+          "title": "literal:Infused Beverage",
+          "inputs": [
+            {
+              "item": "minecraft:water_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "item": "pastel:fissure_plum",
+              "count": 8
+            }
+          ],
+          "outputs": [
+            "pastel:infused_beverage"
+          ],
+          "text": "literal:Seal it and wait at least 12 hours"
+        },
+        {
+          "title": "literal:Infused Beverage",
+          "inputs": [
+            {
+              "item": "minecraft:water_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "item": "pastel:fissure_plum",
+              "count": 6
+            },
+            {
+              "item": "minecraft:sugar",
+              "count": 4
+            }
+          ],
+          "outputs": [
+            "pastel:infused_beverage"
+          ],
+          "text": "literal:Seal it and wait at least 24 hours"
+        },
+        {
+          "title": "literal:Infused Beverage",
+          "inputs": [
+            {
+              "item": "minecraft:water_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "item": "minecraft:potato",
+              "count": 8
+            },
+            {
+              "item": "minecraft:poisonous_potato",
+              "count": 4
+            }
+          ],
+          "outputs": [
+            "pastel:infused_beverage"
+          ],
+          "text": "literal:Seal it and wait at least 24 hours"
+        },
+        {
+          "title": "literal:Infused Beverage",
+          "inputs": [
+            {
+              "item": "minecraft:water_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "item": "minecraft:wheat",
+              "count": 3
+            },
+            {
+              "item": "minecraft:wheat_seeds",
+              "count": 2
+            },
+            {
+              "item": "minecraft:beetroot"
+            }
+          ],
+          "outputs": [
+            "pastel:infused_beverage"
+          ],
+          "text": "literal:Seal it and wait at least 4 hours"
+        },
+        {
+          "title": "literal:Infused Beverage",
+          "inputs": [
+            {
+              "item": "minecraft:water_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "item": "minecraft:sugar_cane",
+              "count": 12
+            }
+          ],
+          "outputs": [
+            "pastel:infused_beverage"
+          ],
+          "text": "literal:Seal it and wait at least 24 hours"
+        },
+        {
+          "title": "literal:Infused Beverage",
+          "inputs": [
+            {
+              "item": "minecraft:water_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "item": "pastel:clover",
+              "count": 2
+            },
+            {
+              "item": "minecraft:birch_log",
+              "count": 2
+            },
+            {
+              "item": "minecraft:sugar",
+              "count": 4
+            }
+          ],
+          "outputs": [
+            "pastel:infused_beverage"
+          ],
+          "text": "literal:Seal it and wait at least 6 hours"
+        },
+        {
+          "title": "literal:Infused Beverage",
+          "inputs": [
+            {
+              "item": "minecraft:water_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "item": "pastel:sawblade_holly_berry",
+              "count": 8
+            }
+          ],
+          "outputs": [
+            "pastel:infused_beverage"
+          ],
+          "text": "literal:Seal it and wait at least 12 hours"
+        },
+        {
+          "title": "literal:Infused Beverage",
+          "inputs": [
+            {
+              "item": "minecraft:water_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "item": "pastel:sawblade_holly_berry",
+              "count": 6
+            },
+            {
+              "item": "minecraft:sugar",
+              "count": 4
+            }
+          ],
+          "outputs": [
+            "pastel:infused_beverage"
+          ],
+          "text": "literal:Seal it and wait at least 24 hours"
+        },
+        {
+          "title": "literal:Infused Beverage",
+          "inputs": [
+            {
+              "item": "minecraft:water_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "item": "minecraft:sweet_berries",
+              "count": 6
+            },
+            {
+              "item": "pastel:myceylon",
+              "count": 4
+            },
+            {
+              "item": "pastel:prickly_bayleaf",
+              "count": 4
+            },
+            {
+              "item": "minecraft:sugar",
+              "count": 4
+            }
+          ],
+          "outputs": [
+            "pastel:infused_beverage"
+          ],
+          "text": "literal:Seal it and wait at least 48 hours"
+        },
+        {
+          "title": "literal:Infused Beverage",
+          "inputs": [
+            {
+              "item": "minecraft:water_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "item": "minecraft:cactus",
+              "count": 12
+            }
+          ],
+          "outputs": [
+            "pastel:infused_beverage"
+          ],
+          "text": "literal:Seal it and wait at least 24 hours"
+        },
+        {
+          "title": "literal:Infused Beverage",
+          "inputs": [
+            {
+              "item": "pastel:liquid_crystal_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "item": "pastel:fissure_plum",
+              "count": 4
+            },
+            {
+              "item": "pastel:nightdew_sprout",
+              "count": 4
+            },
+            {
+              "item": "minecraft:sugar",
+              "count": 8
+            },
+            {
+              "item": "pastel:pure_coal"
+            },
+            {
+              "item": "pastel:nectardew_burgeon"
+            }
+          ],
+          "outputs": [
+            "pastel:infused_beverage"
+          ],
+          "text": "literal:Seal it and wait at least 24 hours"
+        },
+        {
+          "title": "literal:Infused Beverage",
+          "inputs": [
+            {
+              "item": "minecraft:water_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "item": "minecraft:potato",
+              "count": 12
+            }
+          ],
+          "outputs": [
+            "pastel:infused_beverage"
+          ],
+          "text": "literal:Seal it and wait at least 24 hours"
+        },
+        {
+          "title": "literal:Le Fishe Au Chocolat",
+          "inputs": [
+            {
+              "tag": "minecraft:fishes",
+              "count": 4
+            },
+            {
+              "item": "pastel:fresh_chocolate",
+              "count": 2
+            },
+            {
+              "item": "minecraft:sugar",
+              "count": 4
+            },
+            {
+              "item": "pastel:clotted_cream"
+            }
+          ],
+          "outputs": [
+            "pastel:le_fishe_au_chocolat"
+          ],
+          "text": "literal:Seal it and wait at least 4 hours"
+        },
+        {
+          "title": "literal:Morchella",
+          "inputs": [
+            {
+              "item": "minecraft:water_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "item": "pastel:incandescent_essence",
+              "count": 4
+            },
+            {
+              "item": "pastel:myceylon",
+              "count": 8
+            },
+            {
+              "item": "pastel:amaranth_grains",
+              "count": 4
+            },
+            {
+              "tag": "c:mushrooms",
+              "count": 2
+            },
+            {
+              "item": "pastel:jaramel",
+              "count": 2
+            }
+          ],
+          "outputs": [
+            "pastel:morchella"
+          ],
+          "text": "literal:Seal it and wait at least 24 hours"
+        },
+        {
+          "title": "literal:Night Salts",
+          "inputs": [
+            {
+              "item": "minecraft:water_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "item": "pastel:nightdew_sprout"
+            },
+            {
+              "item": "minecraft:quartz",
+              "count": 6
+            },
+            {
+              "item": "minecraft:honeycomb",
+              "count": 2
+            },
+            {
+              "item": "pastel:onyx_shard"
+            }
+          ],
+          "outputs": [
+            "pastel:night_salts"
+          ],
+          "text": "literal:Seal it and wait at least 1 hours"
+        },
+        {
+          "title": "literal:Reprise",
+          "inputs": [
+            {
+              "item": "minecraft:water_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "item": "minecraft:chorus_fruit",
+              "count": 4
+            },
+            {
+              "item": "pastel:frostbite_essence",
+              "count": 4
+            }
+          ],
+          "outputs": [
+            "pastel:reprise"
+          ],
+          "text": "literal:Seal it and wait at least 4 hours"
+        },
+        {
+          "title": "literal:Surstromming",
+          "inputs": [
+            {
+              "item": "pastel:midnight_solution_bucket",
+              "tooltip": "literal:Fill the barrel with this"
+            },
+            {
+              "tag": "c:foods/raw_fish",
+              "count": 8
+            },
+            {
+              "item": "pastel:prickly_bayleaf",
+              "count": 8
+            },
+            {
+              "item": "pastel:midnight_chip"
+            },
+            {
+              "item": "minecraft:ghast_tear"
+            }
+          ],
+          "outputs": [
+            "pastel:surstromming"
+          ],
+          "text": "literal:Seal it and wait at least 24 hours"
+        }
+      ]
+    }
+  ],
+  "reflow": true,
+  "auto_height": true,
+  "hide_title": true
+}

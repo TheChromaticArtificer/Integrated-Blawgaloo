@@ -1,0 +1,140 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.collection.iron_man_middle.title",
+  "description": "task.integrated_boogaloo.collection.iron_man_middle.description",
+  "icon": "marvel:iron_man_mark_25_chestplate",
+  "program": "integrated_boogaloo:collections",
+  "category": "integrated_boogaloo:collections",
+  "sort_order": 1,
+  "position": {
+    "x": 1,
+    "y": 0
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "iron_man_mark_11_chestplate",
+      "type": "item",
+      "target": "marvel:iron_man_mark_11_chestplate",
+      "description": "task.integrated_boogaloo.collection.iron_man_middle.iron_man_mark_11_chestplate",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "iron_man_mark_15_chestplate",
+      "type": "item",
+      "target": "marvel:iron_man_mark_15_chestplate",
+      "description": "task.integrated_boogaloo.collection.iron_man_middle.iron_man_mark_15_chestplate",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "iron_man_mark_17_chestplate",
+      "type": "item",
+      "target": "marvel:iron_man_mark_17_chestplate",
+      "description": "task.integrated_boogaloo.collection.iron_man_middle.iron_man_mark_17_chestplate",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "iron_man_mark_19_chestplate",
+      "type": "item",
+      "target": "marvel:iron_man_mark_19_chestplate",
+      "description": "task.integrated_boogaloo.collection.iron_man_middle.iron_man_mark_19_chestplate",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "iron_man_mark_20_chestplate",
+      "type": "item",
+      "target": "marvel:iron_man_mark_20_chestplate",
+      "description": "task.integrated_boogaloo.collection.iron_man_middle.iron_man_mark_20_chestplate",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "iron_man_mark_21_chestplate",
+      "type": "item",
+      "target": "marvel:iron_man_mark_21_chestplate",
+      "description": "task.integrated_boogaloo.collection.iron_man_middle.iron_man_mark_21_chestplate",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "iron_man_mark_22_chestplate",
+      "type": "item",
+      "target": "marvel:iron_man_mark_22_chestplate",
+      "description": "task.integrated_boogaloo.collection.iron_man_middle.iron_man_mark_22_chestplate",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "iron_man_mark_23_chestplate",
+      "type": "item",
+      "target": "marvel:iron_man_mark_23_chestplate",
+      "description": "task.integrated_boogaloo.collection.iron_man_middle.iron_man_mark_23_chestplate",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "iron_man_mark_24_chestplate",
+      "type": "item",
+      "target": "marvel:iron_man_mark_24_chestplate",
+      "description": "task.integrated_boogaloo.collection.iron_man_middle.iron_man_mark_24_chestplate",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "iron_man_mark_25_chestplate",
+      "type": "item",
+      "target": "marvel:iron_man_mark_25_chestplate",
+      "description": "task.integrated_boogaloo.collection.iron_man_middle.iron_man_mark_25_chestplate",
+      "count": 1,
+      "sticky": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 2000
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "id": "supplies",
+          "title": "task.integrated_boogaloo.reward.supplies",
+          "rewards": [
+            {
+              "type": "item_pool",
+              "pool": "integrated_boogaloo:supplies_common",
+              "mode": "random"
+            }
+          ]
+        },
+        {
+          "id": "lucky",
+          "title": "task.integrated_boogaloo.reward.lucky",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "lucky:lucky_block",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "id": "titanium",
+          "title": "task.integrated_boogaloo.reward.titanium",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "antarchy:titanium_nugget",
+              "count": 9
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

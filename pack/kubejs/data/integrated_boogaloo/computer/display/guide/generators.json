@@ -1,0 +1,30 @@
+{
+  "title": "literal:Generators",
+  "variants": [
+    {
+      "id": "basic",
+      "title": "literal:Basic",
+      "display": "integrated_boogaloo:guide/generator_basic"
+    },
+    {
+      "id": "fuel",
+      "title": "literal:Fuel",
+      "display": "integrated_boogaloo:guide/generator_fuel"
+    },
+    {
+      "id": "lava",
+      "title": "literal:Lava",
+      "display": "integrated_boogaloo:guide/generator_lava"
+    },
+    {
+      "id": "bio",
+      "title": "literal:Bio",
+      "display": "integrated_boogaloo:guide/generator_bio"
+    },
+    {
+      "id": "steam",
+      "title": "literal:Steam",
+      "display": "integrated_boogaloo:guide/generator_steam"
+    }
+  ]
+}

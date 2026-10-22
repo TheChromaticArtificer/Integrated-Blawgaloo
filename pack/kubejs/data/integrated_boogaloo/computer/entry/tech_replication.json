@@ -1,0 +1,35 @@
+{
+  "green_tint": false,
+  "type": "article",
+  "category": "general",
+  "folder": "integrated_boogaloo:workshop",
+  "sort_order": 90,
+  "cover_item": "replication:replica_ingot",
+  "title": "guide.integrated_boogaloo.entry.tech_replication.title",
+  "subtitle": "guide.integrated_boogaloo.entry.tech_replication.subtitle",
+  "lookup": [
+    "replication:chip_storage",
+    "replication:disintegrator",
+    "replication:identification_chamber",
+    "replication:matter_blueprint",
+    "replication:matter_network_pipe",
+    "replication:matter_tank",
+    "replication:memory_chip",
+    "replication:replica_block",
+    "replication:replication_terminal",
+    "replication:replicator",
+    "replication:replicator_enclosure",
+    "replication:replicator_motor"
+  ],
+  "content": [
+    {
+      "text": "guide.integrated_boogaloo.entry.tech_replication.body_1"
+    },
+    {
+      "display": "integrated_boogaloo:guide/replication"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.tech_replication.body_2"
+    }
+  ]
+}

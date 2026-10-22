@@ -1,0 +1,11 @@
+{
+  "item": "iceandfire:pixie_dust",
+  "value": 6,
+  "limit": 64,
+  "limit_reset": "minecraft_day",
+  "green_tint": false,
+  "unlock_tasks": [
+    "integrated_boogaloo:exploration/elythia/pixies"
+  ],
+  "unlock_mode": "any"
+}

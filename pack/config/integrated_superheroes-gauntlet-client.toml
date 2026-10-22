@@ -1,0 +1,3 @@
+[hud]
+	#Allowed Values: FULL, CONTROLS, OFF
+	abilityCard = "CONTROLS"

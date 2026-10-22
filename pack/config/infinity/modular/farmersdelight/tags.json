@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "farmersdelight:heat_sources"
+		},
+		{
+			"weight": 1.0,
+			"key": "farmersdelight:mineable/knife"
+		},
+		{
+			"weight": 1.0,
+			"key": "farmersdelight:mushroom_colony_growable_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "farmersdelight:ropes"
+		},
+		{
+			"weight": 1.0,
+			"key": "farmersdelight:tray_heat_sources"
+		}
+	]
+}

@@ -1,0 +1,13 @@
+name = "Integrated Superheroes"
+filename = "integrated_superheroes-neoforge-1.2.6+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7ada4d0ea0960f5cfab91d7fee2157f35fb4b42d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9284489
+project-id = 1740480

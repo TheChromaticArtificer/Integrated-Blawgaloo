@@ -1,0 +1,41 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.elythia_candy.title",
+  "description": "task.integrated_boogaloo.elythia_candy.description",
+  "icon": "alexscaves:sweet_tooth",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:elythia",
+  "sort_order": 15,
+  "position": {
+    "x": 0,
+    "y": 3
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "biome_visited",
+      "target": "alexscaves:candy_cavity",
+      "description": "task.integrated_boogaloo.elythia_candy.goal",
+      "count": 1
+    },
+    {
+      "id": "tooth",
+      "type": "item",
+      "target": "alexscaves:sweet_tooth",
+      "description": "task.integrated_boogaloo.elythia_candy.tooth",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 25
+    },
+    {
+      "type": "archive",
+      "entry": "integrated_boogaloo:cave_candy_cavity"
+    }
+  ]
+}

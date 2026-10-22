@@ -1,0 +1,50 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.armory_copper_rounds.title",
+  "description": "task.integrated_boogaloo.armory_copper_rounds.description",
+  "showcase": [
+    "@recipe:scguns:makeshift_rifle"
+  ],
+  "icon": "scguns:makeshift_rifle",
+  "program": "integrated_boogaloo:armory",
+  "category": "integrated_boogaloo:armory",
+  "sort_order": 3,
+  "position": {
+    "x": 2,
+    "y": 0
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:armory/gun_parts"
+  ],
+  "objectives": [
+    {
+      "id": "rifle",
+      "type": "item",
+      "target": "scguns:makeshift_rifle",
+      "description": "task.integrated_boogaloo.armory_copper_rounds.rifle",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "rounds",
+      "type": "item",
+      "target": "scguns:standard_copper_round",
+      "description": "task.integrated_boogaloo.armory_copper_rounds.rounds",
+      "count": 16,
+      "sticky": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 20
+    },
+    {
+      "type": "item",
+      "item": "scguns:standard_copper_round",
+      "count": 32
+    }
+  ],
+  "line_axis": "horizontal"
+}

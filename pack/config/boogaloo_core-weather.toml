@@ -1,0 +1,17 @@
+[sharknado]
+	# Default: 0.25
+	# Range: 0.0 ~ 1.0
+	ocean_chance = 0.25
+	# Default: 0.08
+	# Range: 0.0 ~ 1.0
+	land_chance = 0.08
+	# Default: 8
+	# Range: 0 ~ 64
+	shark_cap = 8
+	# Default: 64
+	# Range: 8 ~ 256
+	shark_cap_radius = 64
+	# Default: 600
+	# Range: 20 ~ 72000
+	released_idle_ticks = 600
+	shark_bite_on_impact = true

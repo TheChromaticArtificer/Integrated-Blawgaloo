@@ -1,0 +1,9 @@
+{
+  "category": "integrated_boogaloo:surveys",
+  "title": "guide.integrated_boogaloo.disk.survey_vikings.title",
+  "description": "guide.integrated_boogaloo.disk.survey_vikings.description",
+  "entries": [
+    "integrated_boogaloo:survey_hooligan_villages",
+    "integrated_boogaloo:bda_hooligans"
+  ]
+}

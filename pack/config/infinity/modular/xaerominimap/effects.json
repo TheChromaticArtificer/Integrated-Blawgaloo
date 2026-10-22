@@ -1,0 +1,76 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "xaerominimap:no_cave_maps",
+			"data": {
+				"Instant": false,
+				"Color": -16777216,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "xaerominimap:no_cave_maps_harmful",
+			"data": {
+				"Instant": false,
+				"Color": -16777216,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "xaerominimap:no_entity_radar",
+			"data": {
+				"Instant": false,
+				"Color": -16777216,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "xaerominimap:no_entity_radar_harmful",
+			"data": {
+				"Instant": false,
+				"Color": -16777216,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "xaerominimap:no_minimap",
+			"data": {
+				"Instant": false,
+				"Color": -16777216,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "xaerominimap:no_minimap_harmful",
+			"data": {
+				"Instant": false,
+				"Color": -16777216,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "xaerominimap:no_waypoints",
+			"data": {
+				"Instant": false,
+				"Color": -16777216,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "xaerominimap:no_waypoints_harmful",
+			"data": {
+				"Instant": false,
+				"Color": -16777216,
+				"Category": "harmful"
+			}
+		}
+	]
+}

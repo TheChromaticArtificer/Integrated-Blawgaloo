@@ -1,0 +1,324 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:backpack_tank"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:bat"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:bee"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:black_sleeping_bag"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:blank_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:blast_furnace_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:blaze"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:blue_sleeping_bag"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:brown_sleeping_bag"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:cactus"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:cake"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:chicken"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:coal"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:cow"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:crafting_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:creeper"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:cyan_sleeping_bag"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:diamond_tier_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:dragon"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:emerald"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:end"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:enderman"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:feeding_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:fox"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:furnace_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:ghast"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:gold_tier_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:gray_sleeping_bag"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:green_sleeping_bag"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:hay"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:horse"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:hose"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:hose_nozzle"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:iron_golem"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:iron_tier_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:jukebox_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:lantern_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:lapis"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:light_blue_sleeping_bag"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:light_gray_sleeping_bag"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:lime_sleeping_bag"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:magenta_sleeping_bag"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:magma_cube"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:magnet_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:melon"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:nether"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:netherite"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:netherite_tier_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:ocelot"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:orange_sleeping_bag"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:pickup_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:pig"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:pink_sleeping_bag"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:pumpkin"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:purple_sleeping_bag"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:red_sleeping_bag"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:redstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:refill_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:sheep"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:skeleton"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:smoker_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:snow"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:spider"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:sponge"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:squid"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:standard"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:tanks_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:villager"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:void_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:warden"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:white_sleeping_bag"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:wither"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:wolf"
+		},
+		{
+			"weight": 1.0,
+			"key": "travelersbackpack:yellow_sleeping_bag"
+		}
+	]
+}

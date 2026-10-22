@@ -1,0 +1,19 @@
+{
+  "forEntity": "minecraft:ghast",
+  "traits": [
+    {
+      "type": "traitHostile"
+    },
+    {
+      "type": "traitImmunityFire"
+    },
+    {
+      "type": "abilityFlight"
+    },
+    {
+      "type": "abilityFireball",
+      "isLarge": true,
+      "cooldown": 60
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "type": "lucky:group",
+  "luck": 2,
+  "chance": 1.25,
+  "outcomes": [
+    {
+      "type": "lucky:message",
+      "message": {
+        "text": "Special delivery!",
+        "color": "aqua",
+        "bold": true
+      },
+      "overlay": true
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "antarchy:dorrie",
+      "nbt": {
+        "Passengers": [
+          {
+            "id": "supplementaries:red_merchant",
+            "nbt": {
+              "Passengers": [
+                {
+                  "id": "antarchy:rainbow_ant",
+                  "nbt": {}
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

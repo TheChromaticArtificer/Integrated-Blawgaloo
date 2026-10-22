@@ -1,0 +1,88 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "oritech:still_biofuel_block",
+			"data": {
+				"fluidName": "oritech:still_biofuel"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "oritech:still_diesel_block",
+			"data": {
+				"fluidName": "oritech:still_diesel"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "oritech:still_fuel_block",
+			"data": {
+				"fluidName": "oritech:still_fuel"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "oritech:still_heavy_oil_block",
+			"data": {
+				"fluidName": "oritech:still_heavy_oil"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "oritech:still_mineral_slurry_block",
+			"data": {
+				"fluidName": "oritech:still_mineral_slurry"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "oritech:still_naphtha_block",
+			"data": {
+				"fluidName": "oritech:still_naphtha"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "oritech:still_oil_block",
+			"data": {
+				"fluidName": "oritech:still_oil"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "oritech:still_sheol_fire_block",
+			"data": {
+				"fluidName": "oritech:still_sheol_fire"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "oritech:still_silicon_wash_block",
+			"data": {
+				"fluidName": "oritech:still_silicon_wash"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "oritech:still_steam_block",
+			"data": {
+				"fluidName": "oritech:still_steam"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "oritech:still_strange_matter_block",
+			"data": {
+				"fluidName": "oritech:still_strange_matter"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "oritech:still_sulfuric_acid_block",
+			"data": {
+				"fluidName": "oritech:still_sulfuric_acid"
+			}
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.cybernetics_neuropozyne.title",
+  "description": "task.integrated_boogaloo.cybernetics_neuropozyne.description",
+  "showcase": [
+    "@item:createcybernetics:neuropozyne_autoinjector",
+    "@recipe:createcybernetics:neuropozyne_autoinjector"
+  ],
+  "icon": "createcybernetics:neuropozyne_autoinjector",
+  "program": "integrated_boogaloo:cybernetics",
+  "category": "integrated_boogaloo:cybernetics",
+  "sort_order": 6,
+  "position": {
+    "x": 4,
+    "y": 0
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:cybernetics/install"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "createcybernetics:neuropozyne_autoinjector",
+      "description": "task.integrated_boogaloo.cybernetics_neuropozyne.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "archive",
+      "entry": "integrated_boogaloo:cyber_cyberchems"
+    },
+    {
+      "type": "antcoins",
+      "amount": 50
+    }
+  ],
+  "line_axis": "horizontal"
+}

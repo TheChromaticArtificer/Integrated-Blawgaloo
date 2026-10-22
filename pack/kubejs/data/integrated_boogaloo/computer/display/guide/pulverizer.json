@@ -1,0 +1,12 @@
+{
+  "preset": "machine",
+  "title": "literal:Pulverizer",
+  "recipe_binding": {
+    "recipe": "oritech:pulverizer/raw/iron",
+    "adapter": "boogaloo_core:oritech"
+  },
+  "values": {
+    "heading": "literal:Pulverizer",
+    "energy": "literal:Power: 32 RF/t"
+  }
+}

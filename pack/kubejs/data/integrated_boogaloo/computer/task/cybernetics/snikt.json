@@ -1,0 +1,34 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.cybernetics_snikt.title",
+  "description": "task.integrated_boogaloo.cybernetics_snikt.description",
+  "icon": "createcybernetics:armupgrades_claws",
+  "program": "integrated_boogaloo:cybernetics",
+  "category": "integrated_boogaloo:cybernetics",
+  "sort_order": 8,
+  "position": {
+    "x": 5,
+    "y": 0
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:cybernetics/install"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "createcybernetics:cyberware/snikt",
+      "description": "task.integrated_boogaloo.cybernetics_snikt.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "item",
+      "item": "lucky:lucky_block",
+      "count": 2
+    }
+  ],
+  "line_axis": "horizontal"
+}

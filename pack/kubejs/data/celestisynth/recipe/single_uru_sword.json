@@ -1,0 +1,26 @@
+{
+  "type": "celestisynth:starlit_factory",
+  "core_material": {
+    "item": "antarchy:ultimate_sword"
+  },
+  "extra_core_material": {
+    "item": "marvel:uru_ingot"
+  },
+  "supporting_core_material": {
+    "item": "antarchy:vortex_charge"
+  },
+  "supporting_material_top": {
+    "item": "pastel:star_fragment"
+  },
+  "supporting_material_middle": {
+    "item": "marvel:uru_ingot"
+  },
+  "supporting_material_bottom": {
+    "item": "iceandfire:dragonscales_electric"
+  },
+  "forging_time": 800,
+  "result": {
+    "count": 1,
+    "id": "infinity_gauntlet:single_uru_sword"
+  }
+}

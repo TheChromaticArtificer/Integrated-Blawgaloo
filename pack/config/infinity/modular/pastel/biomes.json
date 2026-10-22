@@ -1,0 +1,60 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "pastel:black_langast",
+			"data": {
+				"Color": 3819567
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:crystal_gardens",
+			"data": {
+				"Color": 2200956
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:deep_barrens",
+			"data": {
+				"Color": 3819567
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:deep_dripstone_caves",
+			"data": {
+				"Color": 3819567
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:dragonrot_swamp",
+			"data": {
+				"Color": 14895399
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:howling_spires",
+			"data": {
+				"Color": 2521181
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:noxshroom_forest",
+			"data": {
+				"Color": 3819567
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:razor_edge",
+			"data": {
+				"Color": 3819567
+			}
+		}
+	]
+}

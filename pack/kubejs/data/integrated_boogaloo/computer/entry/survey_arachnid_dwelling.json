@@ -1,0 +1,16 @@
+{
+  "green_tint": false,
+  "type": "structure",
+  "category": "surveys",
+  "folder": "integrated_boogaloo:overworld",
+  "sort_order": 230,
+  "cover_item": "minecraft:filled_map",
+  "title": "guide.integrated_boogaloo.entry.survey_arachnid_dwelling.title",
+  "subtitle": "guide.integrated_boogaloo.entry.survey_arachnid_dwelling.subtitle",
+  "description": [
+    "guide.integrated_boogaloo.entry.survey_arachnid_dwelling.body"
+  ],
+  "structure": "ati_structures:arachnid_dwelling",
+  "dimension": "minecraft:overworld",
+  "search_radius": 100
+}

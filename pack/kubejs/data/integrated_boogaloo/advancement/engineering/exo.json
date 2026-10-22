@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "has": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "oritech:exo_helmet",
+              "oritech:exo_chestplate",
+              "oritech:exo_leggings",
+              "oritech:exo_boots",
+              "oritech:jetpack",
+              "oritech:exo_jetpack"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has"
+    ]
+  ]
+}

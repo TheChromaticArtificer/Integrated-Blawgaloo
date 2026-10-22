@@ -1,0 +1,24 @@
+{
+  "green_tint": false,
+  "type": "article",
+  "category": "general",
+  "folder": "integrated_boogaloo:workshop",
+  "sort_order": 60,
+  "title": "guide.integrated_boogaloo.entry.tech_atomic_forge.title",
+  "subtitle": "guide.integrated_boogaloo.entry.tech_atomic_forge.subtitle",
+  "cover_item": "oritech:atomic_forge_block",
+  "content": [
+    {
+      "text": "guide.integrated_boogaloo.entry.tech_atomic_forge.body_1"
+    },
+    {
+      "display": "integrated_boogaloo:guide/atomic_forge"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.tech_atomic_forge.body_2"
+    }
+  ],
+  "lookup_recipes": [
+    "oritech:atomic_forge"
+  ]
+}

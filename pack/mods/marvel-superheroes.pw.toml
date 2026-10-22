@@ -1,0 +1,13 @@
+name = "Marvel Superheroes"
+filename = "marvel-2.1.0-pre6-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6badd2aaa8d362410de0cbe339505001de55a656"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6739364
+project-id = 475642

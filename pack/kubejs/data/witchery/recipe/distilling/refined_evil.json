@@ -1,0 +1,28 @@
+{
+  "type": "witchery:distilling",
+  "altar_power": 5,
+  "cooking_time": 100,
+  "inputs": [
+    {
+      "item": "witchery:demon_heart"
+    },
+    {
+      "item": "witchery:phantom_vapor"
+    }
+  ],
+  "jar_consumption": 4,
+  "outputs": [
+    {
+      "count": 2,
+      "id": "witchery:demons_blood"
+    },
+    {
+      "count": 2,
+      "id": "witchery:demons_blood"
+    },
+    {
+      "count": 1,
+      "id": "alexscaves:pure_darkness"
+    }
+  ]
+}

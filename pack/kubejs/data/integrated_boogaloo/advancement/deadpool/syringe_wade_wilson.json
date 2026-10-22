@@ -1,0 +1,14 @@
+{
+  "criteria": {
+    "has": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "integrated_superheroes:syringe_weapon_x_wade_wilson"
+          }
+        ]
+      }
+    }
+  }
+}

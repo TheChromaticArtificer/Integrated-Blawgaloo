@@ -1,0 +1,15 @@
+{
+  "category": "integrated_boogaloo:recovered",
+  "title": "guide.integrated_boogaloo.disk.falls_unlabelled.title",
+  "description": "guide.integrated_boogaloo.disk.falls_unlabelled.description",
+  "files": [
+    {
+      "path": "note.txt",
+      "source": "integrated_boogaloo:solemn_falls/unlabelled.txt"
+    },
+    {
+      "path": "label.txt",
+      "source": "integrated_boogaloo:solemn_falls/unlabelled_label.txt"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "green_tint": false,
+  "type": "item",
+  "category": "general",
+  "folder": "integrated_boogaloo:super_serums",
+  "sort_order": 0,
+  "item": "integrated_superheroes:syringe_optic_blasts_scott_summers",
+  "title": "guide.integrated_boogaloo.entry.serum_cyclops.title",
+  "subtitle": "guide.integrated_boogaloo.entry.serum_cyclops.subtitle",
+  "content": [
+    {
+      "text": "guide.integrated_boogaloo.entry.serum_cyclops.body_1"
+    },
+    {
+      "display": "integrated_boogaloo:guide/serum_cyclops"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.serum_cyclops.body_2"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+name = "Enhanced Block Entities Reloaded"
+filename = "enhancedblockentities-0.13.2+1.21-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d771adc27656c13baa073b87b327460aa5b4009f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8830395
+project-id = 1620400

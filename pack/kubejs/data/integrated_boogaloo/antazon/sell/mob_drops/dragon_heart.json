@@ -1,0 +1,11 @@
+{
+  "tag": "integrated_boogaloo:antazon_sell/dragon_heart",
+  "value": 250,
+  "limit": 16,
+  "limit_reset": "minecraft_day",
+  "green_tint": false,
+  "unlock_tasks": [
+    "integrated_boogaloo:hit_list/fire_dragon"
+  ],
+  "unlock_mode": "any"
+}

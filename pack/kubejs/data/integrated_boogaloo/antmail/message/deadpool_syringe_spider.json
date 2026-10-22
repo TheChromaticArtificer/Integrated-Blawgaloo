@@ -1,0 +1,17 @@
+{
+  "sender": "deadpool@antmail.com",
+  "sender_display": "Deadpool",
+  "sender_avatar_item": "marvel:deadpool_helmet",
+  "subject": "Never even got bit",
+  "body": "Spidey and me are best friends btw. He'd tell you we're not, which is how you know its real. Anyway now you can shoot sticky webs all over your enemies. I've been doing that for years and I never even got bit by a spider.\n\n-W",
+  "trigger": {
+    "type": "advancement",
+    "value": "integrated_boogaloo:deadpool/syringe_spider",
+    "delay_minutes": 2
+  },
+  "conditions": {
+    "mail_read": [
+      "integrated_boogaloo:deadpool_intro"
+    ]
+  }
+}

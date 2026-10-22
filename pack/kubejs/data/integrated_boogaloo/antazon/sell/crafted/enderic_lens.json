@@ -1,0 +1,7 @@
+{
+  "item": "oritech:enderic_lens",
+  "value": 60,
+  "limit": 32,
+  "limit_reset": "minecraft_day",
+  "green_tint": false
+}

@@ -1,0 +1,35 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.super_serums_squirrel_girl.title",
+  "description": "task.integrated_boogaloo.super_serums_squirrel_girl.description",
+  "showcase": [
+    "@recipe:integrated_superheroes:syringe_squirrel_powers_doreen_green"
+  ],
+  "icon": "integrated_superheroes:syringe_squirrel_powers_doreen_green",
+  "program": "integrated_boogaloo:super_serums",
+  "category": "integrated_boogaloo:super_serums",
+  "sort_order": 14,
+  "position": {
+    "x": 6,
+    "y": 0
+  },
+  "availability": "automatic",
+  "archive_entries": [
+    "integrated_boogaloo:serum_squirrel_girl"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "integrated_boogaloo:deadpool/syringe_squirrel_girl",
+      "description": "task.integrated_boogaloo.super_serums_squirrel_girl.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 50
+    }
+  ]
+}

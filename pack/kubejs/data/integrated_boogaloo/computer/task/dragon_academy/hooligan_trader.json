@@ -1,0 +1,39 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.dragon_academy_hooligan_trader.title",
+  "description": "task.integrated_boogaloo.dragon_academy_hooligan_trader.description",
+  "showcase": [
+    "@item:minecraft:emerald"
+  ],
+  "icon": "minecraft:emerald",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:dragon_academy",
+  "sort_order": 408,
+  "position": {
+    "x": 1,
+    "y": 1
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:dragon_academy/welcome_to_berk"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "bda:academy/hooligan_trader",
+      "description": "task.integrated_boogaloo.dragon_academy_hooligan_trader.goal",
+      "count": 1
+    }
+  ],
+  "archive_entries": [
+    "integrated_boogaloo:bda_hooligans"
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 150
+    }
+  ],
+  "line_axis": "horizontal"
+}

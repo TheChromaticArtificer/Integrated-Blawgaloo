@@ -1,0 +1,18 @@
+{
+  "sender": "deadpool@antmail.com",
+  "sender_display": "Deadpool",
+  "sender_avatar_item": "marvel:deadpool_helmet",
+  "subject": "Bug report #3",
+  "body": "Bug report. The Weapon X syringe recipe has a cooked corndog in it when it should obviously be a chimichanga. Dried Fruit Studios closed it as \"working as intended\" so I opened another one and they closed that as \"stop opening reports.\" Ive opened eleven now. One of them is just a picture of Bea Arthur. Thats not a bug, I just think people should see it.",
+  "trigger": {
+    "type": "random",
+    "value": "0.01",
+    "delay_minutes": 3
+  },
+  "conditions": {
+    "mail_read": [
+      "integrated_boogaloo:deadpool_intro"
+    ]
+  },
+  "once": true
+}

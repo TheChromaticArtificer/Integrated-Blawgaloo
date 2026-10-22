@@ -1,0 +1,36 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.cavaryn_attitude.title",
+  "description": "task.integrated_boogaloo.cavaryn_attitude.description",
+  "showcase": [
+    "@recipe:antarchy:attitude_adjuster"
+  ],
+  "icon": "antarchy:attitude_adjuster",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:cavaryn",
+  "sort_order": 25,
+  "position": {
+    "x": 3,
+    "y": 6
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:exploration/cavaryn/hercules"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "antarchy:behavioral_correction",
+      "description": "task.integrated_boogaloo.cavaryn_attitude.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 60
+    }
+  ],
+  "line_axis": "horizontal"
+}

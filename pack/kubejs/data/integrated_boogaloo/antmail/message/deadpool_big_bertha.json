@@ -1,0 +1,17 @@
+{
+  "sender": "deadpool@antmail.com",
+  "sender_display": "Deadpool",
+  "sender_avatar_item": "marvel:deadpool_helmet",
+  "subject": "Overcompensate",
+  "body": "Look at you with Big Bertha. THAT big? Woww. You're compensating for something. Dont worry I wont tell anyone. The sword will.",
+  "trigger": {
+    "type": "advancement",
+    "value": "integrated_boogaloo:deadpool/has_big_bertha",
+    "delay_minutes": 3
+  },
+  "conditions": {
+    "mail_read": [
+      "integrated_boogaloo:deadpool_intro"
+    ]
+  }
+}

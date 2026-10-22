@@ -1,0 +1,13 @@
+{
+  "category": "integrated_boogaloo:surveys",
+  "title": "guide.integrated_boogaloo.disk.survey_elythia.title",
+  "description": "guide.integrated_boogaloo.disk.survey_elythia.description",
+  "entries": [
+    "integrated_boogaloo:survey_trayaurus_lab",
+    "integrated_boogaloo:survey_magical_castle",
+    "integrated_boogaloo:survey_temple_of_technoblade",
+    "integrated_boogaloo:survey_fallen_kingdom_castle",
+    "integrated_boogaloo:survey_stampys_house",
+    "integrated_boogaloo:survey_basilisk_lair"
+  ]
+}

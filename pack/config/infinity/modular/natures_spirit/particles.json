@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:milk"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:orange_maple_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:red_maple_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:yellow_maple_leaves"
+		}
+	]
+}

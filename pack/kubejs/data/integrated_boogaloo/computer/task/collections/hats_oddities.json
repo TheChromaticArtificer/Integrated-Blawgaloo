@@ -1,0 +1,494 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.collection.hats_oddities.title",
+  "description": "task.integrated_boogaloo.collection.hats_oddities.description",
+  "icon": "hats:burgerhat",
+  "program": "integrated_boogaloo:collections",
+  "category": "integrated_boogaloo:collections",
+  "sort_order": 504,
+  "position": {
+    "x": 4,
+    "y": 5
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "acornhat",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/acornhat",
+      "description": "item.hats.acornhat",
+      "count": 1
+    },
+    {
+      "id": "apple",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/apple",
+      "description": "item.hats.apple",
+      "count": 1
+    },
+    {
+      "id": "bigbrain",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/bigbrain",
+      "description": "item.hats.bigbrain",
+      "count": 1
+    },
+    {
+      "id": "breadhat",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/breadhat",
+      "description": "item.hats.breadhat",
+      "count": 1
+    },
+    {
+      "id": "brownbrick",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/brownbrick",
+      "description": "item.hats.brownbrick",
+      "count": 1
+    },
+    {
+      "id": "bucket",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/bucket",
+      "description": "item.hats.bucket",
+      "count": 1
+    },
+    {
+      "id": "burgerhat",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/burgerhat",
+      "description": "item.hats.burgerhat",
+      "count": 1
+    },
+    {
+      "id": "camera",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/camera",
+      "description": "item.hats.camera",
+      "count": 1
+    },
+    {
+      "id": "candleonhead",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/candleonhead",
+      "description": "item.hats.candleonhead",
+      "count": 1
+    },
+    {
+      "id": "cardboard_box",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/cardboard_box",
+      "description": "item.hats.cardboard_box",
+      "count": 1
+    },
+    {
+      "id": "carrotonstick",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/carrotonstick",
+      "description": "item.hats.carrotonstick",
+      "count": 1
+    },
+    {
+      "id": "cartoonegg",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/cartoonegg",
+      "description": "item.hats.cartoonegg",
+      "count": 1
+    },
+    {
+      "id": "chalk_stick",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/chalk_stick",
+      "description": "item.hats.chalk_stick",
+      "count": 1
+    },
+    {
+      "id": "cheeseslice",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/cheeseslice",
+      "description": "item.hats.cheeseslice",
+      "count": 1
+    },
+    {
+      "id": "chocolate_sauced",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/chocolate_sauced",
+      "description": "item.hats.chocolate_sauced",
+      "count": 1
+    },
+    {
+      "id": "clockface",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/clockface",
+      "description": "item.hats.clockface",
+      "count": 1
+    },
+    {
+      "id": "dairyqueen",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/dairyqueen",
+      "description": "item.hats.dairyqueen",
+      "count": 1
+    },
+    {
+      "id": "discoball",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/discoball",
+      "description": "item.hats.discoball",
+      "count": 1
+    },
+    {
+      "id": "eggcracked",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/eggcracked",
+      "description": "item.hats.eggcracked",
+      "count": 1
+    },
+    {
+      "id": "egghead",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/egghead",
+      "description": "item.hats.egghead",
+      "count": 1
+    },
+    {
+      "id": "eggheadspots",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/eggheadspots",
+      "description": "item.hats.eggheadspots",
+      "count": 1
+    },
+    {
+      "id": "eggonhead",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/eggonhead",
+      "description": "item.hats.eggonhead",
+      "count": 1
+    },
+    {
+      "id": "floweronhead",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/floweronhead",
+      "description": "item.hats.floweronhead",
+      "count": 1
+    },
+    {
+      "id": "frozenhead",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/frozenhead",
+      "description": "item.hats.frozenhead",
+      "count": 1
+    },
+    {
+      "id": "hatpants",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/hatpants",
+      "description": "item.hats.hatpants",
+      "count": 1
+    },
+    {
+      "id": "headshot",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/headshot",
+      "description": "item.hats.headshot",
+      "count": 1
+    },
+    {
+      "id": "palmtree",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/palmtree",
+      "description": "item.hats.palmtree",
+      "count": 1
+    },
+    {
+      "id": "paperbag",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/paperbag",
+      "description": "item.hats.paperbag",
+      "count": 1
+    },
+    {
+      "id": "paypay",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/paypay",
+      "description": "item.hats.paypay",
+      "count": 1
+    },
+    {
+      "id": "pohatoe",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/pohatoe",
+      "description": "item.hats.pohatoe",
+      "count": 1
+    },
+    {
+      "id": "policesiren",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/policesiren",
+      "description": "item.hats.policesiren",
+      "count": 1
+    },
+    {
+      "id": "pom_moog",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/pom_moog",
+      "description": "item.hats.pom_moog",
+      "count": 1
+    },
+    {
+      "id": "potionhead",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/potionhead",
+      "description": "item.hats.potionhead",
+      "count": 1
+    },
+    {
+      "id": "questbook",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/questbook",
+      "description": "item.hats.questbook",
+      "count": 1
+    },
+    {
+      "id": "raincloud",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/raincloud",
+      "description": "item.hats.raincloud",
+      "count": 1
+    },
+    {
+      "id": "redshroomcap",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/redshroomcap",
+      "description": "item.hats.redshroomcap",
+      "count": 1
+    },
+    {
+      "id": "right_hand_hat",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/right_hand_hat",
+      "description": "item.hats.right_hand_hat",
+      "count": 1
+    },
+    {
+      "id": "right_hand_hat_cyborg",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/right_hand_hat_cyborg",
+      "description": "item.hats.right_hand_hat_cyborg",
+      "count": 1
+    },
+    {
+      "id": "rock",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/rock",
+      "description": "item.hats.rock",
+      "count": 1
+    },
+    {
+      "id": "rubbernipple",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/rubbernipple",
+      "description": "item.hats.rubbernipple",
+      "count": 1
+    },
+    {
+      "id": "sandcastle",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/sandcastle",
+      "description": "item.hats.sandcastle",
+      "count": 1
+    },
+    {
+      "id": "sausage",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/sausage",
+      "description": "item.hats.sausage",
+      "count": 1
+    },
+    {
+      "id": "seaweedhat",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/seaweedhat",
+      "description": "item.hats.seaweedhat",
+      "count": 1
+    },
+    {
+      "id": "shakehat",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/shakehat",
+      "description": "item.hats.shakehat",
+      "count": 1
+    },
+    {
+      "id": "shroomcap",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/shroomcap",
+      "description": "item.hats.shroomcap",
+      "count": 1
+    },
+    {
+      "id": "special",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/special",
+      "description": "item.hats.special",
+      "count": 1
+    },
+    {
+      "id": "springer",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/springer",
+      "description": "item.hats.springer",
+      "count": 1
+    },
+    {
+      "id": "sprout",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/sprout",
+      "description": "item.hats.sprout",
+      "count": 1
+    },
+    {
+      "id": "stackofeggs",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/stackofeggs",
+      "description": "item.hats.stackofeggs",
+      "count": 1
+    },
+    {
+      "id": "strawberry_hat",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/strawberry_hat",
+      "description": "item.hats.strawberry_hat",
+      "count": 1
+    },
+    {
+      "id": "stress",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/stress",
+      "description": "item.hats.stress",
+      "count": 1
+    },
+    {
+      "id": "stuck_lollipop",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/stuck_lollipop",
+      "description": "item.hats.stuck_lollipop",
+      "count": 1
+    },
+    {
+      "id": "supersandhat",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/supersandhat",
+      "description": "item.hats.supersandhat",
+      "count": 1
+    },
+    {
+      "id": "thumbnail",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/thumbnail",
+      "description": "item.hats.thumbnail",
+      "count": 1
+    },
+    {
+      "id": "toast",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/toast",
+      "description": "item.hats.toast",
+      "count": 1
+    },
+    {
+      "id": "toilet",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/toilet",
+      "description": "item.hats.toilet",
+      "count": 1
+    },
+    {
+      "id": "tomato_splats",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/tomato_splats",
+      "description": "item.hats.tomato_splats",
+      "count": 1
+    },
+    {
+      "id": "traffic_cone",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/traffic_cone",
+      "description": "item.hats.traffic_cone",
+      "count": 1
+    },
+    {
+      "id": "tvhead",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/tvhead",
+      "description": "item.hats.tvhead",
+      "count": 1
+    },
+    {
+      "id": "tvheadrat",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/tvheadrat",
+      "description": "item.hats.tvheadrat",
+      "count": 1
+    },
+    {
+      "id": "tvheadstatic",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/tvheadstatic",
+      "description": "item.hats.tvheadstatic",
+      "count": 1
+    },
+    {
+      "id": "worms_mine",
+      "type": "advancement",
+      "target": "integrated_boogaloo:hats/worms_mine",
+      "description": "item.hats.worms_mine",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 3500
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "id": "rare",
+          "title": "task.integrated_boogaloo.reward.rare",
+          "rewards": [
+            {
+              "type": "item_pool",
+              "pool": "integrated_boogaloo:supplies_rare",
+              "mode": "random"
+            }
+          ]
+        },
+        {
+          "id": "lucky",
+          "title": "task.integrated_boogaloo.reward.lucky",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "lucky:lucky_block",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "id": "uranium",
+          "title": "task.integrated_boogaloo.reward.uranium",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "antarchy:uranium_ingot",
+              "count": 4
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

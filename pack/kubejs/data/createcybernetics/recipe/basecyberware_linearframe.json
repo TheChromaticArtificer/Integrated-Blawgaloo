@@ -1,0 +1,42 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:mod_loaded",
+        "modid": "create"
+      }
+    }
+  ],
+  "type": "createcybernetics:engineering_table",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "marvel:vibranium_nugget"
+    },
+    "A": {
+      "item": "oritech:motor"
+    },
+    "T": {
+      "item": "marvel:vibranium_nugget"
+    },
+    "S": {
+      "item": "marvel:vibranium_nugget"
+    },
+    "E": {
+      "item": "antarchy:bluestone_torch"
+    }
+  },
+  "pattern": [
+    "  T  ",
+    " PSP ",
+    "PATAP",
+    "EPSPE",
+    "PATAP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "createcybernetics:basecyberware_linearframe"
+  }
+}

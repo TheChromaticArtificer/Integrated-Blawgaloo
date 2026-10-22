@@ -1,0 +1,11 @@
+{
+  "sender": "trayaurus@antmail.com",
+  "sender_avatar_item": "antarchy:diamond_minecart",
+  "subject": "Is that a hat?",
+  "body": "You got a hat off that thing! Creatures have been showing up in hats all over the place lately. No idea where they get them.\n\nEvery hat you knock off one is yours for good, even if you lose the actual item. Hold Alt and press H to pick which one you're wearing.\n\nI've been wearing a traffic cone all week. Nobody at the lab has said a word.\n\nYour old friend,\nDr. T",
+  "trigger": {
+    "delay_minutes": 3,
+    "type": "advancement",
+    "value": "hats:hats/collect_1"
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "version": 1,
+  "width": 260,
+  "height": 241,
+  "variables": {
+    "inputs": {
+      "type": "array"
+    },
+    "outputs": {
+      "type": "array"
+    },
+    "fluids": {
+      "type": "array"
+    },
+    "conditions": {
+      "type": "array",
+      "default": []
+    },
+    "duration": {
+      "type": "string",
+      "default": "literal:"
+    },
+    "title": {
+      "type": "string",
+      "default": "literal:Fusion Shrine"
+    }
+  },
+  "title": "$title",
+  "elements": [
+    {
+      "id": "shrine",
+      "type": "scene",
+      "x": 2,
+      "y": 2,
+      "width": 160,
+      "height": 150,
+      "yaw": 45,
+      "pitch": 30,
+      "scale": 0.95,
+      "material_rules": [
+        {
+          "state": "pastel:polished_basalt",
+          "label": "literal:Polished basalt or calcite"
+        },
+        {
+          "state": "pastel:polished_basalt_pillar[axis=y]",
+          "label": "literal:Basalt or calcite pillar"
+        },
+        {
+          "state": "pastel:polished_basalt_slab",
+          "label": "literal:Basalt or calcite slab"
+        },
+        {
+          "state": "pastel:chiseled_polished_basalt",
+          "label": "literal:Chiseled basalt or calcite"
+        },
+        {
+          "state": "pastel:notched_polished_basalt",
+          "label": "literal:Notched basalt or calcite"
+        },
+        {
+          "state": "pastel:polished_amethyst_block",
+          "label": "literal:Any polished gemstone block"
+        },
+        {
+          "state": "pastel:liquid_crystal",
+          "item": "pastel:liquid_crystal_bucket",
+          "label": "literal:Liquid crystal (bucket)"
+        },
+        {
+          "state": "pastel:amethyst_basalt_light",
+          "label": "literal:Any gemstone light"
+        },
+        {
+          "state": "pastel:item_bowl_basalt",
+          "label": "literal:Item bowl (basalt or calcite)"
+        }
+      ],
+      "conditions": [
+        {
+          "kind": "open_sky"
+        }
+      ],
+      "steps": [
+        {
+          "id": "floor",
+          "title": "literal:Floor",
+          "text": "literal:Lay the floor with the sunken slab ring in the middle.",
+          "through_y": 0
+        },
+        {
+          "id": "rim",
+          "title": "literal:Rim",
+          "text": "literal:Raise the rim and place the shrine in the center.",
+          "through_y": 1
+        },
+        {
+          "id": "pillars",
+          "title": "literal:Pillars",
+          "text": "literal:Build the four corner pillars with a gem block and slab on top.",
+          "through_y": 4
+        }
+      ],
+      "pattern": [
+        [
+          "  XXXXX  ",
+          " XXXXXXX ",
+          "XXCXXXCXX",
+          "XXXLLLXXX",
+          "XXXL0LXXX",
+          "XXXLLLXXX",
+          "XXCXXXCXX",
+          " XXXXXXX ",
+          "  XXXXX  "
+        ],
+        [
+          "  XXXXX  ",
+          " P     P ",
+          "X       X",
+          "X       X",
+          "X   F   X",
+          "X       X",
+          "X       X",
+          " P     P ",
+          "  XXXXX  "
+        ],
+        [
+          "         ",
+          " P     P ",
+          "         ",
+          "         ",
+          "         ",
+          "         ",
+          "         ",
+          " P     P ",
+          "         "
+        ],
+        [
+          "         ",
+          " S     S ",
+          "         ",
+          "         ",
+          "         ",
+          "         ",
+          "         ",
+          " S     S ",
+          "         "
+        ],
+        [
+          "         ",
+          " L     L ",
+          "         ",
+          "         ",
+          "         ",
+          "         ",
+          "         ",
+          " L     L ",
+          "         "
+        ]
+      ],
+      "mapping": {
+        "X": "pastel:polished_basalt",
+        "P": "pastel:polished_basalt_pillar[axis=y]",
+        "L": "pastel:polished_basalt_slab",
+        "S": "pastel:polished_amethyst_block",
+        "C": "pastel:chiseled_polished_basalt",
+        "F": "pastel:fusion_shrine_basalt",
+        "0": "pastel:polished_basalt"
+      },
+      "hero": true,
+      "ratio": 0.8
+    },
+    {
+      "id": "mats",
+      "type": "materials",
+      "scene": "shrine",
+      "scope": "cumulative",
+      "x": 6,
+      "y": 4,
+      "width": 90,
+      "height": 146
+    },
+    {
+      "type": "rect",
+      "x": 2,
+      "y": 154,
+      "width": 256,
+      "height": 1,
+      "color": "line"
+    },
+    {
+      "type": "group",
+      "x": 6,
+      "y": 160,
+      "layout": "grid",
+      "columns": 4,
+      "cell_width": 22,
+      "cell_height": 22,
+      "elements": "$fluids"
+    },
+    {
+      "type": "group",
+      "x": 30,
+      "y": 170,
+      "layout": "grid",
+      "columns": 3,
+      "cell_width": 20,
+      "cell_height": 20,
+      "elements": "$inputs"
+    },
+    {
+      "type": "arrow",
+      "x": 94,
+      "y": 179,
+      "x2": 118,
+      "y2": 179
+    },
+    {
+      "type": "group",
+      "x": 124,
+      "y": 170,
+      "layout": "grid",
+      "columns": 1,
+      "cell_width": 20,
+      "cell_height": 20,
+      "elements": "$outputs"
+    },
+    {
+      "type": "requirements",
+      "x": 150,
+      "y": 160,
+      "width": 106,
+      "entries": "$conditions"
+    },
+    {
+      "type": "text",
+      "x": 30,
+      "y": 214,
+      "width": 120,
+      "text": "$duration",
+      "color": "muted"
+    },
+    {
+      "type": "text",
+      "x": 30,
+      "y": 225,
+      "width": 220,
+      "text": "literal:Throw the items onto the shrine.",
+      "color": "muted"
+    }
+  ],
+  "reflow": true,
+  "auto_height": true,
+  "hide_title": true
+}

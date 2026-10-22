@@ -1,0 +1,61 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.engineering_generator.title",
+  "description": "task.integrated_boogaloo.engineering_generator.description",
+  "showcase": [
+    "@item:oritech:basic_generator_block",
+    "@recipe:oritech:basic_generator_block"
+  ],
+  "icon": "oritech:basic_generator_block",
+  "program": "integrated_boogaloo:engineering",
+  "category": "integrated_boogaloo:engineering",
+  "sort_order": 2,
+  "position": {
+    "x": 1,
+    "y": 1
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:engineering/nickel"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "minecraft:oritech/generator",
+      "description": "task.integrated_boogaloo.engineering_generator.goal",
+      "count": 1
+    },
+    {
+      "id": "coil",
+      "type": "item",
+      "target": "oritech:magnetic_coil",
+      "description": "task.integrated_boogaloo.engineering_generator.coil",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "pipe",
+      "type": "item",
+      "target": "oritech:energy_pipe",
+      "description": "task.integrated_boogaloo.engineering_generator.pipe",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "archive_entries": [
+    "integrated_boogaloo:tech_basics"
+  ],
+  "rewards": [
+    {
+      "type": "item",
+      "item": "oritech:nickel_ingot",
+      "count": 6
+    },
+    {
+      "type": "antcoins",
+      "amount": 10
+    }
+  ],
+  "line_axis": "horizontal"
+}

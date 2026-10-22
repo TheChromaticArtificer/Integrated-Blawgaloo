@@ -1,0 +1,42 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.thoraxis_princess.title",
+  "description": "task.integrated_boogaloo.thoraxis_princess.description",
+  "showcase": [
+    "@item:antarchy:princess_egg"
+  ],
+  "icon": "antarchy:princess_egg",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:thoraxis",
+  "sort_order": 34,
+  "position": {
+    "x": 5,
+    "y": 6
+  },
+  "shape": "octagon",
+  "availability": "automatic",
+  "hide_until_dependencies_complete": true,
+  "requires": [
+    "integrated_boogaloo:exploration/thoraxis/queen"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "antarchy:long_live_the_princess",
+      "description": "task.integrated_boogaloo.thoraxis_princess.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 200
+    },
+    {
+      "type": "archive",
+      "entry": "antarchy:princess"
+    }
+  ],
+  "line_axis": "horizontal"
+}

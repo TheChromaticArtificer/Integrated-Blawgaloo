@@ -1,0 +1,60 @@
+{
+  "type": "witchery:ritual",
+  "altar_power": 2000,
+  "block_mapping": {
+    "G": "witchery:golden_ritual_chalk",
+    "S": "witchery:ritual_chalk"
+  },
+  "pattern": [
+    "__SSS__",
+    "_S___S_",
+    "S_____S",
+    "S__G__S",
+    "S_____S",
+    "_S___S_",
+    "__SSS__"
+  ],
+  "ritual_events": [
+    {
+      "type": "witchery:consume_items",
+      "items": [
+        {
+          "item": {
+            "item": "pastel:vegetal"
+          }
+        },
+        {
+          "item": {
+            "item": "pastel:neolith"
+          }
+        },
+        {
+          "item": {
+            "item": "witchery:whiff_of_magic"
+          }
+        }
+      ]
+    },
+    {
+      "type": "witchery:particle_sphere_inward",
+      "particle": {
+        "type": "minecraft:dust",
+        "color": [
+          0.55,
+          0.35,
+          0.8
+        ],
+        "scale": 1.0
+      },
+      "time": 100
+    },
+    {
+      "type": "witchery:run_command",
+      "command": "execute in {dimension} positioned {chalkPos} as {owner} run function integrated_boogaloo:spawner_rites/spawn_count"
+    },
+    {
+      "type": "witchery:run_command",
+      "command": "execute in {dimension} positioned {chalkPos} unless entity {owner} run function integrated_boogaloo:spawner_rites/refund"
+    }
+  ]
+}

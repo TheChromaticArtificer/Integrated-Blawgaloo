@@ -1,0 +1,34 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:mod_loaded",
+        "modid": "create"
+      }
+    }
+  ],
+  "type": "createcybernetics:engineering_deconstruct",
+  "inputs": [
+    {
+      "item": "createcybernetics:basecyberware_linearframe"
+    },
+    {
+      "item": "createcybernetics:scavenged_linearframe"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "antarchy:titanium_nugget",
+      "count": 25
+    },
+    {
+      "id": "minecraft:iron_ingot",
+      "count": 4
+    },
+    {
+      "id": "antarchy:bluestone",
+      "count": 2
+    }
+  ]
+}

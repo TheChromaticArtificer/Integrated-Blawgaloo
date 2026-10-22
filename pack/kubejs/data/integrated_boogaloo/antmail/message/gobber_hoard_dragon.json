@@ -1,0 +1,12 @@
+{
+  "sender": "gobber@berk.com",
+  "sender_display": "Gobber",
+  "sender_avatar_item": "bda:war_hammer",
+  "subject": "One of the BIG ones",
+  "body": "You killed one of the BIG ones? Monstrous Nightmare, Snow Wraith, Skrill, I don't care which, that's a song in the great hall. They sleep on gold and they don't share it. Bring the bones and scales to any village and we'll pay. The skull, though, the skull ye bring to me, so I can hang it over my forge and tell stories about how I killed it! HA\n\nGobber",
+  "trigger": {
+    "delay_minutes": 3,
+    "type": "advancement",
+    "value": "iceandfire:iceandfire/kill_if_dragon"
+  }
+}

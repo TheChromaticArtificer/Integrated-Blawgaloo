@@ -1,0 +1,56 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "celestisynth:breezebroken"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestisynth:crescentia_firework_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestisynth:crescentia_firework_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestisynth:crescentia_firework_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestisynth:keres_ash"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestisynth:keres_omen"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestisynth:pulsation"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestisynth:rainfall_beam"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestisynth:rainfall_beam_quasar"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestisynth:rainfall_energy"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestisynth:rainfall_energy_small"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestisynth:solaris_flame"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestisynth:water_drop"
+		}
+	]
+}

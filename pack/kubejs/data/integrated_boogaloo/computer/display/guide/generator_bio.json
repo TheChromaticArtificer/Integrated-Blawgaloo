@@ -1,0 +1,170 @@
+{
+  "version": 1,
+  "title": "literal:Bio Generator",
+  "width": 250,
+  "height": 109,
+  "elements": [
+    {
+      "id": "gen",
+      "type": "scene",
+      "x": 2,
+      "y": 2,
+      "width": 120,
+      "height": 126,
+      "yaw": 225,
+      "pitch": 25,
+      "scale": 1.2,
+      "blocks": [
+        {
+          "pos": [
+            0,
+            0,
+            0
+          ],
+          "state": "oritech:bio_generator_block[facing=north]",
+          "id": "machine",
+          "highlight": true,
+          "groups": [
+            "machine"
+          ]
+        },
+        {
+          "pos": [
+            0,
+            1,
+            0
+          ],
+          "state": "oritech:machine_core_1",
+          "id": "core0",
+          "groups": [
+            "cores"
+          ]
+        }
+      ],
+      "material_rules": [
+        {
+          "state": "oritech:machine_core_1",
+          "label": "literal:Machine core (any tier)"
+        }
+      ],
+      "steps": [
+        {
+          "id": "machine",
+          "title": "literal:Generator",
+          "text": "literal:Place it.",
+          "groups": [
+            "machine"
+          ]
+        },
+        {
+          "id": "cores",
+          "title": "literal:Cores",
+          "text": "literal:Add the core it shows you.",
+          "groups": [
+            "cores",
+            "addons"
+          ]
+        },
+        {
+          "id": "assemble",
+          "title": "literal:Assemble",
+          "text": "literal:Right-click it to build it, then pipe the power out.",
+          "states": {
+            "core0": "oritech:machine_core_1[core_used=true]",
+            "machine": "oritech:bio_generator_block[facing=north,machine_assembled=true]"
+          },
+          "markers": [
+            {
+              "icon": "right_click",
+              "block": "machine"
+            }
+          ]
+        }
+      ],
+      "hero": true,
+      "ratio": 0.89
+    },
+    {
+      "type": "text",
+      "x": 6,
+      "y": 4,
+      "width": 238,
+      "text": "literal:Burns plant matter."
+    },
+    {
+      "type": "recipe_list",
+      "id": "fuels",
+      "x": 6,
+      "y": 15,
+      "width": 120,
+      "height": 88,
+      "title_width": 70,
+      "rows": [
+        {
+          "title": "literal:Fuels/bio",
+          "inputs": [
+            {
+              "type": "slot",
+              "role": "input",
+              "tag": "c:fuels/bio"
+            }
+          ]
+        },
+        {
+          "title": "literal:Fuels/block/bio",
+          "inputs": [
+            {
+              "type": "slot",
+              "role": "input",
+              "tag": "c:fuels/block/bio"
+            }
+          ]
+        },
+        {
+          "title": "literal:Packed Wheat",
+          "inputs": [
+            {
+              "type": "slot",
+              "role": "input",
+              "item": "oritech:packed_wheat"
+            }
+          ]
+        },
+        {
+          "title": "literal:Raw Biopolymer",
+          "inputs": [
+            {
+              "type": "slot",
+              "role": "input",
+              "item": "oritech:raw_biopolymer"
+            }
+          ]
+        },
+        {
+          "title": "literal:Biomatter",
+          "inputs": [
+            {
+              "type": "slot",
+              "role": "input",
+              "tag": "oritech:biomatter"
+            }
+          ]
+        },
+        {
+          "title": "literal:Solid Biofuel",
+          "inputs": [
+            {
+              "type": "slot",
+              "role": "input",
+              "item": "oritech:solid_biofuel"
+            }
+          ]
+        }
+      ],
+      "search": false
+    }
+  ],
+  "reflow": true,
+  "auto_height": true,
+  "hide_title": true
+}

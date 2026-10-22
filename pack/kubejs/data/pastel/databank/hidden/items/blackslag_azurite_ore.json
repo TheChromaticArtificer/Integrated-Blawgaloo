@@ -1,0 +1,10 @@
+{
+  "type": {
+    "type": "databank:item",
+    "hidden_as": "pastel:blackslag",
+    "original": "pastel:blackslag_azurite_ore"
+  },
+  "condition": {
+    "type": "databank:always_true"
+  }
+}

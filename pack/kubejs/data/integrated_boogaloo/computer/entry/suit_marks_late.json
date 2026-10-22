@@ -1,0 +1,63 @@
+{
+  "green_tint": false,
+  "type": "article",
+  "category": "general",
+  "folder": "integrated_boogaloo:armory",
+  "sort_order": 40,
+  "title": "guide.integrated_boogaloo.entry.suit_marks_late.title",
+  "subtitle": "guide.integrated_boogaloo.entry.suit_marks_late.subtitle",
+  "cover_item": "marvel:iron_man_mark_43_chestplate",
+  "lookup": [
+    "marvel:iron_man_mark_28_boots",
+    "marvel:iron_man_mark_28_chestplate",
+    "marvel:iron_man_mark_28_helmet",
+    "marvel:iron_man_mark_28_leggings",
+    "marvel:iron_man_mark_30_boots",
+    "marvel:iron_man_mark_30_chestplate",
+    "marvel:iron_man_mark_30_helmet",
+    "marvel:iron_man_mark_30_leggings",
+    "marvel:iron_man_mark_33_boots",
+    "marvel:iron_man_mark_33_chestplate",
+    "marvel:iron_man_mark_33_helmet",
+    "marvel:iron_man_mark_33_leggings",
+    "marvel:iron_man_mark_35_boots",
+    "marvel:iron_man_mark_35_chestplate",
+    "marvel:iron_man_mark_35_helmet",
+    "marvel:iron_man_mark_35_leggings",
+    "marvel:iron_man_mark_37_boots",
+    "marvel:iron_man_mark_37_chestplate",
+    "marvel:iron_man_mark_37_helmet",
+    "marvel:iron_man_mark_37_leggings",
+    "marvel:iron_man_mark_38",
+    "marvel:iron_man_mark_38_boots",
+    "marvel:iron_man_mark_38_boots_component",
+    "marvel:iron_man_mark_38_chestplate",
+    "marvel:iron_man_mark_38_chestplate_component",
+    "marvel:iron_man_mark_38_helmet",
+    "marvel:iron_man_mark_38_helmet_component",
+    "marvel:iron_man_mark_38_leggings",
+    "marvel:iron_man_mark_38_leggings_component",
+    "marvel:iron_man_mark_39_boots",
+    "marvel:iron_man_mark_39_chestplate",
+    "marvel:iron_man_mark_39_helmet",
+    "marvel:iron_man_mark_39_leggings",
+    "marvel:iron_man_mark_42_boots",
+    "marvel:iron_man_mark_42_chestplate",
+    "marvel:iron_man_mark_42_helmet",
+    "marvel:iron_man_mark_42_leggings",
+    "marvel:iron_man_mark_43_boots",
+    "marvel:iron_man_mark_43_helmet",
+    "marvel:iron_man_mark_43_leggings"
+  ],
+  "content": [
+    {
+      "text": "guide.integrated_boogaloo.entry.suit_marks_late.body_1"
+    },
+    {
+      "display": "integrated_boogaloo:guide/marks_late"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.suit_marks_late.body_2"
+    }
+  ]
+}

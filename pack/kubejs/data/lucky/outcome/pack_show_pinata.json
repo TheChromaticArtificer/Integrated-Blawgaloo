@@ -1,0 +1,6 @@
+{
+  "type": "lucky:command",
+  "luck": 2,
+  "chance": 2.0,
+  "command": "/boogaloo_core lucky show pinata {playerName} {blockPosX} {blockPosY} {blockPosZ}"
+}

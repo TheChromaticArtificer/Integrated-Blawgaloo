@@ -1,0 +1,23 @@
+{
+  "name": "computer.integrated_boogaloo.product.ammo.standard_copper_rounds.name",
+  "description": "computer.integrated_boogaloo.product.ammo.standard_copper_rounds.description",
+  "category": "ammo",
+  "green_tint": false,
+  "quantity": 1,
+  "payments": [
+    {
+      "type": "antcoins",
+      "resource": "antcoins",
+      "amount": 40
+    }
+  ],
+  "thumbnail": {
+    "item": "scguns:standard_copper_round"
+  },
+  "rewards": [
+    {
+      "item": "scguns:standard_copper_round",
+      "count": 32
+    }
+  ]
+}

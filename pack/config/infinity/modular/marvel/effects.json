@@ -1,0 +1,13 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "marvel:icing",
+			"data": {
+				"Instant": false,
+				"Color": 11073535,
+				"Category": "harmful"
+			}
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "pastel:fusion_shrine",
+  "time": 200,
+  "experience": 2.0,
+  "fluid": {
+    "fluid": "minecraft:water"
+  },
+  "ingredients": [
+    "minecraft:nautilus_shell",
+    "pastel:moonstruck_nectar",
+    "antarchy:broodfruit"
+  ],
+  "result": {
+    "id": "minecraft:heart_of_the_sea"
+  },
+  "start_crafting_effect": "nothing",
+  "during_crafting_effects": [],
+  "finish_crafting_effect": "single_visual_explosion_on_shrine"
+}

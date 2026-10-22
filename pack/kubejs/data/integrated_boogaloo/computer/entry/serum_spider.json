@@ -1,0 +1,21 @@
+{
+  "green_tint": false,
+  "type": "item",
+  "category": "general",
+  "folder": "integrated_boogaloo:super_serums",
+  "sort_order": 0,
+  "item": "marvellegacy:syringe_spider_powers_peter_parker",
+  "title": "guide.integrated_boogaloo.entry.serum_spider.title",
+  "subtitle": "guide.integrated_boogaloo.entry.serum_spider.subtitle",
+  "content": [
+    {
+      "text": "guide.integrated_boogaloo.entry.serum_spider.body_1"
+    },
+    {
+      "display": "integrated_boogaloo:guide/serum_spider"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.serum_spider.body_2"
+    }
+  ]
+}

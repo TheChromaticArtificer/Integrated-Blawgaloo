@@ -1,0 +1,46 @@
+{
+  "type": "lucky:group",
+  "luck": 1,
+  "chance": 1.25,
+  "outcomes": [
+    {
+      "type": "lucky:message",
+      "message": {
+        "text": "Copper golems on the clock!",
+        "color": "gold",
+        "bold": true
+      },
+      "overlay": true
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "minecraft:copper_golem"
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "minecraft:copper_golem"
+    },
+    {
+      "type": "lucky:item",
+      "item": "minecraft:copper_chest"
+    },
+    {
+      "type": "lucky:item",
+      "item": "minecraft:chest",
+      "count": {
+        "type": "minecraft:uniform",
+        "min_inclusive": 2,
+        "max_inclusive": 4
+      }
+    },
+    {
+      "type": "lucky:item",
+      "item": "minecraft:honeycomb",
+      "count": {
+        "type": "minecraft:uniform",
+        "min_inclusive": 2,
+        "max_inclusive": 4
+      }
+    }
+  ]
+}

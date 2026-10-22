@@ -1,0 +1,55 @@
+{
+  "name": "item.pastel.lesser_potion_pendant",
+  "condition": {
+    "type": "modonomicon:advancement",
+    "advancement_id": "pastel:unlocks/trinkets/lesser_potion_pendant"
+  },
+  "icon": {
+    "item": "pastel:lesser_potion_pendant"
+  },
+  "category": "pastel:brewing",
+  "hide_while_locked": true,
+  "parents": [
+    {
+      "entry": "pastel:brewing/potion_workshop"
+    }
+  ],
+  "background_u_index": 0,
+  "background_v_index": 0,
+  "x": -3,
+  "y": 0,
+  "pages": [
+    {
+      "type": "modonomicon:text",
+      "text": "book.pastel.guidebook.lesser_potion_pendant.page0.text",
+      "title": "item.pastel.lesser_potion_pendant"
+    },
+    {
+      "type": "witchery:cauldron_crafting_recipe",
+      "anchor": "",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "recipe_id_1": "integrated_boogaloo:cauldron_crafting/lesser_potion_pendant",
+      "title1": "",
+      "title2": "",
+      "text": "book.pastel.guidebook.boogaloo.pendant.craft"
+    },
+    {
+      "type": "modonomicon:text",
+      "text": "book.pastel.guidebook.boogaloo.pendant.fill",
+      "title": "book.pastel.guidebook.boogaloo.pendant.fill.title"
+    },
+    {
+      "type": "witchery:ritual_recipe",
+      "anchor": "",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "recipe_id_1": "integrated_boogaloo:ritual/potion_pendant/lesser_speed",
+      "title1": "",
+      "title2": "",
+      "text": ""
+    }
+  ]
+}

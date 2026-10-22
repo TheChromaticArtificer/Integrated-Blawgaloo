@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "scguns:mass_destruction"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:mass_destruction_extended"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:mass_production"
+		}
+	]
+}

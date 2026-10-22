@@ -1,0 +1,45 @@
+{
+  "type": "pastel:fusion_shrine",
+  "group": "bedrock_armor",
+  "time": 1200,
+  "experience": 16.0,
+  "fluid": {
+    "fluid": "pastel:midnight_solution"
+  },
+  "copy_components": false,
+  "ingredients": [
+    "antarchy:ultimate_leggings",
+    {
+      "item": "pastel:bedrock_dust",
+      "count": 7
+    },
+    {
+      "item": "pastel:black_pigment",
+      "count": 7
+    },
+    {
+      "item": "pastel:onyx_powder",
+      "count": 7
+    },
+    {
+      "item": "antarchy:uranium_ingot",
+      "count": 4
+    }
+  ],
+  "result": {
+    "id": "pastel:bedrock_leggings",
+    "components": {
+      "enchantments": {
+        "minecraft:protection": 5,
+        "minecraft:fire_protection": 5,
+        "minecraft:projectile_protection": 5,
+        "minecraft:blast_protection": 5,
+        "minecraft:swift_sneak": 3
+      }
+    }
+  },
+  "required_advancement": "pastel:unlocks/equipment/bedrock_tools",
+  "start_crafting_effect": "nothing",
+  "during_crafting_effects": [],
+  "finish_crafting_effect": "single_visual_explosion_on_shrine"
+}

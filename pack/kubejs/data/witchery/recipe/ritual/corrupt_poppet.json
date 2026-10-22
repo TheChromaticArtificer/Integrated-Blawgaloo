@@ -1,0 +1,59 @@
+{
+  "type": "witchery:ritual",
+  "altar_power": 7000,
+  "block_mapping": {
+    "G": "witchery:golden_ritual_chalk",
+    "S": "witchery:infernal_chalk"
+  },
+  "pattern": [
+    "__SSS__",
+    "_S___S_",
+    "S_____S",
+    "S__G__S",
+    "S_____S",
+    "_S___S_",
+    "__SSS__"
+  ],
+  "require_cat": true,
+  "ritual_events": [
+    {
+      "type": "witchery:consume_items",
+      "items": [
+        {
+          "item": {
+            "item": "witchery:exhale_of_the_horned_one"
+          }
+        },
+        {
+          "item": {
+            "item": "witchery:voodoo_protection_poppet"
+          }
+        },
+        {
+          "item": {
+            "item": "iceandfire:ectoplasm"
+          }
+        },
+        {
+          "item": {
+            "item": "minecraft:blaze_powder"
+          }
+        }
+      ]
+    },
+    {
+      "type": "witchery:summon_item",
+      "items": [
+        {
+          "count": 1,
+          "id": "witchery:corrupt_poppet"
+        }
+      ]
+    },
+    {
+      "type": "witchery:run_command",
+      "command": "witchery hunter increaseChance {owner} 5",
+      "delay": 20
+    }
+  ]
+}

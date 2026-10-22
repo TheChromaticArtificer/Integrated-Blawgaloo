@@ -1,0 +1,7 @@
+{
+  "title": "guide.integrated_boogaloo.archive_folder.overworld",
+  "icon_item": "minecraft:filled_map",
+  "parent": "antarchy:antlas",
+  "sort_order": 40,
+  "green_tint": false
+}

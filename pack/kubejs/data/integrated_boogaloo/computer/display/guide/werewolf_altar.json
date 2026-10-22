@@ -1,0 +1,539 @@
+{
+  "version": 1,
+  "title": "literal:Werewolf Altar",
+  "width": 250,
+  "height": 87,
+  "elements": [
+    {
+      "id": "altar",
+      "type": "scene",
+      "x": 2,
+      "y": 2,
+      "width": 140,
+      "height": 146,
+      "yaw": 200,
+      "pitch": 30,
+      "scale": 1.3,
+      "blocks": [
+        {
+          "pos": [
+            -2,
+            -1,
+            -2
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -2,
+            -1,
+            -1
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -2,
+            -1,
+            0
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -2,
+            -1,
+            1
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -2,
+            -1,
+            2
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            -1,
+            -2
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            -1,
+            -1
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            -1,
+            0
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            -1,
+            1
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            -1,
+            2
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            -2
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            -1
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            0
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            1
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            2
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            -2
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            -1
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            0
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            1
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            2
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            2,
+            -1,
+            -2
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            2,
+            -1,
+            -1
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            2,
+            -1,
+            0
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            2,
+            -1,
+            1
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            2,
+            -1,
+            2
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            3,
+            -1,
+            -2
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            3,
+            -1,
+            -1
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            3,
+            -1,
+            0
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            3,
+            -1,
+            1
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            3,
+            -1,
+            2
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            0,
+            0
+          ],
+          "state": "witchery:werewolf_altar[facing=south]",
+          "id": "altar",
+          "highlight": true,
+          "groups": [
+            "altar"
+          ]
+        },
+        {
+          "pos": [
+            0,
+            1,
+            0
+          ],
+          "state": "witchery:werewolf_altar_component",
+          "id": "altar_top",
+          "groups": [
+            "altar"
+          ]
+        },
+        {
+          "pos": [
+            -2,
+            0,
+            -1
+          ],
+          "state": "witchery:wolfsbane[age=4]",
+          "groups": [
+            "altar"
+          ],
+          "decorative": true
+        },
+        {
+          "pos": [
+            2,
+            0,
+            1
+          ],
+          "state": "witchery:wolfsbane[age=4]",
+          "groups": [
+            "altar"
+          ],
+          "decorative": true
+        },
+        {
+          "pos": [
+            3,
+            0,
+            -2
+          ],
+          "state": "witchery:wolfsbane[age=4]",
+          "groups": [
+            "altar"
+          ],
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            0,
+            2
+          ],
+          "state": "witchery:wolfsbane[age=4]",
+          "groups": [
+            "altar"
+          ],
+          "decorative": true
+        }
+      ],
+      "moves": [
+        {
+          "item": "minecraft:gold_ingot",
+          "from": [
+            0,
+            3.5,
+            2
+          ],
+          "to": [
+            0,
+            2,
+            0
+          ],
+          "arc": 0.5,
+          "duration": 1.0,
+          "steps": [
+            "offer"
+          ]
+        }
+      ],
+      "items": [
+        {
+          "pos": [
+            0,
+            2.2,
+            0
+          ],
+          "id": "witchery:moon_charm",
+          "spin": true,
+          "steps": [
+            "charm"
+          ]
+        }
+      ],
+      "entities": [
+        {
+          "pos": [
+            2,
+            0,
+            -1
+          ],
+          "id": "minecraft:wolf",
+          "rotation": 220,
+          "steps": [
+            "later"
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "id": "altar",
+          "title": "literal:Place it",
+          "text": "literal:Stone, two Attuned Moonstone, Wolfsbane and a Tongue of Dog make the altar.",
+          "groups": [
+            "altar"
+          ]
+        },
+        {
+          "id": "offer",
+          "title": "literal:Offer gold",
+          "text": "literal:Right-click it with gold, three ingots in all.",
+          "markers": [
+            {
+              "icon": "right_click",
+              "block": "altar",
+              "item": "minecraft:gold_ingot",
+              "text": "literal:Three gold ingots"
+            }
+          ]
+        },
+        {
+          "id": "charm",
+          "title": "literal:Moon Charm",
+          "text": "literal:It gives you a Moon Charm, your start as a werewolf."
+        },
+        {
+          "id": "later",
+          "title": "literal:Come back",
+          "text": "literal:Later levels bring mutton and tongues back here.",
+          "conditions": [
+            {
+              "kind": "night"
+            },
+            {
+              "kind": "full_moon"
+            }
+          ]
+        }
+      ],
+      "hero": true,
+      "ratio": 0.89
+    },
+    {
+      "type": "text",
+      "x": 6,
+      "y": 4,
+      "width": 238,
+      "text": "literal:Made from"
+    },
+    {
+      "type": "group",
+      "x": 6,
+      "y": 15,
+      "layout": "grid",
+      "columns": 4,
+      "cell_width": 20,
+      "cell_height": 20,
+      "elements": [
+        {
+          "type": "slot",
+          "x": 0,
+          "y": 0,
+          "item": "kubejs:attuned_moonstone",
+          "count": 2
+        },
+        {
+          "type": "slot",
+          "x": 0,
+          "y": 0,
+          "item": "witchery:wolfsbane"
+        },
+        {
+          "type": "slot",
+          "x": 0,
+          "y": 0,
+          "item": "witchery:tongue_of_dog"
+        },
+        {
+          "type": "slot",
+          "x": 0,
+          "y": 0,
+          "item": "minecraft:stone",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "x": 6,
+      "y": 41,
+      "width": 238,
+      "text": "literal:Offer"
+    },
+    {
+      "type": "slot",
+      "x": 6,
+      "y": 52,
+      "item": "minecraft:gold_ingot",
+      "count": 3,
+      "role": "input"
+    },
+    {
+      "type": "arrow",
+      "x": 28,
+      "y": 61,
+      "x2": 48,
+      "y2": 61
+    },
+    {
+      "type": "slot",
+      "x": 54,
+      "y": 52,
+      "item": "witchery:moon_charm",
+      "role": "output"
+    },
+    {
+      "type": "text",
+      "x": 6,
+      "y": 74,
+      "width": 238,
+      "text": "literal:Wolves drop the tongues now and then.",
+      "color": "muted"
+    }
+  ],
+  "reflow": true,
+  "auto_height": true,
+  "hide_title": true
+}

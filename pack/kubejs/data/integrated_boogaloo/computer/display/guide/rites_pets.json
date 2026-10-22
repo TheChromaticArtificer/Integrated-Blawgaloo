@@ -1,0 +1,278 @@
+{
+  "title": "literal:Pet rites",
+  "variants": [
+    {
+      "id": "chicken",
+      "title": "literal:Chicken",
+      "template": "integrated_boogaloo:guide/templates/rite_item",
+      "recipe_binding": {
+        "recipe": "integrated_boogaloo:ritual/pet_chicken_ritual",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Chicken"
+      },
+      "group": "literal:Animals"
+    },
+    {
+      "id": "cow",
+      "title": "literal:Cow",
+      "template": "integrated_boogaloo:guide/templates/rite_item",
+      "recipe_binding": {
+        "recipe": "integrated_boogaloo:ritual/pet_cow_ritual",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Cow"
+      },
+      "group": "literal:Animals"
+    },
+    {
+      "id": "flying_saddle",
+      "title": "literal:Flying Saddle",
+      "template": "integrated_boogaloo:guide/templates/rite_item",
+      "recipe_binding": {
+        "recipe": "integrated_boogaloo:ritual/pet_flying_saddle_ritual",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Flying Saddle"
+      },
+      "group": "literal:Animals"
+    },
+    {
+      "id": "iron_golem",
+      "title": "literal:Iron Golem",
+      "template": "integrated_boogaloo:guide/templates/rite_item",
+      "recipe_binding": {
+        "recipe": "integrated_boogaloo:ritual/pet_iron_golem_ritual",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Iron Golem"
+      },
+      "group": "literal:Animals"
+    },
+    {
+      "id": "ocelot",
+      "title": "literal:Ocelot",
+      "template": "integrated_boogaloo:guide/templates/rite_item",
+      "recipe_binding": {
+        "recipe": "integrated_boogaloo:ritual/pet_ocelot_ritual",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Ocelot"
+      },
+      "group": "literal:Animals"
+    },
+    {
+      "id": "pig",
+      "title": "literal:Pig",
+      "template": "integrated_boogaloo:guide/templates/rite_item",
+      "recipe_binding": {
+        "recipe": "integrated_boogaloo:ritual/pet_pig_ritual",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Pig"
+      },
+      "group": "literal:Animals"
+    },
+    {
+      "id": "pufferfish",
+      "title": "literal:Pufferfish",
+      "template": "integrated_boogaloo:guide/templates/rite_item",
+      "recipe_binding": {
+        "recipe": "integrated_boogaloo:ritual/pet_pufferfish_ritual",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Pufferfish"
+      },
+      "group": "literal:Animals"
+    },
+    {
+      "id": "sheep",
+      "title": "literal:Sheep",
+      "template": "integrated_boogaloo:guide/templates/rite_item",
+      "recipe_binding": {
+        "recipe": "integrated_boogaloo:ritual/pet_sheep_ritual",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Sheep"
+      },
+      "group": "literal:Animals"
+    },
+    {
+      "id": "siamese",
+      "title": "literal:Siamese",
+      "template": "integrated_boogaloo:guide/templates/rite_item",
+      "recipe_binding": {
+        "recipe": "integrated_boogaloo:ritual/pet_siamese_ritual",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Siamese"
+      },
+      "group": "literal:Animals"
+    },
+    {
+      "id": "snow_golem",
+      "title": "literal:Snow Golem",
+      "template": "integrated_boogaloo:guide/templates/rite_item",
+      "recipe_binding": {
+        "recipe": "integrated_boogaloo:ritual/pet_snow_golem_ritual",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Snow Golem"
+      },
+      "group": "literal:Animals"
+    },
+    {
+      "id": "squid",
+      "title": "literal:Squid",
+      "template": "integrated_boogaloo:guide/templates/rite_item",
+      "recipe_binding": {
+        "recipe": "integrated_boogaloo:ritual/pet_squid_ritual",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Squid"
+      },
+      "group": "literal:Animals"
+    },
+    {
+      "id": "wolf",
+      "title": "literal:Wolf",
+      "template": "integrated_boogaloo:guide/templates/rite_item",
+      "recipe_binding": {
+        "recipe": "integrated_boogaloo:ritual/pet_wolf_ritual",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Wolf"
+      },
+      "group": "literal:Animals"
+    },
+    {
+      "id": "blaze",
+      "title": "literal:Blaze",
+      "template": "integrated_boogaloo:guide/templates/rite_item",
+      "recipe_binding": {
+        "recipe": "integrated_boogaloo:ritual/pet_blaze_ritual",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Blaze"
+      },
+      "group": "literal:Monsters"
+    },
+    {
+      "id": "creeper",
+      "title": "literal:Creeper",
+      "template": "integrated_boogaloo:guide/templates/rite_item",
+      "recipe_binding": {
+        "recipe": "integrated_boogaloo:ritual/pet_creeper_ritual",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Creeper"
+      },
+      "group": "literal:Monsters"
+    },
+    {
+      "id": "enderman",
+      "title": "literal:Enderman",
+      "template": "integrated_boogaloo:guide/templates/rite_item",
+      "recipe_binding": {
+        "recipe": "integrated_boogaloo:ritual/pet_enderman_ritual",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Enderman"
+      },
+      "group": "literal:Monsters"
+    },
+    {
+      "id": "ghast",
+      "title": "literal:Ghast",
+      "template": "integrated_boogaloo:guide/templates/rite_item",
+      "recipe_binding": {
+        "recipe": "integrated_boogaloo:ritual/pet_ghast_ritual",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Ghast"
+      },
+      "group": "literal:Monsters"
+    },
+    {
+      "id": "magma_cube",
+      "title": "literal:Magma Cube",
+      "template": "integrated_boogaloo:guide/templates/rite_item",
+      "recipe_binding": {
+        "recipe": "integrated_boogaloo:ritual/pet_magma_cube_ritual",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Magma Cube"
+      },
+      "group": "literal:Monsters"
+    },
+    {
+      "id": "silverfish",
+      "title": "literal:Silverfish",
+      "template": "integrated_boogaloo:guide/templates/rite_item",
+      "recipe_binding": {
+        "recipe": "integrated_boogaloo:ritual/pet_silverfish_ritual",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Silverfish"
+      },
+      "group": "literal:Monsters"
+    },
+    {
+      "id": "slime",
+      "title": "literal:Slime",
+      "template": "integrated_boogaloo:guide/templates/rite_item",
+      "recipe_binding": {
+        "recipe": "integrated_boogaloo:ritual/pet_slime_ritual",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Slime"
+      },
+      "group": "literal:Monsters"
+    },
+    {
+      "id": "spider",
+      "title": "literal:Spider",
+      "template": "integrated_boogaloo:guide/templates/rite_item",
+      "recipe_binding": {
+        "recipe": "integrated_boogaloo:ritual/pet_spider_ritual",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Spider"
+      },
+      "group": "literal:Monsters"
+    },
+    {
+      "id": "wither",
+      "title": "literal:Wither",
+      "template": "integrated_boogaloo:guide/templates/rite_item",
+      "recipe_binding": {
+        "recipe": "integrated_boogaloo:ritual/pet_wither_ritual",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Wither"
+      },
+      "group": "literal:Monsters"
+    }
+  ]
+}

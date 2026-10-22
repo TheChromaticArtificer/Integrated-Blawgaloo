@@ -1,0 +1,41 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.hit_list_light_the_forge.title",
+  "description": "task.integrated_boogaloo.hit_list_light_the_forge.description",
+  "showcase": [
+    "@item:iceandfire:dragonforge_fire_core",
+    "@recipe:iceandfire:dragonforge_fire_core"
+  ],
+  "icon": "iceandfire:dragonforge_fire_core",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:dragon_academy",
+  "sort_order": 337,
+  "position": {
+    "x": 5,
+    "y": 2
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:hit_list/take_command"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item_tag",
+      "target": "integrated_boogaloo:dragonforge_cores",
+      "description": "task.integrated_boogaloo.hit_list_light_the_forge.goal",
+      "count": 1,
+      "sticky": true
+    }
+  ],
+  "archive_entries": [
+    "integrated_boogaloo:iaf_dragon_gear"
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 200
+    }
+  ],
+  "line_axis": "horizontal"
+}

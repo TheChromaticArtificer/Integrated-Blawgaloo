@@ -1,0 +1,92 @@
+{
+  "type": "witchery:cauldron_crafting",
+  "altarPower": 500,
+  "inputItems": [
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "minecraft:glass_bottle"
+      },
+      "order": 0
+    },
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "minecraft:glass_bottle"
+      },
+      "order": 1
+    },
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "pastel:liquid_crystal_bucket"
+      },
+      "order": 2
+    },
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "pastel:amaranth_grains"
+      },
+      "order": 3
+    },
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "pastel:onyx_powder"
+      },
+      "order": 4
+    },
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "pastel:onyx_powder"
+      },
+      "order": 5
+    },
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "pastel:frostbite_essence"
+      },
+      "order": 6
+    },
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "pastel:frostbite_essence"
+      },
+      "order": 7
+    },
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "pastel:bloodboil_syrup"
+      },
+      "order": 8
+    },
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "minecraft:nether_wart"
+      },
+      "order": 9
+    }
+  ],
+  "outputItems": [
+    {
+      "id": "pastel:freigeist",
+      "count": 2
+    }
+  ]
+}

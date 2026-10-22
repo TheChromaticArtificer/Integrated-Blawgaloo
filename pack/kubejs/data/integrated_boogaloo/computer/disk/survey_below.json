@@ -1,0 +1,11 @@
+{
+  "category": "integrated_boogaloo:surveys",
+  "title": "guide.integrated_boogaloo.disk.survey_below.title",
+  "description": "guide.integrated_boogaloo.disk.survey_below.description",
+  "entries": [
+    "integrated_boogaloo:survey_tigers_eye_shrine",
+    "integrated_boogaloo:survey_underside_castle",
+    "integrated_boogaloo:survey_underside_ruins",
+    "integrated_boogaloo:survey_soul_temple"
+  ]
+}

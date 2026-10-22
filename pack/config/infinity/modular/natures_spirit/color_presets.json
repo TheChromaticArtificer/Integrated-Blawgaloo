@@ -1,0 +1,40 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:$_chalk"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:$_chalk_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:$_chalk_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:$_kaolin"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:$_kaolin_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:$_kaolin_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:$_kaolin_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:$_kaolin_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:$_kaolin_stairs"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "createcybernetics:engineering_deconstruct",
+  "inputs": [
+    {
+      "item": "createcybernetics:brainupgrades_cyberbrain"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "antarchy:titanium_nugget",
+      "count": 18
+    },
+    {
+      "id": "createcybernetics:component_synthnerves",
+      "count": 32
+    },
+    {
+      "id": "oritech:silicon",
+      "count": 24
+    },
+    {
+      "id": "minecraft:iron_ingot",
+      "count": 3
+    }
+  ]
+}

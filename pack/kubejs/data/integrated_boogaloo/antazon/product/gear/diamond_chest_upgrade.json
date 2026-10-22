@@ -1,0 +1,27 @@
+{
+  "name": "computer.integrated_boogaloo.product.gear.diamond_chest_upgrade.name",
+  "description": "computer.integrated_boogaloo.product.gear.diamond_chest_upgrade.description",
+  "category": "gear",
+  "green_tint": false,
+  "quantity": 1,
+  "payments": [
+    {
+      "type": "antcoins",
+      "resource": "antcoins",
+      "amount": 300
+    }
+  ],
+  "thumbnail": {
+    "item": "ironchest:gold_to_diamond_chest_upgrade"
+  },
+  "unlock_tasks": [
+    "integrated_boogaloo:storage/iron_chest"
+  ],
+  "unlock_mode": "all",
+  "rewards": [
+    {
+      "item": "ironchest:gold_to_diamond_chest_upgrade",
+      "count": 1
+    }
+  ]
+}

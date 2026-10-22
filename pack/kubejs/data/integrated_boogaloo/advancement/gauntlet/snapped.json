@@ -1,0 +1,23 @@
+{
+  "parent": "integrated_boogaloo:integrated_boogaloo",
+  "display": {
+    "icon": {
+      "id": "integrated_superheroes:infinity_gauntlet"
+    },
+    "title": {
+      "translate": "advancement.integrated_boogaloo.gauntlet.snapped.title"
+    },
+    "description": {
+      "translate": "advancement.integrated_boogaloo.gauntlet.snapped.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "snap": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

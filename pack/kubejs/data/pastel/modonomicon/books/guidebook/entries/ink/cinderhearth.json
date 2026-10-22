@@ -1,0 +1,53 @@
+{
+  "name": "book.pastel.guidebook.boogaloo.oven.name",
+  "icon": {
+    "item": "witchery:iron_witches_oven"
+  },
+  "category": "pastel:ink",
+  "hide_while_locked": true,
+  "parents": [
+    {
+      "entry": "pastel:ink/color_picker",
+      "line_reversed": true
+    },
+    {
+      "entry": "pastel:ink/pure_resources"
+    }
+  ],
+  "background_u_index": 0,
+  "background_v_index": 0,
+  "x": 2,
+  "y": 3,
+  "pages": [
+    {
+      "type": "modonomicon:spotlight",
+      "item": {
+        "item": "witchery:iron_witches_oven"
+      },
+      "title": "book.pastel.guidebook.boogaloo.oven.name",
+      "text": "book.pastel.guidebook.boogaloo.oven.page0"
+    },
+    {
+      "type": "witchery:oven_cooking_recipe",
+      "anchor": "",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "recipe_id_1": "integrated_boogaloo:oven_cooking/ash_flakes",
+      "title1": "item.pastel.ash_flakes",
+      "title2": "",
+      "text": "book.pastel.guidebook.boogaloo.oven.ash_flakes"
+    },
+    {
+      "type": "witchery:oven_cooking_recipe",
+      "anchor": "",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "recipe_id_1": "integrated_boogaloo:oven_cooking/bone_ash",
+      "title1": "item.pastel.bone_ash",
+      "title2": "",
+      "text": "book.pastel.guidebook.boogaloo.oven.bone_ash"
+    }
+  ]
+}

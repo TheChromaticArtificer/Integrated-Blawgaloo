@@ -1,0 +1,11 @@
+{
+  "category": "integrated_boogaloo:recovered",
+  "title": "guide.integrated_boogaloo.disk.hive_specimen_log.title",
+  "description": "guide.integrated_boogaloo.disk.hive_specimen_log.description",
+  "files": [
+    {
+      "path": "specimen_log.txt",
+      "source": "integrated_boogaloo:hive/specimen_log.txt"
+    }
+  ]
+}

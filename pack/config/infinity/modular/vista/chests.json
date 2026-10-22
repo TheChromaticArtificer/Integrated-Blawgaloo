@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "vista:television"
+		},
+		{
+			"weight": 1.0,
+			"key": "vista:viewfinder"
+		}
+	]
+}

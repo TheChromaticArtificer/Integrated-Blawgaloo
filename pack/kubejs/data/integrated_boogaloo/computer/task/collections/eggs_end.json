@@ -1,0 +1,93 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.collection.eggs_end.title",
+  "description": "task.integrated_boogaloo.collection.eggs_end.description",
+  "icon": "minecraft:ender_dragon_spawn_egg",
+  "program": "integrated_boogaloo:collections",
+  "category": "integrated_boogaloo:collections",
+  "sort_order": 402,
+  "position": {
+    "x": 2,
+    "y": 4
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "ender_dragon_spawn_egg",
+      "type": "item",
+      "target": "minecraft:ender_dragon_spawn_egg",
+      "description": "item.minecraft.ender_dragon_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "enderman_spawn_egg",
+      "type": "item",
+      "target": "minecraft:enderman_spawn_egg",
+      "description": "item.minecraft.enderman_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "endermite_spawn_egg",
+      "type": "item",
+      "target": "minecraft:endermite_spawn_egg",
+      "description": "item.minecraft.endermite_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "shulker_spawn_egg",
+      "type": "item",
+      "target": "minecraft:shulker_spawn_egg",
+      "description": "item.minecraft.shulker_spawn_egg",
+      "count": 1,
+      "sticky": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 2000
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "id": "rare",
+          "title": "task.integrated_boogaloo.reward.rare",
+          "rewards": [
+            {
+              "type": "item_pool",
+              "pool": "integrated_boogaloo:supplies_rare",
+              "mode": "random"
+            }
+          ]
+        },
+        {
+          "id": "lucky",
+          "title": "task.integrated_boogaloo.reward.lucky",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "lucky:lucky_block",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "id": "uranium",
+          "title": "task.integrated_boogaloo.reward.uranium",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "antarchy:uranium_ingot",
+              "count": 4
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "render_mob_from_spawn_egg": false
+}

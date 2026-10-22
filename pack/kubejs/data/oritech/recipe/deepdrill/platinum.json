@@ -1,0 +1,16 @@
+{
+  "type": "oritech:deep_drill",
+  "ingredients": [
+    {
+      "item": "oritech:resource_node_platinum"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "id": "antarchy:raw_titanium_scrap"
+    }
+  ],
+  "time": 1
+}
+

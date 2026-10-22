@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "blood_crystal_shard": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "antarchy:blood_crystal_shard"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "blood_crystal_shard"
+    ]
+  ]
+}

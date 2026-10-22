@@ -1,0 +1,108 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:autoinjector"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:cyberpsycho"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:cyberpsychosis_scares"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:danger_snow"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:dark"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:descent_into_madness"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:gameboy_girl"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:glitchy"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:intergalactic_walk"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:mantis_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:metal_crushing"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:metal_detector_beeps"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:my_retro_jacket"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:neon_overlords"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:neurohack"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:nightmares_on_hauptstrasse"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:pigstrom_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:retractable_claws_snikt"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:sandy_startup"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:sensation"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:shotgun"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:smasher_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:smasher_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:surgery"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:surgery_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:the_grid"
+		}
+	]
+}

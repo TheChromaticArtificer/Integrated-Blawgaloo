@@ -1,0 +1,16 @@
+{
+  "green_tint": false,
+  "type": "structure",
+  "category": "surveys",
+  "folder": "integrated_boogaloo:overworld",
+  "sort_order": 170,
+  "cover_item": "minecraft:filled_map",
+  "title": "guide.integrated_boogaloo.entry.survey_marble_chateau.title",
+  "subtitle": "guide.integrated_boogaloo.entry.survey_marble_chateau.subtitle",
+  "description": [
+    "guide.integrated_boogaloo.entry.survey_marble_chateau.body"
+  ],
+  "structure": "ati_structures:marble_chateau",
+  "dimension": "minecraft:overworld",
+  "search_radius": 100
+}

@@ -1,0 +1,47 @@
+{
+  "type": "witchery:cauldron_crafting",
+  "altarPower": 200,
+  "inputItems": [
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "minecraft:glass_bottle"
+      },
+      "order": 0
+    },
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "minecraft:milk_bucket"
+      },
+      "order": 1
+    },
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "pastel:sawblade_holly_berry"
+      },
+      "order": 2
+    },
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "minecraft:honey_bottle"
+      },
+      "order": 3
+    }
+  ],
+  "outputItems": [
+    {
+      "count": 1,
+      "id": "pastel:golden_bristle_tea",
+      "components": {
+        "pastel:with_milk": {}
+      }
+    }
+  ]
+}

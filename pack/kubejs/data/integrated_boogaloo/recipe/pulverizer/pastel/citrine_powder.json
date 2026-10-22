@@ -1,0 +1,15 @@
+{
+  "type": "oritech:pulverizer",
+  "ingredients": [
+    {
+      "item": "pastel:citrine_shard"
+    }
+  ],
+  "results": [
+    {
+      "count": 3,
+      "id": "pastel:citrine_powder"
+    }
+  ],
+  "time": 100
+}

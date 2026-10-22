@@ -1,0 +1,50 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.armory_plasma.title",
+  "description": "task.integrated_boogaloo.armory_plasma.description",
+  "showcase": [
+    "@recipe:scguns:plasma_core"
+  ],
+  "icon": "scguns:plasma_core",
+  "program": "integrated_boogaloo:armory",
+  "category": "integrated_boogaloo:armory",
+  "sort_order": 10,
+  "position": {
+    "x": 6,
+    "y": 0
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:armory/battery_included"
+  ],
+  "objectives": [
+    {
+      "id": "core",
+      "type": "item",
+      "target": "scguns:plasma_core",
+      "description": "task.integrated_boogaloo.armory_plasma.core",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "raygun",
+      "type": "item",
+      "target": "scguns:raygun",
+      "description": "task.integrated_boogaloo.armory_plasma.raygun",
+      "count": 1,
+      "sticky": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 150
+    },
+    {
+      "type": "item",
+      "item": "scguns:energy_cell",
+      "count": 16
+    }
+  ],
+  "line_axis": "horizontal"
+}

@@ -1,0 +1,16 @@
+{
+  "category": "integrated_boogaloo:gift_cards",
+  "title": "guide.integrated_boogaloo.disk.gift_card_25.title",
+  "description": "guide.integrated_boogaloo.disk.gift_card_25.description",
+  "consumable": true,
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 25
+    },
+    {
+      "type": "mail",
+      "message": "integrated_boogaloo:gift_card_redeemed"
+    }
+  ]
+}

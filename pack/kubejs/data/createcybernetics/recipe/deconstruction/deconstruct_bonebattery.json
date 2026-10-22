@@ -1,0 +1,21 @@
+{
+  "type": "createcybernetics:engineering_deconstruct",
+  "inputs": [
+    {
+      "item": "createcybernetics:boneupgrades_bonebattery"
+    },
+    {
+      "item": "createcybernetics:scavenged_bonebattery"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "antarchy:titanium_nugget",
+      "count": 16
+    },
+    {
+      "id": "minecraft:iron_ingot",
+      "count": 1
+    }
+  ]
+}

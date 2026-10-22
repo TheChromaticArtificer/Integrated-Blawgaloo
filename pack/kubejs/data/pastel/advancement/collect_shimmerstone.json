@@ -1,0 +1,34 @@
+{
+  "parent": "pastel:craft_using_pedestal",
+  "display": {
+    "icon": {
+      "id": "antarchy:tigers_eye"
+    },
+    "title": {
+      "translate": "advancements.pastel.collect_shimmerstone.title"
+    },
+    "description": {
+      "translate": "advancements.pastel.collect_shimmerstone.description"
+    }
+  },
+  "criteria": {
+    "collected_shimmerstone": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "antarchy:tigers_eye"
+            ]
+          }
+        ]
+      }
+    },
+    "gotten_previous": {
+      "trigger": "databank:has_advancement",
+      "conditions": {
+        "advancement": "pastel:craft_using_pedestal"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+name = "Hazen's Archaic Hexerei Armaments"
+filename = "hazens_archaic_hexerei_armaments-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "82141d95a46d858b1626002ba258b450720d38a8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8982223
+project-id = 1693767

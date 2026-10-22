@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "kubejs:attuned_citrine"
+		},
+		{
+			"weight": 1.0,
+			"key": "kubejs:attuned_moonstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "kubejs:attuned_onyx"
+		},
+		{
+			"weight": 1.0,
+			"key": "kubejs:attuned_topaz"
+		},
+		{
+			"weight": 1.0,
+			"key": "kubejs:azure_neodymium_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "kubejs:red_death_fang"
+		}
+	]
+}

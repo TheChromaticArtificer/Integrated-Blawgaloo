@@ -1,0 +1,36 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:music.overworld.alpine"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:music.overworld.arid"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:music.overworld.aspen"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:music.overworld.desert"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:music.overworld.maple"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:music.overworld.redwood"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:music.overworld.tropical"
+		},
+		{
+			"weight": 1.0,
+			"key": "natures_spirit:music.overworld.wisteria"
+		}
+	]
+}

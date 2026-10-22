@@ -1,0 +1,13 @@
+{
+  "sender": "freightgeist@antmail.com",
+  "sender_display": "Freightgeist",
+  "sender_avatar_item": "hats:halo",
+  "subject": "The Space Stone",
+  "body": "Those ruins hold more than color puzzles, Artist.\n\nSolve the final puzzle in a Preservation Ruin and you will find a Mysterious Locket. Inside is a Mysterious Compass.\n\nIts needle points to the Forsaken Cathedral, deep in Imbrifer. The Space Stone waits in the Cathedral's chest. @archive:integrated_boogaloo:pastel_locket",
+  "trigger": {
+    "delay_minutes": 3,
+    "type": "advancement",
+    "value": "pastel:find_preservation_ruins"
+  },
+  "once": true
+}

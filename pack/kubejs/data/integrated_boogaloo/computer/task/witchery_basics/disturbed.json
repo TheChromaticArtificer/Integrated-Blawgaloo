@@ -1,0 +1,49 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.witchery_disturbed.title",
+  "description": "task.integrated_boogaloo.witchery_disturbed.description",
+  "showcase": [
+    "@item:witchery:disturbed_cotton",
+    "@recipe:witchery:disturbed_cotton"
+  ],
+  "icon": "witchery:disturbed_cotton",
+  "program": "integrated_boogaloo:witchcraft",
+  "category": "integrated_boogaloo:witchcraft",
+  "sort_order": 22,
+  "position": {
+    "x": 6,
+    "y": 3
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:witchery_basics/spirit_world"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "witchery:disturbed",
+      "description": "task.integrated_boogaloo.witchery_disturbed.goal",
+      "count": 1
+    },
+    {
+      "id": "wispy",
+      "type": "item",
+      "target": "witchery:wispy_cotton",
+      "description": "task.integrated_boogaloo.witchery_disturbed.wispy",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "archive_entries": [
+    "integrated_boogaloo:witchery_spirit_world"
+  ],
+  "rewards": [
+    {
+      "type": "item",
+      "item": "antarchy:titanium_nugget",
+      "count": 9
+    }
+  ],
+  "line_axis": "horizontal"
+}

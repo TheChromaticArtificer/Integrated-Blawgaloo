@@ -1,0 +1,35 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.super_serums_jubilee.title",
+  "description": "task.integrated_boogaloo.super_serums_jubilee.description",
+  "showcase": [
+    "@recipe:integrated_superheroes:syringe_pyrotechnics_jubilation_lee"
+  ],
+  "icon": "integrated_superheroes:syringe_pyrotechnics_jubilation_lee",
+  "program": "integrated_boogaloo:super_serums",
+  "category": "integrated_boogaloo:super_serums",
+  "sort_order": 40,
+  "position": {
+    "x": 12,
+    "y": 1
+  },
+  "availability": "automatic",
+  "archive_entries": [
+    "integrated_boogaloo:serum_jubilee"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "integrated_boogaloo:deadpool/syringe_jubilee",
+      "description": "task.integrated_boogaloo.super_serums_jubilee.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 75
+    }
+  ]
+}

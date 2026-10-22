@@ -1,0 +1,29 @@
+{
+  "type": "pastel:enchantment_upgrade",
+  "enchantment": "scguns:trigger_finger",
+  "group": "scguns",
+  "bulk_item": {
+    "item": "pastel:yellow_pigment"
+  },
+  "item_scaling": {
+    "type": "pastel:doubling",
+    "scaling_value": 8
+  },
+  "level_cap": 3,
+  "xp_scaling": {
+    "type": "pastel:indexed",
+    "indexes": [
+      200,
+      400
+    ]
+  },
+  "required_advancement": "integrated_boogaloo:unlocks/enchantments/scguns",
+  "neoforge:conditions": [
+    {
+      "type": "pastel:enchantments_exist",
+      "values": [
+        "scguns:trigger_finger"
+      ]
+    }
+  ]
+}

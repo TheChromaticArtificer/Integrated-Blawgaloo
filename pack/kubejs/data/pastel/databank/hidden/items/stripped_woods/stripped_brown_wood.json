@@ -1,0 +1,10 @@
+{
+  "type": {
+    "type": "databank:item",
+    "hidden_as": "minecraft:stripped_oak_wood",
+    "original": "pastel:stripped_brown_wood"
+  },
+  "condition": {
+    "type": "databank:always_true"
+  }
+}

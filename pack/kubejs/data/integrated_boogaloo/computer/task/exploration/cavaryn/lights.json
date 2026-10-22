@@ -1,0 +1,34 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.cavaryn_lights.title",
+  "description": "task.integrated_boogaloo.cavaryn_lights.description",
+  "icon": "minecraft:torch",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:cavaryn",
+  "sort_order": 2,
+  "position": {
+    "x": 1,
+    "y": 0
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:exploration/cavaryn/arrival"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "integrated_boogaloo:dimension/light_source",
+      "description": "task.integrated_boogaloo.cavaryn_lights.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "item",
+      "item": "minecraft:torch",
+      "count": 32
+    }
+  ],
+  "line_axis": "horizontal"
+}

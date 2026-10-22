@@ -1,0 +1,11 @@
+{
+  "sender": "trayaurus@antmail.com",
+  "sender_avatar_item": "antarchy:diamond_minecart",
+  "subject": "There's nothing left",
+  "body": "That's every part. There isn't a bit of you left that's natural.\n\nI keep thinking about that old riddle with the ship. Swap every plank and is it still the same ship? Is it still the same lab partner? I'm going to say yes. I have to say yes.\n\nYour old friend,\nDr. T",
+  "trigger": {
+    "delay_minutes": 3,
+    "type": "advancement",
+    "value": "createcybernetics:cyberware/weak_flesh"
+  }
+}

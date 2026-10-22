@@ -1,0 +1,10 @@
+{
+  "creativetab.neosync": "Shells",
+  "jei.neosync.info.sync_core": "The core part of every shell block.",
+  "jei.neosync.info.shell_constructor": "Right-click with an empty hand to give a sample and start growing a shell. The sample costs eight hearts. Needs power: a Treadmill or any power cable.",
+  "jei.neosync.info.shell_storage": "Keeps a shell alive on redstone or power. Walk in while the doors are open to switch bodies. Sneak and right-click with a dye to color it.",
+  "jei.neosync.info.manual_shell_storage": "A Shell Storage you're never moved into automatically when you die.",
+  "jei.neosync.info.treadmill": "Lure an animal onto the front block and it makes power for anything touching the Treadmill. Ants are the best at it by a mile. Also sold on Antazon.",
+  "jei.neosync.info.zero_point_shell_constructor": "Builds shells instantly with no power. The sample still costs eight hearts.",
+  "jei.neosync.info.zero_point_shell_storage": "Needs no power, opens as you walk up, and the shell inside never decays."
+}

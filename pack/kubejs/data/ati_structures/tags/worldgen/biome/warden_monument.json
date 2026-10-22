@@ -1,0 +1,18 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:deep_dark",
+    {
+      "id": "#integrated_api:collections/mountains",
+      "required": false
+    },
+    {
+      "id": "#integrated_api:collections/hills",
+      "required": false
+    },
+    "natures_spirit:sleeted_slopes",
+    "natures_spirit:red_peaks",
+    "natures_spirit:snowcapped_red_peaks",
+    "natures_spirit:alpine_highlands"
+  ]
+}

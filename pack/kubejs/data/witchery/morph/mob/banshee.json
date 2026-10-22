@@ -1,0 +1,49 @@
+{
+    "forEntity": "witchery:banshee",
+    "variantNbtStrip": [
+        "Origin",
+        "UuidMap"
+    ],
+    "traits": [
+        {
+            "type": "traitHostile"
+        },
+        {
+            "type": "abilityFlightFlap",
+            "slowdownInWater": true
+        },
+        {
+            "type": "abilityFlight",
+            "slowdownInWater": true,
+            "upgradeFor": "abilityFlightFlap"
+        },
+        {
+            "type": "traitProjectileImmunity"
+        },
+        {
+            "type": "traitFallNegate"
+        },
+        {
+            "type": "abilityWitcheryWail",
+            "slot": 1,
+            "radius": 10.0,
+            "effects": [
+                {
+                    "id": "minecraft:slowness",
+                    "duration": 100,
+                    "amplifier": 1
+                },
+                {
+                    "id": "minecraft:weakness",
+                    "duration": 100,
+                    "amplifier": 0
+                }
+            ],
+            "particleId": "minecraft:sculk_soul",
+            "cooldown": 240,
+            "soundEventId": "minecraft:entity.ghast.scream",
+            "soundPitch": 0.6,
+            "soundVolume": 2.0
+        }
+    ]
+}

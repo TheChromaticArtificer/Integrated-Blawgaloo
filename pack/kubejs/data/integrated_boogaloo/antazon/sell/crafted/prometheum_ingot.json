@@ -1,0 +1,11 @@
+{
+  "item": "oritech:prometheum_ingot",
+  "value": 2000,
+  "limit": 8,
+  "limit_reset": "minecraft_day",
+  "green_tint": false,
+  "unlock_tasks": [
+    "integrated_boogaloo:engineering/prometheum"
+  ],
+  "unlock_mode": "any"
+}

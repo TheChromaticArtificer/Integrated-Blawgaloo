@@ -1,0 +1,1280 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:access_node"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:armupgrades_arccannon"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:armupgrades_armcannon"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:armupgrades_claws"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:armupgrades_crafthands"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:armupgrades_drillfist"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:armupgrades_firestarter"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:armupgrades_flywheel"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:armupgrades_heavyknuckles"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:armupgrades_mantisblade_copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:armupgrades_mantisblade_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:armupgrades_mantisblade_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:armupgrades_mantisblade_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:armupgrades_mantisblade_netherite"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:armupgrades_mantisblade_titanium"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:armupgrades_pneumaticwrist"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:armupgrades_reinforcedknuckles"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:armupgrades_ripperclaw"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:basecyberware_cybereyes"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:basecyberware_leftarm"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:basecyberware_leftarm_copperplated"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:basecyberware_leftarm_goldplated"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:basecyberware_leftarm_ironplated"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:basecyberware_leftleg"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:basecyberware_leftleg_copperplated"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:basecyberware_leftleg_goldplated"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:basecyberware_leftleg_ironplated"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:basecyberware_linearframe"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:basecyberware_rightarm"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:basecyberware_rightarm_copperplated"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:basecyberware_rightarm_goldplated"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:basecyberware_rightarm_ironplated"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:basecyberware_rightleg"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:basecyberware_rightleg_copperplated"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:basecyberware_rightleg_goldplated"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:basecyberware_rightleg_ironplated"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:bodypart_brain"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:bodypart_eyeballs"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:bodypart_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:bodypart_intestines"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:bodypart_leftarm"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:bodypart_leftleg"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:bodypart_liver"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:bodypart_lungs"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:bodypart_muscle"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:bodypart_rightarm"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:bodypart_rightleg"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:bodypart_sculkbrain"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:bodypart_sculkintestines"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:bodypart_sculkleftarm"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:bodypart_sculkleftleg"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:bodypart_sculkliver"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:bodypart_sculkmuscle"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:bodypart_sculkrightarm"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:bodypart_sculkrightleg"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:bodypart_sculkskin"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:bodypart_skeleton"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:bodypart_skin"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:bodypart_wardenesophagus"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:bone_marrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:bone_saw"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:boneupgrades_bonebattery"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:boneupgrades_boneflex"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:boneupgrades_bonelacing"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:boneupgrades_capacitorframe"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:boneupgrades_cyberskull"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:boneupgrades_piezo"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:boneupgrades_sandevistan"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:boneupgrades_spinalinjector"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:brainupgrades_berserk"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:brainupgrades_chipwareslots"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:brainupgrades_coaxialport"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:brainupgrades_cyberbrain"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:brainupgrades_cyberdeck"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:brainupgrades_enderjammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:brainupgrades_eyeofdefender"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:brainupgrades_iceprotocol"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:brainupgrades_idem"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:brainupgrades_kerenzikov"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:brainupgrades_matrix"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:brainupgrades_neuralcontextualizer"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:brainupgrades_neuralprocessor"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:cerebellum"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:charging_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:component_synthnerves"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:cooked_brain"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:cooked_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:cooked_liver"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:copper_upgrade_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:data_cache"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:data_shard_biochip"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:data_shard_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:data_shard_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:data_shard_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:data_shard_cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:data_shard_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:data_shard_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:data_shard_microprograms"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:data_shard_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:data_shard_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:data_shard_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:data_shard_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:data_shard_shared_navigation"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:data_shard_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:datura_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:datura_seed_pod"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:digital_architecture"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:emp_grenade"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:empty_autoinjector"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:engineering_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:exosuit1"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:expcapsule"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:eyeupgrades_biomonitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:eyeupgrades_hudjack"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:eyeupgrades_hudlens"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:eyeupgrades_monovision"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:eyeupgrades_multioptics1"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:eyeupgrades_multioptics2"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:eyeupgrades_multioptics3"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:eyeupgrades_multioptics4"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:eyeupgrades_navigationchip"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:eyeupgrades_nightvision"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:eyeupgrades_targeting"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:eyeupgrades_trajectorycalculator"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:eyeupgrades_underwatervision"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:eyeupgrades_zoom"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:faceplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:frontal_lobe"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:function_code_fragment"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:gold_upgrade_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:grafting_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:heartupgrades_coupler"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:heartupgrades_creeperheart"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:heartupgrades_cyberheart"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:heartupgrades_defibrillator"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:heartupgrades_platelets"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:heartupgrades_stemcell"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:holoimprint_chip"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:holoprojector"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:incomplete_empty_autoinjector"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:iron_upgrade_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:legupgrades_anklebracers"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:legupgrades_jumpboost"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:legupgrades_metaldetector"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:legupgrades_ocelotpaws"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:legupgrades_propellers"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:legupgrades_spurs"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:link_cable"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:lungsupgrades_hyperoxygenation"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:lungsupgrades_oxygen"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:lungsupgrades_synthlungs"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:lungsupgrades_vampyres"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:modifier_code_fragment"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:muscleupgrades_ballisticgel"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:muscleupgrades_reinforcedtendons"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:muscleupgrades_synthmuscle"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:muscleupgrades_wiredreflexes"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:music_disc_cyberpsycho"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:music_disc_danger_snow"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:music_disc_dark"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:music_disc_descent_into_madness"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:music_disc_gameboy_girl"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:music_disc_intergalactic_walk"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:music_disc_my_retro_jacket"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:music_disc_neon_overlords"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:music_disc_neurohack"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:music_disc_nightmares_on_hauptstrasse"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:music_disc_sensation"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:music_disc_shotgun"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:music_disc_the_grid"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:netherite_qpu"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:neuropozyne_autoinjector"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:occipital_lobe"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:organsupgrade_densebattery"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:organsupgrades_adrenaline"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:organsupgrades_battery"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:organsupgrades_diamondwaferstack"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:organsupgrades_dualisticconverter"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:organsupgrades_heatengine"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:organsupgrades_liverfilter"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:organsupgrades_magiccatalyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:organsupgrades_metabolic"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:organsupgrades_oregrinder"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:parietal_lobe"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:potion_autoinjector"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:quickhack_behindyou"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:quickhack_cyberpsychosis"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:quickhack_drain"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:quickhack_opticmalfunction"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:quickhack_overheat"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:quickhack_reboot"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:quickhack_scramble"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:raw_data_fragment"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:robosurgeon"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_adrenaline"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_anklebracers"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_arccannon"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_armcannon"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_arterialturbine"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_ballisticgel"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_battery"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_berserk"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_biomonitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_bonebattery"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_boneflex"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_bonelacing"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_capacitorframe"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_chipwareslots"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_chromatophores"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_claws"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_coaxialport"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_coupler"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_crafthands"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_creeperheart"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_cyberdeck"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_cybereyes"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_cyberheart"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_defibrillator"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_densebattery"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_diamondwaferstack"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_drillfist"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_dualisticconverter"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_enderjammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_eyeofdefender"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_faceplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_firestarter"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_flywheel"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_heatengine"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_hudjack"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_hudlens"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_hyperoxygenation"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_iceprotocol"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_idem"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_immuno"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_jumpboost"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_kerenzikov"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_leftarm"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_leftleg"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_linearframe"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_liverfilter"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_mantisblade_copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_mantisblade_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_mantisblade_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_mantisblade_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_mantisblade_netherite"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_mantisblade_titanium"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_matrix"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_metabolic"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_metaldetector"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_metalplating"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_monovision"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_navigationchip"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_netheriteplating"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_neuralcontextualizer"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_neuralprocessor"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_nightvision"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_ocelotpaws"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_oregrinder"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_oxygen"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_piezo"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_platelets"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_pneumaticwrist"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_propellers"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_reinforcedknuckles"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_reinforcedtendons"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_rightarm"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_rightleg"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_sandevistan"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_solarskin"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_spinalinjector"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_spurs"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_stemcell"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_subdermalarmor"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_subdermalspikes"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_syntheticsetules"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_synthlungs"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_synthmuscle"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_synthskin"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_targeting"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_trajectorycalculator"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_underwatervision"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_vampyres"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_wiredreflexes"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scavenged_zoom"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:skinupgrades_arterialturbine"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:skinupgrades_chromatophores"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:skinupgrades_empthreading"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:skinupgrades_faceplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:skinupgrades_immuno"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:skinupgrades_metalplating"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:skinupgrades_netheriteplating"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:skinupgrades_solarskin"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:skinupgrades_subdermalarmor"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:skinupgrades_subdermalspikes"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:skinupgrades_syntheticsetules"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:skinupgrades_synthskin"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:surgery_chamber"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:surgery_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:target_code_fragment"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:temporal_lobe"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:wetware_aerostasisgyrobladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:wetware_blastemaskeleton"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:wetware_dragonskin"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:wetware_electrocytemuscle"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:wetware_firebreathinglungs"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:wetware_gooeymuscle"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:wetware_grassfedstomach"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:wetware_guardianeye"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:wetware_polarbearfur"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:wetware_ravagertendons"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:wetware_sculkheart"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:wetware_sculklungs"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:wetware_spidereyes"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:wetware_tacticalinksac"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:wetware_wardenantlers"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:wetware_waterbreathinglungs"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:wetware_webshooting_leftarm"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:wetware_webshooting_rightarm"
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:wetware_webshootingintestines"
+		}
+	]
+}

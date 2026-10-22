@@ -1,0 +1,22 @@
+{
+  "structures": [
+    {
+      "structure": "epic:plains_obelisk",
+      "weight": 1
+    },
+    {
+      "structure": "epic:ice_obelisk",
+      "weight": 1
+    },
+    {
+      "structure": "epic:sand_obelisk",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 61,
+    "separation": 30,
+    "salt": 1640215811
+  }
+}

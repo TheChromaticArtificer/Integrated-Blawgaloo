@@ -1,0 +1,46 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.thoraxis_vortex.title",
+  "description": "task.integrated_boogaloo.thoraxis_vortex.description",
+  "showcase": [
+    "@entity:antarchy:vortex"
+  ],
+  "icon": "antarchy:vortex_spawn_egg",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:thoraxis",
+  "sort_order": 21,
+  "position": {
+    "x": 2,
+    "y": 3
+  },
+  "shape": "octagon",
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "stat",
+      "target": "antarchy:vortex",
+      "stat_type": "entity_killed",
+      "description": "task.integrated_boogaloo.thoraxis_vortex.goal",
+      "count": 1
+    },
+    {
+      "id": "charge",
+      "type": "item",
+      "target": "antarchy:vortex_charge",
+      "description": "task.integrated_boogaloo.thoraxis_vortex.charge",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 50
+    },
+    {
+      "type": "archive",
+      "entry": "antarchy:vortex"
+    }
+  ]
+}

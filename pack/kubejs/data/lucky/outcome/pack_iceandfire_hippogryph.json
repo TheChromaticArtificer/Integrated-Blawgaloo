@@ -1,0 +1,52 @@
+{
+  "type": "lucky:random",
+  "luck": 2,
+  "chance": 0.6,
+  "outcomes": [
+    {
+      "type": "lucky:group",
+      "outcomes": [
+        {
+          "type": "lucky:message",
+          "message": {
+            "text": "A hippogryph bows to you!",
+            "color": "gold",
+            "bold": true
+          },
+          "overlay": true
+        },
+        {
+          "type": "lucky:entity",
+          "entity_type": "iceandfire:hippogryph",
+          "reinit": true,
+          "nbt": {
+            "Owner": "{playerUUID}",
+            "Tame": true,
+            "PersistenceRequired": true,
+            "Saddled": true
+          }
+        }
+      ],
+      "weight": 2
+    },
+    {
+      "type": "lucky:group",
+      "outcomes": [
+        {
+          "type": "lucky:message",
+          "message": {
+            "text": "A hippogryph egg!",
+            "color": "gold",
+            "bold": true
+          },
+          "overlay": true
+        },
+        {
+          "type": "lucky:item",
+          "item": "iceandfire:hippogryph_egg"
+        }
+      ],
+      "weight": 1
+    }
+  ]
+}

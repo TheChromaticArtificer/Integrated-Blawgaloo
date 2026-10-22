@@ -1,0 +1,7 @@
+{
+  "item": "minecraft:nether_star",
+  "value": 500,
+  "limit": 8,
+  "limit_reset": "minecraft_day",
+  "green_tint": false
+}

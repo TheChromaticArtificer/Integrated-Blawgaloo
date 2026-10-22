@@ -1,0 +1,33 @@
+{
+  "name": "computer.integrated_boogaloo.product.clearance.machine_cores.name",
+  "description": "computer.integrated_boogaloo.product.clearance.machine_cores.description",
+  "category": "clearance",
+  "green_tint": false,
+  "quantity": 1,
+  "payments": [
+    {
+      "type": "antcoins",
+      "resource": "antcoins",
+      "amount": 50
+    }
+  ],
+  "thumbnail": {
+    "item": "oritech:machine_core_1"
+  },
+  "availability": {
+    "server_stock": 0,
+    "player_limit": 2,
+    "player_limit_reset": "minecraft_day"
+  },
+  "unlock_disks": [
+    "integrated_boogaloo:workshop_clearance"
+  ],
+  "unlock_mode": "all",
+  "hidden_until_unlocked": true,
+  "rewards": [
+    {
+      "item": "oritech:machine_core_1",
+      "count": 4
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.locked_down_secure_doors.title",
+  "description": "task.integrated_boogaloo.locked_down_secure_doors.description",
+  "showcase": [
+    "@item:malisisdoorsreborn:hbm_secure_access_door",
+    "@recipe:malisisdoorsreborn:hbm_secure_access_door"
+  ],
+  "icon": "malisisdoorsreborn:hbm_secure_access_door",
+  "program": "integrated_boogaloo:locked_down",
+  "category": "integrated_boogaloo:locked_down",
+  "sort_order": 7,
+  "position": {
+    "x": 2,
+    "y": 1
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:locked_down/keycards"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "malisisdoorsreborn:hbm_secure_access_door",
+      "description": "task.integrated_boogaloo.locked_down_secure_doors.goal",
+      "count": 1,
+      "sticky": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 40
+    },
+    {
+      "type": "item",
+      "item": "securitycraft:keycard_lv1",
+      "count": 2
+    }
+  ],
+  "line_axis": "horizontal"
+}

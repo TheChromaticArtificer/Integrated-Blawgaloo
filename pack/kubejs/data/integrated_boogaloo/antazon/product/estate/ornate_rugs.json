@@ -1,0 +1,33 @@
+{
+  "name": "computer.integrated_boogaloo.product.estate.ornate_rugs.name",
+  "description": "computer.integrated_boogaloo.product.estate.ornate_rugs.description",
+  "category": "estate",
+  "green_tint": false,
+  "quantity": 1,
+  "payments": [
+    {
+      "type": "antcoins",
+      "resource": "antcoins",
+      "amount": 25
+    }
+  ],
+  "thumbnail": {
+    "item": "abyssal_decor:ornate_rug"
+  },
+  "availability": {
+    "server_stock": 0,
+    "player_limit": 4,
+    "player_limit_reset": "minecraft_day"
+  },
+  "unlock_disks": [
+    "integrated_boogaloo:estate_sale"
+  ],
+  "unlock_mode": "all",
+  "hidden_until_unlocked": true,
+  "rewards": [
+    {
+      "item": "abyssal_decor:ornate_rug",
+      "count": 8
+    }
+  ]
+}

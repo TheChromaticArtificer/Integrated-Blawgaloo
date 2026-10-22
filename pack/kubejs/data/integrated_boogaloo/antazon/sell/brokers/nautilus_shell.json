@@ -1,0 +1,11 @@
+{
+  "item": "minecraft:nautilus_shell",
+  "value": 8,
+  "limit": 16,
+  "limit_reset": "minecraft_day",
+  "green_tint": false,
+  "unlock_disks": [
+    "integrated_boogaloo:treasure_appraiser"
+  ],
+  "unlock_mode": "all"
+}

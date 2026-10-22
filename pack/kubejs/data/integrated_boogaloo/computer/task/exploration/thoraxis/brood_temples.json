@@ -1,0 +1,33 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.thoraxis_brood_temples.title",
+  "description": "task.integrated_boogaloo.thoraxis_brood_temples.description",
+  "showcase": [
+    "@item:gigeresque:sinous_alien_block",
+    "@recipe:gigeresque:sinous_alien_block"
+  ],
+  "icon": "gigeresque:sinous_alien_block",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:thoraxis",
+  "sort_order": 15,
+  "position": {
+    "x": 3,
+    "y": 2
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "biome_visited",
+      "target": "integrated_boogaloo:brood_temples",
+      "description": "task.integrated_boogaloo.thoraxis_brood_temples.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 40
+    }
+  ]
+}

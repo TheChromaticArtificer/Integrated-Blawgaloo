@@ -1,0 +1,96 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "gigeresque:alien_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "gigeresque:alien_claw"
+		},
+		{
+			"weight": 1.0,
+			"key": "gigeresque:alien_crunch"
+		},
+		{
+			"weight": 1.0,
+			"key": "gigeresque:alien_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "gigeresque:alien_death_thud"
+		},
+		{
+			"weight": 1.0,
+			"key": "gigeresque:alien_footstep"
+		},
+		{
+			"weight": 1.0,
+			"key": "gigeresque:alien_handstep"
+		},
+		{
+			"weight": 1.0,
+			"key": "gigeresque:alien_headbite"
+		},
+		{
+			"weight": 1.0,
+			"key": "gigeresque:alien_hiss"
+		},
+		{
+			"weight": 1.0,
+			"key": "gigeresque:alien_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "gigeresque:alien_tail"
+		},
+		{
+			"weight": 1.0,
+			"key": "gigeresque:aqua_landclaw"
+		},
+		{
+			"weight": 1.0,
+			"key": "gigeresque:aqua_landmove"
+		},
+		{
+			"weight": 1.0,
+			"key": "gigeresque:burster_crawl"
+		},
+		{
+			"weight": 1.0,
+			"key": "gigeresque:chestbursting"
+		},
+		{
+			"weight": 1.0,
+			"key": "gigeresque:dungeon_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "gigeresque:egg_notice"
+		},
+		{
+			"weight": 1.0,
+			"key": "gigeresque:egg_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "gigeresque:hugger_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "gigeresque:hugger_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "gigeresque:hugger_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "gigeresque:hugger_implant"
+		},
+		{
+			"weight": 1.0,
+			"key": "gigeresque:tracker_summon"
+		}
+	]
+}

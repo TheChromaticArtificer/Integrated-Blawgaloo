@@ -1,0 +1,37 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.rifts_rift_blade.title",
+  "description": "task.integrated_boogaloo.rifts_rift_blade.description",
+  "showcase": [
+    "@recipe:dimdoors:rift_blade"
+  ],
+  "icon": "dimdoors:rift_blade",
+  "program": "integrated_boogaloo:big_boogaloo",
+  "category": "integrated_boogaloo:big_boogaloo",
+  "sort_order": 62,
+  "position": {
+    "x": 3,
+    "y": 3
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:rifts/loose_thread"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "dimdoors:rift_blade",
+      "description": "task.integrated_boogaloo.rifts_rift_blade.goal",
+      "count": 1,
+      "sticky": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 60
+    }
+  ],
+  "line_axis": "horizontal"
+}

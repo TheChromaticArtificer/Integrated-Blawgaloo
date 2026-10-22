@@ -1,0 +1,149 @@
+{
+  "title": "literal:Idol rites",
+  "variants": [
+    {
+      "id": "bat",
+      "title": "literal:Bat",
+      "template": "integrated_boogaloo:guide/templates/rite_item",
+      "recipe_binding": {
+        "recipe": "integrated_boogaloo:ritual/idols/bat",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Bat"
+      }
+    },
+    {
+      "id": "bee",
+      "title": "literal:Bee",
+      "template": "integrated_boogaloo:guide/templates/rite_item",
+      "recipe_binding": {
+        "recipe": "integrated_boogaloo:ritual/idols/bee",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Bee"
+      }
+    },
+    {
+      "id": "blaze",
+      "title": "literal:Blaze",
+      "template": "integrated_boogaloo:guide/templates/rite_item",
+      "recipe_binding": {
+        "recipe": "integrated_boogaloo:ritual/idols/blaze",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Blaze"
+      }
+    },
+    {
+      "id": "cat",
+      "title": "literal:Cat",
+      "template": "integrated_boogaloo:guide/templates/rite_item",
+      "recipe_binding": {
+        "recipe": "integrated_boogaloo:ritual/idols/cat",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Cat"
+      }
+    },
+    {
+      "id": "cow",
+      "title": "literal:Cow",
+      "template": "integrated_boogaloo:guide/templates/rite_item",
+      "recipe_binding": {
+        "recipe": "integrated_boogaloo:ritual/idols/cow",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Cow"
+      }
+    },
+    {
+      "id": "endermite",
+      "title": "literal:Endermite",
+      "template": "integrated_boogaloo:guide/templates/rite_item",
+      "recipe_binding": {
+        "recipe": "integrated_boogaloo:ritual/idols/endermite",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Endermite"
+      }
+    },
+    {
+      "id": "pig",
+      "title": "literal:Pig",
+      "template": "integrated_boogaloo:guide/templates/rite_item",
+      "recipe_binding": {
+        "recipe": "integrated_boogaloo:ritual/idols/pig",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Pig"
+      }
+    },
+    {
+      "id": "piglin",
+      "title": "literal:Piglin",
+      "template": "integrated_boogaloo:guide/templates/rite_item",
+      "recipe_binding": {
+        "recipe": "integrated_boogaloo:ritual/idols/piglin",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Piglin"
+      }
+    },
+    {
+      "id": "polar_bear",
+      "title": "literal:Polar Bear",
+      "template": "integrated_boogaloo:guide/templates/rite_item",
+      "recipe_binding": {
+        "recipe": "integrated_boogaloo:ritual/idols/polar_bear",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Polar Bear"
+      }
+    },
+    {
+      "id": "sheep",
+      "title": "literal:Sheep",
+      "template": "integrated_boogaloo:guide/templates/rite_item",
+      "recipe_binding": {
+        "recipe": "integrated_boogaloo:ritual/idols/sheep",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Sheep"
+      }
+    },
+    {
+      "id": "slime",
+      "title": "literal:Slime",
+      "template": "integrated_boogaloo:guide/templates/rite_item",
+      "recipe_binding": {
+        "recipe": "integrated_boogaloo:ritual/idols/slime",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Slime"
+      }
+    },
+    {
+      "id": "zombie",
+      "title": "literal:Zombie",
+      "template": "integrated_boogaloo:guide/templates/rite_item",
+      "recipe_binding": {
+        "recipe": "integrated_boogaloo:ritual/idols/zombie",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Zombie"
+      }
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "green_tint": false,
+  "render_mob_from_spawn_egg": true,
+  "title": "task.category.integrated_boogaloo.thoraxis",
+  "icon": "antarchy:red_ant_spawn_egg",
+  "sort_order": 30,
+  "group": "integrated_boogaloo:exploration"
+}

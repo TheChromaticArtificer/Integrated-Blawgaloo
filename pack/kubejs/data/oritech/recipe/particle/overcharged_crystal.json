@@ -1,0 +1,18 @@
+{
+  "type": "oritech:particle_collision",
+  "ingredients": [
+    {
+      "item": "antarchy:blood_crystal_shard"
+    },
+    {
+      "item": "marvel:vibranium_ingot"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "id": "oritech:overcharged_crystal"
+    }
+  ],
+  "time": 5000
+}

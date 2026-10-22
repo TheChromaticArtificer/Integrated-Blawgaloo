@@ -1,0 +1,13 @@
+name = "Reliable Replacer"
+filename = "reliable_replacer-1.8.2+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4ad3e0a4fd83f0100ead1277c3373b805bb464a9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9221080
+project-id = 1450759

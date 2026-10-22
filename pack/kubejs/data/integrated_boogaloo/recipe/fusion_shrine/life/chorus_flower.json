@@ -1,0 +1,22 @@
+{
+  "type": "pastel:fusion_shrine",
+  "time": 1200,
+  "experience": 10.0,
+  "fluid": {
+    "fluid": "pastel:liquid_crystal"
+  },
+  "ingredients": [
+    "minecraft:echo_shard",
+    "pastel:resonant_lily",
+    {
+      "item": "pastel:vegetal",
+      "count": 8
+    }
+  ],
+  "result": {
+    "id": "minecraft:chorus_flower"
+  },
+  "start_crafting_effect": "nothing",
+  "during_crafting_effects": [],
+  "finish_crafting_effect": "single_visual_explosion_on_shrine"
+}

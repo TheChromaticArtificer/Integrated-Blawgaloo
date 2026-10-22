@@ -1,0 +1,31 @@
+{
+  "type": "lucky:group",
+  "luck": -2,
+  "chance": 0.6,
+  "outcomes": [
+    {
+      "type": "lucky:message",
+      "message": {
+        "text": "Don't look it in the eyes!",
+        "color": "dark_green",
+        "bold": true
+      },
+      "overlay": true
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "antarchy:basilisk",
+      "reinit": true,
+      "pos": [
+        "{blockPosX}",
+        "{blockPosY}",
+        "{blockPosZ}+5"
+      ]
+    },
+    {
+      "type": "lucky:item",
+      "item": "antarchy:basilisk_fang",
+      "delay": 20
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "computer.integrated_boogaloo.product.surplus.field_poultices.name",
+  "description": "computer.integrated_boogaloo.product.surplus.field_poultices.description",
+  "category": "surplus",
+  "green_tint": false,
+  "quantity": 1,
+  "payments": [
+    {
+      "type": "antcoins",
+      "resource": "antcoins",
+      "amount": 15
+    }
+  ],
+  "thumbnail": {
+    "item": "scguns:basic_poultice"
+  },
+  "availability": {
+    "server_stock": 0,
+    "player_limit": 2,
+    "player_limit_reset": "minecraft_day"
+  },
+  "unlock_disks": [
+    "integrated_boogaloo:military_surplus"
+  ],
+  "unlock_mode": "all",
+  "hidden_until_unlocked": true,
+  "rewards": [
+    {
+      "item": "scguns:basic_poultice",
+      "count": 4
+    }
+  ]
+}

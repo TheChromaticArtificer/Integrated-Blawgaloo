@@ -1,0 +1,11 @@
+{
+  "block.createcybernetics.engineering_table": "Cyberware Bench",
+  "gui.engineeringtable.title": "Cyberware Bench",
+  "gui.engineeringtable.deconstruct": "Cyberware Bench Deconstruction",
+  "createcybernetics.configuration.engineeringDeconstructRolls": "Cyberware Bench Deconstruction Rolls",
+  "createcybernetics.configuration.engineeringScavengedDeconstructRolls": "Cyberware Bench Scavenged Deconstruction Rolls",
+  "tooltip.createcybernetics.skinupgrades_metalplating.tooltip1": "§7Titanium plate skin replacement",
+  "item.createcybernetics.wetware_guardianeye": "Cockatrice Eye",
+  "tooltip.createcybernetics.wetware_guardianeye.tooltip1": "§cAllows the user to shoot lasers from their eyes",
+  "item.createcybernetics.wetware_dragonskin": "Dragon Skin"
+}

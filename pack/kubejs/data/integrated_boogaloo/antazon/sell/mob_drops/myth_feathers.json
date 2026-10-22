@@ -1,0 +1,7 @@
+{
+  "tag": "integrated_boogaloo:antazon_sell/myth_feathers",
+  "value": 5,
+  "limit": 64,
+  "limit_reset": "minecraft_day",
+  "green_tint": false
+}

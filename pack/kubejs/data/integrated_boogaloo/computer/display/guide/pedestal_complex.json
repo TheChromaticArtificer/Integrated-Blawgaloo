@@ -1,0 +1,225 @@
+{
+  "version": 1,
+  "title": "literal:The Complex",
+  "width": 260,
+  "height": 135,
+  "elements": [
+    {
+      "id": "shrine",
+      "type": "scene",
+      "x": 2,
+      "y": 2,
+      "width": 160,
+      "height": 166,
+      "yaw": 45,
+      "pitch": 30,
+      "scale": 0.55,
+      "material_rules": [
+        {
+          "state": "pastel:polished_basalt",
+          "label": "literal:Polished basalt or calcite"
+        },
+        {
+          "state": "pastel:polished_basalt_pillar[axis=y]",
+          "label": "literal:Basalt or calcite pillar"
+        },
+        {
+          "state": "pastel:polished_basalt_slab",
+          "label": "literal:Basalt or calcite slab"
+        },
+        {
+          "state": "pastel:chiseled_polished_basalt",
+          "label": "literal:Chiseled basalt or calcite"
+        },
+        {
+          "state": "pastel:notched_polished_basalt",
+          "label": "literal:Notched basalt or calcite"
+        },
+        {
+          "state": "pastel:polished_amethyst_block",
+          "label": "literal:Any polished gemstone block"
+        },
+        {
+          "state": "pastel:liquid_crystal",
+          "item": "pastel:liquid_crystal_bucket",
+          "label": "literal:Liquid crystal (bucket)"
+        },
+        {
+          "state": "pastel:amethyst_basalt_light",
+          "label": "literal:Any gemstone light"
+        },
+        {
+          "state": "pastel:item_bowl_basalt",
+          "label": "literal:Item bowl (basalt or calcite)"
+        }
+      ],
+      "steps": [
+        {
+          "id": "floor",
+          "title": "literal:Floor",
+          "text": "literal:The widest floor of the three.",
+          "through_y": 0
+        },
+        {
+          "id": "walls",
+          "title": "literal:Walls",
+          "text": "literal:Pillars, lights and Moonstone Chiseled Basalt.",
+          "through_y": 3
+        },
+        {
+          "id": "top",
+          "title": "literal:Top",
+          "text": "literal:Close the top. The Moonstone Pedestal works here.",
+          "through_y": 9
+        }
+      ],
+      "pattern": [
+        [
+          "XXXXXXXXXXXXX",
+          "XXnnXnnnXnnXX",
+          "XmXXXXXXXXXMX",
+          "XmXXXXXXXXXMX",
+          "XXXXXrXrXXXXX",
+          "XmXXrXXXrXXMX",
+          "XmXXXX XXXXMX",
+          "XmXXrXXXrXXMX",
+          "XXXXXrXrXXXXX",
+          "XmXXXXXXXXXMX",
+          "XmXXXXXXXXXMX",
+          "XXNNXNNNXNNXX",
+          "XXXXXXXXXXXXX"
+        ],
+        [
+          "             ",
+          " K  Q   Q  K ",
+          "             ",
+          "   Q     Q   ",
+          " Q         Q ",
+          "             ",
+          "      P      ",
+          "             ",
+          " Q         Q ",
+          "   Q     Q   ",
+          "             ",
+          " K  Q   Q  K ",
+          "             "
+        ],
+        [
+          "             ",
+          " Q  L   L  Q ",
+          "             ",
+          "   S     S   ",
+          " L         L ",
+          "             ",
+          "             ",
+          "             ",
+          " L         L ",
+          "   S     S   ",
+          "             ",
+          " Q  L   L  Q ",
+          "             "
+        ],
+        [
+          "             ",
+          " C  Q   Q  C ",
+          "             ",
+          "             ",
+          " Q         Q ",
+          "             ",
+          "             ",
+          "             ",
+          " Q         Q ",
+          "             ",
+          "             ",
+          " C  Q   Q  C ",
+          "             "
+        ],
+        [
+          "             ",
+          " Q  Q   Q  Q ",
+          "             ",
+          "             ",
+          " Q         Q ",
+          "             ",
+          "             ",
+          "             ",
+          " Q         Q ",
+          "             ",
+          "             ",
+          " Q  Q   Q  Q ",
+          "             "
+        ],
+        [
+          "             ",
+          " Sttr   rttS ",
+          " T  T   T  T ",
+          " T  T   T  T ",
+          " rttX   Xttr ",
+          "             ",
+          "             ",
+          "             ",
+          " rttX   Xttr ",
+          " T  T   T  T ",
+          " T  T   T  T ",
+          " Sttr   rttS ",
+          "             "
+        ],
+        [
+          "             ",
+          "    XtStX    ",
+          "             ",
+          "             ",
+          " X  OtttO  X ",
+          " T  T   T  T ",
+          " S  T   T  S ",
+          " T  T   T  T ",
+          " X  OtttO  X ",
+          "             ",
+          "             ",
+          "    XtStX    ",
+          "             "
+        ]
+      ],
+      "mapping": {
+        "X": "pastel:polished_basalt",
+        "T": "pastel:polished_basalt_crest[cardinal_facing=true]",
+        "t": "pastel:polished_basalt_crest[cardinal_facing=false]",
+        "Q": "pastel:polished_basalt_pillar[axis=y]",
+        "L": "pastel:amethyst_basalt_light",
+        "S": "pastel:polished_amethyst_block",
+        "C": "pastel:chiseled_polished_basalt",
+        "K": "pastel:notched_polished_basalt",
+        "r": "pastel:amethyst_chiseled_basalt",
+        "O": "pastel:onyx_chiseled_basalt",
+        "m": "pastel:moonstone_chiseled_basalt[facing=east]",
+        "n": "pastel:moonstone_chiseled_basalt[facing=north]",
+        "M": "pastel:moonstone_chiseled_basalt[facing=west]",
+        "N": "pastel:moonstone_chiseled_basalt[facing=south]",
+        "P": "pastel:pedestal_moonstone"
+      },
+      "hero": true,
+      "ratio": 0.88
+    },
+    {
+      "id": "mats",
+      "type": "materials",
+      "scene": "shrine",
+      "scope": "cumulative",
+      "x": 6,
+      "y": 4,
+      "width": 90,
+      "height": 104
+    },
+    {
+      "type": "text",
+      "x": 6,
+      "y": 112,
+      "width": 248,
+      "text": "literal:Moonstone Chiseled Basalt comes from the Forgotten Cities.",
+      "color": "muted"
+    }
+  ],
+  "reflow": true,
+  "auto_height": true,
+  "hide_title": true
+}

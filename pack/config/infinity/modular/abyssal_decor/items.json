@@ -1,0 +1,3808 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:abyssal_lantern_lit_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:abyssal_lantern_lit_mid"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:abyssal_lantern_lit_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:abyssal_lantern_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:abyssal_lantern_off_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:abyssal_lantern_off_mid"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:abyssal_lantern_off_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:abyssal_lantern_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:amaranth_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:ammonite"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:ancient_birch_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:aster"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:atlas_decal"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:baby_clam"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:barb_barrier_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:barb_barrier_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:barb_barrier_wires"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bare_timber"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bark_orchid"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bellmetal_bars_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bellmetal_bars_mid"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bellmetal_bars_solo"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bellmetal_bars_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bellmetal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bellmetal_border"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bellmetal_border_flipped"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bellmetal_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bellmetal_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bellmetal_lantern_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bellmetal_lantern_lit_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bellmetal_lantern_lit_mid"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bellmetal_lantern_lit_solo"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bellmetal_lantern_lit_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bellmetal_lantern_mid"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bellmetal_lantern_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bellmetal_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bellmetal_pediment"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bellmetal_pediment_flipped"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bellmetal_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bellmetal_pillar_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bellmetal_pillar_mid"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bellmetal_pillar_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bellmetal_plating"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bellmetal_sconce"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bellmetal_shingle_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bellmetal_shingle_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bellmetal_shingles"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bellmetal_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bellmetal_spire"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bellmetal_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bellmetal_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bellmetal_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bellmetal_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:big_bellmetal_grate"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:big_bellmetal_sconce"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:big_blood_coral_sconce"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:big_deepbronze_grate"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:big_deepbronze_sconce"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:big_dull_iron_sconce"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:big_gold_sconce"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:big_iron_grate"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:big_iron_sconce"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:big_marble_sconce"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:big_moonsilver_sconce"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:big_seabrass_sconce"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:big_upsidedown_bellmetal_sconce"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:big_upsidedown_blood_coral_sconce"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:big_upsidedown_deepbronze_sconce"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:big_upsidedown_dull_iron_sconce"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:big_upsidedown_gold_sconce"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:big_upsidedown_iron_sconce"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:big_upsidedown_marble_sconce"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:big_upsidedown_moonsilver_sconce"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:big_upsidedown_seabrass_sconce"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:black_mold"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:black_mold_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:black_pearl"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:black_pearl_bars_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:black_pearl_bars_mid"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:black_pearl_bars_solo"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:black_pearl_bars_upper"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:black_pearl_border"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:black_pearl_border_flipped"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:black_pearl_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:black_pearl_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:black_pearl_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:black_pearl_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:black_pearl_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:black_pearl_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:black_pearl_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:black_pearl_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:black_wallpaper"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blackened_sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blackwood_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blackwood_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blackwood_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blackwood_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blackwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blackwood_picket_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blackwood_picket_fence_mid"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blackwood_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blackwood_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blackwood_shingle_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blackwood_shingle_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blackwood_shingles"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blackwood_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blackwood_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blackwood_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blackwood_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blackwood_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blaze_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blaze_glass_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blaze_glass_mid"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blaze_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blaze_glass_pane_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blaze_glass_pane_mid"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blaze_glass_pane_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blaze_glass_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blaze_lamp_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:block_of_black_pearl"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:block_of_prismarine_crystal"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blood_coral_bars_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blood_coral_bars_mid"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blood_coral_bars_solo"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blood_coral_bars_upper"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blood_coral_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blood_coral_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blood_coral_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blood_coral_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blood_coral_bud"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blood_coral_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blood_coral_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blood_coral_sconce"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blood_coral_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blood_lamp_lit_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blood_lamp_lit_mid"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blood_lamp_lit_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blood_lamp_off_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blood_lamp_off_mid"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blood_lamp_off_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blood_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blood_lantern_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bloody_pearl_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blue_timber"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:blue_wooden_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bog_apple"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bog_apple_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bog_apple_pie"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bog_roll"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bonedust"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bonedust_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bonedust_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bonedust_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bonerot"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:book_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bottomless_bag_of_cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bottomless_bag_of_dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bottomless_bag_of_netherrack"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bottomless_bag_of_snow"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:briar_rose_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:briar_rose_black_vines"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:briar_rose_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:briar_rose_pink_vines"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:briar_rose_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:briar_rose_red_vines"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:briar_rose_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:briar_rose_white_vines"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:brick_cap"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:brick_cap_flipped"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:brick_cornerstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:brick_mosaic"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:brick_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:brick_shingle_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:brick_shingle_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:brick_shingles"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:brick_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:brittle_tuff"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:brown_wallpaper"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:budding_bog_apple"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bulb_lamp_floor"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bulb_lamp_floor_lit"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bulbous_moldy_hanger"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bulkhead_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:bulkhead_lamp_lit"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:burlap"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:burlap_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cable_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cable_1_vertical"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cable_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cable_2_vertical"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cable_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cable_3_vertical"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cable_corner_long_ld"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cable_corner_long_ru"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cable_corner_lu"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cable_corner_rd"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cable_long"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cable_long_vertical"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:candle_stand"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:candy_bog_apple"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:carved_moonsilver"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cave_taco"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cave_taco_with_stones"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:ceiling_iron_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:ceiling_iron_lamp_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:ceiling_quartz_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:ceiling_quartz_lamp_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:ceiling_web"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:chiseled_black_pearl"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:chiseled_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:chiseled_pearl"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:chiseled_starstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:chiselled_bellmetal"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:chorus_pearl_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cinnamon_apple"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cinnamon_bush"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cinnamon_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cinnamon_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cinnamon_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cinnamon_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cinnamon_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cinnamon_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cinnamon_paneling"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cinnamon_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cinnamon_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cinnamon_post_mid"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cinnamon_post_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cinnamon_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cinnamon_roll"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cinnamon_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cinnamon_shingle_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cinnamon_shingle_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cinnamon_shingles"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cinnamon_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cinnamon_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cinnamon_stick"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cinnamon_tea"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cinnamon_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cinnamon_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cinnamon_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:clam_and_cheese_sandwich"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:clam_empty_closed"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:clam_empty_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:clam_juice_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:clam_juice_bottle_empty"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:clam_pearl_closed"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:clam_pearl_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cobbled_talcrock"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cobbled_talcrock_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cobbled_talcrock_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cobbled_talcrock_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cobbled_talcrock_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:coil_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:coil_lantern_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:coil_lantern_mid"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:coil_lantern_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cooked_muckroot"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:corrugated_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cracked_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cracked_bricks_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cracked_bricks_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cracked_bricks_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cracked_bricks_5"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cracked_bricks_6"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cracked_pearly_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cracked_pearly_tiles_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cracked_pearly_tiles_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cracked_pearly_tiles_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cracked_pearly_tiles_5"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cracked_pearly_tiles_6"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cracked_yellow_stucco"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:crystalized_glowstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:crystalized_glowstone_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cut_black_pearl_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cut_cinnamon_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cut_cinnamon_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:cut_pearl_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:daffodil"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:damaged_serpent_scale_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:damaged_serpent_scales"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:damaged_serpent_skin"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:dangling_web_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:dangling_web_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:dangling_web_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:dangling_web_wall_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:dangling_web_wall_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:darkness"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:darkness_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:deepbronze_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:deepbronze_beam"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:deepbronze_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:deepbronze_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:deepbronze_chain"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:deepbronze_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:deepbronze_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:deepbronze_lamp_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:deepbronze_lamp_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:deepbronze_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:deepbronze_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:deepbronze_plating"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:deepbronze_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:deepbronze_sconce"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:deepbronze_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:deepbronze_spire"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:deepbronze_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:deepbronze_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:deepbronze_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:deepbronze_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:deepbronze_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:deepslate_arrow_slit"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:deepslate_pediment"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:deepslate_pediment_flipped"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:deepslate_spire"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:desk_bell"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:door_knocker"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:dried_starfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:dried_starfish_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:dull_iron_bar_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:dull_iron_bar_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:dull_iron_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:dull_iron_bars_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:dull_iron_bars_mid"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:dull_iron_bars_upper"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:dull_iron_beam"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:dull_iron_brace"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:dull_iron_brace_flipped"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:dull_iron_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:dull_iron_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:dull_iron_panel_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:dull_iron_panel_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:dull_iron_panel_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:dull_iron_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:dull_iron_post_mid"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:dull_iron_post_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:dull_iron_railing_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:dull_iron_sconce"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:dull_iron_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:dull_iron_truss"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:dull_iron_truss_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:dull_iron_truss_mid"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:dull_iron_truss_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:dull_iron_vent_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:dusty_cd"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:echo_shard_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:effervescence"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:effervescent_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:effervescent_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:effervescent_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:effervescent_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:effervescent_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:embedded_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:embedded_lamp_lit"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:ethereal_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:fallen_barrier_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:fanned_talcrock"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:fever_blossom"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:fever_blossom_crop_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:fever_blossom_crop_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:fever_blossom_crop_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:fever_blossom_crop_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:fever_blossom_crop_5"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:fever_blossom_crop_6"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:fever_blossom_crop_7"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:fever_blossom_tea"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:filthcrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:filthcrete_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:filthcrete_blend"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:filthcrete_border"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:filthcrete_border_flipped"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:filthcrete_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:filthcrete_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:filthcrete_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:filthcrete_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:flaky_scales"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:floor_quartz_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:floor_quartz_lamp_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:flower_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:flower_lamp_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:flowering_cinnamon_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:foghorn"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:foxy_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:framed_crystalized_glowstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:framed_crystalized_glowstone_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:framed_pitchglass_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:framed_pitchglass_pane_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:framed_pitchglass_pane_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:framed_pitchglass_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:framed_vermillion_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:framed_vermillion_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:fresnel_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:fresnel_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:fresnel_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:frosted_ceiling_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:frosted_ceiling_lamp_lit"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:frosted_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:frosted_glass_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:frosted_glass_mid"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:frosted_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:frosted_glass_pane_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:frosted_glass_pane_mid"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:frosted_glass_pane_solo"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:frosted_glass_solo"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:gargoyle_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:gargoyle_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:giant_clam_empty_closed"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:giant_clam_empty_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:giant_clam_pearl_closed"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:giant_clam_pearl_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:gilded_black_pearl"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:gilded_black_pearl_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:gilded_black_pearl_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:gilded_blood_coral_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:gilded_jade_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:gilded_lapis_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:gilded_laventine_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:gilded_starstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:gilded_velvet"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:gilded_velvet_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:gold_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:gold_bars_mid"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:gold_sconce"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:gold_spire"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:gray_timber"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:gray_wallpaper"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:gray_wooden_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:green_timber"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:green_wallpaper"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:green_wooden_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:grime"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:grime_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:grime_ceiling"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:grime_floor"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:grime_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:grime_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:grime_mid"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:grime_mid_ceiling"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:grime_mid_floor"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:grime_upper"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:hanging_moss_ceiling"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:hanging_moss_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:hanging_moss_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:hanging_moss_wall_flipped"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:hanging_web"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:hanging_web_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:healing_cinnamon_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:healing_cinnamon_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:huskflower_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:huskflower_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:inactive_mold"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:inactive_moldy_hanger"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:indicator_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:indicator_light_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:industrial_lever"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:inv_vertical_pearl_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:iron_ball_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:iron_ball_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:iron_ball_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:iron_ball_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:iron_ball_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:iron_barrier_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:iron_barrier_ribbon"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:iron_barrier_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:iron_dish"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:iron_duct"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:iron_lamp_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:iron_lantern_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:iron_lantern_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:iron_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:iron_panel_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:iron_panel_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:iron_panel_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:iron_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:iron_push_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:iron_sconce"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:iron_sewer_grate"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:iron_skull_decal"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:iron_spire"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:iron_truss"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:iron_truss_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:iron_truss_mid"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:iron_truss_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:iron_vent_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:jade_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:jade_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:jade_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:jade_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:jade_lamp_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:jade_lamp_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:jade_lamp_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:jade_lantern_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:jade_lantern_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:jade_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:jaded_pearl_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:kelp_curtain"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:kelp_curtain_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:kelp_curtain_mid"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:kelp_curtain_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:lapis_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:large_deepbronze_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:large_seabrass_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:laser_assisted_electrical_rifle"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:laventine"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:laventine_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:laventine_glass_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:laventine_glass_pane_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:laventine_glass_pane_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:life_preserver"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:light_gray_wallpaper"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:lime_wallpaper"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:lion_statue_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:lion_statue_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:lunar_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:marble_bust"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:marble_flooring"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:marble_pediment"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:marble_pediment_flipped"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:marble_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:marble_pillar_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:marble_pillar_flooring"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:marble_pillar_mid"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:marble_pillar_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:marble_sconce"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:marble_spire"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:mixed_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:mixed_brick_slab_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:mixed_brick_slab_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:mixed_brick_slab_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:mixed_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:mixed_brick_stairs_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:mixed_brick_stairs_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:mixed_brick_stairs_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:mixed_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:mixed_bricks_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:mixed_bricks_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:mixed_bricks_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:mixed_pearl_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:mold_fronds"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:mold_weave"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:moldier_starstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:moldweave_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:moldy_book_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:moldy_frond_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:moldy_fuzz"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:moldy_hanger"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:moldy_hanger_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:moldy_sprouts"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:moldy_stalk_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:moldy_stalk_inactive"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:moldy_stalk_mid"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:moldy_stalk_solo"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:moldy_stalk_upper"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:moldy_stalks"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:moldy_starstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:moonsilver_bars_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:moonsilver_bars_mid"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:moonsilver_bars_solo"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:moonsilver_bars_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:moonsilver_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:moonsilver_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:moonsilver_sconce"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:moonsilver_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:moonsilver_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:moonsilver_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:mossy_cinnamon_shingle_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:mossy_cinnamon_shingle_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:mossy_cinnamon_shingles"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:mossy_mixed_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:mossy_mixed_brick_slab_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:mossy_mixed_brick_slab_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:mossy_mixed_brick_slab_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:mossy_mixed_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:mossy_mixed_brick_stairs_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:mossy_mixed_brick_stairs_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:mossy_mixed_brick_stairs_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:mossy_mixed_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:mossy_mixed_bricks_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:mossy_mixed_bricks_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:mossy_mixed_bricks_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:mossy_stone_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:muckroot"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:muckroot_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:muckroot_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:muckroot_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:muckroot_soup"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:mystery_meat_can"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:mystery_meat_can_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:mystery_meat_can_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:mystery_meat_can_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:mystery_meat_can_5"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:netted_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:nithing_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:nithing_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:orange_wallpaper"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:ornate_deepbronze_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:ornate_dull_iron_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:ornate_dull_iron_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:ornate_iron_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:ornate_rug"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:ornate_rug_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:ornate_seabrass_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:ornate_stone_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:paper_stack"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:pearl_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:pearl_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:pearl_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:pearl_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:pearl_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:pearl_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:pearl_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:pearly_bars_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:pearly_bars_mid"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:pearly_bars_solo"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:pearly_bars_upper"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:pearly_glass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:pearly_glass_block_azure"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:pearly_glass_block_blackwood"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:pearly_glass_block_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:pearly_glass_block_sunny"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:pearly_glass_block_verdant"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:pearly_glass_block_whitewood"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:pearly_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:pearly_glass_pane_azure"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:pearly_glass_pane_blackwood"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:pearly_glass_pane_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:pearly_glass_pane_sunny"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:pearly_glass_pane_verdant"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:pearly_glass_pane_whitewood"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:pink_wallpaper"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:pitchglass"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:pitchglass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:placeable_nautilus_shell"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:placed_heart_o_sea"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:polished_blood_coral"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:polished_blood_coral_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:polished_blood_coral_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:polished_blood_coral_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:polished_clouded_sodalite"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:polished_echo_shard_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:polished_effervescence"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:polished_jade"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:polished_marble"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:polished_marble_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:polished_marble_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:polished_marble_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:polished_rockwater"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:polished_sodalite"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:polished_starstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:polished_starstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:polished_starstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:polished_starstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:polished_talcrock"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:polished_talcrock_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:polished_talcrock_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:popped_spidercorn"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:porous_mold"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:post_vines"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:powered_industrial_lever"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:prismarine_crystal_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:processed_kelp_fibers"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:quartz_bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:quartz_lamp_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:rainbow_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:rainbow_lamp_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:raw_marble"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:raw_seabrass"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:raw_seabrass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:red_cracked_stucco"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:red_stucco"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:red_timber"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:red_wallpaper"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:red_wooden_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:reinforced_filthcrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:reinforced_filthcrete_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:ribbed_veins"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:ripe_bog_apple"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:riveted_deepbronze"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:riveted_deepbronze_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:riveted_deepbronze_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:riveted_deepbronze_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:riveted_seabrass"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:riveted_seabrass_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:riveted_seabrass_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:rivited_seabrass_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:rockwater_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:rockwater_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:rockwater_glass_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:rockwater_glass_mid"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:rockwater_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:rockwater_glass_pane_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:rockwater_glass_pane_mid"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:rockwater_glass_pane_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:rockwater_glass_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:rockwater_tear"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:rope_barrier_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:rope_barrier_rope"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:rope_barrier_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:rotting_filth"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:rotting_filth_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:rotting_filth_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:rotting_filth_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:rotting_filth_5"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:rough_blood_coral"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:rough_jade"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:scrimshaw_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:scrimshaw_cave"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:seabrass_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:seabrass_bars_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:seabrass_bars_mid"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:seabrass_bars_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:seabrass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:seabrass_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:seabrass_catalyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:seabrass_chain"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:seabrass_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:seabrass_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:seabrass_lamp_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:seabrass_lamp_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:seabrass_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:seabrass_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:seabrass_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:seabrass_plating"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:seabrass_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:seabrass_sconce"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:seabrass_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:seabrass_spire"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:seabrass_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:seabrass_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:seabrass_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:seabrass_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:seabrass_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:seaglass_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:seaglass_lamp_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:serpent_artery"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:serpent_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:serpent_flesh"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:serpent_flesh_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:serpent_scale_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:serpent_scales"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:serpent_skin"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:serpent_small_eyes"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:shell"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:ship_wheel"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:shortgills"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:shucked_clam"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:slump_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:small_bellmetal_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:small_bellmetal_bars_corner"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:small_black_pearl_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:small_black_pearl_bars_corner"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:small_blood_coral_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:small_blood_coral_bars_corner"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:small_brass_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:small_brass_bars_corner"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:small_bronze_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:small_bronze_bars_corner"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:small_clean_bars_corner"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:small_clean_iron_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:small_deepbronze_pipes"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:small_dull_bars_corner"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:small_dull_iron_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:small_moonsilver_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:small_moonsilver_bars_corner"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:small_pearl_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:small_pearl_bars_corner"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:small_seabrass_pipes"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:small_stone_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:small_stone_bars_corner"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:smooth_black_pearl_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:smooth_black_pearl_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:smooth_black_pearl_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:smooth_black_pearl_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:smooth_blood_coral"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:smooth_blood_coral_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:smooth_blood_coral_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:smooth_blood_coral_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:smooth_pearl_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:smooth_pearl_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:smooth_pearl_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:smooth_pearl_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:smooth_starstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:snapleaf"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:sneezeweed_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:sneezeweed_mid"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:sneezeweed_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:solar_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:spidercorn_crop"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:spidercorn_crop_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:spidercorn_crop_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:spidercorn_tortilla"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:starfish"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:starfish_orange_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:starfish_pink_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:starfish_pink_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:starfish_purple_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:starfish_purple_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:starglass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:starglass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:starlight"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:starry_pearl_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:starstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:starstone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:starstone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:stellar_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:stone_arrow_slit"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:stone_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:stone_bars_mid"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:stone_boarder"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:stone_boarder_flipped"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:stone_pediment"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:stone_pediment_flipped"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:stone_sewer_grate"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:stone_spire"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:stone_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:strange_metal_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:street_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:stripped_ancient_birch_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:stripped_blackwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:stripped_cinnamon_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:stripped_cinnamon_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:talcrock_arrow_slit"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:talcrock_border"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:talcrock_border_flipped"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:talcrock_pediment"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:talcrock_pediment_flipped"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:talcrock_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:talcrock_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:tall_bellmetal_spire"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:tall_cinnamon_bush"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:tall_cinnamon_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:tall_deepbronze_spire"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:tall_deepslate_spire"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:tall_gold_spire"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:tall_iron_spire"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:tall_marble_spire"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:tall_seabrass_spire"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:tall_stone_spire"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:tall_tuff_spire"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:telescope_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:telescope_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:terrestrial_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:testsapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:toasted_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:trashbag"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:tube_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:tube_lamp_90"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:tube_lamp_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:tube_lamp_on_90"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:tuff_spire"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:upsidedown_bellmetal_bars_corner"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:upsidedown_bellmetal_sconce"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:upsidedown_black_pearl_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:upsidedown_black_pearl_bars_corner"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:upsidedown_blood_coral_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:upsidedown_blood_coral_bars_corner"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:upsidedown_blood_coral_sconce"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:upsidedown_brass_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:upsidedown_brass_bars_corner"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:upsidedown_bronze_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:upsidedown_bronze_bars_corner"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:upsidedown_clean_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:upsidedown_clean_bars_corner"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:upsidedown_deepbronze_sconce"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:upsidedown_dull_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:upsidedown_dull_bars_corner"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:upsidedown_dull_iron_sconce"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:upsidedown_gold_sconce"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:upsidedown_iron_sconce"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:upsidedown_marble_sconce"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:upsidedown_moonsilver_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:upsidedown_moonsilver_bars_corner"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:upsidedown_moonsilver_sconce"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:upsidedown_pearl_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:upsidedown_pearl_bars_corner"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:upsidedown_seabrass_sconce"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:upsidedown_small_bellmetal_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:upsidedown_small_stone_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:upsidedown_small_stone_bars_corner"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:velvet"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:velvet_barrier_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:velvet_barrier_ribbon"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:velvet_barrier_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:velvet_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:velvet_curtain"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:velvet_curtain_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:velvet_curtain_mid"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:velvet_curtain_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:vermillion_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:vermillion_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:vertical_pearl_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:wall_bulb_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:wall_bulb_lamp_lit"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:wall_iron_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:wall_iron_lamp_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:wall_jade_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:wall_jade_lamp_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:wall_quartz_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:wall_quartz_lamp_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:wall_vines"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:wallpaper_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:wallpaper_cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:wallpaper_light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:wallpaper_magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:wallpaper_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:white_cracked_stucco"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:white_pearl_bar_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:white_pearl_bar_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:white_pearl_border"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:white_pearl_border_flipped"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:white_pearl_pediment"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:white_pearl_pediment_flipped"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:white_pearl_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:white_pearl_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:white_stucco"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:white_wallpaper"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:white_wood_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:white_wood_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:white_wood_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:white_wood_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:white_wood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:white_wood_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:white_wood_planter"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:white_wood_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:white_wood_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:white_wood_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:white_wood_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:white_wood_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:white_wood_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:whitewood_picket_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:whitewood_picket_fence_mid"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:wisteria_elder_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:wisteria_elder_mid"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:wisteria_elder_petals"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:wisteria_elder_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:wisteria_leaves_elder"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:wisteria_purple_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:wisteria_purple_petals"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:wisteria_purple_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:wisteria_purple_wall_mid"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:wood_support"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:wood_support_centered"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:wooden_dragon_head"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:wooden_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:wooden_frog"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:wool_curtain"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:wool_curtain_bottom"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:wool_curtain_mid"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:wool_curtain_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:yellow_stucco"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:yellow_timber"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:yellow_wallpaper"
+		},
+		{
+			"weight": 1.0,
+			"key": "abyssal_decor:yellow_wooden_frame"
+		}
+	]
+}

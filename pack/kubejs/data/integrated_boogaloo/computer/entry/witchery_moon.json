@@ -1,0 +1,24 @@
+{
+  "green_tint": false,
+  "type": "article",
+  "category": "general",
+  "folder": "integrated_boogaloo:witchcraft",
+  "sort_order": 130,
+  "title": "guide.integrated_boogaloo.entry.witchery_moon.title",
+  "subtitle": "guide.integrated_boogaloo.entry.witchery_moon.subtitle",
+  "cover_item": "witchery:werewolf_altar",
+  "lookup": [
+    "witchery:tongue_of_dog"
+  ],
+  "content": [
+    {
+      "text": "guide.integrated_boogaloo.entry.witchery_moon.body_1"
+    },
+    {
+      "display": "integrated_boogaloo:guide/werewolf_altar"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.witchery_moon.body_2"
+    }
+  ]
+}

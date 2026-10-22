@@ -1,0 +1,33 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.thoraxis_dilation.title",
+  "description": "task.integrated_boogaloo.thoraxis_dilation.description",
+  "icon": "minecraft:clock",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:thoraxis",
+  "sort_order": 28,
+  "position": {
+    "x": 0,
+    "y": 5
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "antarchy:probably_wondering_how_i_got_here",
+      "description": "task.integrated_boogaloo.thoraxis_dilation.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 20
+    },
+    {
+      "type": "archive",
+      "entry": "antarchy:temporal_fields"
+    }
+  ]
+}

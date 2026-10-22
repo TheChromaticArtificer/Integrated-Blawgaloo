@@ -1,0 +1,24 @@
+{
+  "green_tint": false,
+  "type": "block",
+  "category": "general",
+  "folder": "integrated_boogaloo:armory",
+  "sort_order": 50,
+  "title": "guide.integrated_boogaloo.entry.starlit_factory.title",
+  "subtitle": "guide.integrated_boogaloo.entry.starlit_factory.subtitle",
+  "content": [
+    {
+      "text": "guide.integrated_boogaloo.entry.starlit_factory.body_1"
+    },
+    {
+      "display": "integrated_boogaloo:guide/starlit_factory"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.starlit_factory.body_2"
+    }
+  ],
+  "item": "celestisynth:starlit_factory",
+  "lookup_recipes": [
+    "celestisynth:starlit_factory"
+  ]
+}

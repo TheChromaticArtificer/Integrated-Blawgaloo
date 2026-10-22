@@ -1,0 +1,42 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.armory_upkeep.title",
+  "description": "task.integrated_boogaloo.armory_upkeep.description",
+  "showcase": [
+    "@recipe:scguns:repair_kit"
+  ],
+  "icon": "scguns:repair_kit",
+  "program": "integrated_boogaloo:armory",
+  "category": "integrated_boogaloo:armory",
+  "sort_order": 7,
+  "position": {
+    "x": 3,
+    "y": 1
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:armory/iron_frame"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "scguns:repair_kit",
+      "description": "task.integrated_boogaloo.armory_upkeep.goal",
+      "count": 1,
+      "sticky": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 15
+    },
+    {
+      "type": "item",
+      "item": "scguns:repair_kit",
+      "count": 2
+    }
+  ],
+  "line_axis": "vertical"
+}

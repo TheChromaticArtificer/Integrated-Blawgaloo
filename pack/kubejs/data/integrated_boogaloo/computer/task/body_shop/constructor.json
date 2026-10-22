@@ -1,0 +1,38 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.body_shop_constructor.title",
+  "description": "task.integrated_boogaloo.body_shop_constructor.description",
+  "icon": "neosync:shell_constructor",
+  "program": "integrated_boogaloo:cybernetics",
+  "category": "integrated_boogaloo:cybernetics",
+  "sort_order": 13,
+  "position": {
+    "x": 1,
+    "y": 3
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:body_shop/treadmill"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "neosync:main/place_constructor",
+      "description": "task.integrated_boogaloo.body_shop_constructor.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "archive",
+      "entry": "integrated_boogaloo:body_shop_shells"
+    },
+    {
+      "type": "antcoins",
+      "amount": 100
+    }
+  ],
+  "line_axis": "horizontal",
+  "showcase": []
+}

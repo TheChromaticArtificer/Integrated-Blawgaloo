@@ -1,0 +1,27 @@
+{
+  "name": "computer.integrated_boogaloo.product.ammo.gun_barrel.name",
+  "description": "computer.integrated_boogaloo.product.ammo.gun_barrel.description",
+  "category": "ammo",
+  "green_tint": false,
+  "quantity": 1,
+  "payments": [
+    {
+      "type": "antcoins",
+      "resource": "antcoins",
+      "amount": 30
+    }
+  ],
+  "thumbnail": {
+    "item": "scguns:gun_barrel"
+  },
+  "unlock_tasks": [
+    "integrated_boogaloo:armory/arming_up"
+  ],
+  "unlock_mode": "all",
+  "rewards": [
+    {
+      "item": "scguns:gun_barrel",
+      "count": 1
+    }
+  ]
+}

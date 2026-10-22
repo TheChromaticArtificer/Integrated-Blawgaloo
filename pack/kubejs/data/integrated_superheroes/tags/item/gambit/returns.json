@@ -1,0 +1,4013 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#minecraft:enchantable/durability",
+      "required": false
+    },
+    {
+      "id": "#minecraft:enchantable/equippable",
+      "required": false
+    },
+    {
+      "id": "#minecraft:enchantable/weapon",
+      "required": false
+    },
+    {
+      "id": "#minecraft:enchantable/sharp_weapon",
+      "required": false
+    },
+    {
+      "id": "#minecraft:enchantable/mining",
+      "required": false
+    },
+    {
+      "id": "#minecraft:enchantable/bow",
+      "required": false
+    },
+    {
+      "id": "#minecraft:enchantable/crossbow",
+      "required": false
+    },
+    {
+      "id": "#minecraft:enchantable/trident",
+      "required": false
+    },
+    {
+      "id": "#minecraft:enchantable/mace",
+      "required": false
+    },
+    {
+      "id": "#minecraft:enchantable/fishing",
+      "required": false
+    },
+    {
+      "id": "#minecraft:enchantable/armor",
+      "required": false
+    },
+    {
+      "id": "#scguns:enchantable/gun",
+      "required": false
+    },
+    {
+      "id": "#netherexp:shotguns",
+      "required": false
+    },
+    {
+      "id": "alexscaves:cloak_of_darkness",
+      "required": false
+    },
+    {
+      "id": "alexscaves:diving_boots",
+      "required": false
+    },
+    {
+      "id": "alexscaves:diving_chestplate",
+      "required": false
+    },
+    {
+      "id": "alexscaves:diving_helmet",
+      "required": false
+    },
+    {
+      "id": "alexscaves:diving_leggings",
+      "required": false
+    },
+    {
+      "id": "alexscaves:game_controller",
+      "required": false
+    },
+    {
+      "id": "alexscaves:gingerbread_boots",
+      "required": false
+    },
+    {
+      "id": "alexscaves:gingerbread_chestplate",
+      "required": false
+    },
+    {
+      "id": "alexscaves:gingerbread_helmet",
+      "required": false
+    },
+    {
+      "id": "alexscaves:gingerbread_leggings",
+      "required": false
+    },
+    {
+      "id": "alexscaves:hazmat_block",
+      "required": false
+    },
+    {
+      "id": "alexscaves:hazmat_boots",
+      "required": false
+    },
+    {
+      "id": "alexscaves:hazmat_chestplate",
+      "required": false
+    },
+    {
+      "id": "alexscaves:hazmat_leggings",
+      "required": false
+    },
+    {
+      "id": "alexscaves:hazmat_mask",
+      "required": false
+    },
+    {
+      "id": "alexscaves:hazmat_skull_block",
+      "required": false
+    },
+    {
+      "id": "alexscaves:hazmat_warning_block",
+      "required": false
+    },
+    {
+      "id": "alexscaves:holocoder",
+      "required": false
+    },
+    {
+      "id": "alexscaves:hood_of_darkness",
+      "required": false
+    },
+    {
+      "id": "alexscaves:notor_gizmo",
+      "required": false
+    },
+    {
+      "id": "alexscaves:primordial_helmet",
+      "required": false
+    },
+    {
+      "id": "alexscaves:primordial_pants",
+      "required": false
+    },
+    {
+      "id": "alexscaves:primordial_tunic",
+      "required": false
+    },
+    {
+      "id": "alexscaves:quarry_smasher",
+      "required": false
+    },
+    {
+      "id": "alexscaves:rainbounce_boots",
+      "required": false
+    },
+    {
+      "id": "alexscaves:remote_detonator",
+      "required": false
+    },
+    {
+      "id": "alexscaves:tooting_magic_conch",
+      "required": false
+    },
+    {
+      "id": "antarchy:attitude_adjuster",
+      "required": false
+    },
+    {
+      "id": "antarchy:bug_spray",
+      "required": false
+    },
+    {
+      "id": "antarchy:gravity_gun",
+      "required": false
+    },
+    {
+      "id": "antarchy:growth_ray",
+      "required": false
+    },
+    {
+      "id": "antarchy:hoverboard",
+      "required": false
+    },
+    {
+      "id": "antarchy:hoverboard_black",
+      "required": false
+    },
+    {
+      "id": "antarchy:hoverboard_blue",
+      "required": false
+    },
+    {
+      "id": "antarchy:hoverboard_brown",
+      "required": false
+    },
+    {
+      "id": "antarchy:hoverboard_cyan",
+      "required": false
+    },
+    {
+      "id": "antarchy:hoverboard_gray",
+      "required": false
+    },
+    {
+      "id": "antarchy:hoverboard_green",
+      "required": false
+    },
+    {
+      "id": "antarchy:hoverboard_light_blue",
+      "required": false
+    },
+    {
+      "id": "antarchy:hoverboard_light_gray",
+      "required": false
+    },
+    {
+      "id": "antarchy:hoverboard_lime",
+      "required": false
+    },
+    {
+      "id": "antarchy:hoverboard_magenta",
+      "required": false
+    },
+    {
+      "id": "antarchy:hoverboard_orange",
+      "required": false
+    },
+    {
+      "id": "antarchy:hoverboard_pink",
+      "required": false
+    },
+    {
+      "id": "antarchy:hoverboard_purple",
+      "required": false
+    },
+    {
+      "id": "antarchy:hoverboard_red",
+      "required": false
+    },
+    {
+      "id": "antarchy:hoverboard_white",
+      "required": false
+    },
+    {
+      "id": "antarchy:hoverboard_yellow",
+      "required": false
+    },
+    {
+      "id": "antarchy:rpo_launcher",
+      "required": false
+    },
+    {
+      "id": "antarchy:scorpion_whip",
+      "required": false
+    },
+    {
+      "id": "antarchy:shrink_ray",
+      "required": false
+    },
+    {
+      "id": "antarchy:squidzooka",
+      "required": false
+    },
+    {
+      "id": "antarchy:ultimate_mace",
+      "required": false
+    },
+    {
+      "id": "antarchy:worm_hook",
+      "required": false
+    },
+    {
+      "id": "celestisynth:celestial_spell_book",
+      "required": false
+    },
+    {
+      "id": "celestisynth:large_axe",
+      "required": false
+    },
+    {
+      "id": "celestisynth:long_blade",
+      "required": false
+    },
+    {
+      "id": "dimdoors:dimensional_eraser",
+      "required": false
+    },
+    {
+      "id": "dimdoors:mask_wand",
+      "required": false
+    },
+    {
+      "id": "dimdoors:rift_configuration_tool",
+      "required": false
+    },
+    {
+      "id": "dimdoors:rift_remover",
+      "required": false
+    },
+    {
+      "id": "dimdoors:rift_stabilizer",
+      "required": false
+    },
+    {
+      "id": "gigeresque:surgery_kit",
+      "required": false
+    },
+    {
+      "id": "gigeresque:tracker",
+      "required": false
+    },
+    {
+      "id": "hats:acornhat",
+      "required": false
+    },
+    {
+      "id": "hats:aegishat",
+      "required": false
+    },
+    {
+      "id": "hats:alien_antennae",
+      "required": false
+    },
+    {
+      "id": "hats:alienphil",
+      "required": false
+    },
+    {
+      "id": "hats:amalgalichhat",
+      "required": false
+    },
+    {
+      "id": "hats:angel_and_devil",
+      "required": false
+    },
+    {
+      "id": "hats:angrymask",
+      "required": false
+    },
+    {
+      "id": "hats:antlers",
+      "required": false
+    },
+    {
+      "id": "hats:apple",
+      "required": false
+    },
+    {
+      "id": "hats:artsy",
+      "required": false
+    },
+    {
+      "id": "hats:artsy_doll",
+      "required": false
+    },
+    {
+      "id": "hats:astronaut",
+      "required": false
+    },
+    {
+      "id": "hats:axolotl_on_head",
+      "required": false
+    },
+    {
+      "id": "hats:azumanga_hat",
+      "required": false
+    },
+    {
+      "id": "hats:baby_crewmate",
+      "required": false
+    },
+    {
+      "id": "hats:babydolphin",
+      "required": false
+    },
+    {
+      "id": "hats:babyturtle",
+      "required": false
+    },
+    {
+      "id": "hats:bandana",
+      "required": false
+    },
+    {
+      "id": "hats:bandanargb",
+      "required": false
+    },
+    {
+      "id": "hats:baseballeaster",
+      "required": false
+    },
+    {
+      "id": "hats:baseballhat",
+      "required": false
+    },
+    {
+      "id": "hats:baseballhatfestive",
+      "required": false
+    },
+    {
+      "id": "hats:baseballhatjuly",
+      "required": false
+    },
+    {
+      "id": "hats:baseballhatrgb",
+      "required": false
+    },
+    {
+      "id": "hats:batwinghat",
+      "required": false
+    },
+    {
+      "id": "hats:beanie",
+      "required": false
+    },
+    {
+      "id": "hats:beanieeaster",
+      "required": false
+    },
+    {
+      "id": "hats:beaniefestive",
+      "required": false
+    },
+    {
+      "id": "hats:beaniejuly",
+      "required": false
+    },
+    {
+      "id": "hats:beaniergb",
+      "required": false
+    },
+    {
+      "id": "hats:beaniespooky",
+      "required": false
+    },
+    {
+      "id": "hats:bee_on_head",
+      "required": false
+    },
+    {
+      "id": "hats:beehat",
+      "required": false
+    },
+    {
+      "id": "hats:beehatpride",
+      "required": false
+    },
+    {
+      "id": "hats:beehattrans",
+      "required": false
+    },
+    {
+      "id": "hats:beetle_on_head",
+      "required": false
+    },
+    {
+      "id": "hats:beret_ribbon",
+      "required": false
+    },
+    {
+      "id": "hats:bicorne",
+      "required": false
+    },
+    {
+      "id": "hats:bigbrain",
+      "required": false
+    },
+    {
+      "id": "hats:bigcrown",
+      "required": false
+    },
+    {
+      "id": "hats:bigeyes",
+      "required": false
+    },
+    {
+      "id": "hats:bigribbon",
+      "required": false
+    },
+    {
+      "id": "hats:bigstevehead",
+      "required": false
+    },
+    {
+      "id": "hats:binky",
+      "required": false
+    },
+    {
+      "id": "hats:bluefireeye",
+      "required": false
+    },
+    {
+      "id": "hats:bowler",
+      "required": false
+    },
+    {
+      "id": "hats:breadhat",
+      "required": false
+    },
+    {
+      "id": "hats:brownbrick",
+      "required": false
+    },
+    {
+      "id": "hats:bucket",
+      "required": false
+    },
+    {
+      "id": "hats:bunnyhat",
+      "required": false
+    },
+    {
+      "id": "hats:burgerhat",
+      "required": false
+    },
+    {
+      "id": "hats:burning_m_bison",
+      "required": false
+    },
+    {
+      "id": "hats:caddycap",
+      "required": false
+    },
+    {
+      "id": "hats:camera",
+      "required": false
+    },
+    {
+      "id": "hats:camerabeard",
+      "required": false
+    },
+    {
+      "id": "hats:candleonhead",
+      "required": false
+    },
+    {
+      "id": "hats:candycane",
+      "required": false
+    },
+    {
+      "id": "hats:capbackwards",
+      "required": false
+    },
+    {
+      "id": "hats:cardboard_box",
+      "required": false
+    },
+    {
+      "id": "hats:carrotonstick",
+      "required": false
+    },
+    {
+      "id": "hats:cartoonegg",
+      "required": false
+    },
+    {
+      "id": "hats:cat_hat",
+      "required": false
+    },
+    {
+      "id": "hats:cat_on_head",
+      "required": false
+    },
+    {
+      "id": "hats:caterpillar_on_head",
+      "required": false
+    },
+    {
+      "id": "hats:chalk_stick",
+      "required": false
+    },
+    {
+      "id": "hats:cheeseslice",
+      "required": false
+    },
+    {
+      "id": "hats:chefshat",
+      "required": false
+    },
+    {
+      "id": "hats:chi_ears",
+      "required": false
+    },
+    {
+      "id": "hats:chickenhead",
+      "required": false
+    },
+    {
+      "id": "hats:chickenonhead",
+      "required": false
+    },
+    {
+      "id": "hats:chocolate_sauced",
+      "required": false
+    },
+    {
+      "id": "hats:christmascakehat",
+      "required": false
+    },
+    {
+      "id": "hats:christmastree",
+      "required": false
+    },
+    {
+      "id": "hats:circular_glasses",
+      "required": false
+    },
+    {
+      "id": "hats:clockface",
+      "required": false
+    },
+    {
+      "id": "hats:cowboy",
+      "required": false
+    },
+    {
+      "id": "hats:cowboyrgb",
+      "required": false
+    },
+    {
+      "id": "hats:crabonhead",
+      "required": false
+    },
+    {
+      "id": "hats:crown",
+      "required": false
+    },
+    {
+      "id": "hats:crystal_horns",
+      "required": false
+    },
+    {
+      "id": "hats:cucumbereyemask",
+      "required": false
+    },
+    {
+      "id": "hats:cuphead",
+      "required": false
+    },
+    {
+      "id": "hats:cyclopseye",
+      "required": false
+    },
+    {
+      "id": "hats:dairyqueen",
+      "required": false
+    },
+    {
+      "id": "hats:dangereqsue",
+      "required": false
+    },
+    {
+      "id": "hats:dangeresquejuly",
+      "required": false
+    },
+    {
+      "id": "hats:dejiko",
+      "required": false
+    },
+    {
+      "id": "hats:demoneyes",
+      "required": false
+    },
+    {
+      "id": "hats:demonhorns",
+      "required": false
+    },
+    {
+      "id": "hats:digger",
+      "required": false
+    },
+    {
+      "id": "hats:dimmahat",
+      "required": false
+    },
+    {
+      "id": "hats:dipper",
+      "required": false
+    },
+    {
+      "id": "hats:discoball",
+      "required": false
+    },
+    {
+      "id": "hats:disguise",
+      "required": false
+    },
+    {
+      "id": "hats:doctorhat",
+      "required": false
+    },
+    {
+      "id": "hats:dorkglassesandteeth",
+      "required": false
+    },
+    {
+      "id": "hats:doubletake",
+      "required": false
+    },
+    {
+      "id": "hats:dragonhead",
+      "required": false
+    },
+    {
+      "id": "hats:dragonskull",
+      "required": false
+    },
+    {
+      "id": "hats:dragonskullender",
+      "required": false
+    },
+    {
+      "id": "hats:drinkinhat",
+      "required": false
+    },
+    {
+      "id": "hats:druid_antlers",
+      "required": false
+    },
+    {
+      "id": "hats:druid_antlers_rare",
+      "required": false
+    },
+    {
+      "id": "hats:dumhat",
+      "required": false
+    },
+    {
+      "id": "hats:dwarfbeard",
+      "required": false
+    },
+    {
+      "id": "hats:dwarfminerbeard",
+      "required": false
+    },
+    {
+      "id": "hats:easterhead",
+      "required": false
+    },
+    {
+      "id": "hats:eevee_ears",
+      "required": false
+    },
+    {
+      "id": "hats:eggcracked",
+      "required": false
+    },
+    {
+      "id": "hats:egghead",
+      "required": false
+    },
+    {
+      "id": "hats:eggheadspots",
+      "required": false
+    },
+    {
+      "id": "hats:eggonhead",
+      "required": false
+    },
+    {
+      "id": "hats:elfhat",
+      "required": false
+    },
+    {
+      "id": "hats:explorerhat",
+      "required": false
+    },
+    {
+      "id": "hats:eyeholder_beeholder",
+      "required": false
+    },
+    {
+      "id": "hats:eyeholder_dark",
+      "required": false
+    },
+    {
+      "id": "hats:eyeholder_evil",
+      "required": false
+    },
+    {
+      "id": "hats:eyeholder_warm",
+      "required": false
+    },
+    {
+      "id": "hats:eyeholder_xanath",
+      "required": false
+    },
+    {
+      "id": "hats:eyepatch",
+      "required": false
+    },
+    {
+      "id": "hats:fakeblight",
+      "required": false
+    },
+    {
+      "id": "hats:fakefire",
+      "required": false
+    },
+    {
+      "id": "hats:farmerbrim",
+      "required": false
+    },
+    {
+      "id": "hats:festiveantlers",
+      "required": false
+    },
+    {
+      "id": "hats:festiveribbon",
+      "required": false
+    },
+    {
+      "id": "hats:fez",
+      "required": false
+    },
+    {
+      "id": "hats:finnhood",
+      "required": false
+    },
+    {
+      "id": "hats:fireworks",
+      "required": false
+    },
+    {
+      "id": "hats:fishing_hat",
+      "required": false
+    },
+    {
+      "id": "hats:fishonhead",
+      "required": false
+    },
+    {
+      "id": "hats:flagjuly",
+      "required": false
+    },
+    {
+      "id": "hats:flies",
+      "required": false
+    },
+    {
+      "id": "hats:floatinghearts",
+      "required": false
+    },
+    {
+      "id": "hats:floatingstar",
+      "required": false
+    },
+    {
+      "id": "hats:flowercrown",
+      "required": false
+    },
+    {
+      "id": "hats:floweronhead",
+      "required": false
+    },
+    {
+      "id": "hats:foxhat",
+      "required": false
+    },
+    {
+      "id": "hats:fro",
+      "required": false
+    },
+    {
+      "id": "hats:fronthorns",
+      "required": false
+    },
+    {
+      "id": "hats:frozenhead",
+      "required": false
+    },
+    {
+      "id": "hats:fulldiamondhelm",
+      "required": false
+    },
+    {
+      "id": "hats:fullgoldhelm",
+      "required": false
+    },
+    {
+      "id": "hats:fullironhelm",
+      "required": false
+    },
+    {
+      "id": "hats:fullsteelhelm",
+      "required": false
+    },
+    {
+      "id": "hats:ghostmask",
+      "required": false
+    },
+    {
+      "id": "hats:gnome",
+      "required": false
+    },
+    {
+      "id": "hats:gnome_clover_wig",
+      "required": false
+    },
+    {
+      "id": "hats:gnome_clover_wig_glasses",
+      "required": false
+    },
+    {
+      "id": "hats:goggles",
+      "required": false
+    },
+    {
+      "id": "hats:grandmadisguise",
+      "required": false
+    },
+    {
+      "id": "hats:greaser",
+      "required": false
+    },
+    {
+      "id": "hats:greenbirb",
+      "required": false
+    },
+    {
+      "id": "hats:greenstache",
+      "required": false
+    },
+    {
+      "id": "hats:greyfoxhat",
+      "required": false
+    },
+    {
+      "id": "hats:grinchhat",
+      "required": false
+    },
+    {
+      "id": "hats:halo",
+      "required": false
+    },
+    {
+      "id": "hats:hat_of_discipline",
+      "required": false
+    },
+    {
+      "id": "hats:haticon",
+      "required": false
+    },
+    {
+      "id": "hats:hatpants",
+      "required": false
+    },
+    {
+      "id": "hats:hatparent",
+      "required": false
+    },
+    {
+      "id": "hats:hatparent2",
+      "required": false
+    },
+    {
+      "id": "hats:headbolts",
+      "required": false
+    },
+    {
+      "id": "hats:headphonesblue",
+      "required": false
+    },
+    {
+      "id": "hats:headphonespink",
+      "required": false
+    },
+    {
+      "id": "hats:headphonesred",
+      "required": false
+    },
+    {
+      "id": "hats:headphonesreggae",
+      "required": false
+    },
+    {
+      "id": "hats:headshot",
+      "required": false
+    },
+    {
+      "id": "hats:hockeymask",
+      "required": false
+    },
+    {
+      "id": "hats:holyhead",
+      "required": false
+    },
+    {
+      "id": "hats:horsemask",
+      "required": false
+    },
+    {
+      "id": "hats:hosthat",
+      "required": false
+    },
+    {
+      "id": "hats:icedragonskull",
+      "required": false
+    },
+    {
+      "id": "hats:jackohat",
+      "required": false
+    },
+    {
+      "id": "hats:jesterhat",
+      "required": false
+    },
+    {
+      "id": "hats:julydouble",
+      "required": false
+    },
+    {
+      "id": "hats:julysunglasses",
+      "required": false
+    },
+    {
+      "id": "hats:julytophat",
+      "required": false
+    },
+    {
+      "id": "hats:kirbymouthful",
+      "required": false
+    },
+    {
+      "id": "hats:ladybug_on_head",
+      "required": false
+    },
+    {
+      "id": "hats:largehorns",
+      "required": false
+    },
+    {
+      "id": "hats:lightning_eyes",
+      "required": false
+    },
+    {
+      "id": "hats:lil_bows",
+      "required": false
+    },
+    {
+      "id": "hats:lil_termagant",
+      "required": false
+    },
+    {
+      "id": "hats:lilbow",
+      "required": false
+    },
+    {
+      "id": "hats:longfoxears",
+      "required": false
+    },
+    {
+      "id": "hats:madscientist",
+      "required": false
+    },
+    {
+      "id": "hats:magikarp",
+      "required": false
+    },
+    {
+      "id": "hats:medusa",
+      "required": false
+    },
+    {
+      "id": "hats:megamanhat",
+      "required": false
+    },
+    {
+      "id": "hats:milady_doll",
+      "required": false
+    },
+    {
+      "id": "hats:mimic_head",
+      "required": false
+    },
+    {
+      "id": "hats:mimic_head_dark",
+      "required": false
+    },
+    {
+      "id": "hats:mimic_head_gold",
+      "required": false
+    },
+    {
+      "id": "hats:mindflayer",
+      "required": false
+    },
+    {
+      "id": "hats:mindflayer_alhoon",
+      "required": false
+    },
+    {
+      "id": "hats:minerhat",
+      "required": false
+    },
+    {
+      "id": "hats:mistletoe",
+      "required": false
+    },
+    {
+      "id": "hats:mohawk",
+      "required": false
+    },
+    {
+      "id": "hats:monkeyking",
+      "required": false
+    },
+    {
+      "id": "hats:monocle",
+      "required": false
+    },
+    {
+      "id": "hats:moreeyes",
+      "required": false
+    },
+    {
+      "id": "hats:murdered",
+      "required": false
+    },
+    {
+      "id": "hats:nekoears",
+      "required": false
+    },
+    {
+      "id": "hats:nyan_doll",
+      "required": false
+    },
+    {
+      "id": "hats:octodad",
+      "required": false
+    },
+    {
+      "id": "hats:orange_hat",
+      "required": false
+    },
+    {
+      "id": "hats:palmtree",
+      "required": false
+    },
+    {
+      "id": "hats:paperbag",
+      "required": false
+    },
+    {
+      "id": "hats:partyhat",
+      "required": false
+    },
+    {
+      "id": "hats:paypay",
+      "required": false
+    },
+    {
+      "id": "hats:peepo",
+      "required": false
+    },
+    {
+      "id": "hats:penguinbaby",
+      "required": false
+    },
+    {
+      "id": "hats:penguinhat",
+      "required": false
+    },
+    {
+      "id": "hats:peppino",
+      "required": false
+    },
+    {
+      "id": "hats:pighead",
+      "required": false
+    },
+    {
+      "id": "hats:pika_ears",
+      "required": false
+    },
+    {
+      "id": "hats:pinhead",
+      "required": false
+    },
+    {
+      "id": "hats:plaguedoctor",
+      "required": false
+    },
+    {
+      "id": "hats:pog",
+      "required": false
+    },
+    {
+      "id": "hats:pohatoe",
+      "required": false
+    },
+    {
+      "id": "hats:policebucket",
+      "required": false
+    },
+    {
+      "id": "hats:policesiren",
+      "required": false
+    },
+    {
+      "id": "hats:pom_moog",
+      "required": false
+    },
+    {
+      "id": "hats:poofballhat",
+      "required": false
+    },
+    {
+      "id": "hats:poofballrgb",
+      "required": false
+    },
+    {
+      "id": "hats:popehat",
+      "required": false
+    },
+    {
+      "id": "hats:potionhead",
+      "required": false
+    },
+    {
+      "id": "hats:presentsstack",
+      "required": false
+    },
+    {
+      "id": "hats:propelhat",
+      "required": false
+    },
+    {
+      "id": "hats:puchiko",
+      "required": false
+    },
+    {
+      "id": "hats:questbook",
+      "required": false
+    },
+    {
+      "id": "hats:rabbitears",
+      "required": false
+    },
+    {
+      "id": "hats:rabbitonhead",
+      "required": false
+    },
+    {
+      "id": "hats:rabi_en_rose",
+      "required": false
+    },
+    {
+      "id": "hats:rabi_en_rose_wig",
+      "required": false
+    },
+    {
+      "id": "hats:rainboworbiters",
+      "required": false
+    },
+    {
+      "id": "hats:raincloud",
+      "required": false
+    },
+    {
+      "id": "hats:ranahat",
+      "required": false
+    },
+    {
+      "id": "hats:redeyes",
+      "required": false
+    },
+    {
+      "id": "hats:rednose",
+      "required": false
+    },
+    {
+      "id": "hats:redshroomcap",
+      "required": false
+    },
+    {
+      "id": "hats:redstache",
+      "required": false
+    },
+    {
+      "id": "hats:rgbbigribbon",
+      "required": false
+    },
+    {
+      "id": "hats:rgbbowler",
+      "required": false
+    },
+    {
+      "id": "hats:rgbdragonskull",
+      "required": false
+    },
+    {
+      "id": "hats:rgbdrinkinhat",
+      "required": false
+    },
+    {
+      "id": "hats:rgbeasterhead",
+      "required": false
+    },
+    {
+      "id": "hats:rgbfullhelm",
+      "required": false
+    },
+    {
+      "id": "hats:rgbpartyhat",
+      "required": false
+    },
+    {
+      "id": "hats:rgbsmallbowler",
+      "required": false
+    },
+    {
+      "id": "hats:rgbsunglasses",
+      "required": false
+    },
+    {
+      "id": "hats:rgbtoptophathat",
+      "required": false
+    },
+    {
+      "id": "hats:rgbushanka",
+      "required": false
+    },
+    {
+      "id": "hats:right_hand_hat",
+      "required": false
+    },
+    {
+      "id": "hats:right_hand_hat_cyborg",
+      "required": false
+    },
+    {
+      "id": "hats:rimglasses",
+      "required": false
+    },
+    {
+      "id": "hats:rock",
+      "required": false
+    },
+    {
+      "id": "hats:round_purple_wig",
+      "required": false
+    },
+    {
+      "id": "hats:round_purple_wig_glasses",
+      "required": false
+    },
+    {
+      "id": "hats:round_red_wig",
+      "required": false
+    },
+    {
+      "id": "hats:round_red_wig_glasses",
+      "required": false
+    },
+    {
+      "id": "hats:rubbernipple",
+      "required": false
+    },
+    {
+      "id": "hats:sandcastle",
+      "required": false
+    },
+    {
+      "id": "hats:santaclaus",
+      "required": false
+    },
+    {
+      "id": "hats:santahat",
+      "required": false
+    },
+    {
+      "id": "hats:sausage",
+      "required": false
+    },
+    {
+      "id": "hats:scouter",
+      "required": false
+    },
+    {
+      "id": "hats:seaweedhat",
+      "required": false
+    },
+    {
+      "id": "hats:shakehat",
+      "required": false
+    },
+    {
+      "id": "hats:sheep",
+      "required": false
+    },
+    {
+      "id": "hats:shinymagikarp",
+      "required": false
+    },
+    {
+      "id": "hats:shrekears",
+      "required": false
+    },
+    {
+      "id": "hats:shroomcap",
+      "required": false
+    },
+    {
+      "id": "hats:sidebow",
+      "required": false
+    },
+    {
+      "id": "hats:simsgem",
+      "required": false
+    },
+    {
+      "id": "hats:sleepeyemask",
+      "required": false
+    },
+    {
+      "id": "hats:slime_cube_dnd",
+      "required": false
+    },
+    {
+      "id": "hats:slime_head",
+      "required": false
+    },
+    {
+      "id": "hats:smokingpipe",
+      "required": false
+    },
+    {
+      "id": "hats:snowmanbaby",
+      "required": false
+    },
+    {
+      "id": "hats:sombrero",
+      "required": false
+    },
+    {
+      "id": "hats:sonichood",
+      "required": false
+    },
+    {
+      "id": "hats:spadesoldier",
+      "required": false
+    },
+    {
+      "id": "hats:special",
+      "required": false
+    },
+    {
+      "id": "hats:spiderweb",
+      "required": false
+    },
+    {
+      "id": "hats:sport_sunglasses",
+      "required": false
+    },
+    {
+      "id": "hats:springer",
+      "required": false
+    },
+    {
+      "id": "hats:sprout",
+      "required": false
+    },
+    {
+      "id": "hats:spyzombie",
+      "required": false
+    },
+    {
+      "id": "hats:stackofeggs",
+      "required": false
+    },
+    {
+      "id": "hats:stinkycheeseman",
+      "required": false
+    },
+    {
+      "id": "hats:strawberry_hat",
+      "required": false
+    },
+    {
+      "id": "hats:stress",
+      "required": false
+    },
+    {
+      "id": "hats:stuck_lollipop",
+      "required": false
+    },
+    {
+      "id": "hats:summerhat",
+      "required": false
+    },
+    {
+      "id": "hats:sunglasses",
+      "required": false
+    },
+    {
+      "id": "hats:sunglassesbig",
+      "required": false
+    },
+    {
+      "id": "hats:supersandhat",
+      "required": false
+    },
+    {
+      "id": "hats:swimmer",
+      "required": false
+    },
+    {
+      "id": "hats:tanuki_leaf",
+      "required": false
+    },
+    {
+      "id": "hats:teddy_bear",
+      "required": false
+    },
+    {
+      "id": "hats:teddy_bear_bee",
+      "required": false
+    },
+    {
+      "id": "hats:teddy_bear_ken",
+      "required": false
+    },
+    {
+      "id": "hats:teddy_bear_panda",
+      "required": false
+    },
+    {
+      "id": "hats:teddy_bear_rembo",
+      "required": false
+    },
+    {
+      "id": "hats:teddy_bear_ryu",
+      "required": false
+    },
+    {
+      "id": "hats:teddy_bear_scary",
+      "required": false
+    },
+    {
+      "id": "hats:the_noise",
+      "required": false
+    },
+    {
+      "id": "hats:the_noisier",
+      "required": false
+    },
+    {
+      "id": "hats:thumbnail",
+      "required": false
+    },
+    {
+      "id": "hats:tick_on_head",
+      "required": false
+    },
+    {
+      "id": "hats:tinkerhat",
+      "required": false
+    },
+    {
+      "id": "hats:toast",
+      "required": false
+    },
+    {
+      "id": "hats:toilet",
+      "required": false
+    },
+    {
+      "id": "hats:tomato_splats",
+      "required": false
+    },
+    {
+      "id": "hats:topcathat",
+      "required": false
+    },
+    {
+      "id": "hats:tophat",
+      "required": false
+    },
+    {
+      "id": "hats:toptophathat",
+      "required": false
+    },
+    {
+      "id": "hats:toy_story_alien",
+      "required": false
+    },
+    {
+      "id": "hats:traffic_cone",
+      "required": false
+    },
+    {
+      "id": "hats:triangleshades",
+      "required": false
+    },
+    {
+      "id": "hats:tricorne",
+      "required": false
+    },
+    {
+      "id": "hats:tvhead",
+      "required": false
+    },
+    {
+      "id": "hats:tvheadrat",
+      "required": false
+    },
+    {
+      "id": "hats:tvheadstatic",
+      "required": false
+    },
+    {
+      "id": "hats:twilight_doll",
+      "required": false
+    },
+    {
+      "id": "hats:udder_hat",
+      "required": false
+    },
+    {
+      "id": "hats:unicornhorn",
+      "required": false
+    },
+    {
+      "id": "hats:ushanka",
+      "required": false
+    },
+    {
+      "id": "hats:vikinghat",
+      "required": false
+    },
+    {
+      "id": "hats:vikinghatbeard",
+      "required": false
+    },
+    {
+      "id": "hats:villagernose",
+      "required": false
+    },
+    {
+      "id": "hats:winghat",
+      "required": false
+    },
+    {
+      "id": "hats:worm_hat",
+      "required": false
+    },
+    {
+      "id": "hats:worms_mine",
+      "required": false
+    },
+    {
+      "id": "hats:zigzagwitchhat",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_amethyst_boots",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_amethyst_chestplate",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_amethyst_helmet",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_amethyst_leggings",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_black_boots",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_black_chestplate",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_black_helmet",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_black_leggings",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_blue_boots",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_blue_chestplate",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_blue_helmet",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_blue_leggings",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_bronze_boots",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_bronze_chestplate",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_bronze_helmet",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_bronze_leggings",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_copper_boots",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_copper_chestplate",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_copper_helmet",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_copper_leggings",
+      "required": false
+    },
+    {
+      "id": "minecraft:copper_boots",
+      "required": false
+    },
+    {
+      "id": "minecraft:copper_chestplate",
+      "required": false
+    },
+    {
+      "id": "minecraft:copper_helmet",
+      "required": false
+    },
+    {
+      "id": "minecraft:copper_leggings",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_electric_boots",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_electric_chestplate",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_electric_helmet",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_electric_leggings",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_gray_boots",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_gray_chestplate",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_gray_helmet",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_gray_leggings",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_green_boots",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_green_chestplate",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_green_helmet",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_green_leggings",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_red_boots",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_red_chestplate",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_red_helmet",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_red_leggings",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_sapphire_boots",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_sapphire_chestplate",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_sapphire_helmet",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_sapphire_leggings",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_silver_boots",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_silver_chestplate",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_silver_helmet",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_silver_leggings",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_silver_metal_boots",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_silver_metal_chestplate",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_silver_metal_helmet",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_silver_metal_leggings",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_white_boots",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_white_chestplate",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_white_helmet",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_white_leggings",
+      "required": false
+    },
+    {
+      "id": "iceandfire:blindfold",
+      "required": false
+    },
+    {
+      "id": "iceandfire:deathworm_red_boots",
+      "required": false
+    },
+    {
+      "id": "iceandfire:deathworm_red_chestplate",
+      "required": false
+    },
+    {
+      "id": "iceandfire:deathworm_red_helmet",
+      "required": false
+    },
+    {
+      "id": "iceandfire:deathworm_red_leggings",
+      "required": false
+    },
+    {
+      "id": "iceandfire:deathworm_white_boots",
+      "required": false
+    },
+    {
+      "id": "iceandfire:deathworm_white_chestplate",
+      "required": false
+    },
+    {
+      "id": "iceandfire:deathworm_white_helmet",
+      "required": false
+    },
+    {
+      "id": "iceandfire:deathworm_white_leggings",
+      "required": false
+    },
+    {
+      "id": "iceandfire:deathworm_yellow_boots",
+      "required": false
+    },
+    {
+      "id": "iceandfire:deathworm_yellow_chestplate",
+      "required": false
+    },
+    {
+      "id": "iceandfire:deathworm_yellow_helmet",
+      "required": false
+    },
+    {
+      "id": "iceandfire:deathworm_yellow_leggings",
+      "required": false
+    },
+    {
+      "id": "iceandfire:diamond_hippogryph_armor",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragon_seeker",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragon_stick",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonarmor_copper_body",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonarmor_copper_head",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonarmor_copper_neck",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonarmor_copper_tail",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonarmor_diamond_body",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonarmor_diamond_head",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonarmor_diamond_neck",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonarmor_diamond_tail",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonarmor_dragon_steel_fire_body",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonarmor_dragon_steel_fire_head",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonarmor_dragon_steel_fire_neck",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonarmor_dragon_steel_fire_tail",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonarmor_dragon_steel_ice_body",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonarmor_dragon_steel_ice_head",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonarmor_dragon_steel_ice_neck",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonarmor_dragon_steel_ice_tail",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonarmor_dragon_steel_lightning_body",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonarmor_dragon_steel_lightning_head",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonarmor_dragon_steel_lightning_neck",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonarmor_dragon_steel_lightning_tail",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonarmor_gold_body",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonarmor_gold_head",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonarmor_gold_neck",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonarmor_gold_tail",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonarmor_iron_body",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonarmor_iron_head",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonarmor_iron_neck",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonarmor_iron_tail",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonarmor_netherite_body",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonarmor_netherite_head",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonarmor_netherite_neck",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonarmor_netherite_tail",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonarmor_silver_body",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonarmor_silver_head",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonarmor_silver_neck",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonarmor_silver_tail",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonsteel_fire_boots",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonsteel_fire_chestplate",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonsteel_fire_helmet",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonsteel_fire_leggings",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonsteel_ice_boots",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonsteel_ice_chestplate",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonsteel_ice_helmet",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonsteel_ice_leggings",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonsteel_lightning_boots",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonsteel_lightning_chestplate",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonsteel_lightning_helmet",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonsteel_lightning_leggings",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dread_queen_staff",
+      "required": false
+    },
+    {
+      "id": "iceandfire:earplugs",
+      "required": false
+    },
+    {
+      "id": "iceandfire:epic_dragon_seeker",
+      "required": false
+    },
+    {
+      "id": "iceandfire:fishing_spear",
+      "required": false
+    },
+    {
+      "id": "iceandfire:forest_troll_leather_boots",
+      "required": false
+    },
+    {
+      "id": "iceandfire:forest_troll_leather_chestplate",
+      "required": false
+    },
+    {
+      "id": "iceandfire:forest_troll_leather_helmet",
+      "required": false
+    },
+    {
+      "id": "iceandfire:forest_troll_leather_leggings",
+      "required": false
+    },
+    {
+      "id": "iceandfire:frost_troll_leather_boots",
+      "required": false
+    },
+    {
+      "id": "iceandfire:frost_troll_leather_chestplate",
+      "required": false
+    },
+    {
+      "id": "iceandfire:frost_troll_leather_helmet",
+      "required": false
+    },
+    {
+      "id": "iceandfire:frost_troll_leather_leggings",
+      "required": false
+    },
+    {
+      "id": "iceandfire:godly_dragon_seeker",
+      "required": false
+    },
+    {
+      "id": "iceandfire:gold_hippogryph_armor",
+      "required": false
+    },
+    {
+      "id": "iceandfire:hippocampus_slapper",
+      "required": false
+    },
+    {
+      "id": "iceandfire:iron_hippogryph_armor",
+      "required": false
+    },
+    {
+      "id": "iceandfire:legendary_dragon_seeker",
+      "required": false
+    },
+    {
+      "id": "iceandfire:lich_staff",
+      "required": false
+    },
+    {
+      "id": "iceandfire:mountain_troll_leather_boots",
+      "required": false
+    },
+    {
+      "id": "iceandfire:mountain_troll_leather_chestplate",
+      "required": false
+    },
+    {
+      "id": "iceandfire:mountain_troll_leather_helmet",
+      "required": false
+    },
+    {
+      "id": "iceandfire:mountain_troll_leather_leggings",
+      "required": false
+    },
+    {
+      "id": "iceandfire:netherite_hippogryph_armor",
+      "required": false
+    },
+    {
+      "id": "iceandfire:pixie_wand",
+      "required": false
+    },
+    {
+      "id": "iceandfire:sheep_boots",
+      "required": false
+    },
+    {
+      "id": "iceandfire:sheep_chestplate",
+      "required": false
+    },
+    {
+      "id": "iceandfire:sheep_helmet",
+      "required": false
+    },
+    {
+      "id": "iceandfire:sheep_leggings",
+      "required": false
+    },
+    {
+      "id": "iceandfire:tide_blue_boots",
+      "required": false
+    },
+    {
+      "id": "iceandfire:tide_blue_chestplate",
+      "required": false
+    },
+    {
+      "id": "iceandfire:tide_blue_helmet",
+      "required": false
+    },
+    {
+      "id": "iceandfire:tide_blue_leggings",
+      "required": false
+    },
+    {
+      "id": "iceandfire:tide_bronze_boots",
+      "required": false
+    },
+    {
+      "id": "iceandfire:tide_bronze_chestplate",
+      "required": false
+    },
+    {
+      "id": "iceandfire:tide_bronze_helmet",
+      "required": false
+    },
+    {
+      "id": "iceandfire:tide_bronze_leggings",
+      "required": false
+    },
+    {
+      "id": "iceandfire:tide_deepblue_boots",
+      "required": false
+    },
+    {
+      "id": "iceandfire:tide_deepblue_chestplate",
+      "required": false
+    },
+    {
+      "id": "iceandfire:tide_deepblue_helmet",
+      "required": false
+    },
+    {
+      "id": "iceandfire:tide_deepblue_leggings",
+      "required": false
+    },
+    {
+      "id": "iceandfire:tide_green_boots",
+      "required": false
+    },
+    {
+      "id": "iceandfire:tide_green_chestplate",
+      "required": false
+    },
+    {
+      "id": "iceandfire:tide_green_helmet",
+      "required": false
+    },
+    {
+      "id": "iceandfire:tide_green_leggings",
+      "required": false
+    },
+    {
+      "id": "iceandfire:tide_purple_boots",
+      "required": false
+    },
+    {
+      "id": "iceandfire:tide_purple_chestplate",
+      "required": false
+    },
+    {
+      "id": "iceandfire:tide_purple_helmet",
+      "required": false
+    },
+    {
+      "id": "iceandfire:tide_purple_leggings",
+      "required": false
+    },
+    {
+      "id": "iceandfire:tide_red_boots",
+      "required": false
+    },
+    {
+      "id": "iceandfire:tide_red_chestplate",
+      "required": false
+    },
+    {
+      "id": "iceandfire:tide_red_helmet",
+      "required": false
+    },
+    {
+      "id": "iceandfire:tide_red_leggings",
+      "required": false
+    },
+    {
+      "id": "iceandfire:tide_teal_boots",
+      "required": false
+    },
+    {
+      "id": "iceandfire:tide_teal_chestplate",
+      "required": false
+    },
+    {
+      "id": "iceandfire:tide_teal_helmet",
+      "required": false
+    },
+    {
+      "id": "iceandfire:tide_teal_leggings",
+      "required": false
+    },
+    {
+      "id": "infinity_gauntlet:uru_boots",
+      "required": false
+    },
+    {
+      "id": "infinity_gauntlet:uru_chestplate",
+      "required": false
+    },
+    {
+      "id": "infinity_gauntlet:uru_helmet",
+      "required": false
+    },
+    {
+      "id": "infinity_gauntlet:uru_ingot",
+      "required": false
+    },
+    {
+      "id": "infinity_gauntlet:uru_leggings",
+      "required": false
+    },
+    {
+      "id": "infinity_gauntlet:uru_slim_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:adamantium_claws",
+      "required": false
+    },
+    {
+      "id": "marvel:ant_man_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:ant_man_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:ant_man_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:ant_man_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:ant_man_upgraded_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:ant_man_upgraded_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:ant_man_upgraded_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:ant_man_upgraded_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:black_panther_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:black_panther_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:black_panther_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:black_panther_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:black_panther_shuri_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:black_panther_shuri_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:black_panther_shuri_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:black_panther_shuri_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:black_panther_shuri_necklace",
+      "required": false
+    },
+    {
+      "id": "marvel:captain_america_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:captain_america_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:captain_america_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:captain_america_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:captain_america_stealth_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:captain_america_stealth_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:captain_america_stealth_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:captain_america_stealth_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:captain_carter_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:captain_carter_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:captain_carter_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:captain_carter_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:captain_marvel_838_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:captain_marvel_838_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:captain_marvel_838_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:captain_marvel_838_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:captain_marvel_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:captain_marvel_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:captain_marvel_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:captain_marvel_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:cyclops_astonishing_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:cyclops_astonishing_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:cyclops_astonishing_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:cyclops_astonishing_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:cyclops_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:cyclops_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:cyclops_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:cyclops_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:deadpool_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:deadpool_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:deadpool_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:deadpool_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:deadpool_x_force_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:deadpool_x_force_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:deadpool_x_force_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:deadpool_x_force_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:disaster_rescue_claws",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_11_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_11_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_11_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_11_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_15_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_15_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_15_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_15_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_17_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_17_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_17_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_17_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_19_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_19_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_19_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_19_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_1_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_1_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_1_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_1_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_20_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_20_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_20_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_20_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_21_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_21_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_21_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_21_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_22_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_22_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_22_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_22_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_23_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_23_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_23_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_23_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_24_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_24_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_24_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_24_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_25_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_25_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_25_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_25_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_28_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_28_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_28_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_28_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_2_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_2_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_2_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_2_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_30_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_30_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_30_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_30_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_33_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_33_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_33_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_33_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_35_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_35_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_35_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_35_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_37_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_37_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_37_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_37_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_38_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_38_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_38_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_38_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_39_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_39_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_39_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_39_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_3_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_3_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_3_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_3_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_42_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_42_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_42_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_42_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_43_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_43_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_43_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_43_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_5_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_5_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_5_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_5_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_6_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_6_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_6_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_6_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_7_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_7_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_7_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_man_mark_7_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_patriot_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_patriot_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_patriot_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:iron_patriot_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:katana",
+      "required": false
+    },
+    {
+      "id": "marvel:killmonger_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:killmonger_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:killmonger_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:killmonger_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:killmonger_necklace",
+      "required": false
+    },
+    {
+      "id": "marvel:kinetic_black_panther_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:kinetic_black_panther_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:kinetic_black_panther_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:kinetic_black_panther_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:kinetic_black_panther_necklace",
+      "required": false
+    },
+    {
+      "id": "marvel:miles_morales_suit_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:miles_morales_suit_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:miles_morales_suit_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:miles_morales_suit_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:mining_drill",
+      "required": false
+    },
+    {
+      "id": "marvel:quicksilver_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:quicksilver_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:quicksilver_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:quicksilver_mcu_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:quicksilver_mcu_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:quicksilver_mcu_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:red_guardian_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:red_guardian_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:red_guardian_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:red_guardian_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:spider_gwen_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:spider_gwen_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:spider_gwen_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:spider_gwen_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:spider_man_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:spider_man_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:spider_man_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:spider_man_insomniac_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:spider_man_insomniac_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:spider_man_insomniac_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:spider_man_insomniac_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:spider_man_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:spider_man_mcu_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:spider_man_mcu_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:spider_man_mcu_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:spider_man_mcu_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:sting",
+      "required": false
+    },
+    {
+      "id": "marvel:template_shield",
+      "required": false
+    },
+    {
+      "id": "marvel:thor_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:thor_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:thor_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:thor_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:us_agent_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:us_agent_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:us_agent_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:us_agent_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:war_machine_mark_1_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:war_machine_mark_1_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:war_machine_mark_1_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:war_machine_mark_1_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:war_machine_mark_2_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:war_machine_mark_2_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:war_machine_mark_2_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:war_machine_mark_2_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:wasp_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:wasp_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:wasp_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:wasp_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:web_shooter",
+      "required": false
+    },
+    {
+      "id": "marvel:winter_soldier_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:winter_soldier_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:winter_soldier_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:wolverine_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:wolverine_brown_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:wolverine_brown_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:wolverine_brown_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:wolverine_brown_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:wolverine_brown_sleeveless_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:wolverine_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:wolverine_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:wolverine_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:wolverine_sleeveless_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:wolverine_x_force_boots",
+      "required": false
+    },
+    {
+      "id": "marvel:wolverine_x_force_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvel:wolverine_x_force_helmet",
+      "required": false
+    },
+    {
+      "id": "marvel:wolverine_x_force_leggings",
+      "required": false
+    },
+    {
+      "id": "marvel:wolverine_x_force_sleeveless_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvellegacy:sewing_kit",
+      "required": false
+    },
+    {
+      "id": "marvellegacy:spiderman_bagman_boots",
+      "required": false
+    },
+    {
+      "id": "marvellegacy:spiderman_bagman_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvellegacy:spiderman_bagman_helmet",
+      "required": false
+    },
+    {
+      "id": "marvellegacy:spiderman_bagman_leggings",
+      "required": false
+    },
+    {
+      "id": "marvellegacy:spiderman_classic_boots",
+      "required": false
+    },
+    {
+      "id": "marvellegacy:spiderman_classic_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvellegacy:spiderman_classic_helmet",
+      "required": false
+    },
+    {
+      "id": "marvellegacy:spiderman_classic_leggings",
+      "required": false
+    },
+    {
+      "id": "marvellegacy:spiderman_original_boots",
+      "required": false
+    },
+    {
+      "id": "marvellegacy:spiderman_original_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvellegacy:spiderman_original_helmet",
+      "required": false
+    },
+    {
+      "id": "marvellegacy:spiderman_original_leggings",
+      "required": false
+    },
+    {
+      "id": "marvellegacy:spiderman_tasmii_boots",
+      "required": false
+    },
+    {
+      "id": "marvellegacy:spiderman_tasmii_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvellegacy:spiderman_tasmii_helmet",
+      "required": false
+    },
+    {
+      "id": "marvellegacy:spiderman_tasmii_leggings",
+      "required": false
+    },
+    {
+      "id": "marvellegacy:web_shooters",
+      "required": false
+    },
+    {
+      "id": "marvellegacy:wolverine_classic_boots",
+      "required": false
+    },
+    {
+      "id": "marvellegacy:wolverine_classic_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvellegacy:wolverine_classic_helmet",
+      "required": false
+    },
+    {
+      "id": "marvellegacy:wolverine_classic_leggings",
+      "required": false
+    },
+    {
+      "id": "marvellegacy:wolverine_original_boots",
+      "required": false
+    },
+    {
+      "id": "marvellegacy:wolverine_original_chestplate",
+      "required": false
+    },
+    {
+      "id": "marvellegacy:wolverine_original_helmet",
+      "required": false
+    },
+    {
+      "id": "marvellegacy:wolverine_original_leggings",
+      "required": false
+    },
+    {
+      "id": "mts:mts.fuelhose",
+      "required": false
+    },
+    {
+      "id": "mts:mts.jerrycan",
+      "required": false
+    },
+    {
+      "id": "mts:mts.jumpercable",
+      "required": false
+    },
+    {
+      "id": "mts:mts.jumperpack",
+      "required": false
+    },
+    {
+      "id": "mts:mts.paintgun",
+      "required": false
+    },
+    {
+      "id": "mts:mts.partscanner",
+      "required": false
+    },
+    {
+      "id": "mts:mts.wrench",
+      "required": false
+    },
+    {
+      "id": "mutantmonsters:mutant_skeleton_boots",
+      "required": false
+    },
+    {
+      "id": "mutantmonsters:mutant_skeleton_chestplate",
+      "required": false
+    },
+    {
+      "id": "mutantmonsters:mutant_skeleton_leggings",
+      "required": false
+    },
+    {
+      "id": "netherexp:banshee_rod",
+      "required": false
+    },
+    {
+      "id": "netherexp:crossbow_black_icicle",
+      "required": false
+    },
+    {
+      "id": "netherexp:sawed_on_shotgun",
+      "required": false
+    },
+    {
+      "id": "netherexp:skull_on_a_stick",
+      "required": false
+    },
+    {
+      "id": "orbital_railgun:orbital_railgun",
+      "required": false
+    },
+    {
+      "id": "oritech:exo_boots",
+      "required": false
+    },
+    {
+      "id": "oritech:exo_chestplate",
+      "required": false
+    },
+    {
+      "id": "oritech:exo_helmet",
+      "required": false
+    },
+    {
+      "id": "oritech:exo_jetpack",
+      "required": false
+    },
+    {
+      "id": "oritech:exo_leggings",
+      "required": false
+    },
+    {
+      "id": "oritech:jetpack",
+      "required": false
+    },
+    {
+      "id": "oritech:jetpack_elytra",
+      "required": false
+    },
+    {
+      "id": "oritech:jetpack_exo_elytra",
+      "required": false
+    },
+    {
+      "id": "oritech:target_designator",
+      "required": false
+    },
+    {
+      "id": "pastel:artisans_atlas",
+      "required": false
+    },
+    {
+      "id": "pastel:bedrock_boots",
+      "required": false
+    },
+    {
+      "id": "pastel:bedrock_chestplate",
+      "required": false
+    },
+    {
+      "id": "pastel:bedrock_helmet",
+      "required": false
+    },
+    {
+      "id": "pastel:bedrock_leggings",
+      "required": false
+    },
+    {
+      "id": "pastel:bedrock_shears",
+      "required": false
+    },
+    {
+      "id": "pastel:bedrock_shield",
+      "required": false
+    },
+    {
+      "id": "pastel:constructors_staff",
+      "required": false
+    },
+    {
+      "id": "pastel:cotton_cloud_boots",
+      "required": false
+    },
+    {
+      "id": "pastel:crafting_tablet",
+      "required": false
+    },
+    {
+      "id": "pastel:exchanging_staff",
+      "required": false
+    },
+    {
+      "id": "pastel:ferocious_chestplate",
+      "required": false
+    },
+    {
+      "id": "pastel:fetchling_helmet",
+      "required": false
+    },
+    {
+      "id": "pastel:natures_staff",
+      "required": false
+    },
+    {
+      "id": "pastel:omni_accelerator",
+      "required": false
+    },
+    {
+      "id": "pastel:oread_boots",
+      "required": false
+    },
+    {
+      "id": "pastel:paintbrush",
+      "required": false
+    },
+    {
+      "id": "pastel:radiance_staff",
+      "required": false
+    },
+    {
+      "id": "pastel:seven_league_boots",
+      "required": false
+    },
+    {
+      "id": "pastel:sylph_leggings",
+      "required": false
+    },
+    {
+      "id": "refurbished_furniture:knife",
+      "required": false
+    },
+    {
+      "id": "scguns:adrien_boots",
+      "required": false
+    },
+    {
+      "id": "scguns:adrien_chestplate",
+      "required": false
+    },
+    {
+      "id": "scguns:adrien_helm",
+      "required": false
+    },
+    {
+      "id": "scguns:adrien_leggings",
+      "required": false
+    },
+    {
+      "id": "scguns:anthralite_respirator",
+      "required": false
+    },
+    {
+      "id": "scguns:armor_pouches",
+      "required": false
+    },
+    {
+      "id": "scguns:brass_mask",
+      "required": false
+    },
+    {
+      "id": "scguns:cog_knight_boots",
+      "required": false
+    },
+    {
+      "id": "scguns:cog_knight_chestplate",
+      "required": false
+    },
+    {
+      "id": "scguns:cog_knight_helmet",
+      "required": false
+    },
+    {
+      "id": "scguns:cog_knight_leggings",
+      "required": false
+    },
+    {
+      "id": "scguns:cog_mace",
+      "required": false
+    },
+    {
+      "id": "scguns:diamond_steel_boots",
+      "required": false
+    },
+    {
+      "id": "scguns:diamond_steel_chestplate",
+      "required": false
+    },
+    {
+      "id": "scguns:diamond_steel_helmet",
+      "required": false
+    },
+    {
+      "id": "scguns:diamond_steel_leggings",
+      "required": false
+    },
+    {
+      "id": "scguns:dishes_pouch",
+      "required": false
+    },
+    {
+      "id": "scguns:exo_suit_boots",
+      "required": false
+    },
+    {
+      "id": "scguns:exo_suit_chestplate",
+      "required": false
+    },
+    {
+      "id": "scguns:exo_suit_core",
+      "required": false
+    },
+    {
+      "id": "scguns:exo_suit_helmet",
+      "required": false
+    },
+    {
+      "id": "scguns:exo_suit_leggings",
+      "required": false
+    },
+    {
+      "id": "scguns:flare_pistol",
+      "required": false
+    },
+    {
+      "id": "scguns:heavy_armor_pouches",
+      "required": false
+    },
+    {
+      "id": "scguns:heavy_pauldron",
+      "required": false
+    },
+    {
+      "id": "scguns:iron_mask",
+      "required": false
+    },
+    {
+      "id": "scguns:metal_detector",
+      "required": false
+    },
+    {
+      "id": "scguns:netherite_respirator",
+      "required": false
+    },
+    {
+      "id": "scguns:pauldron",
+      "required": false
+    },
+    {
+      "id": "scguns:redcoat_boots",
+      "required": false
+    },
+    {
+      "id": "scguns:redcoat_coat",
+      "required": false
+    },
+    {
+      "id": "scguns:redcoat_hat",
+      "required": false
+    },
+    {
+      "id": "scguns:redcoat_pants",
+      "required": false
+    },
+    {
+      "id": "scguns:repair_kit",
+      "required": false
+    },
+    {
+      "id": "scguns:rock_pouch",
+      "required": false
+    },
+    {
+      "id": "scguns:scrap_boots",
+      "required": false
+    },
+    {
+      "id": "scguns:scrap_chestplate",
+      "required": false
+    },
+    {
+      "id": "scguns:scrap_helmet",
+      "required": false
+    },
+    {
+      "id": "scguns:scrap_leggings",
+      "required": false
+    },
+    {
+      "id": "scguns:treated_brass_boots",
+      "required": false
+    },
+    {
+      "id": "scguns:treated_brass_chestplate",
+      "required": false
+    },
+    {
+      "id": "scguns:treated_brass_helmet",
+      "required": false
+    },
+    {
+      "id": "scguns:treated_brass_leggings",
+      "required": false
+    },
+    {
+      "id": "scguns:white_flag",
+      "required": false
+    },
+    {
+      "id": "securitycraft:taser",
+      "required": false
+    },
+    {
+      "id": "securitycraft:taser_powered",
+      "required": false
+    },
+    {
+      "id": "securitycraft:universal_block_modifier",
+      "required": false
+    },
+    {
+      "id": "securitycraft:universal_key_changer",
+      "required": false
+    },
+    {
+      "id": "supplementaries:altimeter",
+      "required": false
+    },
+    {
+      "id": "supplementaries:flute",
+      "required": false
+    },
+    {
+      "id": "supplementaries:speedometer",
+      "required": false
+    },
+    {
+      "id": "wan_ancient_beasts:ancient_club",
+      "required": false
+    },
+    {
+      "id": "wan_ancient_beasts:black_charger_armor",
+      "required": false
+    },
+    {
+      "id": "wan_ancient_beasts:blue_charger_armor",
+      "required": false
+    },
+    {
+      "id": "wan_ancient_beasts:brown_charger_armor",
+      "required": false
+    },
+    {
+      "id": "wan_ancient_beasts:cyan_charger_armor",
+      "required": false
+    },
+    {
+      "id": "wan_ancient_beasts:gray_charger_armor",
+      "required": false
+    },
+    {
+      "id": "wan_ancient_beasts:green_charger_armor",
+      "required": false
+    },
+    {
+      "id": "wan_ancient_beasts:light_blue_charger_armor",
+      "required": false
+    },
+    {
+      "id": "wan_ancient_beasts:light_gray_charger_armor",
+      "required": false
+    },
+    {
+      "id": "wan_ancient_beasts:lime_charger_armor",
+      "required": false
+    },
+    {
+      "id": "wan_ancient_beasts:magenta_charger_armor",
+      "required": false
+    },
+    {
+      "id": "wan_ancient_beasts:orange_charger_armor",
+      "required": false
+    },
+    {
+      "id": "wan_ancient_beasts:pink_charger_armor",
+      "required": false
+    },
+    {
+      "id": "wan_ancient_beasts:purple_charger_armor",
+      "required": false
+    },
+    {
+      "id": "wan_ancient_beasts:red_charger_armor",
+      "required": false
+    },
+    {
+      "id": "wan_ancient_beasts:surfer_armor",
+      "required": false
+    },
+    {
+      "id": "wan_ancient_beasts:white_charger_armor",
+      "required": false
+    },
+    {
+      "id": "wan_ancient_beasts:yellow_charger_armor",
+      "required": false
+    },
+    {
+      "id": "weather2:pocket_sand",
+      "required": false
+    },
+    {
+      "id": "weeping_angels:chisel",
+      "required": false
+    },
+    {
+      "id": "weeping_angels:timey_wimey_detector",
+      "required": false
+    },
+    {
+      "id": "witchery:baba_yagas_hat",
+      "required": false
+    },
+    {
+      "id": "witchery:broom",
+      "required": false
+    },
+    {
+      "id": "witchery:cane_sword",
+      "required": false
+    },
+    {
+      "id": "witchery:death_footwear",
+      "required": false
+    },
+    {
+      "id": "witchery:death_hood",
+      "required": false
+    },
+    {
+      "id": "witchery:death_robe",
+      "required": false
+    },
+    {
+      "id": "witchery:death_sickle",
+      "required": false
+    },
+    {
+      "id": "witchery:dress_coat",
+      "required": false
+    },
+    {
+      "id": "witchery:hunter_boots",
+      "required": false
+    },
+    {
+      "id": "witchery:hunter_chestplate",
+      "required": false
+    },
+    {
+      "id": "witchery:hunter_helmet",
+      "required": false
+    },
+    {
+      "id": "witchery:hunter_leggings",
+      "required": false
+    },
+    {
+      "id": "witchery:huntsman_spear",
+      "required": false
+    },
+    {
+      "id": "witchery:icy_slippers",
+      "required": false
+    },
+    {
+      "id": "witchery:oxford_boots",
+      "required": false
+    },
+    {
+      "id": "witchery:taglock_kit",
+      "required": false
+    },
+    {
+      "id": "witchery:top_hat",
+      "required": false
+    },
+    {
+      "id": "witchery:trousers",
+      "required": false
+    },
+    {
+      "id": "witchery:witches_hand",
+      "required": false
+    },
+    {
+      "id": "witchery:witches_hat",
+      "required": false
+    },
+    {
+      "id": "witchery:witches_robes",
+      "required": false
+    },
+    {
+      "id": "witchery:witches_slippers",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.cybernetics_webs.title",
+  "description": "task.integrated_boogaloo.cybernetics_webs.description",
+  "showcase": [
+    "@item:createcybernetics:wetware_webshooting_rightarm",
+    "@recipe:createcybernetics:wetware_webshooting_rightarm"
+  ],
+  "icon": "createcybernetics:wetware_webshooting_rightarm",
+  "program": "integrated_boogaloo:cybernetics",
+  "category": "integrated_boogaloo:cybernetics",
+  "sort_order": 9,
+  "position": {
+    "x": 5,
+    "y": 2
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:cybernetics/install"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "createcybernetics:wetware_webshooting_rightarm",
+      "description": "task.integrated_boogaloo.cybernetics_webs.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "item",
+      "item": "lucky:lucky_block",
+      "count": 2
+    },
+    {
+      "type": "archive",
+      "entry": "integrated_boogaloo:cyber_grafting"
+    }
+  ],
+  "line_axis": "horizontal"
+}

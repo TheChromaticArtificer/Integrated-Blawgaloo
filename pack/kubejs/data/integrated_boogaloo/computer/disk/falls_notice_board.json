@@ -1,0 +1,15 @@
+{
+  "category": "integrated_boogaloo:recovered",
+  "title": "guide.integrated_boogaloo.disk.falls_notice_board.title",
+  "description": "guide.integrated_boogaloo.disk.falls_notice_board.description",
+  "files": [
+    {
+      "path": "notice.txt",
+      "source": "integrated_boogaloo:solemn_falls/notice.txt"
+    },
+    {
+      "path": "label.txt",
+      "source": "integrated_boogaloo:solemn_falls/notice_label.txt"
+    }
+  ]
+}

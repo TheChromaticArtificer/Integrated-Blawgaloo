@@ -1,0 +1,14 @@
+{
+  "type": "bda:hooligan_village",
+  "biomes": "#minecraft:is_overworld",
+  "spawn_overrides": {
+    "creature": {
+      "bounding_box": "full",
+      "spawns": [
+        { "type": "bda:yak", "weight": 8, "minCount": 1, "maxCount": 3 }
+      ]
+    }
+  },
+  "step": "surface_structures",
+  "terrain_adaptation": "none"
+}

@@ -1,0 +1,400 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "scguns:bullet.flyby1"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:entity.dissident.die"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:entity.dissident.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:entity.dissident.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:entity.praetor.die"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:entity.praetor.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:entity.praetor.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:entity.praetor.roar"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:entity.scamp.die"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:entity.scamp.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:entity.stun_grenade.explosion"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:entity.stun_grenade.ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:entity.sulfurhead.die"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:entity.sulfurhead.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:entity.sulfurhead.idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.airgun.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.airgun.fire_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.beam.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.blackpowder.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.bolt.bolt"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.bolt_pull.bolt_pull"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.bolt_release.bolt_release"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.boomstick.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.boomstick.silenced_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.brass_pistol.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.brass_revolver.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.brass_shotgun.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.bruiser.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.bruiser.silenced_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.cannon.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.cannon.reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.carabine.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.combat_shotgun.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.combat_shotgun.silenced_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.cowboy.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.distant_gunshot.edge"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.distant_gunshot.heavy"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.distant_gunshot.light"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.flamethrower.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.flamethrower.fire_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.flamethrower.pre_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.flamethrower.reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.gauss.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.gauss.pre_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.gauss.reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.greaser_smg.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.grenade.pin"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.gun_rustle.gun_rustle"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.gun_sounds.hiss"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.gun_sounds.metal"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.gyrojet.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.heavier_rifle.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.heavy_rifle.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.heavy_rifle_2.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.iron_pistol.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.iron_rifle.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.jetpack.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.jetpack.loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.laser.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.laser.fire_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.lever.lever"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.machine_gun.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.mag_in.mag_in"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.mag_out.mag_out"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.makeshift_rifle.cock"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.makeshift_rifle.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.makeshift_rifle.silenced_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.new_rifle.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.new_rifle.fire_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.old_rifle.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.ping.ping"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.pistol.cock"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.pistol.reload"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.plasma.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.plasma.fire_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.plasma_shotgun.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.rack.rack"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.rail.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.raygun.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.reload_end.reload_end"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.revolver.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.rocket.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.rocket_rifle.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.rocket_rifle.fire_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.rusty_gnat.copper_jam"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.rusty_gnat.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.rusty_gnat.silenced_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.scorched_rifle.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.scorched_sniper.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.scrapper.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.sculk.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.shock.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.shulker.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.slap.slap"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:item.wither.wither"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:mass_destruction"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:mass_destruction_extended"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:mass_production"
+		},
+		{
+			"weight": 1.0,
+			"key": "scguns:ui.weapon.attach"
+		}
+	]
+}

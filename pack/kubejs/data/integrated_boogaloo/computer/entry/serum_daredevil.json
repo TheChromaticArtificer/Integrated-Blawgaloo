@@ -1,0 +1,21 @@
+{
+  "green_tint": false,
+  "type": "item",
+  "category": "general",
+  "folder": "integrated_boogaloo:super_serums",
+  "sort_order": 0,
+  "item": "integrated_superheroes:syringe_radar_sense_matt_murdock",
+  "title": "guide.integrated_boogaloo.entry.serum_daredevil.title",
+  "subtitle": "guide.integrated_boogaloo.entry.serum_daredevil.subtitle",
+  "content": [
+    {
+      "text": "guide.integrated_boogaloo.entry.serum_daredevil.body_1"
+    },
+    {
+      "display": "integrated_boogaloo:guide/serum_daredevil"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.serum_daredevil.body_2"
+    }
+  ]
+}

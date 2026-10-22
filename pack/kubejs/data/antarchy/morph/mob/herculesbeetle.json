@@ -1,0 +1,62 @@
+{
+    "forEntity": "antarchy:hercules_beetle",
+    "traits": [
+        {
+            "type": "traitFallNegate"
+        },
+        {
+            "type": "traitStepHeight",
+            "amount": 1.0
+        },
+        {
+            "type": "abilityFlightFlap",
+            "resetVerticalVelocity": true,
+            "velocityAdded": 0.4,
+            "flapLimit": 6,
+            "slowdownInWater": true
+        },
+        {
+            "type": "abilityFlight",
+            "upgradeFor": "abilityFlightFlap",
+            "slowdownInWater": true
+        },
+        {
+            "type": "abilityRideable",
+            "requiresSaddle": true
+        },
+        {
+            "type": "abilityAntarchyHerculesCry",
+            "nativeClassName": "com.craisinlord.antarchy.content.entity.HerculesBeetleEntity",
+            "noArgMethods": [
+                "startCry"
+            ],
+            "triggerControllerName": "main_controller",
+            "triggerAnimName": "cry",
+            "radius": 5.0,
+            "damage": 0.0,
+            "effectId": "minecraft:strength",
+            "effectDuration": 200,
+            "effectAmplifier": 0,
+            "cooldown": 200,
+            "soundEventId": "antarchy:hercules_beetle_cry",
+            "slot": 1
+        },
+        {
+            "type": "abilityAntarchyHerculesCharge",
+            "nativeClassName": "com.craisinlord.antarchy.content.entity.HerculesBeetleEntity",
+            "triggerControllerName": "flying_charge_controller",
+            "triggerAnimName": "charge_start",
+            "lineAttack": true,
+            "range": 8.0,
+            "radius": 2.0,
+            "damage": 12.0,
+            "knockback": 2.0,
+            "selfMotion": true,
+            "selfMotionForward": 1.8,
+            "selfMotionUp": 0.15,
+            "cooldown": 100,
+            "soundEventId": "antarchy:hercules_beetle_charge_start",
+            "slot": 2
+        }
+    ]
+}

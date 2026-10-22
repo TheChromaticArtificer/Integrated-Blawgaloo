@@ -1,0 +1,96 @@
+{
+  "type": "adventure",
+  "title": "program.integrated_boogaloo.bunker_7.title",
+  "start": "gate",
+  "nodes": {
+    "gate": {
+      "text": "You're on night watch at Bunker 7. The radio has been static for an hour. The door to the lower level is open. It's never open.",
+      "choices": [
+        {
+          "text": "Go down the stairs",
+          "goto": "stairs"
+        },
+        {
+          "text": "Check the radio",
+          "goto": "radio"
+        }
+      ]
+    },
+    "radio": {
+      "text": "Static. Then a voice, very close to the microphone: \"bottom.\" Then static again.",
+      "set_flags": [
+        "heard_word"
+      ],
+      "choices": [
+        {
+          "text": "Go down the stairs",
+          "goto": "stairs"
+        }
+      ]
+    },
+    "stairs": {
+      "text": "The lower level smells like wet stone. A terminal glows at the far end. The locker on your left is dented from the inside.",
+      "choices": [
+        {
+          "text": "Open the locker",
+          "goto": "locker"
+        },
+        {
+          "text": "Use the terminal",
+          "goto": "terminal"
+        }
+      ]
+    },
+    "locker": {
+      "text": "Inside is a keycard and a note: DON'T TYPE THE WORD.",
+      "set_flags": [
+        "keycard"
+      ],
+      "choices": [
+        {
+          "text": "Use the terminal",
+          "goto": "terminal"
+        }
+      ]
+    },
+    "terminal": {
+      "text": "The screen says ENTER PASSWORD. The cursor blinks like it's waiting for you in particular.",
+      "choices": [
+        {
+          "text": "Swipe the keycard",
+          "goto": "vault",
+          "requires_flag": "keycard"
+        },
+        {
+          "text": "Type the word from the radio",
+          "goto": "loop",
+          "requires_flag": "heard_word"
+        },
+        {
+          "text": "Go back up and wait for morning",
+          "goto": "stayed"
+        }
+      ]
+    },
+    "vault": {
+      "text": "The vault holds one floppy disk with no label. Someone has scratched a single word into the wall, over and over: BOTTOM.",
+      "ending": "vault",
+      "password": "bottom",
+      "rewards": [
+        {
+          "type": "antcoins",
+          "amount": 25
+        }
+      ]
+    },
+    "loop": {
+      "text": "You type it. The lights go out. When they come back you're at the top of the stairs, and the door is closed. The radio says one word, then nothing.",
+      "ending": "loop",
+      "password": "bottom"
+    },
+    "stayed": {
+      "text": "You sit at your post and watch the door until sunrise. Nothing comes up the stairs.",
+      "ending": "stayed"
+    }
+  }
+}

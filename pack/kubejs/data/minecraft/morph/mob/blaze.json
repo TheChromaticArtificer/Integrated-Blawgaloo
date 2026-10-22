@@ -1,0 +1,27 @@
+{
+    "forEntity": "minecraft:blaze",
+    "traits": [
+        {
+            "type": "traitHostile"
+        },
+        {
+            "type": "traitImmunityFire"
+        },
+        {
+            "type": "traitWaterSensitivity"
+        },
+        {
+            "type": "abilityFlightFlap",
+            "slowdownInWater": true
+        },
+        {
+            "type": "abilityFlight",
+            "upgradeFor": "abilityFlightFlap"
+        },
+        {
+            "type": "abilityFireball",
+            "isLarge": false,
+            "cooldown": 40
+        }
+    ]
+}

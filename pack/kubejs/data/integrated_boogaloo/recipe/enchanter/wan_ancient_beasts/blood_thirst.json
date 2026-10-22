@@ -1,0 +1,52 @@
+{
+  "type": "pastel:enchanter",
+  "group": "wan_ancient_beasts",
+  "time": 300,
+  "required_experience": 100,
+  "ingredients": [
+    {
+      "item": "minecraft:book"
+    },
+    {
+      "item": "pastel:black_pigment"
+    },
+    {
+      "item": "pastel:black_pigment"
+    },
+    {
+      "item": "wan_ancient_beasts:crusher_spike"
+    },
+    {
+      "item": "antarchy:blood_crystal_shard"
+    },
+    {
+      "item": "pastel:black_pigment"
+    },
+    {
+      "item": "pastel:black_pigment"
+    },
+    {
+      "item": "wan_ancient_beasts:crusher_spike"
+    },
+    {
+      "item": "antarchy:blood_crystal_shard"
+    }
+  ],
+  "result": {
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "stored_enchantments": {
+        "wan_ancient_beasts:blood_thirst": 1
+      }
+    }
+  },
+  "required_advancement": "integrated_boogaloo:unlocks/enchantments/wan_ancient_beasts",
+  "neoforge:conditions": [
+    {
+      "type": "pastel:enchantments_exist",
+      "values": [
+        "wan_ancient_beasts:blood_thirst"
+      ]
+    }
+  ]
+}

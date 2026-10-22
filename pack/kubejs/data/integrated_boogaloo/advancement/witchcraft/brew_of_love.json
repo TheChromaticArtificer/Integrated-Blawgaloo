@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "brew_of_love": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "witchery:brew_of_love"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "brew_of_love"
+    ]
+  ]
+}

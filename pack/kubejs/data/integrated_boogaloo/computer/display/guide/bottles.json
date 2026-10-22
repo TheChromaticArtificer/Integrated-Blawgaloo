@@ -1,0 +1,20 @@
+{
+  "title": "literal:The three bottles",
+  "variants": [
+    {
+      "id": "fading",
+      "title": "literal:Fading",
+      "display": "integrated_boogaloo:guide/bottle_fading"
+    },
+    {
+      "id": "failing",
+      "title": "literal:Failing",
+      "display": "integrated_boogaloo:guide/bottle_failing"
+    },
+    {
+      "id": "ruin",
+      "title": "literal:Ruin",
+      "display": "integrated_boogaloo:guide/bottle_ruin"
+    }
+  ]
+}

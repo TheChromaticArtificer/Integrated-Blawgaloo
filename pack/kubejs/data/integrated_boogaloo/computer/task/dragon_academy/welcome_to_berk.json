@@ -1,0 +1,41 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.dragon_academy_welcome_to_berk.title",
+  "description": "task.integrated_boogaloo.dragon_academy_welcome_to_berk.description",
+  "showcase": [
+    "@entity:bda:hooligan_adult_male"
+  ],
+  "icon_entity": "bda:hooligan_adult_male",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:dragon_academy",
+  "sort_order": 407,
+  "position": {
+    "x": 0,
+    "y": 1
+  },
+  "availability": "automatic",
+  "requires": [],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "bda:academy/welcome_to_berk",
+      "description": "task.integrated_boogaloo.dragon_academy_welcome_to_berk.goal",
+      "count": 1
+    }
+  ],
+  "archive_entries": [
+    "integrated_boogaloo:bda_hooligans"
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 100
+    },
+    {
+      "type": "archive",
+      "entry": "integrated_boogaloo:bda_hooligans"
+    }
+  ],
+  "line_axis": "horizontal"
+}

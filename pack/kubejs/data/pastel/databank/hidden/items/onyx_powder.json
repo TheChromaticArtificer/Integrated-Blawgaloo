@@ -1,0 +1,10 @@
+{
+  "type": {
+    "type": "databank:item",
+    "hidden_as": "minecraft:black_dye",
+    "original": "pastel:onyx_powder"
+  },
+  "condition": {
+    "type": "databank:always_true"
+  }
+}

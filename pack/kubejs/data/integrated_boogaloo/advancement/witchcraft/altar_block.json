@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "deepslate_altar_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "witchery:deepslate_altar_block"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "deepslate_altar_block"
+    ]
+  ]
+}

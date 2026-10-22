@@ -1,0 +1,37 @@
+{
+  "green_tint": false,
+  "type": "article",
+  "category": "general",
+  "folder": "integrated_boogaloo:cybernetics",
+  "sort_order": 30,
+  "title": "guide.integrated_boogaloo.entry.body_shop_shells.title",
+  "subtitle": "guide.integrated_boogaloo.entry.body_shop_shells.subtitle",
+  "cover_item": "neosync:shell_storage",
+  "lookup": [
+    "neosync:shell_constructor",
+    "neosync:manual_shell_storage",
+    "neosync:zero_point_shell_storage",
+    "neosync:zero_point_shell_constructor",
+    "neosync:treadmill"
+  ],
+  "content": [
+    {
+      "text": "guide.integrated_boogaloo.entry.body_shop_shells.body_1"
+    },
+    {
+      "display": "integrated_boogaloo:guide/body_shop"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.body_shop_shells.body_2"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.body_shop_shells.body_3"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.body_shop_shells.body_4"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.body_shop_shells.body_5"
+    }
+  ]
+}

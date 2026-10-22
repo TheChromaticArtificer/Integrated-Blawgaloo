@@ -1,0 +1,106 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "gigeresque:gig_dungeon",
+			"data": {
+				"step": "strongholds",
+				"terrain_adaptation": "encapsulate",
+				"spawn_overrides": {
+					"ambient": {
+						"bounding_box": "piece",
+						"spawns": [
+						]
+					},
+					"misc": {
+						"bounding_box": "piece",
+						"spawns": [
+						]
+					},
+					"water_ambient": {
+						"bounding_box": "piece",
+						"spawns": [
+						]
+					},
+					"axolotls": {
+						"bounding_box": "piece",
+						"spawns": [
+						]
+					},
+					"underground_water_creature": {
+						"bounding_box": "piece",
+						"spawns": [
+						]
+					},
+					"creature": {
+						"bounding_box": "piece",
+						"spawns": [
+						]
+					},
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+						]
+					},
+					"water_creature": {
+						"bounding_box": "piece",
+						"spawns": [
+						]
+					}
+				},
+				"id": "gigeresque:gig_dungeon"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "gigeresque:sculk_gig_dungeon",
+			"data": {
+				"step": "strongholds",
+				"terrain_adaptation": "encapsulate",
+				"spawn_overrides": {
+					"ambient": {
+						"bounding_box": "piece",
+						"spawns": [
+						]
+					},
+					"misc": {
+						"bounding_box": "piece",
+						"spawns": [
+						]
+					},
+					"water_ambient": {
+						"bounding_box": "piece",
+						"spawns": [
+						]
+					},
+					"axolotls": {
+						"bounding_box": "piece",
+						"spawns": [
+						]
+					},
+					"underground_water_creature": {
+						"bounding_box": "piece",
+						"spawns": [
+						]
+					},
+					"creature": {
+						"bounding_box": "piece",
+						"spawns": [
+						]
+					},
+					"monster": {
+						"bounding_box": "piece",
+						"spawns": [
+						]
+					},
+					"water_creature": {
+						"bounding_box": "piece",
+						"spawns": [
+						]
+					}
+				},
+				"id": "gigeresque:sculk_gig_dungeon"
+			}
+		}
+	]
+}

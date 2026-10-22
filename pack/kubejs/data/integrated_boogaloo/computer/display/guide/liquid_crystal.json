@@ -1,0 +1,506 @@
+{
+  "version": 1,
+  "title": "literal:Liquid Crystal",
+  "width": 250,
+  "height": 144,
+  "elements": [
+    {
+      "id": "pool",
+      "type": "scene",
+      "x": 2,
+      "y": 2,
+      "width": 140,
+      "height": 136,
+      "yaw": 210,
+      "pitch": 35,
+      "scale": 1.1,
+      "blocks": [
+        {
+          "pos": [
+            -1,
+            -1,
+            -1
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            -1,
+            0
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            -1,
+            1
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            -1,
+            2
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            -1
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            0
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            1
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            2
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            -1
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            0
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            1
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            2
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            2,
+            -1,
+            -1
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            2,
+            -1,
+            0
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            2,
+            -1,
+            1
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            2,
+            -1,
+            2
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            3,
+            -1,
+            -1
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            3,
+            -1,
+            0
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            3,
+            -1,
+            1
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            3,
+            -1,
+            2
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            4,
+            -1,
+            -1
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            4,
+            -1,
+            0
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            4,
+            -1,
+            1
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            4,
+            -1,
+            2
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            5,
+            -1,
+            -1
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            5,
+            -1,
+            0
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            5,
+            -1,
+            1
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            5,
+            -1,
+            2
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            0,
+            0
+          ],
+          "state": "pastel:liquid_crystal",
+          "id": "lc00",
+          "groups": [
+            "pool"
+          ]
+        },
+        {
+          "pos": [
+            0,
+            0,
+            1
+          ],
+          "state": "pastel:liquid_crystal",
+          "id": "lc01",
+          "groups": [
+            "pool"
+          ]
+        },
+        {
+          "pos": [
+            1,
+            0,
+            0
+          ],
+          "state": "pastel:liquid_crystal",
+          "id": "lc10",
+          "groups": [
+            "pool"
+          ]
+        },
+        {
+          "pos": [
+            1,
+            0,
+            1
+          ],
+          "state": "pastel:liquid_crystal",
+          "id": "lc11",
+          "groups": [
+            "pool"
+          ]
+        },
+        {
+          "pos": [
+            2,
+            0,
+            0
+          ],
+          "state": "minecraft:water",
+          "id": "water",
+          "groups": [
+            "water"
+          ]
+        },
+        {
+          "pos": [
+            2,
+            0,
+            1
+          ],
+          "state": "minecraft:lava",
+          "id": "lava",
+          "groups": [
+            "lava"
+          ]
+        },
+        {
+          "pos": [
+            -1,
+            0,
+            0
+          ],
+          "state": "pastel:humus",
+          "id": "humus",
+          "groups": [
+            "humus"
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "id": "pool",
+          "title": "literal:A pool",
+          "text": "literal:Liquid Crystal heals you while you stand in it.",
+          "groups": [
+            "pool"
+          ],
+          "conditions": [
+            {
+              "kind": "in_liquid",
+              "text": "literal:Stand in it"
+            }
+          ]
+        },
+        {
+          "id": "water",
+          "title": "literal:Water",
+          "text": "literal:Water flowing in sets it into Frostbite Crystal.",
+          "groups": [
+            "water"
+          ],
+          "states": {
+            "lc10": "pastel:frostbite_crystal"
+          }
+        },
+        {
+          "id": "lava",
+          "title": "literal:Lava",
+          "text": "literal:Lava sets it into Blazing Crystal.",
+          "groups": [
+            "lava"
+          ],
+          "states": {
+            "lc11": "pastel:blazing_crystal"
+          }
+        },
+        {
+          "id": "humus",
+          "title": "literal:Humus",
+          "text": "literal:Humus turns it into Clay.",
+          "groups": [
+            "humus"
+          ],
+          "states": {
+            "lc00": "minecraft:clay"
+          }
+        },
+        {
+          "id": "drop",
+          "title": "literal:Dropped items",
+          "text": "literal:Some items dropped in change."
+        }
+      ],
+      "moves": [
+        {
+          "item": "pastel:resplendent_feather",
+          "from": [
+            0,
+            2.5,
+            1
+          ],
+          "to": [
+            0.4,
+            0.4,
+            0.6
+          ],
+          "arc": 0.2,
+          "duration": 1.2,
+          "steps": [
+            "drop"
+          ]
+        }
+      ],
+      "hero": true,
+      "ratio": 0.83
+    },
+    {
+      "type": "text",
+      "x": 6,
+      "y": 4,
+      "width": 238,
+      "text": "literal:Where it meets other liquids it sets solid."
+    },
+    {
+      "type": "group",
+      "x": 6,
+      "y": 15,
+      "layout": "grid",
+      "columns": 3,
+      "cell_width": 22,
+      "cell_height": 22,
+      "elements": [
+        {
+          "type": "slot",
+          "x": 0,
+          "y": 0,
+          "item": "pastel:frostbite_crystal",
+          "tooltip": "literal:From water"
+        },
+        {
+          "type": "slot",
+          "x": 0,
+          "y": 0,
+          "item": "pastel:blazing_crystal",
+          "tooltip": "literal:From lava"
+        },
+        {
+          "type": "slot",
+          "x": 0,
+          "y": 0,
+          "item": "minecraft:clay",
+          "tooltip": "literal:From humus"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "x": 6,
+      "y": 41,
+      "width": 238,
+      "text": "literal:Items that change when dropped in:",
+      "color": "muted"
+    },
+    {
+      "type": "recipe_list",
+      "id": "rows",
+      "x": 2,
+      "y": 52,
+      "width": 246,
+      "height": 86,
+      "title_width": 110,
+      "rows": [
+        {
+          "title": "literal:Resonant Lily",
+          "inputs": [
+            {
+              "tag": "minecraft:flowers"
+            }
+          ],
+          "outputs": [
+            "pastel:resonant_lily"
+          ]
+        }
+      ],
+      "search": false
+    }
+  ],
+  "reflow": true,
+  "auto_height": true,
+  "hide_title": true
+}

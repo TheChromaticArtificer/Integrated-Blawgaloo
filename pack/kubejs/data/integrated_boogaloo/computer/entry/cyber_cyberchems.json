@@ -1,0 +1,26 @@
+{
+  "green_tint": false,
+  "type": "article",
+  "category": "general",
+  "folder": "integrated_boogaloo:cybernetics",
+  "sort_order": 60,
+  "title": "guide.integrated_boogaloo.entry.cyber_cyberchems.title",
+  "subtitle": "guide.integrated_boogaloo.entry.cyber_cyberchems.subtitle",
+  "description": [
+    "guide.integrated_boogaloo.entry.cyber_cyberchems.body_1",
+    "guide.integrated_boogaloo.entry.cyber_cyberchems.body_2",
+    "guide.integrated_boogaloo.entry.cyber_cyberchems.body_3",
+    "guide.integrated_boogaloo.entry.cyber_cyberchems.body_4",
+    "guide.integrated_boogaloo.entry.cyber_cyberchems.body_5",
+    "guide.integrated_boogaloo.entry.cyber_cyberchems.body_6",
+    "guide.integrated_boogaloo.entry.cyber_cyberchems.body_7",
+    "guide.integrated_boogaloo.entry.cyber_cyberchems.body_8",
+    "guide.integrated_boogaloo.entry.cyber_cyberchems.body_9",
+    "guide.integrated_boogaloo.entry.cyber_cyberchems.body_10"
+  ],
+  "cover_item": "createcybernetics:neuropozyne_autoinjector",
+  "lookup": [
+    "createcybernetics:empty_autoinjector",
+    "createcybernetics:data_shard_infolog_cyberchems"
+  ]
+}

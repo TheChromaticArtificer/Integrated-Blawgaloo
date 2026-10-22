@@ -1,0 +1,1290 @@
+{
+  "version": 1,
+  "title": "literal:Anvil crushing",
+  "width": 250,
+  "height": 137,
+  "elements": [
+    {
+      "id": "anvil",
+      "type": "scene",
+      "x": 2,
+      "y": 2,
+      "width": 120,
+      "height": 126,
+      "yaw": 30,
+      "pitch": 20,
+      "scale": 1.0,
+      "blocks": [
+        {
+          "pos": [
+            -1,
+            -1,
+            -1
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            -1,
+            0
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            -1,
+            1
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            -1
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            0
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            1
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            -1
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            0
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            1
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            4,
+            0
+          ],
+          "state": "minecraft:anvil",
+          "id": "anvil",
+          "highlight": true
+        },
+        {
+          "pos": [
+            0,
+            0,
+            0
+          ],
+          "state": "minecraft:air",
+          "id": "landed"
+        }
+      ],
+      "items": [
+        {
+          "pos": [
+            0,
+            -0.35,
+            0
+          ],
+          "id": "pastel:topaz_shard",
+          "until": "drop"
+        },
+        {
+          "pos": [
+            0,
+            -0.35,
+            0
+          ],
+          "id": "pastel:topaz_powder",
+          "from": "crushed"
+        }
+      ],
+      "steps": [
+        {
+          "id": "lay",
+          "title": "literal:Lay them down",
+          "text": "literal:Drop the shards, buds or leaves on the ground."
+        },
+        {
+          "id": "drop",
+          "title": "literal:Drop an anvil",
+          "text": "literal:Drop an anvil on them from a few blocks up.",
+          "states": {
+            "anvil": "minecraft:air",
+            "landed": "minecraft:anvil"
+          }
+        },
+        {
+          "id": "crushed",
+          "title": "literal:Crushed",
+          "text": "literal:They come out as powder or pigment.",
+          "states": {
+            "anvil": "minecraft:air",
+            "landed": "minecraft:air"
+          }
+        }
+      ],
+      "effects": [
+        {
+          "kind": "particles",
+          "pos": [
+            0,
+            0,
+            0
+          ],
+          "color": "#7EC8F2",
+          "count": 10,
+          "steps": [
+            "crushed"
+          ]
+        }
+      ],
+      "autoplay": true,
+      "hero": true,
+      "ratio": 0.89
+    },
+    {
+      "type": "text",
+      "x": 6,
+      "y": 4,
+      "width": 238,
+      "text": "literal:Higher drops crush more at once. The anvil takes a little damage."
+    },
+    {
+      "type": "recipe_list",
+      "id": "rows",
+      "x": 2,
+      "y": 25,
+      "width": 246,
+      "height": 106,
+      "title_width": 110,
+      "rows": [
+        {
+          "title": "literal:Amethyst Powder",
+          "inputs": [
+            {
+              "item": "minecraft:amethyst_block"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:amethyst_powder"
+            }
+          ]
+        },
+        {
+          "title": "literal:Amethyst Powder",
+          "inputs": [
+            {
+              "item": "minecraft:amethyst_cluster"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:amethyst_powder",
+              "count": 16
+            }
+          ]
+        },
+        {
+          "title": "literal:Amethyst Powder",
+          "inputs": [
+            {
+              "item": "minecraft:amethyst_shard"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:amethyst_powder",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "title": "literal:Amethyst Powder",
+          "inputs": [
+            {
+              "item": "minecraft:large_amethyst_bud"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:amethyst_powder",
+              "count": 8
+            }
+          ]
+        },
+        {
+          "title": "literal:Amethyst Powder",
+          "inputs": [
+            {
+              "item": "minecraft:medium_amethyst_bud"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:amethyst_powder",
+              "count": 6
+            }
+          ]
+        },
+        {
+          "title": "literal:Amethyst Powder",
+          "inputs": [
+            {
+              "item": "minecraft:small_amethyst_bud"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:amethyst_powder",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "title": "literal:Black Concrete Powder",
+          "inputs": [
+            {
+              "item": "minecraft:black_concrete"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "minecraft:black_concrete_powder"
+            }
+          ]
+        },
+        {
+          "title": "literal:Black Pigment",
+          "inputs": [
+            {
+              "item": "pastel:black_leaves"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:black_pigment"
+            }
+          ]
+        },
+        {
+          "title": "literal:Black Pigment",
+          "group": "literal:Elythia",
+          "inputs": [
+            {
+              "item": "antarchy:black_truffalo_tuft"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:black_pigment",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "title": "literal:Blaze Powder",
+          "inputs": [
+            {
+              "item": "minecraft:blaze_rod"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "minecraft:blaze_powder",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "title": "literal:Blue Concrete Powder",
+          "inputs": [
+            {
+              "item": "minecraft:blue_concrete"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "minecraft:blue_concrete_powder"
+            }
+          ]
+        },
+        {
+          "title": "literal:Blue Pigment",
+          "inputs": [
+            {
+              "item": "pastel:blue_leaves"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:blue_pigment"
+            }
+          ]
+        },
+        {
+          "title": "literal:Blue Pigment",
+          "group": "literal:Elythia",
+          "inputs": [
+            {
+              "item": "antarchy:blue_truffalo_tuft"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:blue_pigment",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "title": "literal:Brown Concrete Powder",
+          "inputs": [
+            {
+              "item": "minecraft:brown_concrete"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "minecraft:brown_concrete_powder"
+            }
+          ]
+        },
+        {
+          "title": "literal:Brown Pigment",
+          "inputs": [
+            {
+              "item": "pastel:brown_leaves"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:brown_pigment"
+            }
+          ]
+        },
+        {
+          "title": "literal:Brown Pigment",
+          "group": "literal:Elythia",
+          "inputs": [
+            {
+              "item": "antarchy:brown_truffalo_tuft"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:brown_pigment",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "title": "literal:Citrine Powder",
+          "inputs": [
+            {
+              "item": "pastel:citrine_block"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:citrine_powder"
+            }
+          ]
+        },
+        {
+          "title": "literal:Citrine Powder",
+          "inputs": [
+            {
+              "item": "pastel:citrine_cluster"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:citrine_powder",
+              "count": 16
+            }
+          ]
+        },
+        {
+          "title": "literal:Citrine Powder",
+          "inputs": [
+            {
+              "item": "pastel:citrine_shard"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:citrine_powder",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "title": "literal:Citrine Powder",
+          "inputs": [
+            {
+              "item": "pastel:large_citrine_bud"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:citrine_powder",
+              "count": 8
+            }
+          ]
+        },
+        {
+          "title": "literal:Citrine Powder",
+          "inputs": [
+            {
+              "item": "pastel:medium_citrine_bud"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:citrine_powder",
+              "count": 6
+            }
+          ]
+        },
+        {
+          "title": "literal:Citrine Powder",
+          "inputs": [
+            {
+              "item": "pastel:small_citrine_bud"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:citrine_powder",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "title": "literal:Cyan Concrete Powder",
+          "inputs": [
+            {
+              "item": "minecraft:cyan_concrete"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "minecraft:cyan_concrete_powder"
+            }
+          ]
+        },
+        {
+          "title": "literal:Cyan Pigment",
+          "inputs": [
+            {
+              "item": "pastel:cyan_leaves"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:cyan_pigment"
+            }
+          ]
+        },
+        {
+          "title": "literal:Cyan Pigment",
+          "group": "literal:Elythia",
+          "inputs": [
+            {
+              "item": "antarchy:cyan_truffalo_tuft"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:cyan_pigment",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "title": "literal:Gray Concrete Powder",
+          "inputs": [
+            {
+              "item": "minecraft:gray_concrete"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "minecraft:gray_concrete_powder"
+            }
+          ]
+        },
+        {
+          "title": "literal:Gray Pigment",
+          "inputs": [
+            {
+              "item": "pastel:gray_leaves"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:gray_pigment"
+            }
+          ]
+        },
+        {
+          "title": "literal:Gray Pigment",
+          "group": "literal:Elythia",
+          "inputs": [
+            {
+              "item": "antarchy:gray_truffalo_tuft"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:gray_pigment",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "title": "literal:Green Concrete Powder",
+          "inputs": [
+            {
+              "item": "minecraft:green_concrete"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "minecraft:green_concrete_powder"
+            }
+          ]
+        },
+        {
+          "title": "literal:Green Pigment",
+          "inputs": [
+            {
+              "item": "pastel:green_leaves"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:green_pigment"
+            }
+          ]
+        },
+        {
+          "title": "literal:Green Pigment",
+          "group": "literal:Elythia",
+          "inputs": [
+            {
+              "item": "antarchy:green_truffalo_tuft"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:green_pigment",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "title": "literal:Light Blue Concrete Powder",
+          "inputs": [
+            {
+              "item": "minecraft:light_blue_concrete"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "minecraft:light_blue_concrete_powder"
+            }
+          ]
+        },
+        {
+          "title": "literal:Light Blue Pigment",
+          "inputs": [
+            {
+              "item": "pastel:light_blue_leaves"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:light_blue_pigment"
+            }
+          ]
+        },
+        {
+          "title": "literal:Light Blue Pigment",
+          "group": "literal:Elythia",
+          "inputs": [
+            {
+              "item": "antarchy:light_blue_truffalo_tuft"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:light_blue_pigment",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "title": "literal:Light Gray Concrete Powder",
+          "inputs": [
+            {
+              "item": "minecraft:light_gray_concrete"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "minecraft:light_gray_concrete_powder"
+            }
+          ]
+        },
+        {
+          "title": "literal:Light Gray Pigment",
+          "inputs": [
+            {
+              "item": "pastel:light_gray_leaves"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:light_gray_pigment"
+            }
+          ]
+        },
+        {
+          "title": "literal:Light Gray Pigment",
+          "group": "literal:Elythia",
+          "inputs": [
+            {
+              "item": "antarchy:light_gray_truffalo_tuft"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:light_gray_pigment",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "title": "literal:Lime Concrete Powder",
+          "inputs": [
+            {
+              "item": "minecraft:lime_concrete"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "minecraft:lime_concrete_powder"
+            }
+          ]
+        },
+        {
+          "title": "literal:Lime Pigment",
+          "inputs": [
+            {
+              "item": "pastel:lime_leaves"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:lime_pigment"
+            }
+          ]
+        },
+        {
+          "title": "literal:Lime Pigment",
+          "group": "literal:Elythia",
+          "inputs": [
+            {
+              "item": "antarchy:lime_truffalo_tuft"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:lime_pigment",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "title": "literal:Magenta Concrete Powder",
+          "inputs": [
+            {
+              "item": "minecraft:magenta_concrete"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "minecraft:magenta_concrete_powder"
+            }
+          ]
+        },
+        {
+          "title": "literal:Magenta Pigment",
+          "inputs": [
+            {
+              "item": "pastel:magenta_leaves"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:magenta_pigment"
+            }
+          ]
+        },
+        {
+          "title": "literal:Magenta Pigment",
+          "group": "literal:Elythia",
+          "inputs": [
+            {
+              "item": "antarchy:magenta_truffalo_tuft"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:magenta_pigment",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "title": "literal:Moonstone Powder",
+          "inputs": [
+            {
+              "item": "pastel:large_moonstone_bud"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:moonstone_powder",
+              "count": 8
+            }
+          ]
+        },
+        {
+          "title": "literal:Moonstone Powder",
+          "inputs": [
+            {
+              "item": "pastel:medium_moonstone_bud"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:moonstone_powder",
+              "count": 6
+            }
+          ]
+        },
+        {
+          "title": "literal:Moonstone Powder",
+          "inputs": [
+            {
+              "item": "pastel:moonstone_block"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:moonstone_powder"
+            }
+          ]
+        },
+        {
+          "title": "literal:Moonstone Powder",
+          "inputs": [
+            {
+              "item": "pastel:moonstone_cluster"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:moonstone_powder",
+              "count": 16
+            }
+          ]
+        },
+        {
+          "title": "literal:Moonstone Powder",
+          "inputs": [
+            {
+              "item": "pastel:moonstone_shard"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:moonstone_powder",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "title": "literal:Moonstone Powder",
+          "inputs": [
+            {
+              "item": "pastel:small_moonstone_bud"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:moonstone_powder",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "title": "literal:Onyx Powder",
+          "inputs": [
+            {
+              "item": "pastel:large_onyx_bud"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:onyx_powder",
+              "count": 8
+            }
+          ]
+        },
+        {
+          "title": "literal:Onyx Powder",
+          "inputs": [
+            {
+              "item": "pastel:medium_onyx_bud"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:onyx_powder",
+              "count": 6
+            }
+          ]
+        },
+        {
+          "title": "literal:Onyx Powder",
+          "inputs": [
+            {
+              "item": "pastel:onyx_block"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:onyx_powder"
+            }
+          ]
+        },
+        {
+          "title": "literal:Onyx Powder",
+          "inputs": [
+            {
+              "item": "pastel:onyx_cluster"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:onyx_powder",
+              "count": 16
+            }
+          ]
+        },
+        {
+          "title": "literal:Onyx Powder",
+          "inputs": [
+            {
+              "item": "pastel:onyx_shard"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:onyx_powder",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "title": "literal:Onyx Powder",
+          "inputs": [
+            {
+              "item": "pastel:small_onyx_bud"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:onyx_powder",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "title": "literal:Orange Concrete Powder",
+          "inputs": [
+            {
+              "item": "minecraft:orange_concrete"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "minecraft:orange_concrete_powder"
+            }
+          ]
+        },
+        {
+          "title": "literal:Orange Pigment",
+          "inputs": [
+            {
+              "item": "pastel:orange_leaves"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:orange_pigment"
+            }
+          ]
+        },
+        {
+          "title": "literal:Orange Pigment",
+          "group": "literal:Elythia",
+          "inputs": [
+            {
+              "item": "antarchy:orange_truffalo_tuft"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:orange_pigment",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "title": "literal:Pink Concrete Powder",
+          "inputs": [
+            {
+              "item": "minecraft:pink_concrete"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "minecraft:pink_concrete_powder"
+            }
+          ]
+        },
+        {
+          "title": "literal:Pink Pigment",
+          "inputs": [
+            {
+              "item": "pastel:pink_leaves"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:pink_pigment"
+            }
+          ]
+        },
+        {
+          "title": "literal:Pink Pigment",
+          "group": "literal:Elythia",
+          "inputs": [
+            {
+              "item": "antarchy:pink_truffalo_tuft"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:pink_pigment",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "title": "literal:Purple Concrete Powder",
+          "inputs": [
+            {
+              "item": "minecraft:purple_concrete"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "minecraft:purple_concrete_powder"
+            }
+          ]
+        },
+        {
+          "title": "literal:Purple Pigment",
+          "inputs": [
+            {
+              "item": "pastel:purple_leaves"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:purple_pigment"
+            }
+          ]
+        },
+        {
+          "title": "literal:Purple Pigment",
+          "group": "literal:Elythia",
+          "inputs": [
+            {
+              "item": "antarchy:purple_truffalo_tuft"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:purple_pigment",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "title": "literal:Red Concrete Powder",
+          "inputs": [
+            {
+              "item": "minecraft:red_concrete"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "minecraft:red_concrete_powder"
+            }
+          ]
+        },
+        {
+          "title": "literal:Red Pigment",
+          "inputs": [
+            {
+              "item": "pastel:red_leaves"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:red_pigment"
+            }
+          ]
+        },
+        {
+          "title": "literal:Red Pigment",
+          "group": "literal:Elythia",
+          "inputs": [
+            {
+              "item": "antarchy:red_truffalo_tuft"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:red_pigment",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "title": "literal:Topaz Powder",
+          "inputs": [
+            {
+              "item": "pastel:large_topaz_bud"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:topaz_powder",
+              "count": 8
+            }
+          ]
+        },
+        {
+          "title": "literal:Topaz Powder",
+          "inputs": [
+            {
+              "item": "pastel:medium_topaz_bud"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:topaz_powder",
+              "count": 6
+            }
+          ]
+        },
+        {
+          "title": "literal:Topaz Powder",
+          "inputs": [
+            {
+              "item": "pastel:small_topaz_bud"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:topaz_powder",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "title": "literal:Topaz Powder",
+          "inputs": [
+            {
+              "item": "pastel:topaz_block"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:topaz_powder"
+            }
+          ]
+        },
+        {
+          "title": "literal:Topaz Powder",
+          "inputs": [
+            {
+              "item": "pastel:topaz_cluster"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:topaz_powder",
+              "count": 16
+            }
+          ]
+        },
+        {
+          "title": "literal:Topaz Powder",
+          "inputs": [
+            {
+              "item": "pastel:topaz_shard"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:topaz_powder",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "title": "literal:White Concrete Powder",
+          "inputs": [
+            {
+              "item": "minecraft:white_concrete"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "minecraft:white_concrete_powder"
+            }
+          ]
+        },
+        {
+          "title": "literal:White Pigment",
+          "inputs": [
+            {
+              "item": "pastel:white_leaves"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:white_pigment"
+            }
+          ]
+        },
+        {
+          "title": "literal:White Pigment",
+          "group": "literal:Elythia",
+          "inputs": [
+            {
+              "item": "antarchy:white_truffalo_tuft"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:white_pigment",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "title": "literal:Yellow Concrete Powder",
+          "inputs": [
+            {
+              "item": "minecraft:yellow_concrete"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "minecraft:yellow_concrete_powder"
+            }
+          ]
+        },
+        {
+          "title": "literal:Yellow Pigment",
+          "inputs": [
+            {
+              "item": "pastel:yellow_leaves"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:yellow_pigment"
+            }
+          ]
+        },
+        {
+          "title": "literal:Yellow Pigment",
+          "group": "literal:Elythia",
+          "inputs": [
+            {
+              "item": "antarchy:yellow_truffalo_tuft"
+            }
+          ],
+          "outputs": [
+            {
+              "item": "pastel:yellow_pigment",
+              "count": 2
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "reflow": true,
+  "auto_height": true,
+  "hide_title": true
+}

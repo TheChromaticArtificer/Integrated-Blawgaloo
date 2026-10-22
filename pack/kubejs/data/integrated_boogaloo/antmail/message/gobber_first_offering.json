@@ -1,0 +1,12 @@
+{
+  "sender": "gobber@berk.com",
+  "sender_display": "Gobber",
+  "sender_avatar_item": "bda:war_hammer",
+  "subject": "It ate!",
+  "body": "It ATE? And it didn't eat you? Ye're ahead of most of my students already. Next time, drop the food, step back and let it come to you. Rush a dragon and it decides you're the snack. Patience, apprentice. If there's one thing I've learned all these years it's that.\n\nGobber",
+  "trigger": {
+    "delay_minutes": 3,
+    "type": "advancement",
+    "value": "bda:academy/dragon_training"
+  }
+}

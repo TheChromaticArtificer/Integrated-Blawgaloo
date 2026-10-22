@@ -1,0 +1,21 @@
+{
+  "type": "createcybernetics:engineering_deconstruct",
+  "inputs": [
+    {
+      "item": "createcybernetics:lungsupgrades_oxygen"
+    },
+    {
+      "item": "createcybernetics:scavenged_oxygen"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "antarchy:titanium_nugget",
+      "count": 18
+    },
+    {
+      "id": "minecraft:iron_ingot",
+      "count": 1
+    }
+  ]
+}

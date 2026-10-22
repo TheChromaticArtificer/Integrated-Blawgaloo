@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/$_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/$_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/$_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/$_lattice_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/$_lattice_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "everycomp:rfm/pastel/$_table"
+		}
+	]
+}

@@ -1,0 +1,116 @@
+{
+	"biomes": [
+		"antarchy:biowart_caves"
+	],
+	"rule": {
+		"type": "minecraft:sequence",
+		"sequence": [
+			{
+				"type": "minecraft:sequence",
+				"sequence": [
+					{
+						"if_true": {
+							"type": "minecraft:stone_depth",
+							"secondary_depth_range": 0,
+							"offset": 0,
+							"surface_type": "floor",
+							"add_surface_depth": false
+						},
+						"then_run": {
+							"type": "minecraft:block",
+							"result_state": {
+								"Name": "antarchy:biomite_turf"
+							}
+						},
+						"type": "minecraft:condition"
+					},
+					{
+						"type": "minecraft:block",
+						"result_state": {
+							"Name": "antarchy:biomite"
+						}
+					}
+				]
+			},
+			{
+				"if_true": {
+					"type": "minecraft:not",
+					"invert": {
+						"type": "minecraft:y_above",
+						"add_stone_depth": false,
+						"anchor": {
+							"absolute": 40
+						},
+						"surface_depth_multiplier": 0
+					}
+				},
+				"then_run": {
+					"type": "minecraft:block",
+					"result_state": {
+						"Name": "antarchy:myrmite"
+					}
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"type": "minecraft:block",
+				"result_state": {
+					"Name": "antarchy:myrmite"
+				}
+			},
+			{
+				"type": "minecraft:sequence",
+				"sequence": [
+					{
+						"if_true": {
+							"type": "minecraft:stone_depth",
+							"secondary_depth_range": 0,
+							"offset": 0,
+							"surface_type": "floor",
+							"add_surface_depth": false
+						},
+						"then_run": {
+							"type": "minecraft:block",
+							"result_state": {
+								"Name": "antarchy:biomite_turf"
+							}
+						},
+						"type": "minecraft:condition"
+					},
+					{
+						"type": "minecraft:block",
+						"result_state": {
+							"Name": "antarchy:biomite"
+						}
+					}
+				]
+			},
+			{
+				"if_true": {
+					"type": "minecraft:not",
+					"invert": {
+						"type": "minecraft:y_above",
+						"add_stone_depth": false,
+						"anchor": {
+							"absolute": 40
+						},
+						"surface_depth_multiplier": 0
+					}
+				},
+				"then_run": {
+					"type": "minecraft:block",
+					"result_state": {
+						"Name": "antarchy:myrmite"
+					}
+				},
+				"type": "minecraft:condition"
+			},
+			{
+				"type": "minecraft:block",
+				"result_state": {
+					"Name": "antarchy:myrmite"
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,201 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "antarchy:vortex_charge",
+      "required": false
+    },
+    {
+      "id": "celestisynth:breezebreaker",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_electric_boots",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_electric_chestplate",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_electric_helmet",
+      "required": false
+    },
+    {
+      "id": "iceandfire:armor_electric_leggings",
+      "required": false
+    },
+    {
+      "id": "iceandfire:banner_pattern_lightning",
+      "required": false
+    },
+    {
+      "id": "iceandfire:banner_pattern_lightning_head",
+      "required": false
+    },
+    {
+      "id": "iceandfire:cooked_rice_with_lightning_dragon_meat",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragon_skull_lightning",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonarmor_dragon_steel_lightning_body",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonarmor_dragon_steel_lightning_head",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonarmor_dragon_steel_lightning_neck",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonarmor_dragon_steel_lightning_tail",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonforge_lightning_brick",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonforge_lightning_core",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonforge_lightning_core_disabled",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonforge_lightning_input",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonscale_electric",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonscales_electric",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonsteel_lightning_block",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonsteel_lightning_boots",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonsteel_lightning_chestplate",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonsteel_lightning_helmet",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonsteel_lightning_ingot",
+      "required": false
+    },
+    {
+      "id": "iceandfire:dragonsteel_lightning_leggings",
+      "required": false
+    },
+    {
+      "id": "iceandfire:lightning_dragon_flesh",
+      "required": false
+    },
+    {
+      "id": "iceandfire:lightning_lily",
+      "required": false
+    },
+    {
+      "id": "iceandfire:lightning_stew",
+      "required": false
+    },
+    {
+      "id": "oritech:advanced_battery",
+      "required": false
+    },
+    {
+      "id": "oritech:basic_battery",
+      "required": false
+    },
+    {
+      "id": "oritech:electric_mace",
+      "required": false
+    },
+    {
+      "id": "oritech:flux_gate",
+      "required": false
+    },
+    {
+      "id": "oritech:magnetic_coil",
+      "required": false
+    },
+    {
+      "id": "oritech:overcharged_crystal",
+      "required": false
+    },
+    {
+      "id": "scguns:energy_cell",
+      "required": false
+    },
+    {
+      "id": "scguns:energy_core",
+      "required": false
+    },
+    {
+      "id": "scguns:gauss_rifle",
+      "required": false
+    },
+    {
+      "id": "scguns:plasgun",
+      "required": false
+    },
+    {
+      "id": "scguns:plasma_core",
+      "required": false
+    },
+    {
+      "id": "scguns:plasmabuss",
+      "required": false
+    },
+    {
+      "id": "scguns:shock_cell",
+      "required": false
+    },
+    {
+      "id": "scguns:teslock_rifle",
+      "required": false
+    },
+    {
+      "id": "scguns:thunderhead",
+      "required": false
+    },
+    {
+      "id": "securitycraft:taser",
+      "required": false
+    },
+    {
+      "id": "securitycraft:taser_powered",
+      "required": false
+    },
+    {
+      "id": "tempad:chronon_battery",
+      "required": false
+    },
+    {
+      "id": "tempad:chronon_cell",
+      "required": false
+    },
+    {
+      "id": "witchery:spectral_dust",
+      "required": false
+    }
+  ]
+}

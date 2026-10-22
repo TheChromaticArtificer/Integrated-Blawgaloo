@@ -1,0 +1,14 @@
+{
+  "criteria": {
+    "has": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "integrated_superheroes:syringe_super_speed_pietro_maximoff"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "witchery:splashing_blood"
+		},
+		{
+			"weight": 1.0,
+			"key": "witchery:white_smoke"
+		}
+	]
+}

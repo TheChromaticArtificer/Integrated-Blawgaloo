@@ -1,0 +1,10 @@
+{
+  "type": {
+    "type": "databank:item",
+    "hidden_as": "pastel:blackslag",
+    "original": "pastel:blackslag_malachite_ore"
+  },
+  "condition": {
+    "type": "databank:always_true"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "criteria": {
+    "has": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "marvellegacy:syringe_weapon_x_logan"
+          }
+        ]
+      }
+    }
+  }
+}

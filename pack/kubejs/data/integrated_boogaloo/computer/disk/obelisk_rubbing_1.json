@@ -1,0 +1,15 @@
+{
+  "category": "integrated_boogaloo:recovered",
+  "title": "guide.integrated_boogaloo.disk.obelisk_rubbing_1.title",
+  "description": "guide.integrated_boogaloo.disk.obelisk_rubbing_1.description",
+  "files": [
+    {
+      "path": "rubbing.paint",
+      "source": "integrated_boogaloo:obelisk/rubbing_1.json"
+    },
+    {
+      "path": "note.txt",
+      "source": "integrated_boogaloo:obelisk/note_1.txt"
+    }
+  ]
+}

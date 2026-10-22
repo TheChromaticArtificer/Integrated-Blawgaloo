@@ -1,0 +1,40 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:ancient_eggs"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:ancient_skull"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:beast_destroy"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:ginkgo_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:leaves_type/amber_ginkgo"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:leaves_type/verdant_ginkgo"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:petrified_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:quick_sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:wood_type/ginkgo"
+		}
+	]
+}

@@ -1,0 +1,1094 @@
+{
+ "chapters": [
+  {
+   "id": "start",
+   "icon": "timevortex:tardis_console",
+   "entries": [
+    {
+     "id": "welcome",
+     "icon": "timevortex:tardis_handbook",
+     "pages": [
+      {
+       "model": "console",
+       "height": 76
+      },
+      {
+       "text": "handbook.timevortex.welcome.1"
+      },
+      {
+       "text": "handbook.timevortex.welcome.2"
+      },
+      {
+       "text": "handbook.timevortex.welcome.3"
+      },
+      {
+       "heading": "handbook.timevortex.welcome.h1"
+      },
+      {
+       "text": "handbook.timevortex.welcome.4"
+      },
+      {
+       "text": "handbook.timevortex.welcome.5"
+      },
+      {
+       "text": "handbook.timevortex.welcome.6"
+      },
+      {
+       "text": "handbook.timevortex.welcome.7"
+      },
+      {
+       "text": "handbook.timevortex.welcome.8"
+      }
+     ]
+    },
+    {
+     "id": "console",
+     "icon": "timevortex:tardis_console",
+     "pages": [
+      {
+       "crafting": "timevortex:tardis_console"
+      },
+      {
+       "text": "handbook.timevortex.console.1"
+      },
+      {
+       "text": "handbook.timevortex.console.2"
+      },
+      {
+       "model": "console",
+       "height": 80
+      },
+      {
+       "text": "handbook.timevortex.console.3"
+      },
+      {
+       "text": "handbook.timevortex.console.4"
+      },
+      {
+       "text": "handbook.timevortex.console.5"
+      },
+      {
+       "link": "modules"
+      },
+      {
+       "link": "matrix"
+      }
+     ]
+    },
+    {
+     "id": "hull",
+     "icon": "timevortex:hull_glue",
+     "pages": [
+      {
+       "text": "handbook.timevortex.hull.1"
+      },
+      {
+       "model": "hull",
+       "height": 84
+      },
+      {
+       "crafting": "timevortex:hull_glue"
+      },
+      {
+       "text": "handbook.timevortex.hull.2"
+      },
+      {
+       "text": "handbook.timevortex.hull.3",
+       "args": [
+        "setting:glue_box_size"
+       ]
+      },
+      {
+       "text": "handbook.timevortex.hull.4"
+      },
+      {
+       "text": "handbook.timevortex.hull.5"
+      },
+      {
+       "text": "handbook.timevortex.hull.6",
+       "args": [
+        "setting:hull_limit"
+       ]
+      },
+      {
+       "link": "hull_stabilisers"
+      }
+     ]
+    },
+    {
+     "id": "first_flight",
+     "icon": "timevortex:flight_stabilisers",
+     "pages": [
+      {
+       "text": "handbook.timevortex.first_flight.1"
+      },
+      {
+       "model": "console_starter",
+       "height": 72
+      },
+      {
+       "text": "handbook.timevortex.first_flight.2"
+      },
+      {
+       "text": "handbook.timevortex.first_flight.3",
+       "args": [
+        "fuel:lift_off_cost"
+       ]
+      },
+      {
+       "text": "handbook.timevortex.first_flight.4"
+      },
+      {
+       "link": "helm"
+      },
+      {
+       "text": "handbook.timevortex.first_flight.5"
+      },
+      {
+       "link": "landing"
+      },
+      {
+       "link": "fuel"
+      }
+     ]
+    },
+    {
+     "id": "fuel",
+     "icon": "timevortex:artron_cell",
+     "pages": [
+      {
+       "text": "handbook.timevortex.fuel.1"
+      },
+      {
+       "text": "handbook.timevortex.fuel.2",
+       "args": [
+        "setting:artron_cell_capacity"
+       ]
+      },
+      {
+       "text": "handbook.timevortex.fuel.3"
+      },
+      {
+       "text": "handbook.timevortex.fuel.4",
+       "args": [
+        "setting:wireless_charging_range"
+       ]
+      },
+      {
+       "text": "handbook.timevortex.fuel.6"
+      },
+      {
+       "link": "artron_power"
+      }
+     ]
+    },
+    {
+     "id": "keys",
+     "icon": "timevortex:tardis_key",
+     "pages": [
+      {
+       "crafting": "timevortex:tardis_key"
+      },
+      {
+       "text": "handbook.timevortex.keys.1"
+      },
+      {
+       "text": "handbook.timevortex.keys.2"
+      },
+      {
+       "text": "handbook.timevortex.keys.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "materials",
+   "icon": "tempad:time_steel",
+   "entries": [
+    {
+     "id": "metals",
+     "icon": "antarchy:titanium_ingot",
+     "pages": [
+      {
+       "items": [
+        "antarchy:titanium_ingot",
+        "tempad:time_steel",
+        "minecraft:gold_ingot",
+        "minecraft:netherite_ingot"
+       ]
+      },
+      {
+       "text": "handbook.timevortex.metals.1"
+      },
+      {
+       "text": "handbook.timevortex.metals.2"
+      },
+      {
+       "text": "handbook.timevortex.metals.3"
+      },
+      {
+       "text": "handbook.timevortex.metals.4"
+      }
+     ]
+    },
+    {
+     "id": "blood_crystals",
+     "icon": "antarchy:blood_crystal_shard",
+     "pages": [
+      {
+       "items": [
+        "antarchy:blood_crystal_shard"
+       ]
+      },
+      {
+       "text": "handbook.timevortex.blood_crystals.1"
+      },
+      {
+       "text": "handbook.timevortex.blood_crystals.2"
+      },
+      {
+       "link": "artron_power"
+      }
+     ]
+    },
+    {
+     "id": "parts",
+     "icon": "oritech:processing_unit",
+     "pages": [
+      {
+       "items": [
+        "oritech:processing_unit",
+        "oritech:enderic_compound",
+        "oritech:advanced_computing_engine"
+       ]
+      },
+      {
+       "text": "handbook.timevortex.parts.1"
+      },
+      {
+       "text": "handbook.timevortex.parts.2"
+      },
+      {
+       "text": "handbook.timevortex.parts.3"
+      }
+     ]
+    },
+    {
+     "id": "matrix",
+     "icon": "timevortex:tardis_matrix",
+     "pages": [
+      {
+       "items": [
+        "antarchy:titanium_ingot",
+        "tempad:time_steel",
+        "oritech:processing_unit",
+        "antarchy:blood_crystal_shard",
+        "timevortex:tardis_matrix"
+       ]
+      },
+      {
+       "text": "handbook.timevortex.matrix.1"
+      },
+      {
+       "text": "handbook.timevortex.matrix.2"
+      },
+      {
+       "text": "handbook.timevortex.matrix.3"
+      },
+      {
+       "link": "console"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "machines",
+   "icon": "timevortex:artron_generator",
+   "entries": [
+    {
+     "id": "artron_power",
+     "icon": "timevortex:artron_generator",
+     "pages": [
+      {
+       "text": "handbook.timevortex.artron_power.1"
+      },
+      {
+       "crafting": "timevortex:artron_generator"
+      },
+      {
+       "text": "handbook.timevortex.artron_power.2",
+       "args": [
+        "setting:generator_rate"
+       ]
+      },
+      {
+       "crafting": "timevortex:artron_conduit"
+      },
+      {
+       "text": "handbook.timevortex.artron_power.3"
+      }
+     ]
+    },
+    {
+     "id": "capacitor",
+     "icon": "timevortex:artron_capacitor",
+     "pages": [
+      {
+       "crafting": "timevortex:artron_capacitor"
+      },
+      {
+       "text": "handbook.timevortex.capacitor.1",
+       "args": [
+        "setting:capacitor_capacity"
+       ]
+      },
+      {
+       "text": "handbook.timevortex.capacitor.2"
+      },
+      {
+       "text": "handbook.timevortex.capacitor.3",
+       "args": [
+        "setting:fe_per_artron"
+       ]
+      },
+      {
+       "text": "handbook.timevortex.capacitor.4"
+      }
+     ]
+    },
+    {
+     "id": "atmosphere",
+     "icon": "timevortex:atmospheric_generator",
+     "pages": [
+      {
+       "crafting": "timevortex:atmospheric_generator"
+      },
+      {
+       "text": "handbook.timevortex.atmosphere.1",
+       "args": [
+        "setting:atmosphere_room"
+       ]
+      },
+      {
+       "text": "handbook.timevortex.atmosphere.2"
+      },
+      {
+       "text": "handbook.timevortex.atmosphere.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "console_chapter",
+   "icon": "timevortex:helm",
+   "entries": [
+    {
+     "id": "modules",
+     "icon": "timevortex:console_wrench",
+     "pages": [
+      {
+       "text": "handbook.timevortex.modules.1"
+      },
+      {
+       "text": "handbook.timevortex.modules.2"
+      },
+      {
+       "text": "handbook.timevortex.modules.3"
+      },
+      {
+       "text": "handbook.timevortex.modules.4"
+      },
+      {
+       "text": "handbook.timevortex.modules.5"
+      },
+      {
+       "crafting": "timevortex:console_wrench"
+      }
+     ]
+    },
+    {
+     "id": "flight_modules",
+     "icon": "timevortex:helm",
+     "pages": [
+      {
+       "text": "handbook.timevortex.flight_modules.1"
+      },
+      {
+       "crafting": "timevortex:flight_stabilisers"
+      },
+      {
+       "text": "handbook.timevortex.flight_modules.2"
+      },
+      {
+       "crafting": "timevortex:helm"
+      },
+      {
+       "text": "handbook.timevortex.flight_modules.3"
+      },
+      {
+       "crafting": "timevortex:throttle"
+      }
+     ]
+    },
+    {
+     "id": "vortex_modules",
+     "icon": "timevortex:demat_circuit",
+     "pages": [
+      {
+       "text": "handbook.timevortex.vortex_modules.1"
+      },
+      {
+       "crafting": "timevortex:demat_circuit"
+      },
+      {
+       "text": "handbook.timevortex.vortex_modules.2"
+      },
+      {
+       "crafting": "timevortex:time_rotor"
+      },
+      {
+       "text": "handbook.timevortex.vortex_modules.3"
+      },
+      {
+       "link": "vortex_trips"
+      }
+     ]
+    },
+    {
+     "id": "power_modules",
+     "icon": "timevortex:fluid_link",
+     "pages": [
+      {
+       "crafting": "timevortex:artron_cell"
+      },
+      {
+       "text": "handbook.timevortex.power_modules.1",
+       "args": [
+        "setting:artron_cell_capacity"
+       ]
+      },
+      {
+       "text": "handbook.timevortex.power_modules.2"
+      },
+      {
+       "crafting": "timevortex:fluid_link"
+      },
+      {
+       "items": [
+        "timevortex:fluid_link"
+       ]
+      },
+      {
+       "link": "fuel"
+      }
+     ]
+    },
+    {
+     "id": "hull_stabilisers",
+     "icon": "timevortex:hull_stabiliser_1",
+     "pages": [
+      {
+       "text": "handbook.timevortex.hull_stabilisers.1"
+      },
+      {
+       "text": "handbook.timevortex.hull_stabilisers.2",
+       "args": [
+        "setting:hull_limit",
+        "setting:hull_limit_1",
+        "setting:hull_limit_2",
+        "setting:hull_limit_3"
+       ]
+      },
+      {
+       "crafting": "timevortex:hull_stabiliser_1"
+      },
+      {
+       "crafting": "timevortex:hull_stabiliser_2"
+      },
+      {
+       "crafting": "timevortex:hull_stabiliser_3"
+      },
+      {
+       "text": "handbook.timevortex.hull_stabilisers.3"
+      }
+     ]
+    },
+    {
+     "id": "navigation",
+     "icon": "timevortex:navigation_computer",
+     "pages": [
+      {
+       "text": "handbook.timevortex.navigation.1"
+      },
+      {
+       "crafting": "timevortex:navigation_computer"
+      },
+      {
+       "text": "handbook.timevortex.navigation.2",
+       "args": [
+        "setting:landing_scatter"
+       ]
+      },
+      {
+       "text": "handbook.timevortex.navigation.3",
+       "args": [
+        "scatter:landing_scatter_1",
+        "scatter:landing_scatter_2",
+        "scatter:landing_scatter_3"
+       ]
+      },
+      {
+       "crafting": "timevortex:nav_calibrator_1"
+      }
+     ]
+    },
+    {
+     "id": "nav_modules",
+     "icon": "timevortex:memory_bank",
+     "pages": [
+      {
+       "text": "handbook.timevortex.nav_modules.1",
+       "args": [
+        "setting:memory_bank_places"
+       ]
+      },
+      {
+       "crafting": "timevortex:memory_bank"
+      },
+      {
+       "text": "handbook.timevortex.nav_modules.2"
+      },
+      {
+       "crafting": "timevortex:fast_return"
+      },
+      {
+       "text": "handbook.timevortex.nav_modules.3",
+       "args": [
+        "setting:randomiser_min",
+        "setting:randomiser_max"
+       ]
+      },
+      {
+       "crafting": "timevortex:randomiser"
+      }
+     ]
+    },
+    {
+     "id": "scanner",
+     "icon": "timevortex:scanner",
+     "pages": [
+      {
+       "crafting": "timevortex:scanner"
+      },
+      {
+       "text": "handbook.timevortex.scanner.1"
+      },
+      {
+       "text": "handbook.timevortex.scanner.2"
+      }
+     ]
+    },
+    {
+     "id": "more_modules",
+     "icon": "timevortex:helmic_regulator",
+     "pages": [
+      {
+       "text": "handbook.timevortex.more_modules.1",
+       "args": [
+        "percent:siphon_share"
+       ]
+      },
+      {
+       "crafting": "timevortex:vortex_siphon"
+      },
+      {
+       "text": "handbook.timevortex.more_modules.2",
+       "args": [
+        "setting:helmic_regulator"
+       ]
+      },
+      {
+       "crafting": "timevortex:helmic_regulator"
+      },
+      {
+       "text": "handbook.timevortex.more_modules.3"
+      },
+      {
+       "crafting": "timevortex:dimensional_stabiliser"
+      },
+      {
+       "link": "chameleon"
+      },
+      {
+       "link": "cloak"
+      },
+      {
+       "link": "size"
+      }
+     ]
+    },
+    {
+     "id": "monitor",
+     "icon": "timevortex:navigation_computer",
+     "pages": [
+      {
+       "text": "handbook.timevortex.monitor.1"
+      },
+      {
+       "text": "handbook.timevortex.monitor.2"
+      },
+      {
+       "text": "handbook.timevortex.monitor.3"
+      },
+      {
+       "text": "handbook.timevortex.monitor.4"
+      },
+      {
+       "text": "handbook.timevortex.monitor.5"
+      }
+     ]
+    },
+    {
+     "id": "repairs",
+     "icon": "tempad:time_steel",
+     "pages": [
+      {
+       "text": "handbook.timevortex.repairs.1"
+      },
+      {
+       "text": "handbook.timevortex.repairs.2"
+      },
+      {
+       "items": [
+        "tempad:time_steel",
+        "minecraft:gold_ingot",
+        "minecraft:netherite_ingot"
+       ]
+      },
+      {
+       "text": "handbook.timevortex.repairs.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "flying",
+   "icon": "timevortex:throttle",
+   "entries": [
+    {
+     "id": "helm",
+     "icon": "timevortex:helm",
+     "pages": [
+      {
+       "text": "handbook.timevortex.helm.1"
+      },
+      {
+       "controls": [
+        [
+         "keys:forward,left,back,right",
+         "handbook.timevortex.helm.c1"
+        ],
+        [
+         "key:jump",
+         "handbook.timevortex.helm.c2"
+        ],
+        [
+         "key:sprint",
+         "handbook.timevortex.helm.c3"
+        ],
+        [
+         "mouse:wheel",
+         "handbook.timevortex.helm.c4"
+        ],
+        [
+         "key:attack",
+         "handbook.timevortex.helm.c5"
+        ],
+        [
+         "key:pick",
+         "handbook.timevortex.helm.c6"
+        ],
+        [
+         "key:use",
+         "handbook.timevortex.helm.c7"
+        ],
+        [
+         "key:monitor",
+         "handbook.timevortex.helm.c8"
+        ],
+        [
+         "key:sneak",
+         "handbook.timevortex.helm.c9"
+        ]
+       ]
+      },
+      {
+       "text": "handbook.timevortex.helm.2"
+      }
+     ]
+    },
+    {
+     "id": "landing",
+     "icon": "timevortex:flight_stabilisers",
+     "pages": [
+      {
+       "text": "handbook.timevortex.landing.1"
+      },
+      {
+       "text": "handbook.timevortex.landing.2"
+      },
+      {
+       "text": "handbook.timevortex.landing.3"
+      },
+      {
+       "text": "handbook.timevortex.landing.4"
+      }
+     ]
+    },
+    {
+     "id": "vortex_trips",
+     "icon": "timevortex:demat_circuit",
+     "pages": [
+      {
+       "text": "handbook.timevortex.vortex_trips.1"
+      },
+      {
+       "text": "handbook.timevortex.vortex_trips.2"
+      },
+      {
+       "text": "handbook.timevortex.vortex_trips.3"
+      },
+      {
+       "text": "handbook.timevortex.vortex_trips.4",
+       "args": [
+        "fuel:trip_cost",
+        "fuel:other_dimension_cost"
+       ]
+      },
+      {
+       "text": "handbook.timevortex.vortex_trips.5"
+      },
+      {
+       "text": "handbook.timevortex.vortex_trips.6"
+      },
+      {
+       "text": "handbook.timevortex.vortex_trips.7"
+      }
+     ]
+    },
+    {
+     "id": "flight_events",
+     "icon": "timevortex:time_rotor",
+     "pages": [
+      {
+       "text": "handbook.timevortex.flight_events.1"
+      },
+      {
+       "text": "handbook.timevortex.flight_events.2",
+       "args": [
+        "setting:event_fix_time"
+       ]
+      },
+      {
+       "text": "handbook.timevortex.flight_events.3"
+      },
+      {
+       "text": "handbook.timevortex.flight_events.4"
+      },
+      {
+       "text": "handbook.timevortex.flight_events.5"
+      },
+      {
+       "text": "handbook.timevortex.flight_events.6"
+      },
+      {
+       "text": "handbook.timevortex.flight_events.7"
+      },
+      {
+       "text": "handbook.timevortex.flight_events.8"
+      },
+      {
+       "text": "handbook.timevortex.flight_events.9"
+      },
+      {
+       "link": "repairs"
+      }
+     ]
+    },
+    {
+     "id": "falling_out",
+     "icon": "timevortex:demat_circuit",
+     "pages": [
+      {
+       "text": "handbook.timevortex.falling_out.1"
+      },
+      {
+       "text": "handbook.timevortex.falling_out.2"
+      },
+      {
+       "text": "handbook.timevortex.falling_out.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "police_box",
+   "icon": "timevortex:police_box_tardis",
+   "entries": [
+    {
+     "id": "rig",
+     "icon": "timevortex:rig_controller",
+     "pages": [
+      {
+       "text": "handbook.timevortex.rig.1"
+      },
+      {
+       "model": "rig",
+       "height": 92
+      },
+      {
+       "crafting": "timevortex:rig_pylon"
+      },
+      {
+       "crafting": "timevortex:rig_controller"
+      },
+      {
+       "text": "handbook.timevortex.rig.2"
+      },
+      {
+       "text": "handbook.timevortex.rig.3",
+       "args": [
+        "setting:rig_span"
+       ]
+      },
+      {
+       "text": "handbook.timevortex.rig.4",
+       "args": [
+        "fuel:rig_charge"
+       ]
+      },
+      {
+       "text": "handbook.timevortex.rig.5"
+      },
+      {
+       "text": "handbook.timevortex.rig.6"
+      }
+     ]
+    },
+    {
+     "id": "inside",
+     "icon": "timevortex:police_box_tardis",
+     "pages": [
+      {
+       "model": "police_box",
+       "height": 96
+      },
+      {
+       "text": "handbook.timevortex.inside.1"
+      },
+      {
+       "text": "handbook.timevortex.inside.2"
+      },
+      {
+       "text": "handbook.timevortex.inside.3"
+      },
+      {
+       "items": [
+        "timevortex:roundel_wall",
+        "timevortex:interior_wall",
+        "timevortex:interior_floor"
+       ]
+      },
+      {
+       "text": "handbook.timevortex.inside.4"
+      }
+     ]
+    },
+    {
+     "id": "doors",
+     "icon": "timevortex:tardis_doors",
+     "pages": [
+      {
+       "model": "doors",
+       "height": 92
+      },
+      {
+       "text": "handbook.timevortex.doors.1"
+      },
+      {
+       "text": "handbook.timevortex.doors.2"
+      },
+      {
+       "text": "handbook.timevortex.doors.3",
+       "args": [
+        "key:doors"
+       ]
+      },
+      {
+       "text": "handbook.timevortex.doors.4"
+      }
+     ]
+    },
+    {
+     "id": "moving_doors",
+     "icon": "timevortex:tardis_doors",
+     "pages": [
+      {
+       "text": "handbook.timevortex.moving_doors.1"
+      },
+      {
+       "text": "handbook.timevortex.moving_doors.2"
+      },
+      {
+       "text": "handbook.timevortex.moving_doors.3"
+      }
+     ]
+    },
+    {
+     "id": "flying_box",
+     "icon": "timevortex:police_box_tardis",
+     "pages": [
+      {
+       "text": "handbook.timevortex.flying_box.1"
+      },
+      {
+       "text": "handbook.timevortex.flying_box.2"
+      },
+      {
+       "text": "handbook.timevortex.flying_box.3"
+      },
+      {
+       "text": "handbook.timevortex.flying_box.4",
+       "args": [
+        "key:spin"
+       ]
+      },
+      {
+       "text": "handbook.timevortex.flying_box.5"
+      }
+     ]
+    },
+    {
+     "id": "chameleon",
+     "icon": "timevortex:chameleon_circuit",
+     "pages": [
+      {
+       "model": "exteriors",
+       "height": 92
+      },
+      {
+       "text": "handbook.timevortex.chameleon.1"
+      },
+      {
+       "text": "handbook.timevortex.chameleon.2"
+      },
+      {
+       "crafting": "timevortex:chameleon_circuit"
+      },
+      {
+       "text": "handbook.timevortex.chameleon.3"
+      }
+     ]
+    },
+    {
+     "id": "cloak",
+     "icon": "timevortex:cloaking_device",
+     "pages": [
+      {
+       "crafting": "timevortex:cloaking_device"
+      },
+      {
+       "text": "handbook.timevortex.cloak.1",
+       "args": [
+        "key:cloak"
+       ]
+      },
+      {
+       "text": "handbook.timevortex.cloak.2"
+      },
+      {
+       "text": "handbook.timevortex.cloak.3",
+       "args": [
+        "fuel:cloak_cost"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "size",
+     "icon": "timevortex:dimensional_scaler",
+     "pages": [
+      {
+       "crafting": "timevortex:dimensional_scaler"
+      },
+      {
+       "text": "handbook.timevortex.size.1"
+      },
+      {
+       "text": "handbook.timevortex.size.2"
+      }
+     ]
+    },
+    {
+     "id": "sign",
+     "icon": "timevortex:police_box_tardis",
+     "pages": [
+      {
+       "text": "handbook.timevortex.sign.1"
+      },
+      {
+       "text": "handbook.timevortex.sign.2"
+      },
+      {
+       "text": "handbook.timevortex.sign.3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lost",
+   "icon": "timevortex:tardis_key",
+   "entries": [
+    {
+     "id": "finding",
+     "icon": "timevortex:scanner",
+     "pages": [
+      {
+       "text": "handbook.timevortex.finding.1"
+      },
+      {
+       "text": "handbook.timevortex.finding.2"
+      },
+      {
+       "text": "handbook.timevortex.finding.3"
+      },
+      {
+       "text": "handbook.timevortex.finding.4"
+      }
+     ]
+    },
+    {
+     "id": "this_book",
+     "icon": "timevortex:tardis_handbook",
+     "pages": [
+      {
+       "text": "handbook.timevortex.this_book.1"
+      },
+      {
+       "text": "handbook.timevortex.this_book.2"
+      },
+      {
+       "crafting": "timevortex:tardis_handbook"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

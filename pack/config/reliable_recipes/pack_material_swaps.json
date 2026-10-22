@@ -1,0 +1,630 @@
+[
+  {
+    "action": "replace_input",
+    "target": "oritech:steel_ingot",
+    "replacement": "minecraft:iron_ingot"
+  },
+  {
+    "action": "replace_input",
+    "target": "abyssal_decor:white_pearl",
+    "replacement": "alexscaves:pearl"
+  },
+  {
+    "action": "replace_input",
+    "target": [
+      "abyssal_decor:moonsilver_ingot",
+      "witchery:koboldite_ingot"
+    ],
+    "replacement": "iceandfire:silver_ingot"
+  },
+  {
+    "action": "replace_input",
+    "target": [
+      "abyssal_decor:moonsilver_nugget",
+      "witchery:koboldite_nugget"
+    ],
+    "replacement": "iceandfire:silver_nugget"
+  },
+  {
+    "action": "replace_input",
+    "target": [
+      "celestisynth:supernal_netherite_ingot",
+      "infinity_gauntlet:uru_ingot"
+    ],
+    "replacement": "marvel:uru_ingot"
+  },
+  {
+    "action": "replace_input",
+    "target": [
+      "celestisynth:celestial_netherite_ingot",
+      "oritech:energite_ingot",
+      "oritech:energite_dust",
+      "oritech:energite_block"
+    ],
+    "replacement": "marvel:vibranium_ingot"
+  },
+  {
+    "action": "replace_input",
+    "target": [
+      "celestisynth:lunar_stone",
+      "celestisynth:lunar_scrap"
+    ],
+    "replacement": "pastel:moonstone_block"
+  },
+  {
+    "action": "replace_input",
+    "target": [
+      "celestisynth:solar_crystal",
+      "celestisynth:crimson_piece"
+    ],
+    "replacement": "antarchy:blood_crystal_shard"
+  },
+  {
+    "action": "replace_input",
+    "target": "celestisynth:starstruck_feather",
+    "replacement": "antarchy:stratoshark_fin"
+  },
+  {
+    "action": "replace_input",
+    "target": "celestisynth:starstruck_scrap",
+    "replacement": "antarchy:nightmare_scale"
+  },
+  {
+    "action": "replace_input",
+    "target": "celestisynth:zephyr_deposit",
+    "replacement": "antarchy:vortex_charge"
+  },
+  {
+    "action": "replace_input",
+    "target": [
+      "celestisynth:wintereis_shard",
+      "celestisynth:wintereis"
+    ],
+    "replacement": "alexscaves:bioluminesscence"
+  },
+  {
+    "action": "replace_input",
+    "target": [
+      "oritech:platinum_ingot",
+      "marvel:titanium_ingot"
+    ],
+    "replacement": "antarchy:titanium_ingot"
+  },
+  {
+    "action": "replace_input",
+    "target": [
+      "oritech:raw_platinum",
+      "marvel:raw_titanium"
+    ],
+    "replacement": "antarchy:raw_titanium"
+  },
+  {
+    "action": "replace_input",
+    "target": [
+      "oritech:platinum_nugget",
+      "marvel:titanium_nugget"
+    ],
+    "replacement": "antarchy:titanium_nugget"
+  },
+  {
+    "action": "replace_input",
+    "target": [
+      "oritech:platinum_block",
+      "marvel:titanium_block"
+    ],
+    "replacement": "antarchy:titanium_block"
+  },
+  {
+    "action": "replace_input",
+    "target": [
+      "oritech:raw_platinum_block",
+      "marvel:raw_titanium_block"
+    ],
+    "replacement": "antarchy:raw_titanium_block"
+  },
+  {
+    "action": "replace_input",
+    "target": "oritech:duratium_dust",
+    "replacement": "pastel:bedrock_dust"
+  },
+  {
+    "action": "replace_input",
+    "target": "oritech:duratium_block",
+    "replacement": "marvel:vibranium_block"
+  },
+  {
+    "action": "replace_input",
+    "target": "marvel:proto_adamantium_ingot",
+    "replacement": "marvel:adamantium_ingot"
+  },
+  {
+    "action": "replace_input",
+    "target": "oritech:adamant_ingot",
+    "replacement": "minecraft:iron_ingot"
+  },
+  {
+    "action": "replace_input",
+    "target": "witchery:refined_evil",
+    "replacement": "alexscaves:pure_darkness"
+  },
+  {
+    "action": "replace_input",
+    "target": "witchery:wool_of_bat",
+    "replacement": "alexscaves:vesper_wing"
+  },
+  {
+    "action": "replace_input",
+    "target": "marvel:proto_adamantium_block",
+    "replacement": "marvel:adamantium_block"
+  },
+  {
+    "action": "replace_input",
+    "target": "marvel:proto_adamantium_nugget",
+    "replacement": "marvel:adamantium_nugget"
+  },
+  {
+    "action": "replace_input",
+    "target": "marvel:tesseract_shard",
+    "replacement": "antarchy:high_fructose_corn_syrup"
+  },
+  {
+    "action": "replace_input",
+    "target": "marvel:palladium_ingot",
+    "replacement": "minecraft:netherite_ingot"
+  },
+  {
+    "action": "replace_input",
+    "target": "marvel:palladium_block",
+    "replacement": "minecraft:netherite_block"
+  },
+  {
+    "action": "replace_input",
+    "target": "oritech:raw_uranium",
+    "replacement": "antarchy:raw_uranium"
+  },
+  {
+    "action": "replace_input",
+    "target": "oritech:raw_uranium_block",
+    "replacement": "antarchy:raw_uranium_block"
+  },
+  {
+    "action": "replace_input",
+    "target": "oritech:uranium_gem",
+    "replacement": "antarchy:uranium_ingot"
+  },
+  {
+    "action": "replace_input",
+    "target": "inventorypets:nugget_coal",
+    "replacement": "oritech:coal_dust"
+  },
+  {
+    "action": "replace_input",
+    "target": "inventorypets:nugget_ender",
+    "replacement": "oritech:enderic_compound"
+  },
+  {
+    "action": "replace_input",
+    "target": "scguns:bat_guano",
+    "replacement": "alexscaves:guano"
+  },
+  {
+    "action": "replace_input",
+    "target": "inventorypets:nugget_diamond",
+    "replacement": "minecraft:diamond"
+  },
+  {
+    "action": "replace_input",
+    "target": "inventorypets:nugget_emerald",
+    "replacement": "minecraft:emerald"
+  },
+  {
+    "action": "replace_input",
+    "target": "inventorypets:nugget_lapis",
+    "replacement": "minecraft:lapis_lazuli"
+  },
+  {
+    "action": "replace_input",
+    "target": "inventorypets:nugget_netherite",
+    "replacement": "minecraft:netherite_ingot"
+  },
+  {
+    "action": "replace_input",
+    "target": "inventorypets:nugget_obsidian",
+    "replacement": "minecraft:obsidian"
+  },
+  {
+    "action": "replace_input",
+    "target": "oritech:plastic_sheet",
+    "replacement": "alexscaves:polymer_plate"
+  },
+  {
+    "action": "replace_input",
+    "target": "mts:mtsofficialpack.plastic",
+    "replacement": "alexscaves:polymer_plate"
+  },
+  {
+    "action": "replace_input",
+    "target": "iceandfire:copper_nugget",
+    "replacement": "minecraft:copper_nugget"
+  },
+  {
+    "action": "replace_input",
+    "target": "mts:mtsofficialpack.plating",
+    "replacement": "minecraft:iron_ingot"
+  },
+  {
+    "action": "replace_input",
+    "target": "mts:mtsofficialpack.metaltube",
+    "replacement": "oritech:fluid_pipe"
+  },
+  {
+    "action": "replace_input",
+    "target": "mts:mtsofficialpack.screws",
+    "replacement": "minecraft:iron_nugget"
+  },
+  {
+    "action": "replace_input",
+    "target": "mts:mtsofficialpack.copperwire",
+    "replacement": "minecraft:copper_nugget"
+  },
+  {
+    "action": "replace_input",
+    "target": "mts:mtsofficialpack.spring",
+    "replacement": "scguns:tension_spring"
+  },
+  {
+    "action": "replace_input",
+    "target": "mts:mtsofficialpack.circuit",
+    "replacement": "oritech:processing_unit"
+  },
+  {
+    "action": "replace_input",
+    "target": "mts:mtsofficialpack.processor",
+    "replacement": "oritech:processing_unit"
+  },
+  {
+    "action": "replace_input",
+    "target": "mts:mtsofficialpack.solidfuel",
+    "replacement": "oritech:solid_biofuel"
+  },
+  {
+    "action": "replace_input",
+    "target": "pastel:paltaeria_fragments",
+    "replacement": "antarchy:antimetal"
+  },
+  {
+    "action": "replace_input",
+    "target": "pastel:paltaeria_gem",
+    "replacement": "antarchy:polished_antimetal"
+  },
+  {
+    "action": "replace_input",
+    "target": "pastel:storm_stone",
+    "replacement": "antarchy:vortex_charge"
+  },
+  {
+    "action": "replace_input",
+    "target": [
+      "pastel:raw_bloodstone",
+      "pastel:pure_bloodstone"
+    ],
+    "replacement": "antarchy:blood_crystal_shard"
+  },
+  {
+    "action": "replace_input",
+    "target": "pastel:bloodstone_block",
+    "replacement": "antarchy:blood_crystal_block"
+  },
+  {
+    "action": "replace_input",
+    "target": "pastel:shimmerstone_gem",
+    "replacement": "antarchy:glowcap_mushroom",
+    "id": [
+      "pastel:pedestal/tier1/colored_lamps/black",
+      "pastel:pedestal/tier1/colored_lamps/blue",
+      "pastel:pedestal/tier1/colored_lamps/brown",
+      "pastel:pedestal/tier1/colored_lamps/cyan",
+      "pastel:pedestal/tier1/colored_lamps/gray",
+      "pastel:pedestal/tier1/colored_lamps/green",
+      "pastel:pedestal/tier1/colored_lamps/light_blue",
+      "pastel:pedestal/tier1/colored_lamps/light_gray",
+      "pastel:pedestal/tier1/colored_lamps/lime",
+      "pastel:pedestal/tier1/colored_lamps/magenta",
+      "pastel:pedestal/tier1/colored_lamps/orange",
+      "pastel:pedestal/tier1/colored_lamps/pink",
+      "pastel:pedestal/tier1/colored_lamps/purple",
+      "pastel:pedestal/tier1/colored_lamps/red",
+      "pastel:pedestal/tier1/colored_lamps/white",
+      "pastel:pedestal/tier1/colored_lamps/yellow",
+      "pastel:pedestal/tier1/glass/radiant_glass",
+      "pastel:pedestal/tier1/noxwood/chestnut_lamp",
+      "pastel:pedestal/tier1/noxwood/chestnut_lantern",
+      "pastel:pedestal/tier1/noxwood/ebony_lamp",
+      "pastel:pedestal/tier1/noxwood/ebony_lantern",
+      "pastel:pedestal/tier1/noxwood/ivory_lamp",
+      "pastel:pedestal/tier1/noxwood/ivory_lantern",
+      "pastel:pedestal/tier1/noxwood/slate_lamp",
+      "pastel:pedestal/tier1/noxwood/slate_lantern",
+      "pastel:pedestal/tier1/shimmerstone_lights/andesite",
+      "pastel:pedestal/tier1/shimmerstone_lights/basalt",
+      "pastel:pedestal/tier1/shimmerstone_lights/blackslag",
+      "pastel:pedestal/tier1/shimmerstone_lights/calcite",
+      "pastel:pedestal/tier1/shimmerstone_lights/deepslate",
+      "pastel:pedestal/tier1/shimmerstone_lights/diorite",
+      "pastel:pedestal/tier1/shimmerstone_lights/granite",
+      "pastel:pedestal/tier1/shimmerstone_lights/stone",
+      "pastel:pedestal/tier1/weeping_gala/lantern",
+      "pastel:pedestal/tier3/gemstone_chimes/amethyst",
+      "pastel:pedestal/tier3/gemstone_chimes/citrine",
+      "pastel:pedestal/tier3/gemstone_chimes/moonstone",
+      "pastel:pedestal/tier3/gemstone_chimes/onyx",
+      "pastel:pedestal/tier3/gemstone_chimes/topaz",
+      "pastel:pedestal/tier3/semi_permeable_glass/radiant"
+    ]
+  },
+  {
+    "action": "replace_input",
+    "target": "pastel:shimmerstone_block",
+    "replacement": "antarchy:glowcap_mushroom_block",
+    "id": [
+      "pastel:pedestal/tier1/gemstone_lights/amethyst_basalt_light",
+      "pastel:pedestal/tier1/gemstone_lights/amethyst_calcite_light",
+      "pastel:pedestal/tier1/gemstone_lights/citrine_basalt_light",
+      "pastel:pedestal/tier1/gemstone_lights/citrine_calcite_light",
+      "pastel:pedestal/tier1/gemstone_lights/moonstone_basalt_light",
+      "pastel:pedestal/tier1/gemstone_lights/moonstone_calcite_light",
+      "pastel:pedestal/tier1/gemstone_lights/onyx_basalt_light",
+      "pastel:pedestal/tier1/gemstone_lights/onyx_calcite_light",
+      "pastel:pedestal/tier1/gemstone_lights/topaz_basalt_light",
+      "pastel:pedestal/tier1/gemstone_lights/topaz_calcite_light",
+      "pastel:pedestal/tier1/noxwood/chestnut_light",
+      "pastel:pedestal/tier1/noxwood/ebony_light",
+      "pastel:pedestal/tier1/noxwood/ivory_light",
+      "pastel:pedestal/tier1/noxwood/slate_light",
+      "pastel:pedestal/tier1/weeping_gala/lamp",
+      "pastel:pedestal/tier1/weeping_gala/light"
+    ]
+  },
+  {
+    "action": "replace_input",
+    "target": "pastel:shimmerstone_gem",
+    "replacement": "antarchy:tigers_eye",
+    "id": [
+      "pastel:crystallarieum/minecraft/glowstone",
+      "pastel:crystallarieum/minecraft/gold",
+      "pastel:crystallarieum/minecraft/redstone",
+      "pastel:enchanter/enchanted_golden_carrot",
+      "pastel:enchanter/pastel_books/steadfast",
+      "pastel:fusion_shrine/trinkets/radiance_pin",
+      "pastel:pedestal/tier1/bottle_of_fading",
+      "pastel:pedestal/tier1/glow_phantom_frame",
+      "pastel:pedestal/tier1/phantom_frame",
+      "pastel:pedestal/tier1/present",
+      "pastel:pedestal/tier1/tools/lucky_pickaxe",
+      "pastel:pedestal/tier1/vanilla/spectral_arrow",
+      "pastel:pedestal/tier2/ink_assortment",
+      "pastel:pedestal/tier2/ink_flask",
+      "pastel:pedestal/tier2/item_roundel",
+      "pastel:pedestal/tier2/pedestal_onyx",
+      "pastel:pedestal/tier2/radiance_staff",
+      "pastel:pedestal/tier3/ethereal_platform",
+      "pastel:pedestal/tier3/item_bowl_basalt",
+      "pastel:pedestal/tier3/item_bowl_calcite",
+      "pastel:pedestal/tier3/liquid_crystal_bucket",
+      "pastel:titration_barrel/infused_beverages/gatorwine"
+    ]
+  },
+  {
+    "action": "replace_input",
+    "target": "pastel:shimmerstone_block",
+    "replacement": "antarchy:tigers_eye_block",
+    "id": [
+      "pastel:enchanter/enchanted_golden_apple"
+    ]
+  },
+  {
+    "action": "replace_input",
+    "target": "pastel:stratine_fragments",
+    "replacement": "antarchy:uranium_ingot"
+  },
+  {
+    "action": "replace_input",
+    "target": "pastel:stratine_gem",
+    "replacement": "antarchy:uranium_block"
+  },
+  {
+    "action": "replace_input",
+    "target": "pastel:quitoxic_powder",
+    "replacement": "alexscaves:uranium_shard"
+  },
+  {
+    "action": "replace_input",
+    "target": "pastel:quitoxic_reeds",
+    "replacement": "alexscaves:radon_bottle"
+  },
+  {
+    "action": "replace_input",
+    "target": "pastel:mermaids_gem",
+    "replacement": "antarchy:broodfruit"
+  },
+  {
+    "action": "replace_input",
+    "target": "pastel:raw_azurite",
+    "replacement": "antarchy:bluestone"
+  },
+  {
+    "action": "replace_input",
+    "target": "pastel:pure_azurite",
+    "replacement": "antarchy:bluestone_block"
+  },
+  {
+    "action": "replace_input",
+    "target": "pastel:azurite_block",
+    "replacement": "antarchy:bluestone_block"
+  },
+  {
+    "action": "replace_input",
+    "target": "pastel:glass_peach",
+    "replacement": "antarchy:peach"
+  },
+  {
+    "action": "replace_input",
+    "target": "oritech:fluxite",
+    "replacement": "antarchy:blood_crystal_shard"
+  },
+  {
+    "action": "replace_input",
+    "target": "oritech:fluxite_block",
+    "replacement": "antarchy:blood_crystal_block"
+  },
+  {
+    "action": "replace_input",
+    "target": "oritech:duratium_ingot",
+    "replacement": "pastel:bedrock_dust"
+  },
+  {
+    "action": "replace_input",
+    "target": "marvel:reinforced_leather",
+    "replacement": "marvellegacy:cloth_black"
+  },
+  {
+    "action": "replace_input",
+    "target": "supplementaries:gold_bars",
+    "replacement": "abyssal_decor:gold_bars"
+  },
+  {
+    "action": "replace_input",
+    "target": "abyssal_decor:block_of_pearl",
+    "replacement": "alexscaves:block_of_pearl"
+  },
+  {
+    "action": "replace_input",
+    "target": "supplementaries:magma_cream_block",
+    "replacement": "netherexp:magma_cream_block"
+  },
+  {
+    "action": "replace_input",
+    "target": "abyssal_decor:le_fishe_au_chocolat",
+    "replacement": "pastel:le_fishe_au_chocolat"
+  },
+  {
+    "action": "replace_input",
+    "target": "inventorypets:candy_cane",
+    "replacement": "alexscaves:candy_cane"
+  },
+  {
+    "action": "replace_input",
+    "target": "inventorypets:rock_candy",
+    "replacement": "alexscaves:rock_candy_pink"
+  },
+  {
+    "action": "replace_input",
+    "target": "inventorypets:banana",
+    "replacement": "oritech:banana"
+  },
+  {
+    "action": "replace_input",
+    "target": "supplementaries:wind_vane",
+    "replacement": "weather2:wind_vane"
+  },
+  {
+    "action": "replace_input",
+    "target": "scguns:geothermal_vent",
+    "replacement": "alexscaves:geothermal_vent"
+  },
+  {
+    "action": "replace_input",
+    "target": "iceandfire:copper_ingot",
+    "replacement": "minecraft:copper_ingot"
+  },
+  {
+    "action": "replace_input",
+    "target": "iceandfire:copper_block",
+    "replacement": "minecraft:copper_block"
+  },
+  {
+    "action": "replace_input",
+    "target": "iceandfire:copper_ore",
+    "replacement": "minecraft:copper_ore"
+  },
+  {
+    "action": "replace_input",
+    "target": "iceandfire:amythest_gem",
+    "replacement": "minecraft:amethyst_shard"
+  },
+  {
+    "action": "replace_input",
+    "target": "scguns:shock_coil",
+    "replacement": "oritech:magnetic_coil"
+  },
+  {
+    "action": "replace_input",
+    "target": "iceandfire:ash",
+    "replacement": "pastel:ash"
+  },
+  {
+    "action": "replace_input",
+    "target": "pastel:ash_pile",
+    "replacement": "supplementaries:ash"
+  },
+  {
+    "action": "replace_input",
+    "target": "netherexp:shotgun_shell",
+    "replacement": "scguns:shotgun_shell"
+  },
+  {
+    "action": "replace_input",
+    "target": "netherexp:blank_shotgun_shell",
+    "replacement": "scguns:shotgun_shell"
+  },
+  {
+    "action": "replace_input",
+    "target": "iceandfire:armor_copper_metal_helmet",
+    "replacement": "minecraft:copper_helmet"
+  },
+  {
+    "action": "replace_input",
+    "target": "iceandfire:armor_copper_metal_chestplate",
+    "replacement": "minecraft:copper_chestplate"
+  },
+  {
+    "action": "replace_input",
+    "target": "iceandfire:armor_copper_metal_leggings",
+    "replacement": "minecraft:copper_leggings"
+  },
+  {
+    "action": "replace_input",
+    "target": "iceandfire:armor_copper_metal_boots",
+    "replacement": "minecraft:copper_boots"
+  },
+  {
+    "action": "replace_input",
+    "target": "iceandfire:copper_sword",
+    "replacement": "minecraft:copper_sword"
+  },
+  {
+    "action": "replace_input",
+    "target": "iceandfire:copper_axe",
+    "replacement": "minecraft:copper_axe"
+  },
+  {
+    "action": "replace_input",
+    "target": "iceandfire:copper_pickaxe",
+    "replacement": "minecraft:copper_pickaxe"
+  },
+  {
+    "action": "replace_input",
+    "target": "iceandfire:copper_shovel",
+    "replacement": "minecraft:copper_shovel"
+  },
+  {
+    "action": "replace_input",
+    "target": "iceandfire:copper_hoe",
+    "replacement": "minecraft:copper_hoe"
+  },
+  {
+    "action": "replace_input",
+    "target": "oritech:copper_nugget",
+    "replacement": "minecraft:copper_nugget"
+  }
+]

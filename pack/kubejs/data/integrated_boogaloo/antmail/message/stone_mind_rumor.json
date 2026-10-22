@@ -1,0 +1,11 @@
+{
+  "sender": "trayaurus@antmail.com",
+  "sender_avatar_item": "antarchy:diamond_minecart",
+  "subject": "The King",
+  "body": "You're in Elythia! We're practically neighbors. The King lives here, at his royal tree, and he carries the Mind Stone. He won't hand it over. I've added a page about him to the book, with directions to the tree. @archive:antarchy:king\n\nI'd come and meet you, but I'm in the middle of something. Please be careful.\n\nYour old friend,\nDr. T",
+  "trigger": {
+    "delay_minutes": 3,
+    "type": "advancement",
+    "value": "antarchy:visit_elythia"
+  }
+}

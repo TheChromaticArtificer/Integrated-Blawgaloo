@@ -1,0 +1,24 @@
+{
+  "name": "epic:epic_jungle_temple/epic_temple",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/epic_temple/mossify_20_percent",
+        "location": "epic:epic_jungle_temple/temple1"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/epic_temple/mossify_20_percent",
+        "location": "epic:epic_jungle_temple/temple2"
+      },
+      "weight": 1
+    }
+  ]
+}

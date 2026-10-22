@@ -1,0 +1,15 @@
+{
+  "type": "oritech:pulverizer",
+  "ingredients": [
+    {
+      "item": "minecraft:amethyst_shard"
+    }
+  ],
+  "results": [
+    {
+      "count": 3,
+      "id": "pastel:amethyst_powder"
+    }
+  ],
+  "time": 100
+}

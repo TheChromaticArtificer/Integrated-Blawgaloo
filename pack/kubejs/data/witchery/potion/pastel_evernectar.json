@@ -1,0 +1,11 @@
+{
+  "altar_power": 200,
+  "base_duration": 900,
+  "capacity_cost": -1,
+  "color": -13952182,
+  "effect": "pastel:fatal_slumber",
+  "item": {
+    "count": 1,
+    "id": "pastel:evernectar"
+  }
+}

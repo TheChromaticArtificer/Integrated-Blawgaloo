@@ -1,0 +1,190 @@
+{
+  "type": "lucky:group",
+  "luck": 1,
+  "chance": 2.0,
+  "outcomes": [
+    {
+      "type": "lucky:message",
+      "message": {
+        "text": "Gadget get!",
+        "color": "aqua",
+        "bold": true
+      },
+      "overlay": true
+    },
+    {
+      "type": "lucky:random",
+      "outcomes": [
+        {
+          "type": "lucky:item",
+          "item": "antarchy:growth_ray",
+          "weight": 1
+        },
+        {
+          "type": "lucky:item",
+          "item": "antarchy:shrink_ray",
+          "weight": 1
+        },
+        {
+          "type": "lucky:item",
+          "item": "antarchy:gravity_gun",
+          "weight": 1
+        },
+        {
+          "type": "lucky:item",
+          "item": "antarchy:water_cannon",
+          "weight": 2
+        },
+        {
+          "type": "lucky:item",
+          "item": "antarchy:moggles",
+          "weight": 2
+        },
+        {
+          "type": "lucky:item",
+          "item": "antarchy:critter_cage",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "type": "lucky:item",
+          "item": "antarchy:springy_boots",
+          "weight": 1
+        },
+        {
+          "type": "lucky:item",
+          "item": "antarchy:antiwater_bucket",
+          "weight": 2
+        },
+        {
+          "type": "lucky:item",
+          "item": "antarchy:cloud_bucket",
+          "weight": 2
+        },
+        {
+          "type": "lucky:item",
+          "item": "antarchy:lumen_bucket",
+          "weight": 2
+        },
+        {
+          "type": "lucky:item",
+          "item": "antarchy:ichor_bucket",
+          "weight": 1
+        },
+        {
+          "type": "lucky:group",
+          "outcomes": [
+            {
+              "type": "lucky:item",
+              "item": "marvellegacy:web_shooters"
+            },
+            {
+              "type": "lucky:item",
+              "item": "marvellegacy:web_cartridge",
+              "count": 4
+            }
+          ],
+          "weight": 2
+        },
+        {
+          "type": "lucky:group",
+          "outcomes": [
+            {
+              "type": "lucky:item",
+              "item": "marvel:web_shooter"
+            },
+            {
+              "type": "lucky:item",
+              "item": "marvel:web_fluid",
+              "count": 4
+            }
+          ],
+          "weight": 2
+        },
+        {
+          "type": "lucky:group",
+          "outcomes": [
+            {
+              "type": "lucky:item",
+              "item": "marvel:shrink"
+            },
+            {
+              "type": "lucky:item",
+              "item": "marvel:grow"
+            }
+          ],
+          "weight": 1
+        },
+        {
+          "type": "lucky:item",
+          "item": "supplementaries:confetti_popper",
+          "count": {
+            "type": "minecraft:uniform",
+            "min_inclusive": 3,
+            "max_inclusive": 5
+          },
+          "weight": 2
+        },
+        {
+          "type": "lucky:item",
+          "item": "supplementaries:bubble_blower",
+          "weight": 2
+        },
+        {
+          "type": "lucky:item",
+          "item": "supplementaries:flute",
+          "weight": 2
+        },
+        {
+          "type": "lucky:item",
+          "item": "oritech:hand_drill",
+          "weight": 1
+        },
+        {
+          "type": "lucky:item",
+          "item": "oritech:chainsaw",
+          "weight": 1
+        },
+        {
+          "type": "lucky:group",
+          "outcomes": [
+            {
+              "type": "lucky:item",
+              "item": "securitycraft:security_camera",
+              "count": 2
+            },
+            {
+              "type": "lucky:item",
+              "item": "securitycraft:camera_monitor"
+            }
+          ],
+          "weight": 1
+        },
+        {
+          "type": "lucky:item",
+          "item": "miners_dream:miners_dream",
+          "count": 2,
+          "weight": 2
+        },
+        {
+          "type": "lucky:group",
+          "outcomes": [
+            {
+              "type": "lucky:item",
+              "item": "dimdoors:unstable_dimensional_door"
+            },
+            {
+              "type": "lucky:item",
+              "item": "dimdoors:rift_key"
+            },
+            {
+              "type": "lucky:item",
+              "item": "dimdoors:rift_blade"
+            }
+          ],
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "category": "integrated_boogaloo:bestiary",
+  "title": "guide.integrated_boogaloo.disk.bestiary_uncanny.title",
+  "entries": [
+    "integrated_boogaloo:iaf_pixie",
+    "integrated_boogaloo:iaf_siren",
+    "integrated_boogaloo:iaf_ghost",
+    "integrated_boogaloo:iaf_dread_mobs"
+  ]
+}

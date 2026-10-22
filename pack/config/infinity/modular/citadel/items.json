@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "citadel:citadel_book"
+		},
+		{
+			"weight": 1.0,
+			"key": "citadel:effect_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "citadel:fancy_item"
+		}
+	]
+}

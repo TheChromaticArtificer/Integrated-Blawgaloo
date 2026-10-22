@@ -1,0 +1,44 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.cavaryn_survived.title",
+  "description": "task.integrated_boogaloo.cavaryn_survived.description",
+  "showcase": [
+    "@entity:antarchy:hercules_beetle"
+  ],
+  "icon": "antarchy:hercules_horn",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:cavaryn",
+  "sort_order": 27,
+  "position": {
+    "x": 2,
+    "y": 4
+  },
+  "shape": "pentagon",
+  "size": 1.5,
+  "availability": "automatic",
+  "hide_until_dependencies_complete": true,
+  "requires": [
+    "integrated_boogaloo:exploration/cavaryn/awakened"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "antarchy:survived_the_horde",
+      "description": "task.integrated_boogaloo.cavaryn_survived.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 600
+    },
+    {
+      "type": "item_pool",
+      "pool": "integrated_boogaloo:prestige",
+      "mode": "choice"
+    }
+  ],
+  "line_axis": "horizontal"
+}

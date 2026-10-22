@@ -1,0 +1,50 @@
+{
+  "green_tint": false,
+  "type": "article",
+  "category": "general",
+  "folder": "integrated_boogaloo:witchcraft",
+  "sort_order": 50,
+  "title": "guide.integrated_boogaloo.entry.witchery_distillery.title",
+  "subtitle": "guide.integrated_boogaloo.entry.witchery_distillery.subtitle",
+  "cover_item": "witchery:distillery",
+  "gallery": [
+    {
+      "item": "witchery:gypsum"
+    },
+    {
+      "item": "witchery:oil_of_vitriol"
+    },
+    {
+      "item": "witchery:tear_of_the_goddess"
+    },
+    {
+      "item": "witchery:phantom_vapor"
+    },
+    {
+      "item": "witchery:ender_dew"
+    },
+    {
+      "item": "witchery:focused_will"
+    },
+    {
+      "item": "witchery:condensed_fear"
+    }
+  ],
+  "content": [
+    {
+      "text": "guide.integrated_boogaloo.entry.witchery_distillery.body_1"
+    },
+    {
+      "display": "integrated_boogaloo:guide/distillery"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.witchery_distillery.body_2"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.witchery_distillery.body_3"
+    }
+  ],
+  "lookup_recipes": [
+    "witchery:distilling"
+  ]
+}

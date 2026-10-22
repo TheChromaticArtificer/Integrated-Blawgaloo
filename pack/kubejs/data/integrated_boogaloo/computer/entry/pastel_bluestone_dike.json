@@ -1,0 +1,30 @@
+{
+  "green_tint": false,
+  "type": "article",
+  "category": "general",
+  "folder": "integrated_boogaloo:world_of_color",
+  "sort_order": 90,
+  "title": "guide.integrated_boogaloo.entry.pastel_bluestone_dike.title",
+  "subtitle": "guide.integrated_boogaloo.entry.pastel_bluestone_dike.subtitle",
+  "description": [
+    "guide.integrated_boogaloo.entry.pastel_bluestone_dike.body_1",
+    "guide.integrated_boogaloo.entry.pastel_bluestone_dike.body_2",
+    "guide.integrated_boogaloo.entry.pastel_bluestone_dike.body_3",
+    "guide.integrated_boogaloo.entry.pastel_bluestone_dike.body_4"
+  ],
+  "cover_item": "pastel:azure_dike_ring",
+  "gallery": [
+    {
+      "item": "pastel:azure_dike_ring"
+    },
+    {
+      "item": "pastel:azure_dike_belt"
+    },
+    {
+      "item": "pastel:color_picker"
+    },
+    {
+      "item": "pastel:azuresque_dike_core"
+    }
+  ]
+}

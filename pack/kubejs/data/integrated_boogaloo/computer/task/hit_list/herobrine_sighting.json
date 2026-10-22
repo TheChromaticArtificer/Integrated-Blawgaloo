@@ -1,0 +1,39 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.hit_list_herobrine_sighting.title",
+  "description": "task.integrated_boogaloo.hit_list_herobrine_sighting.description",
+  "showcase": [
+    "@entity:boogaloo_core:watching_apparition"
+  ],
+  "icon_entity": "boogaloo_core:watching_apparition",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:hit_list_titans",
+  "sort_order": 230,
+  "position": {
+    "x": 3,
+    "y": 2
+  },
+  "shape": "diamond",
+  "size": 1.25,
+  "availability": "automatic",
+  "invisible_until_completed": true,
+  "objectives": [
+    {
+      "id": "see_him",
+      "type": "advancement",
+      "target": "boogaloo_core:watching/first_sighting",
+      "description": "task.integrated_boogaloo.hit_list_herobrine_sighting.see_him",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "experience_levels",
+      "levels": 2
+    },
+    {
+      "type": "archive",
+      "entry": "integrated_boogaloo:herobrine_watcher"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "sender": "deadpool@antmail.com",
+  "sender_display": "Deadpool",
+  "sender_avatar_item": "marvel:deadpool_helmet",
+  "subject": "Better than you",
+  "body": "Matt Murdock is blind and he still sees better than you. Turn on Radar Sense and everything alive glows red through walls, invisible stuff too. My roommate Blind Al wants to know why he got superpowers and she just got me. He's a lawyer too, so if those Disney snipers ever catch up with you, he's your guy.",
+  "trigger": {
+    "type": "advancement",
+    "value": "integrated_boogaloo:deadpool/syringe_daredevil",
+    "delay_minutes": 3
+  },
+  "conditions": {
+    "mail_read": [
+      "integrated_boogaloo:deadpool_intro"
+    ]
+  }
+}

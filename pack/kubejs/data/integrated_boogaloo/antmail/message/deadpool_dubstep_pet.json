@@ -1,0 +1,17 @@
+{
+  "sender": "deadpool@antmail.com",
+  "sender_display": "Deadpool",
+  "sender_avatar_item": "marvel:deadpool_helmet",
+  "subject": "Turn it up",
+  "body": "Somebody gave you a Dubstep Pet and I've never been happier. Put on Skrillex and tell Cable it's still a thing. He'll call it bullshorts, but the man looks like a laser tag arena with knees. What does he know about music?",
+  "trigger": {
+    "type": "advancement",
+    "value": "integrated_boogaloo:deadpool/has_dubstep_pet",
+    "delay_minutes": 2
+  },
+  "conditions": {
+    "mail_read": [
+      "integrated_boogaloo:deadpool_intro"
+    ]
+  }
+}

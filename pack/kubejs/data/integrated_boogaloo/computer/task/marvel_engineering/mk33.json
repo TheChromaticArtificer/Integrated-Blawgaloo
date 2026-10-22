@@ -1,0 +1,53 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.marvel_engineering_mk33.title",
+  "description": "task.integrated_boogaloo.marvel_engineering_mk33.description",
+  "showcase": [
+    "@recipe:marvel:iron_man_mark_33_chestplate"
+  ],
+  "icon": "marvel:iron_man_mark_33_chestplate",
+  "program": "integrated_boogaloo:engineering",
+  "category": "integrated_boogaloo:engineering",
+  "sort_order": 38,
+  "position": {
+    "x": 13,
+    "y": 3
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:marvel_engineering/mk25"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "integrated_boogaloo:engineering/mark_33",
+      "description": "task.integrated_boogaloo.marvel_engineering_mk33.goal",
+      "count": 1
+    },
+    {
+      "id": "armor",
+      "type": "item",
+      "target": "antarchy:ultimate_chestplate",
+      "description": "task.integrated_boogaloo.marvel_engineering_mk33.armor",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "item_pool",
+      "pool": "integrated_boogaloo:supplies_rare",
+      "mode": "random"
+    },
+    {
+      "type": "antcoins",
+      "amount": 150
+    },
+    {
+      "type": "archive",
+      "entry": "integrated_boogaloo:suit_marks_late"
+    }
+  ],
+  "line_axis": "horizontal"
+}

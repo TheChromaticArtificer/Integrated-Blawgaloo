@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "mts:mtsofficialpack.trimotor_black",
+    "mts:mtsofficialpack.trimotor_blue",
+    "mts:mtsofficialpack.trimotor_red",
+    "mts:mtsofficialpack.trimotor_white"
+  ]
+}

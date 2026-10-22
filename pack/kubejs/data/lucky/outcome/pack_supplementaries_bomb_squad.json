@@ -1,0 +1,38 @@
+{
+  "type": "lucky:group",
+  "luck": -1,
+  "chance": 1.25,
+  "outcomes": [
+    {
+      "type": "lucky:message",
+      "message": {
+        "text": "BOMB! Catch!",
+        "color": "red",
+        "bold": true
+      },
+      "overlay": true
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "minecraft:tnt",
+      "nbt": {
+        "fuse": 60
+      },
+      "pos": [
+        "{blockPosX}+2",
+        "{blockPosY}",
+        "{blockPosZ}"
+      ]
+    },
+    {
+      "type": "lucky:item",
+      "item": "supplementaries:bomb",
+      "count": {
+        "type": "minecraft:uniform",
+        "min_inclusive": 3,
+        "max_inclusive": 5
+      },
+      "delay": 80
+    }
+  ]
+}

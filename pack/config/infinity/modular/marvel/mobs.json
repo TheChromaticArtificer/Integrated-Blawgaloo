@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "marvel:hydra_agent",
+			"data": {
+				"Category": "monster"
+			}
+		}
+	]
+}

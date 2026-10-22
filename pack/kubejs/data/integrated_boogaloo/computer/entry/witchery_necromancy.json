@@ -1,0 +1,39 @@
+{
+  "green_tint": false,
+  "type": "article",
+  "category": "general",
+  "folder": "integrated_boogaloo:witchcraft",
+  "sort_order": 140,
+  "title": "guide.integrated_boogaloo.entry.witchery_necromancy.title",
+  "subtitle": "guide.integrated_boogaloo.entry.witchery_necromancy.subtitle",
+  "cover_item": "witchery:brazier",
+  "gallery": [
+    {
+      "entity": "witchery:banshee"
+    },
+    {
+      "entity": "witchery:poltergeist"
+    },
+    {
+      "entity": "witchery:spectre"
+    }
+  ],
+  "lookup": [
+    "witchery:wormwood",
+    "witchery:wormwood_seeds"
+  ],
+  "content": [
+    {
+      "text": "guide.integrated_boogaloo.entry.witchery_necromancy.body_1"
+    },
+    {
+      "display": "integrated_boogaloo:guide/brazier"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.witchery_necromancy.body_2"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.witchery_necromancy.body_3"
+    }
+  ]
+}

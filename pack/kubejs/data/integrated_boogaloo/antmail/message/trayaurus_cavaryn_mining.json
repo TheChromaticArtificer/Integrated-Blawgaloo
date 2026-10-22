@@ -1,0 +1,11 @@
+{
+  "sender": "trayaurus@antmail.com",
+  "sender_avatar_item": "antarchy:diamond_minecart",
+  "subject": "Best digging there is",
+  "body": "Now that you're down there, start digging! Cavaryn is the best place for titanium and uranium. It grows all through the broodstone, way more than anywhere else. The rock is packed with dried spawn eggs too. Cook them in a Blast Furnace to see what hatches.\n\nThe catch is that the whole place is crawling with bugs, and most of them want to eat you. Mine quick and don't wander. You know I'm not coming down to get you.\n\nYour old friend,\nDr. T",
+  "trigger": {
+    "delay_minutes": 10,
+    "type": "advancement",
+    "value": "antarchy:visit_cavaryn"
+  }
+}

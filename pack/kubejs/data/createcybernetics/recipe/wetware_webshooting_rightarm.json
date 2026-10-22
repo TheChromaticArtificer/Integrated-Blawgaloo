@@ -1,0 +1,18 @@
+{
+  "type": "createcybernetics:grafting_table",
+  "wetware": [
+    {
+      "item": "createcybernetics:bodypart_rightarm"
+    },
+    {
+      "item": "minecraft:cobweb"
+    },
+    {
+      "item": "marvel:web_fluid"
+    }
+  ],
+  "result": {
+    "id": "createcybernetics:wetware_webshooting_rightarm",
+    "count": 1
+  }
+}

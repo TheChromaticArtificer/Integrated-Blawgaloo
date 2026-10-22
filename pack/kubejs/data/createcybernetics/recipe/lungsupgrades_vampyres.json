@@ -1,0 +1,47 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:mod_loaded",
+        "modid": "create"
+      }
+    }
+  ],
+  "type": "createcybernetics:engineering_table",
+  "accept_mirrored": true,
+  "key": {
+    "X": {
+      "item": "createcybernetics:empty_autoinjector"
+    },
+    "P": {
+      "item": "antarchy:titanium_nugget"
+    },
+    "A": {
+      "item": "oritech:motor"
+    },
+    "S": {
+      "item": "oritech:small_tank_block"
+    },
+    "N": {
+      "item": "minecraft:iron_nugget"
+    },
+    "T": {
+      "item": "antarchy:titanium_nugget"
+    },
+    "G": {
+      "item": "minecraft:glass_bottle"
+    }
+  },
+  "pattern": [
+    "S P S",
+    "GAAAG",
+    "XAPAX",
+    "N T N",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "id": "createcybernetics:lungsupgrades_vampyres"
+  }
+}

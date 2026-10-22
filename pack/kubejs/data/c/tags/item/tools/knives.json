@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "values": [
+    {
+      "id": "scguns:anthralite_knife",
+      "required": false
+    }
+  ]
+}

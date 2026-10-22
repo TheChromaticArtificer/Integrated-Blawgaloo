@@ -1,0 +1,56 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.witchery_infernal_chalk.title",
+  "description": "task.integrated_boogaloo.witchery_infernal_chalk.description",
+  "showcase": [
+    "@item:witchery:infernal_chalk",
+    "@recipe:witchery:infernal_chalk"
+  ],
+  "icon": "witchery:infernal_chalk",
+  "program": "integrated_boogaloo:witchcraft",
+  "category": "integrated_boogaloo:witchcraft",
+  "sort_order": 12,
+  "position": {
+    "x": 6,
+    "y": 0
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:witchery_basics/golden_chalk"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "witchery:infernal_chalk",
+      "description": "task.integrated_boogaloo.witchery_infernal_chalk.goal",
+      "count": 1
+    },
+    {
+      "id": "fungus",
+      "type": "item",
+      "target": "netherexp:wraithing_flesh",
+      "description": "task.integrated_boogaloo.witchery_infernal_chalk.fungus",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "blaze",
+      "type": "item",
+      "target": "minecraft:blaze_powder",
+      "description": "task.integrated_boogaloo.witchery_infernal_chalk.blaze",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "archive_entries": [
+    "integrated_boogaloo:witchery_rituals"
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 30
+    }
+  ],
+  "line_axis": "vertical"
+}

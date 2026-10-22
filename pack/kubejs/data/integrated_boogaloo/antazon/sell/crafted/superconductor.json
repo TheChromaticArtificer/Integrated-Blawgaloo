@@ -1,0 +1,7 @@
+{
+  "item": "oritech:superconductor",
+  "value": 120,
+  "limit": 16,
+  "limit_reset": "minecraft_day",
+  "green_tint": false
+}

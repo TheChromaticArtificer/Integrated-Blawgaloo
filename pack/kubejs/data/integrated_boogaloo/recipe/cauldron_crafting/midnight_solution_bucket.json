@@ -1,0 +1,36 @@
+{
+  "type": "witchery:cauldron_crafting",
+  "altarPower": 200,
+  "inputItems": [
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "antarchy:ichor_bucket"
+      },
+      "order": 0
+    },
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "pastel:midnight_chip"
+      },
+      "order": 1
+    },
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "pastel:black_pigment"
+      },
+      "order": 2
+    }
+  ],
+  "outputItems": [
+    {
+      "count": 1,
+      "id": "pastel:midnight_solution_bucket"
+    }
+  ]
+}

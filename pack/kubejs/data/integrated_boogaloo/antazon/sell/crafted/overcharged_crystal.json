@@ -1,0 +1,7 @@
+{
+  "item": "oritech:overcharged_crystal",
+  "value": 650,
+  "limit": 8,
+  "limit_reset": "minecraft_day",
+  "green_tint": false
+}

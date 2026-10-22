@@ -1,0 +1,44 @@
+{
+  "version": 2,
+  "primaryPixels": [
+    [
+      10,
+      13
+    ],
+    [
+      13,
+      13
+    ],
+    [
+      10,
+      14
+    ],
+    [
+      13,
+      14
+    ]
+  ],
+  "secondaryPixels": [],
+  "optics": {
+    "monovision": {
+      "x": 0,
+      "y": 0
+    },
+    "multioptics_1": {
+      "x": 0,
+      "y": 0
+    },
+    "multioptics_2": {
+      "x": 0,
+      "y": 0
+    },
+    "multioptics_3": {
+      "x": 0,
+      "y": 0
+    },
+    "multioptics_4": {
+      "x": 0,
+      "y": 0
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:remove_spawns",
+  "biomes": [
+    "antarchy:dream_dunes",
+    "integrated_boogaloo:dread_barrens"
+  ],
+  "entity_types": [
+    "witchery:nightmare"
+  ]
+}

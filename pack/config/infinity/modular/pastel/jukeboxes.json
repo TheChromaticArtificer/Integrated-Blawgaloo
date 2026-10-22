@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "pastel:credits"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:discovery"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:divinity"
+		}
+	]
+}

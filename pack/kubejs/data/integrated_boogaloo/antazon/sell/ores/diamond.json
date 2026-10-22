@@ -1,0 +1,7 @@
+{
+  "item": "minecraft:diamond",
+  "value": 40,
+  "limit": 32,
+  "limit_reset": "minecraft_day",
+  "green_tint": false
+}

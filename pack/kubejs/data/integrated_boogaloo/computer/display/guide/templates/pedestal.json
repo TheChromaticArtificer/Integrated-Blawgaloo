@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "width": 230,
+  "height": 104,
+  "variables": {
+    "title": {
+      "type": "string"
+    },
+    "inputs": {
+      "type": "array"
+    },
+    "columns": {
+      "type": "number"
+    },
+    "powders": {
+      "type": "array",
+      "default": []
+    },
+    "outputs": {
+      "type": "array"
+    },
+    "duration": {
+      "type": "string",
+      "default": "literal:"
+    },
+    "tier": {
+      "type": "string",
+      "default": "literal:"
+    }
+  },
+  "title": "$title",
+  "elements": [
+    {
+      "type": "group",
+      "x": 6,
+      "y": 6,
+      "layout": "grid",
+      "columns": "$columns",
+      "cell_width": 20,
+      "cell_height": 20,
+      "elements": "$inputs"
+    },
+    {
+      "type": "text",
+      "x": 74,
+      "y": 6,
+      "width": 70,
+      "text": "literal:Powder"
+    },
+    {
+      "type": "group",
+      "x": 74,
+      "y": 18,
+      "layout": "grid",
+      "columns": 3,
+      "cell_width": 20,
+      "cell_height": 20,
+      "elements": "$powders"
+    },
+    {
+      "type": "arrow",
+      "x": 140,
+      "y": 35,
+      "x2": 166,
+      "y2": 35
+    },
+    {
+      "type": "group",
+      "x": 174,
+      "y": 26,
+      "layout": "grid",
+      "columns": 1,
+      "cell_width": 20,
+      "cell_height": 20,
+      "elements": "$outputs"
+    },
+    {
+      "type": "text",
+      "x": 6,
+      "y": 72,
+      "width": 220,
+      "text": "$tier",
+      "color": "muted"
+    },
+    {
+      "type": "text",
+      "x": 6,
+      "y": 83,
+      "width": 220,
+      "text": "$duration",
+      "color": "muted"
+    }
+  ],
+  "reflow": true,
+  "auto_height": true
+}

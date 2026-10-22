@@ -1,0 +1,38 @@
+{
+  "name": "computer.integrated_boogaloo.product.materials.diamond.name",
+  "description": "computer.integrated_boogaloo.product.materials.diamond.description",
+  "category": "materials",
+  "green_tint": false,
+  "quantity": 1,
+  "payments": [
+    {
+      "type": "antcoins",
+      "resource": "antcoins",
+      "amount": 100
+    }
+  ],
+  "thumbnail": {
+    "item": "minecraft:diamond"
+  },
+  "availability": {
+    "server_stock": 0,
+    "player_limit": 16,
+    "player_limit_reset": "minecraft_week"
+  },
+  "rewards": [
+    {
+      "item": "minecraft:diamond",
+      "count": 1
+    }
+  ],
+  "reviews": [
+    {
+      "id": "colossus",
+      "author": "Colossus",
+      "title": "computer.integrated_boogaloo.product.materials.diamond.review.colossus.title",
+      "body": "computer.integrated_boogaloo.product.materials.diamond.review.colossus.body",
+      "rating": 5,
+      "badge": "X-MEN"
+    }
+  ]
+}

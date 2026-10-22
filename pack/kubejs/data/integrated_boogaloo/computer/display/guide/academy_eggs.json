@@ -1,0 +1,20 @@
+{
+  "title": "literal:Hatching academy eggs",
+  "variants": [
+    {
+      "id": "nadder",
+      "title": "literal:Deadly Nadder",
+      "display": "integrated_boogaloo:guide/academy_egg_nadder"
+    },
+    {
+      "id": "gronckle",
+      "title": "literal:Gronckle",
+      "display": "integrated_boogaloo:guide/academy_egg_gronckle"
+    },
+    {
+      "id": "fury",
+      "title": "literal:Night Fury",
+      "display": "integrated_boogaloo:guide/academy_egg_fury"
+    }
+  ]
+}

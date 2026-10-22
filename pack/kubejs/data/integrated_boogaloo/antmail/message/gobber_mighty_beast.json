@@ -1,0 +1,12 @@
+{
+  "sender": "gobber@berk.com",
+  "sender_display": "Gobber",
+  "sender_avatar_item": "bda:war_hammer",
+  "subject": "Now THAT is a throw",
+  "body": "Now THAT is a throw. A good bola wraps a small dragon up nice and snug for a while. A full-grown Nightmare, though, snaps it like knitting in two breaths. So throw, then do the important bit, which is running. I ran from a Nightmare once and lost a boot. The leg came off later, THAT was a separate occasion.\n\nGobber",
+  "trigger": {
+    "delay_minutes": 3,
+    "type": "advancement",
+    "value": "bda:academy/mighty_beast"
+  }
+}

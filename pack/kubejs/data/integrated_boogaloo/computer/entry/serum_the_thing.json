@@ -1,0 +1,21 @@
+{
+  "green_tint": false,
+  "type": "item",
+  "category": "general",
+  "folder": "integrated_boogaloo:super_serums",
+  "sort_order": 0,
+  "item": "integrated_superheroes:syringe_rock_hide_ben_grimm",
+  "title": "guide.integrated_boogaloo.entry.serum_the_thing.title",
+  "subtitle": "guide.integrated_boogaloo.entry.serum_the_thing.subtitle",
+  "content": [
+    {
+      "text": "guide.integrated_boogaloo.entry.serum_the_thing.body_1"
+    },
+    {
+      "display": "integrated_boogaloo:guide/serum_the_thing"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.serum_the_thing.body_2"
+    }
+  ]
+}

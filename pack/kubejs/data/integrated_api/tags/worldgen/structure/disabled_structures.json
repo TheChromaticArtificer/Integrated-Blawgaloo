@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "ati_structures:ancient_vessel",
+    "infinity_gauntlet:collectors_vault",
+    "infinity_gauntlet:hydra_bunker",
+    "infinity_gauntlet:milano",
+    "infinity_gauntlet:odins_vault",
+    "infinity_gauntlet:power_temple",
+    "infinity_gauntlet:soul_pit",
+    "marvel:hydra_base_classic",
+    "marvel:hydra_base_winter",
+    "marvel:hydra_base_mountain",
+    "marvel:hydra_outpost_classic",
+    "marvel:hydra_outpost_winter",
+    "marvel:hydra_outpost_mountain"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.elythia_cyclops.title",
+  "description": "task.integrated_boogaloo.elythia_cyclops.description",
+  "showcase": [
+    "@entity:iceandfire:cyclops"
+  ],
+  "icon": "iceandfire:cyclops_eye",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:elythia",
+  "sort_order": 27,
+  "position": {
+    "x": 1,
+    "y": 5
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "stat",
+      "target": "iceandfire:cyclops",
+      "stat_type": "entity_killed",
+      "description": "task.integrated_boogaloo.elythia_cyclops.goal",
+      "count": 1
+    },
+    {
+      "id": "eye",
+      "type": "item",
+      "target": "iceandfire:cyclops_eye",
+      "description": "task.integrated_boogaloo.elythia_cyclops.eye",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 50
+    }
+  ]
+}

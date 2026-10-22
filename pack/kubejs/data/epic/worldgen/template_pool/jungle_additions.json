@@ -1,0 +1,330 @@
+{
+  "name": "epic:jungle_additions",
+  "fallback": "epic:jungle_additions",
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "processors": "integrated_boogaloo:structures/epic/epic_temple_large/mossify_20_percent",
+        "location": "epic:epic_jungle_temple/jungle_additions/addition_1"
+      },
+      "weight": 6
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "processors": "integrated_boogaloo:structures/epic/epic_temple_large/mossify_20_percent",
+        "location": "epic:epic_jungle_temple/jungle_additions/addition_2"
+      },
+      "weight": 6
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "processors": "integrated_boogaloo:structures/epic/epic_temple_large/mossify_20_percent",
+        "location": "epic:epic_jungle_temple/jungle_additions/addition_3"
+      },
+      "weight": 6
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "processors": "integrated_boogaloo:structures/epic/epic_temple_large/mossify_20_percent",
+        "location": "epic:epic_jungle_temple/jungle_additions/addition_4"
+      },
+      "weight": 6
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/epic_temple_large/mossify_20_percent",
+        "location": "epic:epic_jungle_temple/jungle_additions/addition_5"
+      },
+      "weight": 5
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/epic_temple_large/mossify_20_percent",
+        "location": "epic:epic_jungle_temple/jungle_additions/addition_6"
+      },
+      "weight": 5
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/epic_temple_large/mossify_20_percent",
+        "location": "epic:epic_jungle_temple/jungle_additions/addition_7"
+      },
+      "weight": 4
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/epic_temple_large/mossify_20_percent",
+        "location": "epic:epic_jungle_temple/jungle_additions/addition_8"
+      },
+      "weight": 5
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/epic_temple_large/mossify_20_percent",
+        "location": "epic:epic_jungle_temple/jungle_additions/addition_9"
+      },
+      "weight": 5
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "processors": "integrated_boogaloo:structures/epic/epic_temple_large/mossify_20_percent",
+        "location": "epic:epic_jungle_temple/jungle_additions/addition_10"
+      },
+      "weight": 5
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "processors": "integrated_boogaloo:structures/epic/epic_temple_large/mossify_20_percent",
+        "location": "epic:epic_jungle_temple/jungle_additions/addition_11"
+      },
+      "weight": 4
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/epic_temple_large/mossify_20_percent",
+        "location": "epic:epic_jungle_temple/jungle_additions/addition_12"
+      },
+      "weight": 5
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/epic_temple_large/mossify_20_percent",
+        "location": "epic:epic_jungle_temple/jungle_additions/addition_13"
+      },
+      "weight": 5
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/epic_temple_large/mossify_20_percent",
+        "location": "epic:epic_jungle_temple/jungle_additions/addition_14"
+      },
+      "weight": 4
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/epic_temple_large/mossify_20_percent",
+        "location": "epic:epic_jungle_temple/jungle_additions/addition_15"
+      },
+      "weight": 5
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "processors": "integrated_boogaloo:structures/epic/epic_temple_large/mossify_20_percent",
+        "location": "epic:epic_jungle_temple/jungle_additions/addition_16"
+      },
+      "weight": 6
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/epic_temple_large/mossify_20_percent",
+        "location": "epic:epic_jungle_temple/jungle_additions/addition_17"
+      },
+      "weight": 4
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "processors": "integrated_boogaloo:structures/epic/epic_temple_large/mossify_20_percent",
+        "location": "epic:epic_jungle_temple/jungle_additions/addition_18"
+      },
+      "weight": 6
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/epic_temple_large/mossify_20_percent",
+        "location": "epic:epic_jungle_temple/jungle_additions/addition_19"
+      },
+      "weight": 7
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/epic_temple_large/mossify_20_percent",
+        "location": "epic:epic_jungle_temple/jungle_additions/addition_20"
+      },
+      "weight": 4
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/epic_temple_large/mossify_20_percent",
+        "location": "epic:epic_jungle_temple/jungle_additions/addition_21"
+      },
+      "weight": 5
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "processors": "integrated_boogaloo:structures/epic/epic_temple_large/mossify_20_percent",
+        "location": "epic:epic_jungle_temple/jungle_additions/addition_22"
+      },
+      "weight": 6
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/epic_temple_large/mossify_20_percent",
+        "location": "epic:epic_jungle_temple/jungle_additions/addition_23"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "processors": "integrated_boogaloo:structures/epic/epic_temple_large/mossify_20_percent",
+        "location": "epic:epic_jungle_temple/jungle_additions/addition_24"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/epic_temple_large/mossify_20_percent",
+        "location": "epic:epic_jungle_temple/jungle_additions/addition_25"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "processors": "integrated_boogaloo:structures/epic/epic_temple_large/mossify_20_percent",
+        "location": "epic:epic_jungle_temple/jungle_additions/addition_26"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "processors": "integrated_boogaloo:structures/epic/epic_temple_large/mossify_20_percent",
+        "location": "epic:epic_jungle_temple/jungle_additions/addition_27"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "processors": "integrated_boogaloo:structures/epic/epic_temple_large/mossify_20_percent",
+        "location": "epic:epic_jungle_temple/jungle_additions/addition_28"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "processors": "integrated_boogaloo:structures/epic/epic_temple_large/mossify_20_percent",
+        "location": "epic:epic_jungle_temple/jungle_additions/addition_29"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/epic_temple_large/mossify_20_percent",
+        "location": "epic:epic_jungle_temple/jungle_additions/addition_30"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "processors": "integrated_boogaloo:structures/epic/epic_temple_large/mossify_20_percent",
+        "location": "epic:epic_jungle_temple/jungle_additions/addition_31"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "processors": "integrated_boogaloo:structures/epic/epic_temple_large/mossify_20_percent",
+        "location": "epic:epic_jungle_temple/jungle_additions/addition_32"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "processors": "integrated_boogaloo:structures/epic/epic_temple_large/mossify_20_percent",
+        "location": "epic:epic_jungle_temple/jungle_additions/addition_33"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "processors": "integrated_boogaloo:structures/epic/epic_temple_large/mossify_20_percent",
+        "location": "epic:epic_jungle_temple/jungle_additions/addition_34"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "processors": "integrated_boogaloo:structures/epic/epic_temple_large/mossify_20_percent",
+        "location": "epic:epic_jungle_temple/jungle_additions/addition_35"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "terrain_matching",
+        "processors": "integrated_boogaloo:structures/epic/epic_temple_large/mossify_20_percent",
+        "location": "epic:epic_jungle_temple/jungle_additions/addition_36"
+      },
+      "weight": 2
+    }
+  ]
+}

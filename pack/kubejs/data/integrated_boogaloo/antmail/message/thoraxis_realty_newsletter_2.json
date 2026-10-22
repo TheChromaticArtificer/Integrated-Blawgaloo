@@ -1,0 +1,11 @@
+{
+  "sender": "thoraxisrealty@antmail.com",
+  "sender_display": "Thoraxis Real Estate",
+  "sender_avatar_item": "minecraft:oak_door",
+  "subject": "Price reduced",
+  "body": "The castle has dropped in price. It has also dropped, slightly, into the dunes.\n\nThoraxis Real Estate",
+  "trigger": {
+    "type": "random",
+    "pool": "integrated_boogaloo:thoraxis_realty_newsletter"
+  }
+}

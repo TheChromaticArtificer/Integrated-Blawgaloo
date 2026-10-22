@@ -1,0 +1,24 @@
+{
+  "name": "scguns:rewards",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 12,
+      "element": {
+        "location": "scguns:rewards/reward_chest",
+        "processors": "integrated_boogaloo:structures/scguns/cog_chambers",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 12,
+      "element": {
+        "location": "scguns:rewards/reward_chest_2",
+        "processors": "integrated_boogaloo:structures/scguns/cog_chambers",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

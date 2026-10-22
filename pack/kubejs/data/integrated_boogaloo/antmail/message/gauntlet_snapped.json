@@ -1,0 +1,11 @@
+{
+  "sender": "trayaurus@antmail.com",
+  "sender_avatar_item": "antarchy:diamond_minecart",
+  "subject": "What did you do",
+  "body": "Everything went quiet.\n\nThe ants outside the lab stopped moving. Then half of them were gone, mid-step, like someone had rubbed them out. The birds on the roof. Half the fish in my tank.\n\nI've spent years imagining what would happen if someone used it. Now I'm sitting in a very quiet lab.\n\nYour old friend,\nDr. T",
+  "trigger": {
+    "delay_minutes": 3,
+    "type": "advancement",
+    "value": "integrated_boogaloo:gauntlet/snapped"
+  }
+}

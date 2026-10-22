@@ -1,0 +1,2468 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "mts:mts.charger"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mts.custombench"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mts.decorbench"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mts.enginebench"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mts.fuelhose"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mts.fuelpump"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mts.handbook_car"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mts.handbook_plane"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mts.instrumentbench"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mts.invisible_seat"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mts.invisible_standing"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mts.invisible_wheel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mts.jerrycan"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mts.jumpercable"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mts.jumperpack"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mts.key"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mts.paintgun"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mts.partscanner"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mts.propellerbench"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mts.seatbench"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mts.ticket"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mts.vehiclebench"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mts.wheelbench"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mts.wrench"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mts.y2kbutton"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.aa_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.aa_turret_37"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.aa_turret_762"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.ammocrate_bomb_250"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.ammocrate_rocket"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.ammocrate_shell37_ap"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.ammocrate_shell37_he"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.ammocrate_shell37_prox"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.armorplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.auxiliary_tank"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.barrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.barrel_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.barrel_blank"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.barrel_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.barrel_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.barrelbell47g"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.basicbomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.basicbomb_hardpoint"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.beacon_top"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.beacon_tower_inverted"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.beacon_tower_standard"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.bell206_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.bell206_blackstripe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.bell206_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.bell206_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.bell206_festive"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.bell206_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.bell206_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.bell206_olive"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.bell206_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.bell206_police"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.bell206_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.bell206_seagreen"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.bell206_skyblue"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.bell206_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.bell47g"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.bell47g_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.bell47g_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.bell47g_olive"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.blowtorch"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.bomblet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.bomblet_bombrack"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.brigbedbox"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.brigbeddump"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.brigbeddump_coal"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.brigbeddump_cobble"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.brigbeddump_copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.brigbeddump_dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.brigbeddump_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.brigbeddump_hay"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.brigbeddump_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.brigbeddump_moss"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.brigbeddump_nether"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.brigbeddump_podzol"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.brigbeddump_sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.brigbedflat"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.brigbedlogs"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.brigbedstake"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.brigbedtanker_blackred"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.brigbedtanker_blank"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.brigbedtanker_blueorange"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.brigbedtanker_greenred"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.brigbedtanker_grey"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.brigbedtransport"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.brigbedtransport_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.brigbedtransport_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.brigbedtransport_tan"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.bullet3700he"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.bullet3700he_mag"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.bullet3700proxy"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.bullet3700proxy_mag"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.bullet3700solid"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.bullet3700solid_mag"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.bullet762"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.bulletflare_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.bulletflare_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.bulletflare_rainbow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.bulletflare_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.bulletflare_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.bulletflare_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.bulletrocket"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.bumpersticker_roostair"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.camera_vulcanair"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.carseat_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.carseat_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.carseat_grey"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.carseat_maroon"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.carseat_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.carseat_tan"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.carseat_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.comanche_blackred"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.comanche_blackredstripe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.comanche_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.comanche_orangebrown"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.comanche_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.comanche_seagreen"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.comanche_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.crashbarrier"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.crate_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.crate_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.crate_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.crate_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.cratebell47g"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.double_bombrack"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.drill"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.dump_dropper"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.dump_hopper"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.dump_placer"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.dump_storage"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.e500_blackred"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.e500_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.e500_extravagant"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.e500_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.e500_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.e500_silver"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.e500_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.engineallison250"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.engineamci4"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.enginebristolmercury"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.enginedetroitdiesel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.enginefordfe428"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.enginefranklin0335"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.enginelycomingo360"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.enginemercedesm102"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.enginepw610f"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.enginequad"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.extinguisherfoam"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.firetruck"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.fluidloader"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.fluidunloader"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.fordmustang69_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.fordmustang69_bluestripe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.fordmustang69_extravagant"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.fordmustang69_lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.fordmustang69_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.fordmustang69_police"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.fordmustang69_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.fordmustang69_redstripe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.fordmustang69_seagreen"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.fordmustang69_silver"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.fordmustang69_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.fordmustang69_whitestripe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.fordmustang69_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.ft17_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.ft17_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.ft17_olive"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.ft17_tan"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.ft17track"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.fuelpump"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.glovebox_skyhawk"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.gloveboxscout"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.gmcbrig_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.gmcbrig_blackwhite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.gmcbrig_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.gmcbrig_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.gmcbrig_cream"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.gmcbrig_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.gmcbrig_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.gmcbrig_maroon"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.gmcbrig_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.gmcbrig_tan"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.gmcbrig_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.grilleornament_cowskull"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.grilleornament_horns"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.grilleornament_moustache"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.grilleornament_snail"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.gunconfetti"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.gunfireextinguisher"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.gunflaregun"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.gunft17turret"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.gunm1919"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.gunobserver"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.gunrocketlauncher"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.gunrocketpod"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.headlight"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.heavy_bomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.heavy_bombrack"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.hoist_bell206"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.instrument_aircraft_adf"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.instrument_aircraft_airspeed"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.instrument_aircraft_altimeter"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.instrument_aircraft_attitude"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.instrument_aircraft_beacon_distance"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.instrument_aircraft_clock"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.instrument_aircraft_coordinate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.instrument_aircraft_electric"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.instrument_aircraft_enginetemp"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.instrument_aircraft_flaps"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.instrument_aircraft_fuelflow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.instrument_aircraft_fuelqty"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.instrument_aircraft_heading"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.instrument_aircraft_ils"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.instrument_aircraft_liftreserve"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.instrument_aircraft_oilpressure"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.instrument_aircraft_tachometer"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.instrument_aircraft_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.instrument_aircraft_turncoord"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.instrument_aircraft_turnslip"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.instrument_aircraft_verticalspeed"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.instrument_car_clock"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.instrument_car_electric"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.instrument_car_enginetemp_c"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.instrument_car_enginetemp_f"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.instrument_car_fuelqty"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.instrument_car_gear"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.instrument_car_oilpressure_b"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.instrument_car_oilpressure_p"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.instrument_car_spedometer_blk"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.instrument_car_spedometer_kph"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.instrument_car_spedometer_mph"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.instrument_car_tachometer"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.instrument_misc_mud"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.irsensor"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.itemloader"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.itemunloader"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.manual_skyhawk"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mc172_acacia"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mc172_bamboo"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mc172_birch"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mc172_cherry"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mc172_crimson"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mc172_darkoak"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mc172_jungle"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mc172_mangrove"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mc172_oak"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mc172_spruce"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mc172_warped"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.merc230_beige"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.merc230_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.merc230_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.merc230_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.merc230_extravagant"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.merc230_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.merc230_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.merc230_maroon"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.merc230_olive"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.merc230_police"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.merc230_police2"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.merc230_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.merc230_salmon"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.merc230_seagreen"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.merc230_silver"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.merc230_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.merc230_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mirrorornament"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mirrorornament_1911black"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mirrorornament_1911gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mirrorornament_1911gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mirrorornament_anvil"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mirrorornament_aviators"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mirrorornament_blockacacia"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mirrorornament_blockgold"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mirrorornament_blockgrass"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mirrorornament_blocktnt"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mirrorornament_butter"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mirrorornament_cactus"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mirrorornament_car"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mirrorornament_cat"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mirrorornament_clock"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mirrorornament_creeper"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mirrorornament_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mirrorornament_emerald"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mirrorornament_gapple"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mirrorornament_gmc"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mirrorornament_hc"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mirrorornament_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mirrorornament_joystick"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mirrorornament_mogus"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mirrorornament_nstar"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mirrorornament_nuts"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mirrorornament_pine"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mirrorornament_piston"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mirrorornament_potato"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mirrorornament_rubix"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mirrorornament_saturn"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mirrorornament_skull"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mirrorornament_snail"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mirrorornament_steak"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mirrorornament_totem"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mirrorornament_wheel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.mre"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.nuts"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.ocpbutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.paint_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.paint_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.paint_glow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.paint_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.paint_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.piston"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.pole_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.pole_crossingsignal"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.pole_flashingsignal_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.pole_flashingsignal_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.pole_streetlight"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.pole_trafficsignal"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.pontoon"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.prop1"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.prop2"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.prop3"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.prop4"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.prop5"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.propellerlarge2blade"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.propellerrotor"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.propellerrotor206"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.propellersmall2blade"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.propellersmall3blade"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.pzl37_bombrack"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.pzl37los"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.pzl37los_arctic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.pzl37los_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.pzl37los_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.pzl37los_tan"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.pzlp11"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.pzlp11_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.pzlp11_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.pzlp11_tan"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.quad_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.quad_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.quad_olive"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.quad_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.quad_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.quad_tan"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.quad_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.quad_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.repairkit"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.rods"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.salesign"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.salesign_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.scout_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.scout_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.scout_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.scout_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.scout_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.scout_maroon"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.scout_olive"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.scout_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.scout_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.scout_seagreen"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.scout_tan"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.scout_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.scout_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.scout_yellowwhite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.scoutbedpickup"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.scouthardtop"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.scouthardtop_vinyl"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.scoutpickuproof"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.seat_harness"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.seatblack"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.seatblue"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.seatbrown"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.seatcyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.seatgrey"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.seatolive"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.seatpink"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.seatred"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.seatwhite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.seatyellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.sign_bump"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.sign_cow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.sign_crosswalk"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.sign_deadend"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.sign_donotenter"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.sign_entryforbidden"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.sign_highway"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.sign_highwayend"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.sign_left_direction"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.sign_mts"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.sign_noparking"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.sign_oneway_left"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.sign_oneway_right"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.sign_priority"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.sign_priorityend"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.sign_restrictionsend"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.sign_right_direction"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.sign_route"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.sign_speedlimit"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.sign_stop"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.sign_turn_left"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.sign_turn_right"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.sign_wrongway"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.sign_yield"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.signalcontroller"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.skidhelicopter"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.skyhawk_blackorange"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.skyhawk_blackred"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.skyhawk_blackyellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.skyhawk_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.skyhawk_bluered"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.skyhawk_bluestripe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.skyhawk_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.skyhawk_butter"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.skyhawk_coffee"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.skyhawk_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.skyhawk_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.skyhawk_red2"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.smokecan_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.smokecan_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.smokecan_polychrome"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.smokecan_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.smokecan_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.snail_sculpture"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.sparkplug"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.spotlight"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.spotlight_bell206"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.spraycan_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.spraycan_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.spraycan_glow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.spraycan_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.spraycan_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.telephonebooth"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.testingmodule1"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.trafficcone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.trimotor_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.trimotor_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.trimotor_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.trimotor_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.vulcanair_blackred"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.vulcanair_blackyellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.vulcanair_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.vulcanair_bluestripe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.vulcanair_cow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.vulcanair_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.vulcanair_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.vulcanair_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.vulcanair_police"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.vulcanair_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.vulcanair_redsnail"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.vulcanair_redyellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.vulcanair_seagreen"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.vulcanair_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.vulcanair_winged"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.vulcanair_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.watercannon"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.watercannon_proj"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.wheelhuge"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.wheellarge"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.wheellarge_chain"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.wheellarge_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.wheellarge_goth"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.wheellarge_holering"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.wheellarge_holes"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.wheellarge_legacy"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.wheellarge_police"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.wheellarge_rusty"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.wheellarge_spokes"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.wheellarge_spokes2"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.wheellarge_spokescopper"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.wheellarge_whiterim"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.wheellarge_whitewall"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.wheelmedium"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.wheelmedium_legacy"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.wheelsmall"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:mtsofficialpack.wheelsmall_legacy"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.auxiliary_battery"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.cagouille_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.cagouille_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.cagouille_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.cagouille_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.cagouille_jadegreen"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.cagouille_joepeach"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.cagouille_lightyellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.cagouille_maroon"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.cagouille_mint"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.cagouille_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.cagouille_pinkish"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.cagouille_police"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.cagouille_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.cagouille_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.cagouille_salmon"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.cagouille_seagreen"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.cagouille_skyblue"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.cagouille_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.cagouille_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.camaro_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.camaro_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.camaro_bluestriped"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.camaro_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.camaro_extravagant"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.camaro_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.camaro_lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.camaro_maroon"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.camaro_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.camaro_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.camaro_seagreen"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.camaro_skyblue"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.camaro_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.camaro_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.dashornament_bobbletest"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.dashornament_cat"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.dashornament_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.dashornament_snail"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.ecoline_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.enginecamarov8"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.engineecoline"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.engineescargoti6"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.enginehighwaymanv8"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.engineikarus"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.enginevwbus"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.escargot_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.escargot_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.escargot_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.escargot_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.escargot_joepeach"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.escargot_lightyellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.escargot_maroon"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.escargot_mascar"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.escargot_mint"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.escargot_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.escargot_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.escargot_salmon"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.escargot_seagreen"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.escargot_skyblue"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.escargot_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.escargot_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.highwayman_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.highwayman_jadegreen"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.highwayman_lightblue"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.highwayman_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.highwayman_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.highwayman_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.highwayman_salmon"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.highwayman_seagreen"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.highwayman_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.luggage_suitcase"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.luxorama_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.luxorama_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.luxorama_desertglow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.luxorama_jadegreen"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.luxorama_joepeach"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.luxorama_lightblue"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.luxorama_maroon"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.luxorama_mint"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.luxorama_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.luxorama_police"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.luxorama_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.luxorama_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.luxorama_royal"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.luxorama_salmon"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.luxorama_seagreen"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.luxorama_taxi"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.luxorama_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.luxorama_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.sportseat_beige"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.sportseat_blackbrown"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.sportseat_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.sportseat_coffee"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.sportseat_cream"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.sportseat_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.sportseat_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.stationmerc_beige"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.stationmerc_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.stationmerc_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.stationmerc_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.stationmerc_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.stationmerc_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.stationmerc_maroon"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.stationmerc_olive"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.stationmerc_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.stationmerc_salmon"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.stationmerc_seagreen"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.stationmerc_silver"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.stationmerc_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.stationmerc_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.steeringornament_chain"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.steeringornament_classic"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.steeringornament_goldchain"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.steeringornament_kart"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.steeringornament_pizza"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.steeringornament_saw"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.steeringornament_shipswheel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.steeringornament_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.steeringornament_wrench"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.steeringornament_yoke"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.susdashornament"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.vintageseat_beige"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.vintageseat_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.vintageseat_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.vintageseat_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.vintageseat_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.vintageseat_joepeach"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.vintageseat_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.vintageseat_maroon"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.vintageseat_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.vintageseat_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.vwbus_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.wheeloffroad_default"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.wheelvintage_lightblue"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.wheelvintage_mint"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.wheelvintage_police"
+		},
+		{
+			"weight": 1.0,
+			"key": "mts:oamp.wheelvintage_sinty"
+		}
+	]
+}

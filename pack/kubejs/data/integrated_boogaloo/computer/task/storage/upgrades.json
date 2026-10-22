@@ -1,0 +1,45 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.storage_upgrades.title",
+  "description": "task.integrated_boogaloo.storage_upgrades.description",
+  "showcase": [
+    "@recipe:refinedstorage:speed_upgrade"
+  ],
+  "icon": "refinedstorage:speed_upgrade",
+  "program": "integrated_boogaloo:storage",
+  "category": "integrated_boogaloo:storage",
+  "sort_order": 19,
+  "position": {
+    "x": 3,
+    "y": -1
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:storage/io"
+  ],
+  "objectives": [
+    {
+      "id": "speed",
+      "type": "item",
+      "target": "refinedstorage:speed_upgrade",
+      "description": "task.integrated_boogaloo.storage_upgrades.speed",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "stack",
+      "type": "item",
+      "target": "refinedstorage:stack_upgrade",
+      "description": "task.integrated_boogaloo.storage_upgrades.stack",
+      "count": 1,
+      "sticky": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 75
+    }
+  ],
+  "line_axis": "horizontal"
+}

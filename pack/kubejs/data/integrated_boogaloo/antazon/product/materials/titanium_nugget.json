@@ -1,0 +1,29 @@
+{
+  "name": "computer.integrated_boogaloo.product.materials.titanium_nugget.name",
+  "description": "computer.integrated_boogaloo.product.materials.titanium_nugget.description",
+  "category": "materials",
+  "tags": ["no_deals"],
+  "green_tint": false,
+  "quantity": 1,
+  "payments": [
+    {
+      "type": "antcoins",
+      "resource": "antcoins",
+      "amount": 35
+    }
+  ],
+  "thumbnail": {
+    "item": "antarchy:titanium_nugget"
+  },
+  "availability": {
+    "server_stock": 0,
+    "player_limit": 144,
+    "player_limit_reset": "minecraft_week"
+  },
+  "rewards": [
+    {
+      "item": "antarchy:titanium_nugget",
+      "count": 1
+    }
+  ]
+}

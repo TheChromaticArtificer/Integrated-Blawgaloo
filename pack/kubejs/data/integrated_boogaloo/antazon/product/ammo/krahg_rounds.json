@@ -1,0 +1,27 @@
+{
+  "name": "computer.integrated_boogaloo.product.ammo.krahg_rounds.name",
+  "description": "computer.integrated_boogaloo.product.ammo.krahg_rounds.description",
+  "category": "ammo",
+  "green_tint": false,
+  "quantity": 1,
+  "payments": [
+    {
+      "type": "antcoins",
+      "resource": "antcoins",
+      "amount": 110
+    }
+  ],
+  "thumbnail": {
+    "item": "scguns:krahg_round"
+  },
+  "unlock_tasks": [
+    "integrated_boogaloo:armory/arming_up"
+  ],
+  "unlock_mode": "all",
+  "rewards": [
+    {
+      "item": "scguns:krahg_round",
+      "count": 16
+    }
+  ]
+}

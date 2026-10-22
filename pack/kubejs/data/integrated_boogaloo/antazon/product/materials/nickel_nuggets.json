@@ -1,0 +1,28 @@
+{
+  "name": "computer.integrated_boogaloo.product.materials.nickel_nuggets.name",
+  "description": "computer.integrated_boogaloo.product.materials.nickel_nuggets.description",
+  "category": "clearance",
+  "green_tint": false,
+  "quantity": 1,
+  "payments": [
+    {
+      "type": "antcoins",
+      "resource": "antcoins",
+      "amount": 20
+    }
+  ],
+  "thumbnail": {
+    "item": "oritech:nickel_nugget"
+  },
+  "rewards": [
+    {
+      "item": "oritech:nickel_nugget",
+      "count": 18
+    }
+  ],
+  "unlock_disks": [
+    "integrated_boogaloo:workshop_clearance"
+  ],
+  "unlock_mode": "all",
+  "hidden_until_unlocked": true
+}

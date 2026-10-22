@@ -1,0 +1,7 @@
+{
+  "criteria": {
+    "broken": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

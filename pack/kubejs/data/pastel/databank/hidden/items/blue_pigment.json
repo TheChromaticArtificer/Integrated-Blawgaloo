@@ -1,0 +1,10 @@
+{
+  "type": {
+    "type": "databank:item",
+    "hidden_as": "minecraft:blue_dye",
+    "original": "pastel:blue_pigment"
+  },
+  "condition": {
+    "type": "databank:always_true"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.storage_external_storage.title",
+  "description": "task.integrated_boogaloo.storage_external_storage.description",
+  "showcase": [
+    "@item:refinedstorage:external_storage",
+    "@recipe:refinedstorage:external_storage"
+  ],
+  "icon": "refinedstorage:external_storage",
+  "program": "integrated_boogaloo:storage",
+  "category": "integrated_boogaloo:storage",
+  "sort_order": 15,
+  "position": {
+    "x": 0,
+    "y": 1
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:storage/grid"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "refinedstorage:external_storage",
+      "description": "task.integrated_boogaloo.storage_external_storage.goal",
+      "count": 1,
+      "sticky": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 75
+    }
+  ],
+  "line_axis": "horizontal"
+}

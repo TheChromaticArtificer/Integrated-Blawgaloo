@@ -1,0 +1,32 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.cavaryn_moleworm.title",
+  "description": "task.integrated_boogaloo.cavaryn_moleworm.description",
+  "showcase": [
+    "@entity:antarchy:moleworm"
+  ],
+  "icon": "antarchy:moleworm_spawn_egg",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:cavaryn",
+  "sort_order": 7,
+  "position": {
+    "x": 3,
+    "y": 1
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "biome_visited",
+      "target": "antarchy:cavaryn_moleworm_caves",
+      "description": "task.integrated_boogaloo.cavaryn_moleworm.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 20
+    }
+  ]
+}

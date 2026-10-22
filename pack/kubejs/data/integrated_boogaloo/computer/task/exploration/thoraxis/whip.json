@@ -1,0 +1,36 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.thoraxis_whip.title",
+  "description": "task.integrated_boogaloo.thoraxis_whip.description",
+  "showcase": [
+    "@recipe:antarchy:scorpion_whip"
+  ],
+  "icon": "antarchy:scorpion_whip",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:thoraxis",
+  "sort_order": 26,
+  "position": {
+    "x": 7,
+    "y": 4
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:exploration/thoraxis/emperor_scorpion"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "antarchy:now_watch_me_whip",
+      "description": "task.integrated_boogaloo.thoraxis_whip.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 60
+    }
+  ],
+  "line_axis": "vertical"
+}

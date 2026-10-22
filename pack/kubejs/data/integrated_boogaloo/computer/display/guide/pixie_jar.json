@@ -1,0 +1,197 @@
+{
+  "version": 1,
+  "title": "literal:Catching a pixie",
+  "width": 250,
+  "height": 39,
+  "elements": [
+    {
+      "id": "jar",
+      "type": "scene",
+      "x": 2,
+      "y": 2,
+      "width": 110,
+      "height": 106,
+      "yaw": 200,
+      "pitch": 20,
+      "scale": 1.4,
+      "blocks": [
+        {
+          "pos": [
+            -1,
+            -1,
+            -1
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            -1,
+            0
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            -1,
+            1
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            -1
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            0
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            1
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            -1
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            0
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            1
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            0,
+            1
+          ],
+          "state": "minecraft:pink_tulip",
+          "decorative": true
+        }
+      ],
+      "entities": [
+        {
+          "pos": [
+            0,
+            0.6,
+            0
+          ],
+          "id": "iceandfire:pixie",
+          "rotation": 200,
+          "until": "catch"
+        }
+      ],
+      "items": [
+        {
+          "pos": [
+            0,
+            0.3,
+            0
+          ],
+          "id": "iceandfire:pixie_jar_0",
+          "from": "done",
+          "spin": true
+        }
+      ],
+      "steps": [
+        {
+          "id": "find",
+          "title": "literal:Find one",
+          "text": "literal:Pixies live in little villages in Elythia."
+        },
+        {
+          "id": "catch",
+          "title": "literal:Catch it",
+          "text": "literal:Use an empty Jar on a wild pixie.",
+          "markers": [
+            {
+              "icon": "right_click",
+              "pos": [
+                0,
+                1.4,
+                0
+              ],
+              "item": "iceandfire:pixie_jar_empty"
+            }
+          ]
+        },
+        {
+          "id": "done",
+          "title": "literal:Pixie Dust",
+          "text": "literal:It makes Pixie Dust over time."
+        }
+      ],
+      "hero": true,
+      "ratio": 0.82
+    },
+    {
+      "type": "slot",
+      "x": 6,
+      "y": 4,
+      "item": "iceandfire:pixie_jar_empty",
+      "role": "tool"
+    },
+    {
+      "type": "arrow",
+      "x": 28,
+      "y": 13,
+      "x2": 42,
+      "y2": 13
+    },
+    {
+      "type": "slot",
+      "x": 48,
+      "y": 4,
+      "item": "iceandfire:pixie_jar_0",
+      "role": "output"
+    },
+    {
+      "type": "text",
+      "x": 6,
+      "y": 26,
+      "width": 238,
+      "text": "literal:Or drop a cake near one to befriend it.",
+      "color": "muted"
+    }
+  ],
+  "reflow": true,
+  "auto_height": true,
+  "hide_title": true
+}

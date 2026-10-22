@@ -1,0 +1,45 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:mod_loaded",
+        "modid": "create"
+      }
+    }
+  ],
+  "type": "createcybernetics:engineering_table",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "antarchy:titanium_nugget"
+    },
+    "T": {
+      "item": "antarchy:titanium_nugget"
+    },
+    "E": {
+      "item": "antarchy:bluestone_torch"
+    },
+    "N": {
+      "item": "createcybernetics:component_synthnerves"
+    },
+    "G": {
+      "item": "minecraft:gold_nugget"
+    },
+    "a": {
+      "item": "oritech:super_ai_chip"
+    }
+  },
+  "pattern": [
+    " NTP ",
+    "NaTE ",
+    " NTP ",
+    "NGTE ",
+    " NTP "
+  ],
+  "result": {
+    "count": 1,
+    "id": "createcybernetics:boneupgrades_sandevistan"
+  }
+}

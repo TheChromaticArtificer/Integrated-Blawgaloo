@@ -1,0 +1,10 @@
+{
+  "template": "integrated_boogaloo:guide/templates/rite",
+  "recipe_binding": {
+    "recipe": "witchery:ritual/summon_imp",
+    "adapter": "boogaloo_core:witchery"
+  },
+  "values": {
+    "title": "literal:Rite: Summon Imp"
+  }
+}

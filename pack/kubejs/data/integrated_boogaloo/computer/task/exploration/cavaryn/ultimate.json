@@ -1,0 +1,77 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.cavaryn_ultimate.title",
+  "description": "task.integrated_boogaloo.cavaryn_ultimate.description",
+  "showcase": [
+    "@recipe:antarchy:ultimate_chestplate"
+  ],
+  "icon": "antarchy:ultimate_chestplate",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:cavaryn",
+  "sort_order": 12,
+  "position": {
+    "x": 1,
+    "y": 2
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:exploration/cavaryn/metals"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "antarchy:ultimate_armor",
+      "description": "task.integrated_boogaloo.cavaryn_ultimate.goal",
+      "count": 1
+    },
+    {
+      "id": "sword",
+      "type": "item",
+      "target": "antarchy:ultimate_sword",
+      "description": "task.integrated_boogaloo.cavaryn_ultimate.sword",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "choice",
+      "options": [
+        {
+          "id": "coins",
+          "title": "task.integrated_boogaloo.reward.coins",
+          "rewards": [
+            {
+              "type": "antcoins",
+              "amount": 200
+            }
+          ]
+        },
+        {
+          "id": "titanium",
+          "title": "task.integrated_boogaloo.reward.titanium",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "antarchy:titanium_ingot",
+              "count": 8
+            }
+          ]
+        },
+        {
+          "id": "uranium",
+          "title": "task.integrated_boogaloo.reward.uranium",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "antarchy:uranium_ingot",
+              "count": 8
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "line_axis": "horizontal"
+}

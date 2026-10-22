@@ -1,0 +1,31 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.weather2_first_tornado.title",
+  "description": "task.integrated_boogaloo.weather2_first_tornado.description",
+  "showcase": [
+    "@item:weather2:tornado_sensor",
+    "@recipe:weather2:tornado_sensor"
+  ],
+  "icon": "weather2:tornado_sensor",
+  "program": "integrated_boogaloo:start_here",
+  "category": "integrated_boogaloo:start_here",
+  "sort_order": 10,
+  "position": {
+    "x": -1,
+    "y": 0
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "see_tornado",
+      "type": "advancement",
+      "target": "integrated_boogaloo:weather2/first_tornado",
+      "description": "task.integrated_boogaloo.weather2_first_tornado.see_tornado",
+      "count": 1
+    }
+  ],
+  "connects": [
+    "integrated_boogaloo:start_here/overview"
+  ],
+  "line_axis": "horizontal"
+}

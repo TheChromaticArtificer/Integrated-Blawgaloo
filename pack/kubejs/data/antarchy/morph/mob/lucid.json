@@ -1,0 +1,33 @@
+{
+    "forEntity": "antarchy:lucid",
+    "traits": [
+        {
+            "type": "traitHostile"
+        },
+        {
+            "type": "traitImmunityFire"
+        },
+        {
+            "type": "traitFallNegate"
+        },
+        {
+            "type": "abilityFlightFlap",
+            "slowdownInWater": true,
+            "velocityAdded": 0.55
+        },
+        {
+            "type": "abilityFlight",
+            "slowdownInWater": true,
+            "upgradeFor": "abilityFlightFlap"
+        },
+        {
+            "type": "abilityAntarchyLucidBoltBurst",
+            "range": 40.0,
+            "velocity": 0.71,
+            "shots": 3,
+            "spread": 0.12,
+            "cooldown": 52,
+            "slot": 1
+        }
+    ]
+}

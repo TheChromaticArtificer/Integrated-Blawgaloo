@@ -1,0 +1,21 @@
+{
+  "type": "createcybernetics:engineering_deconstruct",
+  "inputs": [
+    {
+      "item": "createcybernetics:skinupgrades_metalplating"
+    },
+    {
+      "item": "createcybernetics:scavenged_metalplating"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "antarchy:titanium_nugget",
+      "count": 24
+    },
+    {
+      "id": "createcybernetics:component_synthnerves",
+      "count": 6
+    }
+  ]
+}

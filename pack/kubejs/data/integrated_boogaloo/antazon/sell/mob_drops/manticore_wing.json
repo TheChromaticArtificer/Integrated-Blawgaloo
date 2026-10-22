@@ -1,0 +1,11 @@
+{
+  "item": "antarchy:manticore_wing",
+  "value": 75,
+  "limit": 32,
+  "limit_reset": "minecraft_day",
+  "green_tint": false,
+  "unlock_tasks": [
+    "integrated_boogaloo:exploration/thoraxis/manticore"
+  ],
+  "unlock_mode": "any"
+}

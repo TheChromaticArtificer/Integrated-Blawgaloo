@@ -1,0 +1,37 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.start_here_backpack.title",
+  "description": "task.integrated_boogaloo.start_here_backpack.description",
+  "showcase": [
+    "@item:travelersbackpack:standard",
+    "@recipe:travelersbackpack:standard"
+  ],
+  "icon": "travelersbackpack:standard",
+  "program": "integrated_boogaloo:start_here",
+  "category": "integrated_boogaloo:start_here",
+  "sort_order": 14,
+  "position": {
+    "x": -1,
+    "y": 2
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "travelersbackpack:standard",
+      "description": "task.integrated_boogaloo.start_here_backpack.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 10
+    }
+  ],
+  "connects": [
+    "integrated_boogaloo:start_here/floppy_disks"
+  ],
+  "line_axis": "vertical"
+}

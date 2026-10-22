@@ -1,0 +1,45 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.cavaryn_forlorn.title",
+  "description": "task.integrated_boogaloo.cavaryn_forlorn.description",
+  "showcase": [
+    "@item:alexscaves:guanostone",
+    "@recipe:alexscaves:guanostone"
+  ],
+  "icon": "alexscaves:guanostone",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:cavaryn",
+  "sort_order": 10,
+  "position": {
+    "x": 6,
+    "y": 1
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "biome_visited",
+      "target": "integrated_boogaloo:cavaryn_forlorn_hollows",
+      "description": "task.integrated_boogaloo.cavaryn_forlorn.goal",
+      "count": 1
+    },
+    {
+      "id": "dark",
+      "type": "item",
+      "target": "alexscaves:pure_darkness",
+      "description": "task.integrated_boogaloo.cavaryn_forlorn.dark",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 30
+    },
+    {
+      "type": "archive",
+      "entry": "integrated_boogaloo:cave_forlorn_hollows"
+    }
+  ]
+}

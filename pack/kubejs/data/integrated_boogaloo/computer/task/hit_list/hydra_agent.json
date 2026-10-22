@@ -1,0 +1,71 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.hit_list_hydra_agent.title",
+  "description": "task.integrated_boogaloo.hit_list_hydra_agent.description",
+  "showcase": [
+    "@entity:marvel:hydra_agent"
+  ],
+  "icon_entity": "marvel:hydra_agent",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:hit_list_monsters",
+  "sort_order": 0,
+  "position": {
+    "x": 0,
+    "y": 0
+  },
+  "shape": "octagon",
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "kill",
+      "type": "stat",
+      "stat_type": "entity_killed",
+      "target": "marvel:hydra_agent",
+      "description": "task.integrated_boogaloo.hit_list_hydra_agent.kill",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "choice",
+      "options": [
+        {
+          "id": "coins",
+          "title": "task.integrated_boogaloo.reward.coins",
+          "rewards": [
+            {
+              "type": "antcoins",
+              "amount": 100
+            }
+          ]
+        },
+        {
+          "id": "crate",
+          "title": "task.integrated_boogaloo.reward.supplies",
+          "rewards": [
+            {
+              "type": "item_pool",
+              "pool": "integrated_boogaloo:supplies_common",
+              "mode": "random"
+            }
+          ]
+        },
+        {
+          "id": "lucky",
+          "title": "task.integrated_boogaloo.reward.lucky",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "lucky:lucky_block",
+              "count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "experience_levels",
+      "levels": 5
+    }
+  ]
+}

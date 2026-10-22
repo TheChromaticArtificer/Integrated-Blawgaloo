@@ -1,0 +1,238 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:aerostasis_gyrobladder_effect",
+			"data": {
+				"Instant": false,
+				"Color": 0,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:axolotl_regen_effect",
+			"data": {
+				"Instant": false,
+				"Color": 0,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:behindyou_hack",
+			"data": {
+				"Instant": false,
+				"Color": -11881473,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:breathless_effect",
+			"data": {
+				"Instant": false,
+				"Color": 0,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:cyberpsychosis_fugue",
+			"data": {
+				"Instant": false,
+				"Color": 2752512,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:cyberpsychosis_hack",
+			"data": {
+				"Instant": false,
+				"Color": -11881473,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:cyberware_rejection",
+			"data": {
+				"Instant": false,
+				"Color": 10559237,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:drain_hack",
+			"data": {
+				"Instant": false,
+				"Color": -11881473,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:emp_effect",
+			"data": {
+				"Instant": false,
+				"Color": -11881473,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:guardian_eye_effect",
+			"data": {
+				"Instant": false,
+				"Color": 0,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:inked_effect",
+			"data": {
+				"Instant": false,
+				"Color": 0,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:neural_contextualizer_effect",
+			"data": {
+				"Instant": false,
+				"Color": 0,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:neuropozyne",
+			"data": {
+				"Instant": false,
+				"Color": 12900645,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:opticmalfunction_hack",
+			"data": {
+				"Instant": false,
+				"Color": -11881473,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:overheat_hack",
+			"data": {
+				"Instant": false,
+				"Color": -11881473,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:pneumatic_calves_effect",
+			"data": {
+				"Instant": false,
+				"Color": 0,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:projectile_dodge_effect",
+			"data": {
+				"Instant": false,
+				"Color": 0,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:reboot_hack",
+			"data": {
+				"Instant": false,
+				"Color": -11881473,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:sandevistan_effect",
+			"data": {
+				"Instant": false,
+				"Color": 16777215,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:scramble_hack",
+			"data": {
+				"Instant": false,
+				"Color": -11881473,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:sculk_lungs_effect",
+			"data": {
+				"Instant": false,
+				"Color": 0,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:sculked_effect",
+			"data": {
+				"Instant": false,
+				"Color": 659220,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:spider_eyes_effect",
+			"data": {
+				"Instant": false,
+				"Color": 0,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:spurs_effect",
+			"data": {
+				"Instant": false,
+				"Color": 0,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:subdermal_spikes_effect",
+			"data": {
+				"Instant": false,
+				"Color": 0,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "createcybernetics:synthetic_setules_effect",
+			"data": {
+				"Instant": false,
+				"Color": 0,
+				"Category": "neutral"
+			}
+		}
+	]
+}

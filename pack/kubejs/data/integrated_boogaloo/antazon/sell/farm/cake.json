@@ -1,0 +1,7 @@
+{
+  "item": "minecraft:cake",
+  "value": 8,
+  "limit": 64,
+  "limit_reset": "minecraft_day",
+  "green_tint": false
+}

@@ -1,0 +1,13 @@
+name = "Alex's Caves Neo"
+filename = "alexscaves-2.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b839a87557493bf617048e70925f2542c90595a4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8891461
+project-id = 1613404

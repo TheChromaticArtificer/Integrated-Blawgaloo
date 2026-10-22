@@ -1,0 +1,75 @@
+{
+    "forEntity": "antarchy:nightmare",
+    "traits": [
+        {
+            "type": "abilityAntarchyNightmareBite",
+            "range": 5,
+            "damage": 7,
+            "dreadTicks": 160,
+            "weaknessTicks": 100,
+            "cooldown": 34,
+            "animControllerName": "special_controller",
+            "animName": "attack",
+            "slot": 1
+        },
+        {
+            "type": "traitHostile"
+        },
+        {
+            "type": "traitImmunityFire"
+        },
+        {
+            "type": "abilityFlightFlap",
+            "slowdownInWater": true,
+            "velocityAdded": 0.55
+        },
+        {
+            "type": "abilityFlight",
+            "slowdownInWater": true,
+            "upgradeFor": "abilityFlightFlap"
+        },
+        {
+            "type": "abilityRoar",
+            "cooldown": 400,
+            "animControllerName": "special_controller",
+            "animName": "roar",
+            "soundEventId": "antarchy:nightmare_roar",
+            "slot": 3
+        },
+        {
+            "type": "abilityAntarchyNightmarePortal",
+            "distance": 24.0,
+            "exitBackOffset": 15.0,
+            "exitSideOffset": 4.5,
+            "travelTicks": 36,
+            "damage": 8.0,
+            "damageRadius": 2.6,
+            "cooldown": 300,
+            "animControllerName": "special_controller",
+            "animName": "portal_enter",
+            "slot": 2
+        }
+    ],
+    "animationProfile": {
+        "controllerName": "main_controller",
+        "idle": "idle",
+        "walk": "walk",
+        "fly": "fly",
+        "fall": "fly",
+        "triggerOnStateChange": false,
+        "flyWhenAirborne": true,
+        "movingSpeedThresholdSqr": 0.01,
+        "nativeStateSetter": "setAnimationState",
+        "nativeStateFields": {
+            "idle": "ANIM_IDLE",
+            "walk": "ANIM_WALK",
+            "fly": "ANIM_FLY",
+            "fall": "ANIM_FLY"
+        },
+        "nativeBooleanSetters": {
+            "setPhaseTwo": false,
+            "setPhaseTwoTexture": false,
+            "setPhaseTransitioning": false
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "integrated_boogaloo:cavaryn_toxic_caves"
+  ],
+  "spawners": {
+    "type": "iceandfire:hydra",
+    "weight": 2,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

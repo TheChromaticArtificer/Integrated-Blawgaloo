@@ -1,0 +1,39 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.witchery_vampire.title",
+  "description": "task.integrated_boogaloo.witchery_vampire.description",
+  "showcase": [
+    "@recipe:witchery:wine_glass"
+  ],
+  "icon": "witchery:wine_glass",
+  "program": "integrated_boogaloo:witchcraft",
+  "category": "integrated_boogaloo:witchcraft",
+  "sort_order": 27,
+  "position": {
+    "x": 9,
+    "y": 4
+  },
+  "shape": "diamond",
+  "availability": "automatic",
+  "invisible_until_completed": true,
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "witchery:vampire/1",
+      "description": "task.integrated_boogaloo.witchery_vampire.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "item",
+      "item": "lucky:lucky_block",
+      "count": 1
+    },
+    {
+      "type": "archive",
+      "entry": "integrated_boogaloo:witchery_vampirism"
+    }
+  ]
+}

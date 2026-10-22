@@ -1,0 +1,37 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.elythia_kings_tree.title",
+  "description": "task.integrated_boogaloo.elythia_kings_tree.description",
+  "showcase": [
+    "@item:antarchy:royal_wood",
+    "@recipe:antarchy:royal_wood"
+  ],
+  "icon": "antarchy:royal_wood",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:elythia",
+  "sort_order": 30,
+  "position": {
+    "x": 0,
+    "y": 6
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "structure_entered",
+      "target": "antarchy:kings_tree",
+      "description": "task.integrated_boogaloo.elythia_kings_tree.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 40
+    },
+    {
+      "type": "archive",
+      "entry": "antarchy:king"
+    }
+  ]
+}

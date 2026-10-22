@@ -1,0 +1,33 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.storage_copper_golem.title",
+  "description": "task.integrated_boogaloo.storage_copper_golem.description",
+  "showcase": [
+    "@item:minecraft:copper_chest",
+    "@recipe:minecraft:copper_chest"
+  ],
+  "icon": "minecraft:copper_golem_statue",
+  "program": "integrated_boogaloo:storage",
+  "category": "integrated_boogaloo:storage",
+  "sort_order": 199,
+  "position": {
+    "x": 0,
+    "y": 5
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "integrated_boogaloo:storage/copper_golem",
+      "description": "task.integrated_boogaloo.storage_copper_golem.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 10
+    }
+  ]
+}

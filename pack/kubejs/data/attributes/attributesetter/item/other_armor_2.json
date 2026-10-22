@@ -1,0 +1,468 @@
+{
+  "iceandfire:armor_silver_boots": [
+    {
+      "attribute": "apothic_attributes:cold_damage",
+      "value": 4,
+      "operation": "ADDITION"
+    }
+  ],
+  "iceandfire:armor_electric_helmet": [
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "value": 0.02,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "iceandfire:armor_electric_chestplate": [
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "value": 0.02,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "iceandfire:armor_electric_leggings": [
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "value": 0.02,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "iceandfire:armor_electric_boots": [
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "value": 0.02,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "iceandfire:armor_amethyst_helmet": [
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "value": 0.02,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "iceandfire:armor_amethyst_chestplate": [
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "value": 0.02,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "iceandfire:armor_amethyst_leggings": [
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "value": 0.02,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "iceandfire:armor_amethyst_boots": [
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "value": 0.02,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "iceandfire:armor_copper_helmet": [
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "value": 0.02,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "iceandfire:armor_copper_chestplate": [
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "value": 0.02,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "iceandfire:armor_copper_leggings": [
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "value": 0.02,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "iceandfire:armor_copper_boots": [
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "value": 0.02,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "iceandfire:armor_black_helmet": [
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "value": 0.02,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "iceandfire:armor_black_chestplate": [
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "value": 0.02,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "iceandfire:armor_black_leggings": [
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "value": 0.02,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "iceandfire:armor_black_boots": [
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "value": 0.02,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "iceandfire:tide_blue_helmet": [
+    {
+      "attribute": "neoforge:swim_speed",
+      "value": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.water_movement_efficiency",
+      "value": 0.25,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.oxygen_bonus",
+      "value": 3,
+      "operation": "ADDITION"
+    }
+  ],
+  "iceandfire:tide_blue_chestplate": [
+    {
+      "attribute": "neoforge:swim_speed",
+      "value": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.water_movement_efficiency",
+      "value": 0.25,
+      "operation": "ADDITION"
+    }
+  ],
+  "iceandfire:tide_blue_leggings": [
+    {
+      "attribute": "neoforge:swim_speed",
+      "value": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.water_movement_efficiency",
+      "value": 0.25,
+      "operation": "ADDITION"
+    }
+  ],
+  "iceandfire:tide_blue_boots": [
+    {
+      "attribute": "neoforge:swim_speed",
+      "value": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.water_movement_efficiency",
+      "value": 0.25,
+      "operation": "ADDITION"
+    }
+  ],
+  "iceandfire:tide_bronze_helmet": [
+    {
+      "attribute": "neoforge:swim_speed",
+      "value": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.water_movement_efficiency",
+      "value": 0.25,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.oxygen_bonus",
+      "value": 3,
+      "operation": "ADDITION"
+    }
+  ],
+  "iceandfire:tide_bronze_chestplate": [
+    {
+      "attribute": "neoforge:swim_speed",
+      "value": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.water_movement_efficiency",
+      "value": 0.25,
+      "operation": "ADDITION"
+    }
+  ],
+  "iceandfire:tide_bronze_leggings": [
+    {
+      "attribute": "neoforge:swim_speed",
+      "value": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.water_movement_efficiency",
+      "value": 0.25,
+      "operation": "ADDITION"
+    }
+  ],
+  "iceandfire:tide_bronze_boots": [
+    {
+      "attribute": "neoforge:swim_speed",
+      "value": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.water_movement_efficiency",
+      "value": 0.25,
+      "operation": "ADDITION"
+    }
+  ],
+  "iceandfire:tide_deepblue_helmet": [
+    {
+      "attribute": "neoforge:swim_speed",
+      "value": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.water_movement_efficiency",
+      "value": 0.25,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.oxygen_bonus",
+      "value": 3,
+      "operation": "ADDITION"
+    }
+  ],
+  "iceandfire:tide_deepblue_chestplate": [
+    {
+      "attribute": "neoforge:swim_speed",
+      "value": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.water_movement_efficiency",
+      "value": 0.25,
+      "operation": "ADDITION"
+    }
+  ],
+  "iceandfire:tide_deepblue_leggings": [
+    {
+      "attribute": "neoforge:swim_speed",
+      "value": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.water_movement_efficiency",
+      "value": 0.25,
+      "operation": "ADDITION"
+    }
+  ],
+  "iceandfire:tide_deepblue_boots": [
+    {
+      "attribute": "neoforge:swim_speed",
+      "value": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.water_movement_efficiency",
+      "value": 0.25,
+      "operation": "ADDITION"
+    }
+  ],
+  "iceandfire:tide_green_helmet": [
+    {
+      "attribute": "neoforge:swim_speed",
+      "value": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.water_movement_efficiency",
+      "value": 0.25,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.oxygen_bonus",
+      "value": 3,
+      "operation": "ADDITION"
+    }
+  ],
+  "iceandfire:tide_green_chestplate": [
+    {
+      "attribute": "neoforge:swim_speed",
+      "value": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.water_movement_efficiency",
+      "value": 0.25,
+      "operation": "ADDITION"
+    }
+  ],
+  "iceandfire:tide_green_leggings": [
+    {
+      "attribute": "neoforge:swim_speed",
+      "value": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.water_movement_efficiency",
+      "value": 0.25,
+      "operation": "ADDITION"
+    }
+  ],
+  "iceandfire:tide_green_boots": [
+    {
+      "attribute": "neoforge:swim_speed",
+      "value": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.water_movement_efficiency",
+      "value": 0.25,
+      "operation": "ADDITION"
+    }
+  ],
+  "iceandfire:tide_purple_helmet": [
+    {
+      "attribute": "neoforge:swim_speed",
+      "value": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.water_movement_efficiency",
+      "value": 0.25,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.oxygen_bonus",
+      "value": 3,
+      "operation": "ADDITION"
+    }
+  ],
+  "iceandfire:tide_purple_chestplate": [
+    {
+      "attribute": "neoforge:swim_speed",
+      "value": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.water_movement_efficiency",
+      "value": 0.25,
+      "operation": "ADDITION"
+    }
+  ],
+  "iceandfire:tide_purple_leggings": [
+    {
+      "attribute": "neoforge:swim_speed",
+      "value": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.water_movement_efficiency",
+      "value": 0.25,
+      "operation": "ADDITION"
+    }
+  ],
+  "iceandfire:tide_purple_boots": [
+    {
+      "attribute": "neoforge:swim_speed",
+      "value": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.water_movement_efficiency",
+      "value": 0.25,
+      "operation": "ADDITION"
+    }
+  ],
+  "iceandfire:tide_red_helmet": [
+    {
+      "attribute": "neoforge:swim_speed",
+      "value": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.water_movement_efficiency",
+      "value": 0.25,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.oxygen_bonus",
+      "value": 3,
+      "operation": "ADDITION"
+    }
+  ],
+  "iceandfire:tide_red_chestplate": [
+    {
+      "attribute": "neoforge:swim_speed",
+      "value": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.water_movement_efficiency",
+      "value": 0.25,
+      "operation": "ADDITION"
+    }
+  ],
+  "iceandfire:tide_red_leggings": [
+    {
+      "attribute": "neoforge:swim_speed",
+      "value": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.water_movement_efficiency",
+      "value": 0.25,
+      "operation": "ADDITION"
+    }
+  ],
+  "iceandfire:tide_red_boots": [
+    {
+      "attribute": "neoforge:swim_speed",
+      "value": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.water_movement_efficiency",
+      "value": 0.25,
+      "operation": "ADDITION"
+    }
+  ],
+  "iceandfire:tide_teal_helmet": [
+    {
+      "attribute": "neoforge:swim_speed",
+      "value": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.water_movement_efficiency",
+      "value": 0.25,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.oxygen_bonus",
+      "value": 3,
+      "operation": "ADDITION"
+    }
+  ],
+  "iceandfire:tide_teal_chestplate": [
+    {
+      "attribute": "neoforge:swim_speed",
+      "value": 0.2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.water_movement_efficiency",
+      "value": 0.25,
+      "operation": "ADDITION"
+    }
+  ]
+}

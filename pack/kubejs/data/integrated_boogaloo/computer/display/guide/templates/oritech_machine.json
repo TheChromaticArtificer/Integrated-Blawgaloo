@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "width": 250,
+  "height": 82,
+  "variables": {
+    "title": {
+      "type": "string"
+    },
+    "blocks": {
+      "type": "array"
+    },
+    "assembled": {
+      "type": "object"
+    },
+    "inputs": {
+      "type": "array"
+    },
+    "outputs": {
+      "type": "array"
+    },
+    "duration": {
+      "type": "string",
+      "default": "literal:"
+    },
+    "fluids": {
+      "type": "array",
+      "default": []
+    },
+    "note": {
+      "type": "string",
+      "default": "literal:"
+    },
+    "yaw": {
+      "type": "number",
+      "default": 225
+    }
+  },
+  "title": "$title",
+  "elements": [
+    {
+      "id": "build",
+      "type": "scene",
+      "x": 2,
+      "y": 2,
+      "width": 130,
+      "height": 136,
+      "yaw": "$yaw",
+      "pitch": 25,
+      "scale": 1.0,
+      "blocks": "$blocks",
+      "material_rules": [
+        {
+          "state": "oritech:machine_core_1",
+          "label": "literal:Machine core (any tier)"
+        }
+      ],
+      "steps": [
+        {
+          "id": "machine",
+          "title": "literal:Machine",
+          "text": "literal:Place the machine.",
+          "groups": [
+            "machine"
+          ]
+        },
+        {
+          "id": "cores",
+          "title": "literal:Cores and addons",
+          "text": "literal:Cores and addons go where the machine's preview shows.",
+          "groups": [
+            "cores",
+            "addons"
+          ]
+        },
+        {
+          "id": "assemble",
+          "title": "literal:Assemble",
+          "text": "literal:Right-click the machine to build it.",
+          "states": "$assembled",
+          "markers": [
+            {
+              "icon": "right_click",
+              "block": "machine",
+              "text": "literal:Right-click the machine"
+            }
+          ]
+        }
+      ],
+      "hero": true,
+      "ratio": 0.89
+    },
+    {
+      "type": "group",
+      "x": 6,
+      "y": 4,
+      "layout": "grid",
+      "columns": 3,
+      "cell_width": 20,
+      "cell_height": 20,
+      "elements": "$inputs"
+    },
+    {
+      "type": "group",
+      "x": 6,
+      "y": 32,
+      "layout": "grid",
+      "columns": 4,
+      "cell_width": 22,
+      "cell_height": 22,
+      "elements": "$fluids"
+    },
+    {
+      "type": "arrow",
+      "x": 68,
+      "y": 24,
+      "x2": 82,
+      "y2": 24
+    },
+    {
+      "type": "group",
+      "x": 86,
+      "y": 4,
+      "layout": "grid",
+      "columns": 1,
+      "cell_width": 20,
+      "cell_height": 20,
+      "elements": "$outputs"
+    },
+    {
+      "type": "text",
+      "x": 6,
+      "y": 58,
+      "width": 238,
+      "text": "$duration",
+      "color": "muted"
+    },
+    {
+      "type": "text",
+      "x": 6,
+      "y": 69,
+      "width": 238,
+      "text": "$note",
+      "color": "muted"
+    }
+  ],
+  "reflow": true,
+  "auto_height": true,
+  "hide_title": true
+}

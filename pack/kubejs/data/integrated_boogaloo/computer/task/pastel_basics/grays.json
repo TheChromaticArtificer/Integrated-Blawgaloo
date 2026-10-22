@@ -1,0 +1,40 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.pastel_grays.title",
+  "description": "task.integrated_boogaloo.pastel_grays.description",
+  "showcase": [
+    "@recipe:pastel:white_pigment"
+  ],
+  "icon": "pastel:white_pigment",
+  "program": "integrated_boogaloo:world_of_color",
+  "category": "integrated_boogaloo:world_of_color",
+  "sort_order": 24,
+  "position": {
+    "x": 3,
+    "y": 4
+  },
+  "availability": "automatic",
+  "hide_until_dependencies_complete": true,
+  "requires": [
+    "integrated_boogaloo:pastel_basics/complex"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "pastel:lategame/collect_grayscale_pigments",
+      "description": "task.integrated_boogaloo.pastel_grays.goal",
+      "count": 1
+    }
+  ],
+  "archive_entries": [
+    "integrated_boogaloo:pastel_color_mixing"
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 50
+    }
+  ],
+  "line_axis": "horizontal"
+}

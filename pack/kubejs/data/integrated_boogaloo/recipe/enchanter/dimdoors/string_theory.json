@@ -1,0 +1,52 @@
+{
+  "type": "pastel:enchanter",
+  "group": "dimdoors",
+  "time": 300,
+  "required_experience": 100,
+  "ingredients": [
+    {
+      "item": "minecraft:book"
+    },
+    {
+      "item": "pastel:pink_pigment"
+    },
+    {
+      "item": "pastel:pink_pigment"
+    },
+    {
+      "item": "dimdoors:infrangible_fiber"
+    },
+    {
+      "item": "witchery:golden_thread"
+    },
+    {
+      "item": "pastel:pink_pigment"
+    },
+    {
+      "item": "pastel:pink_pigment"
+    },
+    {
+      "item": "dimdoors:infrangible_fiber"
+    },
+    {
+      "item": "witchery:golden_thread"
+    }
+  ],
+  "result": {
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "stored_enchantments": {
+        "dimdoors:string_theory": 1
+      }
+    }
+  },
+  "required_advancement": "integrated_boogaloo:unlocks/enchantments/dimdoors",
+  "neoforge:conditions": [
+    {
+      "type": "pastel:enchantments_exist",
+      "values": [
+        "dimdoors:string_theory"
+      ]
+    }
+  ]
+}

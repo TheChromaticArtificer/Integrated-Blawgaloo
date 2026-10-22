@@ -1,0 +1,27 @@
+{
+  "category": "integrated_boogaloo:recovered",
+  "title": "guide.integrated_boogaloo.disk.cyber_clinic_records.title",
+  "description": "guide.integrated_boogaloo.disk.cyber_clinic_records.description",
+  "files": [
+    {
+      "path": "wait_your_turn.txt",
+      "source": "integrated_boogaloo:cyberware/wait_your_turn.txt"
+    },
+    {
+      "path": "datura.txt",
+      "source": "integrated_boogaloo:cyberware/datura.txt"
+    },
+    {
+      "path": "private_ward.txt",
+      "source": "integrated_boogaloo:cyberware/private_ward.txt"
+    },
+    {
+      "path": "immunosuppressor_advisory.txt",
+      "source": "integrated_boogaloo:cyberware/immunosuppressor_advisory.txt"
+    },
+    {
+      "path": "chromatophores.txt",
+      "source": "integrated_boogaloo:cyberware/chromatophores.txt"
+    }
+  ]
+}

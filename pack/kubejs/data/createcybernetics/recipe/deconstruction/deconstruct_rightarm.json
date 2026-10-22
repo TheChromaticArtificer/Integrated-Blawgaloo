@@ -1,0 +1,25 @@
+{
+  "type": "createcybernetics:engineering_deconstruct",
+  "inputs": [
+    {
+      "item": "createcybernetics:basecyberware_rightarm"
+    },
+    {
+      "item": "createcybernetics:scavenged_rightarm"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "antarchy:titanium_nugget",
+      "count": 19
+    },
+    {
+      "id": "createcybernetics:component_synthnerves",
+      "count": 2
+    },
+    {
+      "id": "minecraft:iron_ingot",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.marvel_engineering_mk25.title",
+  "description": "task.integrated_boogaloo.marvel_engineering_mk25.description",
+  "showcase": [
+    "@recipe:marvel:iron_man_mark_25_chestplate"
+  ],
+  "icon": "marvel:iron_man_mark_25_chestplate",
+  "program": "integrated_boogaloo:engineering",
+  "category": "integrated_boogaloo:engineering",
+  "sort_order": 37,
+  "position": {
+    "x": 12,
+    "y": 3
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:marvel_engineering/mk19",
+    "integrated_boogaloo:engineering/ultimate"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "integrated_boogaloo:engineering/mark_25",
+      "description": "task.integrated_boogaloo.marvel_engineering_mk25.goal",
+      "count": 1
+    }
+  ],
+  "archive_entries": [
+    "integrated_boogaloo:suit_marks_middle"
+  ],
+  "rewards": [
+    {
+      "type": "choice",
+      "options": [
+        {
+          "id": "coins",
+          "title": "task.integrated_boogaloo.reward.coins",
+          "rewards": [
+            {
+              "type": "antcoins",
+              "amount": 300
+            }
+          ]
+        },
+        {
+          "id": "rare",
+          "title": "task.integrated_boogaloo.reward.rare",
+          "rewards": [
+            {
+              "type": "item_pool",
+              "pool": "integrated_boogaloo:supplies_rare",
+              "mode": "random"
+            }
+          ]
+        },
+        {
+          "id": "uranium",
+          "title": "task.integrated_boogaloo.reward.uranium",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "antarchy:uranium_ingot",
+              "count": 6
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "line_axis": "vertical"
+}

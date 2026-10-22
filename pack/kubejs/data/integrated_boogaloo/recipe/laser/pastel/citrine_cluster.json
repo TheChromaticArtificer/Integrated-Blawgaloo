@@ -1,0 +1,19 @@
+{
+  "type": "oritech:laser",
+  "ingredients": [
+    {
+      "item": "pastel:citrine_cluster"
+    }
+  ],
+  "results": [
+    {
+      "count": 4,
+      "id": "pastel:citrine_shard"
+    },
+    {
+      "count": 4,
+      "id": "pastel:citrine_powder"
+    }
+  ],
+  "time": 1
+}

@@ -1,0 +1,24 @@
+{
+  "type": "lucky:group",
+  "luck": 2,
+  "chance": 0.6,
+  "outcomes": [
+    {
+      "type": "lucky:message",
+      "message": {
+        "text": "A turret buddy!",
+        "color": "aqua",
+        "bold": true
+      },
+      "overlay": true
+    },
+    {
+      "type": "lucky:item",
+      "item": "scguns:basic_turret"
+    },
+    {
+      "type": "lucky:item",
+      "item": "scguns:turret_targeting_module"
+    }
+  ]
+}

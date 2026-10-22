@@ -1,0 +1,44 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.witchery_spawner_creature.title",
+  "description": "task.integrated_boogaloo.witchery_spawner_creature.description",
+  "showcase": [
+    "@recipe:integrated_boogaloo:ritual/spawner/creature"
+  ],
+  "icon": "pastel:downstone_fragments",
+  "program": "integrated_boogaloo:witchcraft",
+  "category": "integrated_boogaloo:witchcraft",
+  "sort_order": 32,
+  "position": {
+    "x": 5,
+    "y": 2
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:witchery_basics/spawner_tuning"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "integrated_boogaloo:witchcraft/spawner_creature",
+      "description": "task.integrated_boogaloo.witchery_spawner_creature.goal",
+      "count": 1
+    },
+    {
+      "id": "downstone",
+      "type": "item",
+      "target": "pastel:downstone_fragments",
+      "description": "task.integrated_boogaloo.witchery_spawner_creature.downstone",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 50
+    }
+  ],
+  "line_axis": "horizontal"
+}

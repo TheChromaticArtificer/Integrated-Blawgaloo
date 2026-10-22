@@ -1,0 +1,83 @@
+{
+  "green_tint": false,
+  "type": "block",
+  "category": "pastel_basics",
+  "folder": "integrated_boogaloo:world_of_color",
+  "sort_order": 20,
+  "title": "guide.integrated_boogaloo.entry.pastel_pedestal.title",
+  "subtitle": "guide.integrated_boogaloo.entry.pastel_pedestal.subtitle",
+  "content": [
+    {
+      "text": "guide.integrated_boogaloo.entry.pastel_pedestal.body_1"
+    },
+    {
+      "display": "integrated_boogaloo:guide/pedestal_tiers"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.pastel_pedestal.body_2"
+    },
+    {
+      "display": "integrated_boogaloo:guide/pedestal_recipe"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.pastel_pedestal.body_3"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.pastel_pedestal.body_4"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.pastel_pedestal.body_5"
+    }
+  ],
+  "item": "pastel:pedestal_basic_amethyst",
+  "gallery": [
+    {
+      "item": "pastel:pedestal_basic_amethyst",
+      "name": "guide.integrated_boogaloo.entry.pastel_pedestal.gallery.basic"
+    },
+    {
+      "item": "pastel:pedestal_all_basic",
+      "name": "guide.integrated_boogaloo.entry.pastel_pedestal.gallery.cmy"
+    },
+    {
+      "item": "pastel:pedestal_onyx",
+      "name": "guide.integrated_boogaloo.entry.pastel_pedestal.gallery.onyx"
+    },
+    {
+      "item": "pastel:pedestal_moonstone",
+      "name": "guide.integrated_boogaloo.entry.pastel_pedestal.gallery.moonstone"
+    },
+    {
+      "item": "pastel:paintbrush"
+    },
+    {
+      "item": "pastel:pedestal_tier_1_structure_placer",
+      "name": "guide.integrated_boogaloo.entry.pastel_pedestal.gallery.focus"
+    },
+    {
+      "item": "pastel:pedestal_tier_2_structure_placer",
+      "name": "guide.integrated_boogaloo.entry.pastel_pedestal.gallery.temple"
+    },
+    {
+      "item": "pastel:pedestal_tier_3_structure_placer",
+      "name": "guide.integrated_boogaloo.entry.pastel_pedestal.gallery.complex"
+    },
+    {
+      "item": "pastel:moonstone_chiseled_basalt"
+    }
+  ],
+  "lookup": [
+    "pastel:pedestal_all_basic",
+    "pastel:pedestal_basic_citrine",
+    "pastel:pedestal_basic_topaz",
+    "pastel:pedestal_moonstone",
+    "pastel:pedestal_onyx",
+    "pastel:pedestal_tier_1_structure_placer",
+    "pastel:pedestal_tier_2_structure_placer",
+    "pastel:pedestal_tier_3_structure_placer"
+  ],
+  "lookup_recipes": [
+    "pastel:pedestal",
+    "pastel:pedestal_shapeless"
+  ]
+}

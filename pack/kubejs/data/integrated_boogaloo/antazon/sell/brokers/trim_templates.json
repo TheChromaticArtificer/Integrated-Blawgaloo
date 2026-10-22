@@ -1,0 +1,11 @@
+{
+  "tag": "minecraft:trim_templates",
+  "value": 25,
+  "limit": 8,
+  "limit_reset": "minecraft_day",
+  "green_tint": false,
+  "unlock_disks": [
+    "integrated_boogaloo:relic_broker"
+  ],
+  "unlock_mode": "all"
+}

@@ -1,0 +1,444 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:abandoned_village",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "wan_ancient_beasts:abandoned_village"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:ancient_nest",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "wan_ancient_beasts:ancient_nest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:dead_coral",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "wan_ancient_beasts:dead_coral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:desert_ruins",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "wan_ancient_beasts:desert_ruins"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:desert_ruins_small",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "wan_ancient_beasts:desert_ruins_small"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:digsite_badlands",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+					"creature": {
+						"bounding_box": "piece",
+						"spawns": [
+							{
+								"type": "minecraft:pig",
+								"weight": 400,
+								"minCount": 1,
+								"maxCount": 1
+							}
+						]
+					}
+				},
+				"id": "wan_ancient_beasts:digsite_badlands"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:digsite_desert",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "wan_ancient_beasts:digsite_desert"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:digsite_icespikes",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "wan_ancient_beasts:digsite_icespikes"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:digsite_jungle",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "wan_ancient_beasts:digsite_jungle"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:digsite_large_badlands",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "wan_ancient_beasts:digsite_large_badlands"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:digsite_large_desert",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "wan_ancient_beasts:digsite_large_desert"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:digsite_large_icespikes",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "wan_ancient_beasts:digsite_large_icespikes"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:digsite_large_jungle",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "wan_ancient_beasts:digsite_large_jungle"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:digsite_large_oldgrowthtaiga",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "wan_ancient_beasts:digsite_large_oldgrowthtaiga"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:digsite_large_peaks",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "wan_ancient_beasts:digsite_large_peaks"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:digsite_large_plains",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "wan_ancient_beasts:digsite_large_plains"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:digsite_large_savanna",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "wan_ancient_beasts:digsite_large_savanna"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:digsite_large_taiga",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "wan_ancient_beasts:digsite_large_taiga"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:digsite_oldgrowthtaiga",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "wan_ancient_beasts:digsite_oldgrowthtaiga"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:digsite_peaks",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "wan_ancient_beasts:digsite_peaks"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:digsite_plains",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "wan_ancient_beasts:digsite_plains"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:digsite_savanna",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "wan_ancient_beasts:digsite_savanna"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:digsite_small_badlands",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "wan_ancient_beasts:digsite_small_badlands"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:digsite_small_desert",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "wan_ancient_beasts:digsite_small_desert"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:digsite_small_icespikes",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "wan_ancient_beasts:digsite_small_icespikes"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:digsite_small_jungle",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "wan_ancient_beasts:digsite_small_jungle"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:digsite_small_oldgrowthtaiga",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "wan_ancient_beasts:digsite_small_oldgrowthtaiga"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:digsite_small_peaks",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "wan_ancient_beasts:digsite_small_peaks"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:digsite_small_plains",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "wan_ancient_beasts:digsite_small_plains"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:digsite_small_savanna",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "wan_ancient_beasts:digsite_small_savanna"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:digsite_small_taiga",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "wan_ancient_beasts:digsite_small_taiga"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:digsite_taiga",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"id": "wan_ancient_beasts:digsite_taiga"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:ice_spike_castle",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "wan_ancient_beasts:ice_spike_castle"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:mesa_temple",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "wan_ancient_beasts:mesa_temple"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:mesa_temple_small",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "wan_ancient_beasts:mesa_temple_small"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:primal_log",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "wan_ancient_beasts:primal_log"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:ruined_castle",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"id": "wan_ancient_beasts:ruined_castle"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:training_outpost",
+			"data": {
+				"step": "surface_structures",
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"type": "minecraft:pillager",
+								"weight": 1,
+								"minCount": 1,
+								"maxCount": 1
+							}
+						]
+					}
+				},
+				"id": "wan_ancient_beasts:training_outpost"
+			}
+		}
+	]
+}

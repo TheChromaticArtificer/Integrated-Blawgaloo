@@ -1,0 +1,45 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.elythia_ant_arch.title",
+  "description": "task.integrated_boogaloo.elythia_ant_arch.description",
+  "showcase": [
+    "@recipe:antarchy:brutalfly_elytra"
+  ],
+  "icon": "antarchy:brutalfly_elytra",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:elythia",
+  "sort_order": 25,
+  "position": {
+    "x": 5,
+    "y": 5
+  },
+  "shape": "pentagon",
+  "size": 1.5,
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:exploration/elythia/basilisk",
+    "integrated_boogaloo:exploration/elythia/brutalfly",
+    "integrated_boogaloo:exploration/elythia/toreterror"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "antarchy:ant_arch_of_elythia",
+      "description": "task.integrated_boogaloo.elythia_ant_arch.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "item_pool",
+      "pool": "integrated_boogaloo:supplies_rare",
+      "mode": "choice"
+    },
+    {
+      "type": "antcoins",
+      "amount": 100
+    }
+  ],
+  "line_axis": "horizontal"
+}

@@ -1,0 +1,64 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "pastel:$_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:$_chiseled_preservation_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:$_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:$_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:$_glowblock"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:$_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:$_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:$_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:$_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:$_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:$_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:$_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:potted_$_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:stripped_$_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:stripped_$_wood"
+		}
+	]
+}

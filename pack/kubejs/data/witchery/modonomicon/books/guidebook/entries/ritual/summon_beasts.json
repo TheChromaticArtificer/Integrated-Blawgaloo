@@ -1,0 +1,82 @@
+{
+  "background_u_index": 0,
+  "background_v_index": 0,
+  "category": "ritual",
+  "condition": {
+    "type": "modonomicon:and",
+    "children": [
+      {
+        "type": "modonomicon:entry_read",
+        "entry_id": "ritual/infernal_chalk"
+      },
+      {
+        "type": "modonomicon:advancement",
+        "advancement_id": "witchery:infernal_chalk"
+      }
+    ]
+  },
+  "description": "book.witchery.guidebook.ritual.summon_beasts.description",
+  "hide_while_locked": true,
+  "icon": {
+    "item": "iceandfire:hydra_fang"
+  },
+  "name": "book.witchery.guidebook.ritual.summon_beasts.name",
+  "pages": [
+    {
+      "type": "modonomicon:text",
+      "anchor": "",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "show_title_separator": true,
+      "text": "ritual.summon_beasts.page.1",
+      "title": "ritual.summon_beasts.title.1",
+      "use_markdown_in_title": false
+    },
+    {
+      "type": "witchery:ritual_recipe",
+      "anchor": "",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "recipe_id_1": "integrated_boogaloo:ritual/summon_hydra",
+      "text": "",
+      "title1": "integrated_boogaloo:ritual/summon_hydra",
+      "title2": ""
+    },
+    {
+      "type": "witchery:ritual_recipe",
+      "anchor": "",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "recipe_id_1": "integrated_boogaloo:ritual/summon_gorgon",
+      "text": "",
+      "title1": "integrated_boogaloo:ritual/summon_gorgon",
+      "title2": ""
+    },
+    {
+      "type": "witchery:ritual_recipe",
+      "anchor": "",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "recipe_id_1": "integrated_boogaloo:ritual/summon_kraken",
+      "text": "",
+      "title1": "integrated_boogaloo:ritual/summon_kraken",
+      "title2": ""
+    }
+  ],
+  "parents": [
+    {
+      "draw_arrow": true,
+      "entry": "ritual/summon_demon",
+      "line_enabled": true,
+      "line_reversed": false
+    }
+  ],
+  "show_when_any_parent_unlocked": false,
+  "sort_number": 53,
+  "x": 1,
+  "y": -1
+}

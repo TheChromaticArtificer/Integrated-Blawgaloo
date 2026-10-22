@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "mts:mtsofficialpack.mc172_oak",
+    "mts:mtsofficialpack.mc172_spruce",
+    "mts:mtsofficialpack.mc172_birch",
+    "mts:mtsofficialpack.mc172_jungle",
+    "mts:mtsofficialpack.mc172_acacia",
+    "mts:mtsofficialpack.mc172_darkoak",
+    "mts:mtsofficialpack.mc172_bamboo",
+    "mts:mtsofficialpack.mc172_mangrove",
+    "mts:mtsofficialpack.mc172_cherry",
+    "mts:mtsofficialpack.mc172_crimson",
+    "mts:mtsofficialpack.mc172_warped"
+  ]
+}

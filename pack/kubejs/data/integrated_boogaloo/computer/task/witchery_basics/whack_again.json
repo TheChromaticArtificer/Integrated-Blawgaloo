@@ -1,0 +1,37 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.witchery_whack_again.title",
+  "description": "task.integrated_boogaloo.witchery_whack_again.description",
+  "showcase": [
+    "@recipe:integrated_boogaloo:ritual/remembrance/wither",
+    "@recipe:integrated_boogaloo:ritual/remembrance/warden"
+  ],
+  "icon": "pastel:wither_head",
+  "program": "integrated_boogaloo:witchcraft",
+  "category": "integrated_boogaloo:witchcraft",
+  "sort_order": 30,
+  "position": {
+    "x": 8,
+    "y": 2
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:witchery_basics/back_again"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "pastel:midgame/craft_blacklisted_memory_success",
+      "description": "task.integrated_boogaloo.witchery_whack_again.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 60
+    }
+  ],
+  "line_axis": "horizontal"
+}

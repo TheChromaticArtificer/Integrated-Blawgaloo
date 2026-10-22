@@ -1,0 +1,35 @@
+{
+  "type": "lucky:group",
+  "luck": 1,
+  "chance": 1.25,
+  "outcomes": [
+    {
+      "type": "lucky:message",
+      "message": {
+        "text": "Pets galore!",
+        "color": "green",
+        "bold": true
+      },
+      "overlay": true
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "antarchy:rolly_polly",
+      "reinit": true,
+      "nbt": {
+        "Owner": "{playerUUID}",
+        "Tame": true,
+        "PersistenceRequired": true
+      }
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "antarchy:cheep",
+      "reinit": true
+    },
+    {
+      "type": "lucky:item",
+      "item": "antarchy:cheep_bucket"
+    }
+  ]
+}

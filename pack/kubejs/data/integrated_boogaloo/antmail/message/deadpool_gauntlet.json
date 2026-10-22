@@ -1,0 +1,17 @@
+{
+  "sender": "deadpool@antmail.com",
+  "sender_display": "Deadpool",
+  "sender_avatar_item": "marvel:deadpool_helmet",
+  "subject": "Six Stones, one advancement",
+  "body": "You built the Gauntlet. Thanos needed two movies and a sad farm for that. Snap if you want, I'll grow back. Last time I regrew my legs they came in as baby legs first and I waddled around like a toddler in a leather onesie for a week, and before you ask, no, not everything was baby sized.\n\nlove, your favorite merc",
+  "trigger": {
+    "type": "advancement",
+    "value": "integrated_boogaloo:gauntlet/complete",
+    "delay_minutes": 2
+  },
+  "conditions": {
+    "mail_read": [
+      "integrated_boogaloo:deadpool_intro"
+    ]
+  }
+}

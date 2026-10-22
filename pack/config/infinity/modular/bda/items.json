@@ -1,0 +1,120 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "bda:battle_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "bda:deadly_nadder_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "bda:dragon_saddle"
+		},
+		{
+			"weight": 1.0,
+			"key": "bda:gronckle_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "bda:hatch_stick"
+		},
+		{
+			"weight": 1.0,
+			"key": "bda:hiccups_dagger"
+		},
+		{
+			"weight": 1.0,
+			"key": "bda:hooligan_bolas"
+		},
+		{
+			"weight": 1.0,
+			"key": "bda:hooligan_double_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "bda:hooligan_pike"
+		},
+		{
+			"weight": 1.0,
+			"key": "bda:hooligan_round_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "bda:hooligan_round_shield_1"
+		},
+		{
+			"weight": 1.0,
+			"key": "bda:hooligan_round_shield_10"
+		},
+		{
+			"weight": 1.0,
+			"key": "bda:hooligan_round_shield_11"
+		},
+		{
+			"weight": 1.0,
+			"key": "bda:hooligan_round_shield_12"
+		},
+		{
+			"weight": 1.0,
+			"key": "bda:hooligan_round_shield_13"
+		},
+		{
+			"weight": 1.0,
+			"key": "bda:hooligan_round_shield_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "bda:hooligan_round_shield_3"
+		},
+		{
+			"weight": 1.0,
+			"key": "bda:hooligan_round_shield_4"
+		},
+		{
+			"weight": 1.0,
+			"key": "bda:hooligan_round_shield_5"
+		},
+		{
+			"weight": 1.0,
+			"key": "bda:hooligan_round_shield_6"
+		},
+		{
+			"weight": 1.0,
+			"key": "bda:hooligan_round_shield_7"
+		},
+		{
+			"weight": 1.0,
+			"key": "bda:hooligan_round_shield_8"
+		},
+		{
+			"weight": 1.0,
+			"key": "bda:hooligan_round_shield_9"
+		},
+		{
+			"weight": 1.0,
+			"key": "bda:iron_dagger"
+		},
+		{
+			"weight": 1.0,
+			"key": "bda:iron_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "bda:mace"
+		},
+		{
+			"weight": 1.0,
+			"key": "bda:night_fury_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "bda:tame_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "bda:war_hammer"
+		}
+	]
+}

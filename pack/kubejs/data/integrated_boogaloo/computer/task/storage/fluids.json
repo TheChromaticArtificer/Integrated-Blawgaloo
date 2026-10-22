@@ -1,0 +1,41 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.storage_fluids.title",
+  "description": "task.integrated_boogaloo.storage_fluids.description",
+  "showcase": [
+    "@recipe:refinedstorage:64b_fluid_storage_disk"
+  ],
+  "icon": "refinedstorage:64b_fluid_storage_disk",
+  "program": "integrated_boogaloo:storage",
+  "category": "integrated_boogaloo:storage",
+  "sort_order": 11,
+  "position": {
+    "x": 2,
+    "y": 1
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:storage/grid"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "refinedstorage:64b_fluid_storage_disk",
+      "description": "task.integrated_boogaloo.storage_fluids.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 75
+    },
+    {
+      "type": "item",
+      "item": "refinedstorage:64b_fluid_storage_part",
+      "count": 2
+    }
+  ],
+  "line_axis": "horizontal"
+}

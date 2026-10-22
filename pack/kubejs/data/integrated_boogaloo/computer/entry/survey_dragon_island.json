@@ -1,0 +1,16 @@
+{
+  "green_tint": false,
+  "type": "structure",
+  "category": "vikings",
+  "folder": "integrated_boogaloo:overworld",
+  "sort_order": 300,
+  "cover_item": "minecraft:filled_map",
+  "title": "guide.integrated_boogaloo.entry.survey_dragon_island.title",
+  "subtitle": "guide.integrated_boogaloo.entry.survey_dragon_island.subtitle",
+  "description": [
+    "guide.integrated_boogaloo.entry.survey_dragon_island.body"
+  ],
+  "structure": "bda:red_death_volcano",
+  "dimension": "minecraft:overworld",
+  "search_radius": 100
+}

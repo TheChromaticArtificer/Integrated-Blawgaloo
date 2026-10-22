@@ -1,0 +1,11 @@
+{
+  "sender": "trayaurus@antmail.com",
+  "sender_avatar_item": "antarchy:diamond_minecart",
+  "subject": "The Space Stone",
+  "body": "You followed the Compass all the way down. The Space Stone's page is in the book. @archive:integrated_boogaloo:stone_space I keep picturing that Cathedral and then deciding not to.\n\nYour old friend,\nDr. T",
+  "trigger": {
+    "delay_minutes": 3,
+    "type": "advancement",
+    "value": "integrated_boogaloo:gauntlet/has_space_stone"
+  }
+}

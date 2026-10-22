@@ -1,0 +1,38 @@
+{
+  "name": "computer.integrated_boogaloo.product.critters.treadmill.name",
+  "description": "computer.integrated_boogaloo.product.critters.treadmill.description",
+  "category": "critters",
+  "green_tint": false,
+  "quantity": 1,
+  "payments": [
+    {
+      "type": "antcoins",
+      "resource": "antcoins",
+      "amount": 60
+    }
+  ],
+  "thumbnail": {
+    "item": "neosync:treadmill"
+  },
+  "availability": {
+    "server_stock": 0,
+    "player_limit": 1,
+    "player_limit_reset": "minecraft_day"
+  },
+  "rewards": [
+    {
+      "item": "neosync:treadmill",
+      "count": 1
+    }
+  ],
+  "reviews": [
+    {
+      "id": "dr_t",
+      "author": "Dr. T",
+      "title": "computer.integrated_boogaloo.product.critters.treadmill.review.dr_t.title",
+      "body": "computer.integrated_boogaloo.product.critters.treadmill.review.dr_t.body",
+      "rating": 5,
+      "badge": "LAB VERIFIED"
+    }
+  ]
+}

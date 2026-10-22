@@ -1,0 +1,708 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "type": "minecraft:uniform",
+        "min": 5,
+        "max": 8
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:gold_ingot",
+          "weight": 4,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 2,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:emerald",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 2,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:book",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_apple",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_golden_apple",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "antarchy:titanium_nugget",
+          "weight": 4,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 2,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "antarchy:uranium_nugget",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 4
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_ingot",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 2,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:copper_ingot",
+          "weight": 4,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 2,
+                "max": 6
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "antarchy:tigers_eye",
+          "weight": 4,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "travelersbackpack:iron_tier_upgrade",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "travelersbackpack:gold_tier_upgrade",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "travelersbackpack:diamond_tier_upgrade",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "marvel:adamantium_nugget",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 2,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "randomium:randomium",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "lucky:lucky_block",
+          "weight": 4,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "inventorypets:pet_cobblestone",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "inventorypets:pet_torch",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "inventorypets:pet_chest",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "pastel:stardust",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "dimdoors:rift_pearl",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "iceandfire:silver_sword",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "iceandfire:silver_axe",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:copper_sword",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:copper_axe",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "alexscaves:limestone_spear",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:copper_spear",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "wan_ancient_beasts:ancient_club",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "scguns:iron_bayonet",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "iceandfire:hippogryph_sword",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "iceandfire:amphithere_macuahuitl",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "iceandfire:stymphalian_bird_dagger",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "alexscaves:primitive_club",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "alexscaves:frostmint_spear",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_spear",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "dimdoors:rift_blade",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "antarchy:ultimate_sword",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "antarchy:ultimate_axe",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "antarchy:ultimate_pickaxe",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "antarchy:ultimate_shovel",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "antarchy:ultimate_bow",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "antarchy:ultimate_crossbow",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "antarchy:ultimate_helmet",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "antarchy:ultimate_chestplate",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "antarchy:ultimate_leggings",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "antarchy:ultimate_boots",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "type": "minecraft:uniform",
+        "min": 3,
+        "max": 6
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "mutantmonsters:creeper_shard",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "infinity:chromatic_wool",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 4
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "lucky:lucky_block",
+          "weight": 4,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "scguns:scrapper",
+          "weight": 42
+        },
+        {
+          "type": "minecraft:item",
+          "name": "scguns:rusty_gnat",
+          "weight": 42
+        },
+        {
+          "type": "minecraft:item",
+          "name": "scguns:makeshift_rifle",
+          "weight": 42
+        },
+        {
+          "type": "minecraft:item",
+          "name": "scguns:boomstick",
+          "weight": 42
+        },
+        {
+          "type": "minecraft:item",
+          "name": "scguns:birdfeeder",
+          "weight": 42
+        },
+        {
+          "type": "minecraft:item",
+          "name": "scguns:llr_director",
+          "weight": 42
+        },
+        {
+          "type": "minecraft:item",
+          "name": "scguns:bruiser",
+          "weight": 42
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 700
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "scguns:compact_copper_round",
+          "weight": 4,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 4,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "scguns:ramrod_round",
+          "weight": 4,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 4,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "scguns:shotgun_shell",
+          "weight": 4,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 4,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "scguns:standard_copper_round",
+          "weight": 4,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 4,
+                "max": 12
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "lucky:lucky_block",
+          "weight": 40
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 960
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "dimdoors:rift_pearl",
+          "weight": 30
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 970
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "antarchy:portal_gun",
+          "weight": 60
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 940
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "integrated_superheroes:syringe_squirrel_powers_doreen_green",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "integrated_superheroes:syringe_cryokinesis_bobby_drake",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "integrated_superheroes:syringe_phasing_kitty_pryde",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "integrated_superheroes:syringe_radar_sense_matt_murdock",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 96
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "antos:floppy_disk",
+          "weight": 35,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "antos:floppy_disk": "integrated_boogaloo:gift_card_100"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "antos:floppy_disk",
+          "weight": 12,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "antos:floppy_disk": "integrated_boogaloo:chronosphere_warranty"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "antos:floppy_disk",
+          "weight": 12,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "antos:floppy_disk": "integrated_boogaloo:relic_broker"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "antos:floppy_disk",
+          "weight": 12,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "antos:floppy_disk": "integrated_boogaloo:treasure_appraiser"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 929
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "antos:floppy_disk",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "antos:floppy_disk": "integrated_boogaloo:survey_deep"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 980
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "antos:floppy_disk",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "antos:floppy_disk": "integrated_boogaloo:survey_vikings"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 990
+        }
+      ]
+    }
+  ]
+}

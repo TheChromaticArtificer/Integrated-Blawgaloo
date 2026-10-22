@@ -1,0 +1,33 @@
+{
+  "type": "lucky:group",
+  "luck": 2,
+  "chance": 0.6,
+  "outcomes": [
+    {
+      "type": "lucky:message",
+      "message": {
+        "text": "A vial of dragon blood!",
+        "color": "dark_red",
+        "bold": true
+      },
+      "overlay": true
+    },
+    {
+      "type": "lucky:random",
+      "outcomes": [
+        {
+          "type": "lucky:item",
+          "item": "iceandfire:fire_dragon_blood"
+        },
+        {
+          "type": "lucky:item",
+          "item": "iceandfire:ice_dragon_blood"
+        },
+        {
+          "type": "lucky:item",
+          "item": "iceandfire:lightning_dragon_blood"
+        }
+      ]
+    }
+  ]
+}

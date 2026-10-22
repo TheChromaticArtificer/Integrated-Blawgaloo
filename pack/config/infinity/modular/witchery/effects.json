@@ -1,0 +1,175 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "witchery:absorb_magic",
+			"data": {
+				"Instant": false,
+				"Color": -7578881,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "witchery:attract_arrow",
+			"data": {
+				"Instant": false,
+				"Color": -2293906,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "witchery:bane_of_arthropods_weapon",
+			"data": {
+				"Instant": false,
+				"Color": -4978156,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "witchery:bear_trap_incapacitated",
+			"data": {
+				"Instant": false,
+				"Color": -39836,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "witchery:brew_luck",
+			"data": {
+				"Instant": false,
+				"Color": -11477761,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "witchery:disease",
+			"data": {
+				"Instant": false,
+				"Color": -2333586,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "witchery:empty",
+			"data": {
+				"Instant": false,
+				"Color": -1,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "witchery:ender_bound",
+			"data": {
+				"Instant": false,
+				"Color": -49966,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "witchery:fortune_tool",
+			"data": {
+				"Instant": false,
+				"Color": -10179886,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "witchery:grotesque",
+			"data": {
+				"Instant": false,
+				"Color": -39836,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "witchery:grow",
+			"data": {
+				"Instant": false,
+				"Color": -156,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "witchery:last_stand",
+			"data": {
+				"Instant": false,
+				"Color": -390601,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "witchery:lycanthropy",
+			"data": {
+				"Instant": false,
+				"Color": -39836,
+				"Category": "harmful"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "witchery:poison_weapon",
+			"data": {
+				"Instant": false,
+				"Color": -12124306,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "witchery:reflect_arrow",
+			"data": {
+				"Instant": false,
+				"Color": -2293906,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "witchery:reflect_damage",
+			"data": {
+				"Instant": false,
+				"Color": -3623681,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "witchery:shrink",
+			"data": {
+				"Instant": false,
+				"Color": -156,
+				"Category": "neutral"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "witchery:snow_trail",
+			"data": {
+				"Instant": false,
+				"Color": -2297601,
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "witchery:werewolf_bound",
+			"data": {
+				"Instant": false,
+				"Color": -156,
+				"Category": "harmful"
+			}
+		}
+	]
+}

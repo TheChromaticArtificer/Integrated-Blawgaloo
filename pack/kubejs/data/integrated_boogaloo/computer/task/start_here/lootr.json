@@ -1,0 +1,25 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.start_here_lootr.title",
+  "description": "task.integrated_boogaloo.start_here_lootr.description",
+  "showcase": [
+    "@item:lootr:lootr_chest",
+    "@recipe:lootr:lootr_chest"
+  ],
+  "icon": "lootr:lootr_chest",
+  "program": "integrated_boogaloo:start_here",
+  "category": "integrated_boogaloo:start_here",
+  "sort_order": 6,
+  "position": {
+    "x": 2,
+    "y": -1
+  },
+  "shape": "circle",
+  "availability": "automatic",
+  "objectives": [],
+  "rewards": [],
+  "connects": [
+    "integrated_boogaloo:start_here/tempad"
+  ],
+  "line_axis": "horizontal"
+}

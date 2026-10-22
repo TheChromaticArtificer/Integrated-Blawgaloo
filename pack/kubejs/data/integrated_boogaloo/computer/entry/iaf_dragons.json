@@ -1,0 +1,65 @@
+{
+  "green_tint": false,
+  "type": "article",
+  "category": "bestiary_draconic",
+  "folder": "integrated_boogaloo:bestiary",
+  "sort_order": 0,
+  "cover_entity": "iceandfire:fire_dragon",
+  "rotation": 45,
+  "title": "guide.integrated_boogaloo.entry.iaf_dragons.title",
+  "subtitle": "guide.integrated_boogaloo.entry.iaf_dragons.subtitle",
+  "gallery": [
+    {
+      "entity": "iceandfire:fire_dragon"
+    },
+    {
+      "entity": "iceandfire:ice_dragon"
+    },
+    {
+      "entity": "iceandfire:lightning_dragon"
+    },
+    {
+      "item": "iceandfire:dragonegg_red",
+      "name": "guide.integrated_boogaloo.entry.iaf_dragons.gallery.dragonegg_red"
+    },
+    {
+      "item": "iceandfire:dragonegg_blue",
+      "name": "guide.integrated_boogaloo.entry.iaf_dragons.gallery.dragonegg_blue"
+    },
+    {
+      "item": "iceandfire:dragonegg_electric",
+      "name": "guide.integrated_boogaloo.entry.iaf_dragons.gallery.dragonegg_electric"
+    }
+  ],
+  "lookup": [
+    "iceandfire:dragonegg_amethyst",
+    "iceandfire:dragonegg_black",
+    "iceandfire:dragonegg_blue",
+    "iceandfire:dragonegg_bronze",
+    "iceandfire:dragonegg_copper",
+    "iceandfire:dragonegg_electric",
+    "iceandfire:dragonegg_gray",
+    "iceandfire:dragonegg_green",
+    "iceandfire:dragonegg_red",
+    "iceandfire:dragonegg_sapphire",
+    "iceandfire:dragonegg_silver",
+    "iceandfire:dragonegg_white"
+  ],
+  "content": [
+    {
+      "text": "guide.integrated_boogaloo.entry.iaf_dragons.body_1"
+    },
+    {
+      "display": "integrated_boogaloo:guide/dragon_eggs"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.iaf_dragons.body_2"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.iaf_dragons.body_3"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.iaf_dragons.body_4"
+    }
+  ]
+}

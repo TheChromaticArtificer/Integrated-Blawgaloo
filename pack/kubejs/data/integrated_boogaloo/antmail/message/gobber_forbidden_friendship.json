@@ -1,0 +1,12 @@
+{
+  "sender": "gobber@berk.com",
+  "sender_display": "Gobber",
+  "sender_avatar_item": "bda:war_hammer",
+  "subject": "Count your fingers",
+  "body": "Ye tamed one! An actual dragon, and ye've still got all ten fingers. Count 'em to make sure, I'll wait. I lost this hand to a Nadder. Or a Gronckle. It was dark and I was busy screaming. Point is, it trusts ye now, and a dragon doesn't do that lightly. Congrats!\n\nGobber",
+  "trigger": {
+    "delay_minutes": 3,
+    "type": "advancement",
+    "value": "bda:academy/forbidden_friendship"
+  }
+}

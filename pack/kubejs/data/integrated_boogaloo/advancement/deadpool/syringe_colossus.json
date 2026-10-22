@@ -1,0 +1,14 @@
+{
+  "criteria": {
+    "has": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "integrated_superheroes:syringe_organic_steel_piotr_rasputin"
+          }
+        ]
+      }
+    }
+  }
+}

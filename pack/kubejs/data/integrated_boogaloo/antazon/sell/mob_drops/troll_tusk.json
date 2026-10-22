@@ -1,0 +1,11 @@
+{
+  "item": "iceandfire:troll_tusk",
+  "value": 15,
+  "limit": 64,
+  "limit_reset": "minecraft_day",
+  "green_tint": false,
+  "unlock_tasks": [
+    "integrated_boogaloo:exploration/cavaryn/trolls"
+  ],
+  "unlock_mode": "any"
+}

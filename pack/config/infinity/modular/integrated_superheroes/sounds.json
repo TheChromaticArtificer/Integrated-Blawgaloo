@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "integrated_superheroes:swarm_squirrel_beg"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_superheroes:swarm_squirrel_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_superheroes:swarm_squirrel_glide_loop"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_superheroes:swarm_squirrel_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_superheroes:swarm_squirrel_idle"
+		},
+		{
+			"weight": 1.0,
+			"key": "integrated_superheroes:swarm_squirrel_nut"
+		}
+	]
+}

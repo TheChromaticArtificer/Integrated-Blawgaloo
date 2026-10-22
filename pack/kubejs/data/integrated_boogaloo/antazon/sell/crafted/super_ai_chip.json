@@ -1,0 +1,7 @@
+{
+  "item": "oritech:super_ai_chip",
+  "value": 300,
+  "limit": 16,
+  "limit_reset": "minecraft_day",
+  "green_tint": false
+}

@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "brew_of_sleeping": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "witchery:brew_of_sleeping"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "brew_of_sleeping"
+    ]
+  ]
+}

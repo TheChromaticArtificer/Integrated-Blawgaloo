@@ -1,0 +1,10 @@
+{
+  "type": {
+    "type": "databank:item",
+    "hidden_as": "minecraft:red_dye",
+    "original": "pastel:stratine_fragments"
+  },
+  "condition": {
+    "type": "databank:always_true"
+  }
+}

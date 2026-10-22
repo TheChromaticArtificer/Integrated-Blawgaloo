@@ -1,0 +1,8 @@
+{
+  "costA": "minecraft:iron_ingot",
+  "costACount": 3,
+  "costB": "minecraft:emerald",
+  "maxUses": 16,
+  "priceMultiplier": 1.0,
+  "result": "iceandfire:silver_ingot"
+}

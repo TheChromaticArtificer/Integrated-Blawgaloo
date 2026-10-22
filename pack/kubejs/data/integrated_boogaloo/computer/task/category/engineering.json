@@ -1,0 +1,7 @@
+{
+  "green_tint": false,
+  "title": "task.category.integrated_boogaloo.engineering",
+  "icon": "oritech:assembler_block",
+  "sort_order": 10,
+  "group": "integrated_boogaloo:marvelous_engineering"
+}

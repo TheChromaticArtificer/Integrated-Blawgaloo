@@ -1,0 +1,29 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.marvel_engineering_gold_titanium.title",
+  "description": "task.integrated_boogaloo.marvel_engineering_gold_titanium.description",
+  "icon": "marvel:gold_titanium_ingot",
+  "program": "integrated_boogaloo:engineering",
+  "category": "integrated_boogaloo:engineering",
+  "sort_order": 47,
+  "position": {
+    "x": 2,
+    "y": 5
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "integrated_boogaloo:engineering/gold_titanium",
+      "description": "task.integrated_boogaloo.marvel_engineering_gold_titanium.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 30
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "background_u_index": 0,
+  "background_v_index": 0,
+  "category": "brewing",
+  "condition": {
+    "type": "modonomicon:and",
+    "children": [
+      {
+        "type": "modonomicon:entry_read",
+        "entry_id": "brewing/happenstance"
+      }
+    ]
+  },
+  "description": "book.witchery.guidebook.brewing.infuse_seer.description",
+  "hide_while_locked": false,
+  "icon": {
+    "item": "witchery:seer_stone"
+  },
+  "name": "book.witchery.guidebook.brewing.infuse_seer.name",
+  "pages": [
+    {
+      "type": "modonomicon:text",
+      "anchor": "",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "show_title_separator": true,
+      "text": "brewing.infuse_seer.page.1",
+      "title": "brewing.infuse_seer.title.1",
+      "use_markdown_in_title": false
+    },
+    {
+      "type": "witchery:ritual_recipe",
+      "anchor": "",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "recipe_id_1": "witchery:ritual/infuse_seer",
+      "text": "brewing.infuse_seer.page.2",
+      "title1": "",
+      "title2": ""
+    },
+    {
+      "type": "witchery:ritual_recipe",
+      "anchor": "",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "recipe_id_1": "witchery:ritual/infuse_seer_pearl",
+      "text": "brewing.infuse_seer.page.3",
+      "title1": "brewing.infuse_seer.title.3",
+      "title2": ""
+    }
+  ],
+  "parents": [
+    {
+      "draw_arrow": true,
+      "entry": "brewing/happenstance",
+      "line_enabled": true,
+      "line_reversed": false
+    }
+  ],
+  "show_when_any_parent_unlocked": false,
+  "sort_number": 14,
+  "x": 5,
+  "y": 4
+}

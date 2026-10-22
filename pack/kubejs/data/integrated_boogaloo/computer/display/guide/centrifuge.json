@@ -1,0 +1,243 @@
+{
+  "title": "literal:Centrifuge",
+  "variants": [
+    {
+      "id": "iron",
+      "title": "literal:Iron clump",
+      "template": "integrated_boogaloo:guide/templates/oritech_machine",
+      "recipe_binding": {
+        "recipe": "oritech:centrifuge/clump/iron",
+        "adapter": "boogaloo_core:oritech"
+      },
+      "values": {
+        "title": "literal:Centrifuge",
+        "blocks": [
+          {
+            "pos": [
+              0,
+              0,
+              0
+            ],
+            "state": "oritech:centrifuge_block[facing=north]",
+            "id": "machine",
+            "highlight": true,
+            "groups": [
+              "machine"
+            ]
+          },
+          {
+            "pos": [
+              0,
+              1,
+              0
+            ],
+            "state": "oritech:machine_core_1",
+            "id": "core0",
+            "groups": [
+              "cores"
+            ]
+          }
+        ],
+        "assembled": {
+          "core0": "oritech:machine_core_1[core_used=true]",
+          "machine": "oritech:centrifuge_block[facing=north,machine_assembled=true]"
+        },
+        "note": "literal:Clumps come from the Pulverizer.",
+        "yaw": 225
+      }
+    },
+    {
+      "id": "gold",
+      "title": "literal:Gold clump",
+      "template": "integrated_boogaloo:guide/templates/oritech_machine",
+      "recipe_binding": {
+        "recipe": "oritech:centrifuge/clump/gold",
+        "adapter": "boogaloo_core:oritech"
+      },
+      "values": {
+        "title": "literal:Centrifuge",
+        "blocks": [
+          {
+            "pos": [
+              0,
+              0,
+              0
+            ],
+            "state": "oritech:centrifuge_block[facing=north]",
+            "id": "machine",
+            "highlight": true,
+            "groups": [
+              "machine"
+            ]
+          },
+          {
+            "pos": [
+              0,
+              1,
+              0
+            ],
+            "state": "oritech:machine_core_1",
+            "id": "core0",
+            "groups": [
+              "cores"
+            ]
+          }
+        ],
+        "assembled": {
+          "core0": "oritech:machine_core_1[core_used=true]",
+          "machine": "oritech:centrifuge_block[facing=north,machine_assembled=true]"
+        },
+        "note": "literal:Clumps come from the Pulverizer.",
+        "yaw": 225
+      }
+    },
+    {
+      "id": "copper",
+      "title": "literal:Copper clump",
+      "template": "integrated_boogaloo:guide/templates/oritech_machine",
+      "recipe_binding": {
+        "recipe": "oritech:centrifuge/clump/copper",
+        "adapter": "boogaloo_core:oritech"
+      },
+      "values": {
+        "title": "literal:Centrifuge",
+        "blocks": [
+          {
+            "pos": [
+              0,
+              0,
+              0
+            ],
+            "state": "oritech:centrifuge_block[facing=north]",
+            "id": "machine",
+            "highlight": true,
+            "groups": [
+              "machine"
+            ]
+          },
+          {
+            "pos": [
+              0,
+              1,
+              0
+            ],
+            "state": "oritech:machine_core_1",
+            "id": "core0",
+            "groups": [
+              "cores"
+            ]
+          }
+        ],
+        "assembled": {
+          "core0": "oritech:machine_core_1[core_used=true]",
+          "machine": "oritech:centrifuge_block[facing=north,machine_assembled=true]"
+        },
+        "note": "literal:Clumps come from the Pulverizer.",
+        "yaw": 225
+      }
+    },
+    {
+      "id": "nickel",
+      "title": "literal:Nickel clump",
+      "template": "integrated_boogaloo:guide/templates/oritech_machine",
+      "recipe_binding": {
+        "recipe": "oritech:centrifuge/clump/nickel",
+        "adapter": "boogaloo_core:oritech"
+      },
+      "values": {
+        "title": "literal:Centrifuge",
+        "blocks": [
+          {
+            "pos": [
+              0,
+              0,
+              0
+            ],
+            "state": "oritech:centrifuge_block[facing=north]",
+            "id": "machine",
+            "highlight": true,
+            "groups": [
+              "machine"
+            ]
+          },
+          {
+            "pos": [
+              0,
+              1,
+              0
+            ],
+            "state": "oritech:machine_core_1",
+            "id": "core0",
+            "groups": [
+              "cores"
+            ]
+          }
+        ],
+        "assembled": {
+          "core0": "oritech:machine_core_1[core_used=true]",
+          "machine": "oritech:centrifuge_block[facing=north,machine_assembled=true]"
+        },
+        "note": "literal:Clumps come from the Pulverizer.",
+        "yaw": 225
+      }
+    },
+    {
+      "id": "naptharesin",
+      "title": "literal:Resin, with fluid addon",
+      "template": "integrated_boogaloo:guide/templates/oritech_machine",
+      "recipe_binding": {
+        "recipe": "oritech:centrifuge/fluid/naptharesin",
+        "adapter": "boogaloo_core:oritech"
+      },
+      "values": {
+        "title": "literal:Centrifuge",
+        "blocks": [
+          {
+            "pos": [
+              0,
+              0,
+              0
+            ],
+            "state": "oritech:centrifuge_block[facing=north]",
+            "id": "machine",
+            "highlight": true,
+            "groups": [
+              "machine"
+            ]
+          },
+          {
+            "pos": [
+              0,
+              1,
+              0
+            ],
+            "state": "oritech:machine_core_1",
+            "id": "core0",
+            "groups": [
+              "cores"
+            ]
+          },
+          {
+            "pos": [
+              -1,
+              0,
+              0
+            ],
+            "state": "oritech:machine_fluid_addon[facing=north]",
+            "id": "addon0",
+            "groups": [
+              "addons"
+            ],
+            "highlight": true
+          }
+        ],
+        "assembled": {
+          "core0": "oritech:machine_core_1[core_used=true]",
+          "machine": "oritech:centrifuge_block[facing=north,machine_assembled=true]"
+        },
+        "note": "literal:Needs a fluid addon beside it.",
+        "yaw": 225
+      }
+    }
+  ]
+}

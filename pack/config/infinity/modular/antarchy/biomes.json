@@ -1,0 +1,200 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "antarchy:biowart_caves",
+			"data": {
+				"Color": 6018898
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:brooding_tunnels",
+			"data": {
+				"Color": 2763554
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:butterfly_fields",
+			"data": {
+				"Color": 2867501
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:cavaryn",
+			"data": {
+				"Color": 4211262
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:cavaryn_moleworm_caves",
+			"data": {
+				"Color": 2867501
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:cloud_sea",
+			"data": {
+				"Color": 2867501
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:dream_dunes",
+			"data": {
+				"Color": -5331926
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:elythia_beach",
+			"data": {
+				"Color": 2867501
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:elythia_coral_spikes",
+			"data": {
+				"Color": 2867501
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:elythia_lush_caves",
+			"data": {
+				"Color": 2867501
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:elythia_meadow",
+			"data": {
+				"Color": 2867501
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:elythia_ocean",
+			"data": {
+				"Color": 2867501
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:elythia_river",
+			"data": {
+				"Color": 2867501
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:fungal_ouranwood_forest",
+			"data": {
+				"Color": 2867501
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:glimmering_pools",
+			"data": {
+				"Color": 2867501
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:glowcap_caves",
+			"data": {
+				"Color": 16722688
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:lucid_pools",
+			"data": {
+				"Color": -5331926
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:moleworm_caves",
+			"data": {
+				"Color": 2867501
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:nadir_forest",
+			"data": {
+				"Color": -5331926
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:nightmare_wastes",
+			"data": {
+				"Color": -5331926
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:ouranwood_forest",
+			"data": {
+				"Color": 2867501
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:peach_forest",
+			"data": {
+				"Color": 2867501
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:rolly_caves",
+			"data": {
+				"Color": 10275406
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:sparse_ouranwood_forest",
+			"data": {
+				"Color": 2867501
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:truffalo_forest",
+			"data": {
+				"Color": 2867501
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:umbral_hills",
+			"data": {
+				"Color": -5331926
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:vortex_expanse",
+			"data": {
+				"Color": -5331926
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "antarchy:wormy_caves",
+			"data": {
+				"Color": 3158803
+			}
+		}
+	]
+}

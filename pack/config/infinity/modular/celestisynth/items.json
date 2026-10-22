@@ -1,0 +1,36 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "celestisynth:lunar_stone_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestisynth:lunar_stone_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestisynth:lunar_stone_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestisynth:lunar_stone_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestisynth:solar_crystal_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestisynth:solar_crystal_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestisynth:solar_crystal_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "celestisynth:solar_crystal_leggings"
+		}
+	]
+}

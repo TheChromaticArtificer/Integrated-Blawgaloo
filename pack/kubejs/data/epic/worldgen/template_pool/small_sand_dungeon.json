@@ -1,0 +1,15 @@
+{
+  "name": "epic:epic_dungeon/small_sand_dungeon",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/small_sand_dungeon",
+        "location": "epic:epic_dungeon/sand_dungeon/small_sand_dungeon"
+      },
+      "weight": 1
+    }
+  ]
+}

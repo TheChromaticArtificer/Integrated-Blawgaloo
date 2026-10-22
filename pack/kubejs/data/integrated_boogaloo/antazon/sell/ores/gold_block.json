@@ -1,0 +1,7 @@
+{
+  "item": "minecraft:gold_block",
+  "value": 72,
+  "limit": 32,
+  "limit_reset": "minecraft_day",
+  "green_tint": false
+}

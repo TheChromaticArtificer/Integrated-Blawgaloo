@@ -1,0 +1,42 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.storage_disk_64k.title",
+  "description": "task.integrated_boogaloo.storage_disk_64k.description",
+  "showcase": [
+    "@recipe:refinedstorage:64k_storage_disk"
+  ],
+  "icon": "refinedstorage:64k_storage_disk",
+  "program": "integrated_boogaloo:storage",
+  "category": "integrated_boogaloo:storage",
+  "sort_order": 5,
+  "position": {
+    "x": 4,
+    "y": 0
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:storage/bigger_disks",
+    "integrated_boogaloo:engineering/ace"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "refinedstorage:64k_storage_disk",
+      "description": "task.integrated_boogaloo.storage_disk_64k.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 200
+    },
+    {
+      "type": "item",
+      "item": "refinedstorage:64k_storage_part",
+      "count": 2
+    }
+  ],
+  "line_axis": "horizontal"
+}

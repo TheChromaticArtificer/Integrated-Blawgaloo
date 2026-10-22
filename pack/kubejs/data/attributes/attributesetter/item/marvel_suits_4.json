@@ -1,0 +1,466 @@
+{
+  "marvel:war_machine_mark_1_helmet": [
+    {
+      "attribute": "scguns:bullet_damage_multiplier",
+      "value": 0.025,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "scguns:reload_speed",
+      "value": 0.025,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:war_machine_mark_1_chestplate": [
+    {
+      "attribute": "scguns:bullet_damage_multiplier",
+      "value": 0.025,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "scguns:reload_speed",
+      "value": 0.025,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:war_machine_mark_1_leggings": [
+    {
+      "attribute": "scguns:bullet_damage_multiplier",
+      "value": 0.025,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "scguns:reload_speed",
+      "value": 0.025,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:war_machine_mark_1_boots": [
+    {
+      "attribute": "scguns:bullet_damage_multiplier",
+      "value": 0.025,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "scguns:reload_speed",
+      "value": 0.025,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:war_machine_mark_2_helmet": [
+    {
+      "attribute": "scguns:bullet_damage_multiplier",
+      "value": 0.05,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "scguns:reload_speed",
+      "value": 0.0375,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "apothic_attributes:projectile_damage",
+      "value": 0.025,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.explosion_knockback_resistance",
+      "value": 0.125,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:war_machine_mark_2_chestplate": [
+    {
+      "attribute": "scguns:bullet_damage_multiplier",
+      "value": 0.05,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "scguns:reload_speed",
+      "value": 0.0375,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "apothic_attributes:projectile_damage",
+      "value": 0.025,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.explosion_knockback_resistance",
+      "value": 0.125,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:war_machine_mark_2_leggings": [
+    {
+      "attribute": "scguns:bullet_damage_multiplier",
+      "value": 0.05,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "scguns:reload_speed",
+      "value": 0.0375,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "apothic_attributes:projectile_damage",
+      "value": 0.025,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.explosion_knockback_resistance",
+      "value": 0.125,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:war_machine_mark_2_boots": [
+    {
+      "attribute": "scguns:bullet_damage_multiplier",
+      "value": 0.05,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "scguns:reload_speed",
+      "value": 0.0375,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "apothic_attributes:projectile_damage",
+      "value": 0.025,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.explosion_knockback_resistance",
+      "value": 0.125,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:iron_patriot_helmet": [
+    {
+      "attribute": "scguns:bullet_damage_multiplier",
+      "value": 0.05,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "scguns:reload_speed",
+      "value": 0.0375,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "apothic_attributes:projectile_damage",
+      "value": 0.025,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.explosion_knockback_resistance",
+      "value": 0.125,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.max_absorption",
+      "value": 2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:iron_patriot_chestplate": [
+    {
+      "attribute": "scguns:bullet_damage_multiplier",
+      "value": 0.05,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "scguns:reload_speed",
+      "value": 0.0375,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "apothic_attributes:projectile_damage",
+      "value": 0.025,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.explosion_knockback_resistance",
+      "value": 0.125,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.max_absorption",
+      "value": 2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:iron_patriot_leggings": [
+    {
+      "attribute": "scguns:bullet_damage_multiplier",
+      "value": 0.05,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "scguns:reload_speed",
+      "value": 0.0375,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "apothic_attributes:projectile_damage",
+      "value": 0.025,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.explosion_knockback_resistance",
+      "value": 0.125,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.max_absorption",
+      "value": 2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:iron_patriot_boots": [
+    {
+      "attribute": "scguns:bullet_damage_multiplier",
+      "value": 0.05,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "scguns:reload_speed",
+      "value": 0.0375,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "apothic_attributes:projectile_damage",
+      "value": 0.025,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.explosion_knockback_resistance",
+      "value": 0.125,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.max_absorption",
+      "value": 2.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:ant_man_helmet": [
+    {
+      "attribute": "apothic_attributes:dodge_chance",
+      "value": 0.04,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:ant_man_chestplate": [
+    {
+      "attribute": "apothic_attributes:dodge_chance",
+      "value": 0.04,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:ant_man_leggings": [
+    {
+      "attribute": "apothic_attributes:dodge_chance",
+      "value": 0.04,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:ant_man_boots": [
+    {
+      "attribute": "apothic_attributes:dodge_chance",
+      "value": 0.04,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:ant_man_upgraded_helmet": [
+    {
+      "attribute": "apothic_attributes:dodge_chance",
+      "value": 0.04,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:ant_man_upgraded_chestplate": [
+    {
+      "attribute": "apothic_attributes:dodge_chance",
+      "value": 0.04,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:ant_man_upgraded_leggings": [
+    {
+      "attribute": "apothic_attributes:dodge_chance",
+      "value": 0.04,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:ant_man_upgraded_boots": [
+    {
+      "attribute": "apothic_attributes:dodge_chance",
+      "value": 0.04,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:wasp_helmet": [
+    {
+      "attribute": "apothic_attributes:dodge_chance",
+      "value": 0.04,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:wasp_chestplate": [
+    {
+      "attribute": "apothic_attributes:dodge_chance",
+      "value": 0.04,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:wasp_leggings": [
+    {
+      "attribute": "apothic_attributes:dodge_chance",
+      "value": 0.04,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:wasp_boots": [
+    {
+      "attribute": "apothic_attributes:dodge_chance",
+      "value": 0.04,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:thor_helmet": [
+    {
+      "attribute": "minecraft:generic.knockback_resistance",
+      "value": 0.1,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "lodestone:magic_resistance",
+      "value": 0.25,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "sinew:air_speed",
+      "value": 0.01,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:thor_chestplate": [
+    {
+      "attribute": "minecraft:generic.knockback_resistance",
+      "value": 0.1,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "lodestone:magic_resistance",
+      "value": 0.25,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "sinew:air_speed",
+      "value": 0.01,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:thor_leggings": [
+    {
+      "attribute": "minecraft:generic.knockback_resistance",
+      "value": 0.1,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "lodestone:magic_resistance",
+      "value": 0.25,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "sinew:air_speed",
+      "value": 0.01,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:thor_boots": [
+    {
+      "attribute": "minecraft:generic.knockback_resistance",
+      "value": 0.1,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "lodestone:magic_resistance",
+      "value": 0.25,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "sinew:air_speed",
+      "value": 0.01,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:black_panther_helmet": [
+    {
+      "attribute": "minecraft:generic.max_absorption",
+      "value": 4,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "apothic_attributes:overheal",
+      "value": 0.05,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.explosion_knockback_resistance",
+      "value": 0.25,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:black_panther_chestplate": [
+    {
+      "attribute": "minecraft:generic.max_absorption",
+      "value": 4,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "apothic_attributes:overheal",
+      "value": 0.05,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.explosion_knockback_resistance",
+      "value": 0.25,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:black_panther_leggings": [
+    {
+      "attribute": "minecraft:generic.max_absorption",
+      "value": 4,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "apothic_attributes:overheal",
+      "value": 0.05,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.explosion_knockback_resistance",
+      "value": 0.25,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:black_panther_boots": [
+    {
+      "attribute": "minecraft:generic.max_absorption",
+      "value": 4,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "apothic_attributes:overheal",
+      "value": 0.05,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.explosion_knockback_resistance",
+      "value": 0.25,
+      "operation": "ADDITION"
+    }
+  ]
+}

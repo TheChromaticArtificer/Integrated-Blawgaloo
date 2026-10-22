@@ -1,0 +1,23 @@
+{
+  "ability.travelersbackpack.iron": "Heavy. Shrugs off a quarter of all knockback",
+  "ability.travelersbackpack.gold": "Piglins treat you as if you were wearing gold",
+  "ability.travelersbackpack.diamond": "Hardened plating that adds armor toughness",
+  "ability.travelersbackpack.emerald": "Fortune favors you. Lucky Blocks roll noticeably better outcomes",
+  "ability.travelersbackpack.enderman": "Sneak and jump to blink about 6 blocks in the direction you're looking. Recharges in 20 seconds",
+  "ability.travelersbackpack.melon": "Glistering: when you drop to 4 hearts, it heals you for 4 hearts. Recharges every few minutes. Placed, it can drop melon slices when harvested",
+  "ability.travelersbackpack.cactus": "Attackers prick themselves on the spines. In the rain, it fills empty tanks with water, even when placed",
+  "ability.travelersbackpack.ghast": "Ghasts see you as an ally unless you attack them. Sneak in midair to float down gently",
+  "ability.travelersbackpack.warden": "Slowness II on hit for 2 seconds. Immune to Darkness",
+  "ability.travelersbackpack.ocelot": "Speed when hostile mobs are near. Creepers flee from you and phantoms leave you alone",
+  "ability.travelersbackpack.chicken": "You lay eggs! Hold jump in midair to flutter down slowly",
+  "ability.travelersbackpack.iron_golem": "Immune to knockback, and iron golems never turn on you",
+  "ability.travelersbackpack.end": "Falling into the void pulls you back to the last solid ground you stood on. Recharges in 10 minutes",
+  "ability.travelersbackpack.horse": "Whatever you're riding gets Speed and Jump Boost",
+  "ability.travelersbackpack.pig": "Your hunger drains 40% slower",
+  "ability.travelersbackpack.sheep": "Soft landing. Fall damage is halved",
+  "ability.travelersbackpack.wolf": "Pack leader. Your tamed animals within 16 blocks get Regeneration and Strength",
+  "ability.travelersbackpack.skeleton": "Each arrow you fire has a 33% chance not to be used up",
+  "ability.travelersbackpack.snow": "Immune to freezing, and you can walk on powder snow",
+  "ability.travelersbackpack.sandstone": "Moves 20% faster on sand, including dream sand",
+  "ability.travelersbackpack.coal": "Furnace, smoker and blast furnace upgrades in this backpack cook without fuel"
+}

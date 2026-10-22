@@ -1,0 +1,132 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.collection.heroes_spider.title",
+  "description": "task.integrated_boogaloo.collection.heroes_spider.description",
+  "icon": "marvel:spider_man_chestplate",
+  "program": "integrated_boogaloo:collections",
+  "category": "integrated_boogaloo:collections",
+  "sort_order": 100,
+  "position": {
+    "x": 0,
+    "y": 1
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "spider_man_chestplate",
+      "type": "item",
+      "target": "marvel:spider_man_chestplate",
+      "description": "task.integrated_boogaloo.collection.heroes_spider.spider_man_chestplate",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spider_man_mcu_chestplate",
+      "type": "item",
+      "target": "marvel:spider_man_mcu_chestplate",
+      "description": "task.integrated_boogaloo.collection.heroes_spider.spider_man_mcu_chestplate",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spider_man_insomniac_chestplate",
+      "type": "item",
+      "target": "marvel:spider_man_insomniac_chestplate",
+      "description": "task.integrated_boogaloo.collection.heroes_spider.spider_man_insomniac_chestplate",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "miles_morales_suit_chestplate",
+      "type": "item",
+      "target": "marvel:miles_morales_suit_chestplate",
+      "description": "task.integrated_boogaloo.collection.heroes_spider.miles_morales_suit_chestplate",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spider_gwen_chestplate",
+      "type": "item",
+      "target": "marvel:spider_gwen_chestplate",
+      "description": "task.integrated_boogaloo.collection.heroes_spider.spider_gwen_chestplate",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spiderman_classic_chestplate",
+      "type": "item",
+      "target": "marvellegacy:spiderman_classic_chestplate",
+      "description": "task.integrated_boogaloo.collection.heroes_spider.spiderman_classic_chestplate",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spiderman_original_chestplate",
+      "type": "item",
+      "target": "marvellegacy:spiderman_original_chestplate",
+      "description": "task.integrated_boogaloo.collection.heroes_spider.spiderman_original_chestplate",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spiderman_tasmii_chestplate",
+      "type": "item",
+      "target": "marvellegacy:spiderman_tasmii_chestplate",
+      "description": "task.integrated_boogaloo.collection.heroes_spider.spiderman_tasmii_chestplate",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spiderman_bagman_helmet",
+      "type": "item",
+      "target": "marvellegacy:spiderman_bagman_helmet",
+      "description": "task.integrated_boogaloo.collection.heroes_spider.spiderman_bagman_helmet",
+      "count": 1,
+      "sticky": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 1500
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "id": "supplies",
+          "title": "task.integrated_boogaloo.reward.supplies",
+          "rewards": [
+            {
+              "type": "item_pool",
+              "pool": "integrated_boogaloo:supplies_common",
+              "mode": "random"
+            }
+          ]
+        },
+        {
+          "id": "lucky",
+          "title": "task.integrated_boogaloo.reward.lucky",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "lucky:lucky_block",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "id": "titanium",
+          "title": "task.integrated_boogaloo.reward.titanium",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "antarchy:titanium_nugget",
+              "count": 9
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

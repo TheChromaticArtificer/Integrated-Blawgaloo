@@ -1,0 +1,71 @@
+{
+  "criteria": {
+    "wood_ash": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "witchery:wood_ash"
+          }
+        ]
+      }
+    },
+    "whiff_of_magic": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "witchery:whiff_of_magic"
+          }
+        ]
+      }
+    },
+    "breath_of_the_goddess": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "witchery:breath_of_the_goddess"
+          }
+        ]
+      }
+    },
+    "exhale_of_the_horned_one": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "witchery:exhale_of_the_horned_one"
+          }
+        ]
+      }
+    },
+    "foul_fume": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "witchery:foul_fume"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "wood_ash"
+    ],
+    [
+      "whiff_of_magic"
+    ],
+    [
+      "breath_of_the_goddess"
+    ],
+    [
+      "exhale_of_the_horned_one"
+    ],
+    [
+      "foul_fume"
+    ]
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "book.pastel.guidebook.mod_integration.vein_mining.name",
+  "icon": {
+    "item": "pastel:guidebook"
+  },
+  "condition": {
+    "type": "modonomicon:false"
+  },
+  "category": "pastel:mod_integration",
+  "hide_while_locked": true,
+  "parents": [],
+  "background_u_index": 0,
+  "background_v_index": 0,
+  "x": 4,
+  "y": 6,
+  "pages": [
+    {
+      "type": "modonomicon:text",
+      "text": "book.pastel.guidebook.boogaloo.hidden"
+    }
+  ]
+}

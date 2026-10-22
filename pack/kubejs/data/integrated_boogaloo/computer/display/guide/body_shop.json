@@ -1,0 +1,541 @@
+{
+  "version": 1,
+  "title": "literal:The Body Shop",
+  "width": 250,
+  "height": 91,
+  "elements": [
+    {
+      "id": "shop",
+      "type": "scene",
+      "x": 2,
+      "y": 2,
+      "width": 150,
+      "height": 156,
+      "yaw": 210,
+      "pitch": 30,
+      "scale": 1.1,
+      "blocks": [
+        {
+          "pos": [
+            -2,
+            -1,
+            -2
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -2,
+            -1,
+            -1
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -2,
+            -1,
+            0
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -2,
+            -1,
+            1
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -2,
+            -1,
+            2
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            -1,
+            -2
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            -1,
+            -1
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            -1,
+            0
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            -1,
+            1
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            -1,
+            2
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            -2
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            -1
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            0
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            1
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            2
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            -2
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            -1
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            0
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            1
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            2
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            2,
+            -1,
+            -2
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            2,
+            -1,
+            -1
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            2,
+            -1,
+            0
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            2,
+            -1,
+            1
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            2,
+            -1,
+            2
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            3,
+            -1,
+            -2
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            3,
+            -1,
+            -1
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            3,
+            -1,
+            0
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            3,
+            -1,
+            1
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            3,
+            -1,
+            2
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            0,
+            0
+          ],
+          "state": "neosync:shell_constructor[facing=north,half=lower]",
+          "id": "constructor",
+          "highlight": true,
+          "groups": [
+            "constructor"
+          ]
+        },
+        {
+          "pos": [
+            0,
+            1,
+            0
+          ],
+          "state": "neosync:shell_constructor[facing=north,half=upper]",
+          "id": "constructor_top",
+          "groups": [
+            "constructor"
+          ]
+        },
+        {
+          "pos": [
+            1,
+            0,
+            0
+          ],
+          "state": "neosync:treadmill[facing=east,treadmill_part=back]",
+          "id": "treadmill",
+          "highlight": true,
+          "groups": [
+            "treadmill"
+          ]
+        },
+        {
+          "pos": [
+            2,
+            0,
+            0
+          ],
+          "state": "neosync:treadmill[facing=east,treadmill_part=front]",
+          "id": "treadmill_front",
+          "groups": [
+            "treadmill"
+          ]
+        },
+        {
+          "pos": [
+            -2,
+            0,
+            0
+          ],
+          "state": "neosync:shell_storage[facing=north,half=lower]",
+          "id": "storage",
+          "highlight": true,
+          "groups": [
+            "storage"
+          ]
+        },
+        {
+          "pos": [
+            -2,
+            1,
+            0
+          ],
+          "state": "neosync:shell_storage[facing=north,half=upper]",
+          "id": "storage_top",
+          "groups": [
+            "storage"
+          ]
+        },
+        {
+          "pos": [
+            -2,
+            0,
+            -1
+          ],
+          "state": "minecraft:redstone_block",
+          "id": "redstone",
+          "groups": [
+            "storage"
+          ]
+        }
+      ],
+      "entities": [
+        {
+          "pos": [
+            1.5,
+            0.175,
+            0
+          ],
+          "id": "minecraft:pig",
+          "rotation": 90,
+          "steps": [
+            "treadmill",
+            "grow"
+          ],
+          "final": true
+        }
+      ],
+      "paths": [
+        {
+          "kind": "cable",
+          "points": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0
+            ]
+          ],
+          "steps": [
+            "treadmill",
+            "grow"
+          ],
+          "final": true
+        },
+        {
+          "kind": "redstone",
+          "points": [
+            [
+              -2,
+              0,
+              -1
+            ],
+            [
+              -2,
+              0,
+              0
+            ]
+          ],
+          "steps": [
+            "storage"
+          ],
+          "final": true
+        }
+      ],
+      "steps": [
+        {
+          "id": "constructor",
+          "title": "literal:Shell Constructor",
+          "text": "literal:It grows a copy of you. Step in to give it a sample.",
+          "groups": [
+            "constructor"
+          ]
+        },
+        {
+          "id": "treadmill",
+          "title": "literal:Power it",
+          "text": "literal:A pig on a treadmill beside it runs it.",
+          "groups": [
+            "treadmill"
+          ]
+        },
+        {
+          "id": "grow",
+          "title": "literal:Growing",
+          "text": "literal:The new shell grows over a while.",
+          "progress": {
+            "label": "literal:Shell growing",
+            "seconds": 6
+          },
+          "time": 6
+        },
+        {
+          "id": "storage",
+          "title": "literal:Shell Storage",
+          "text": "literal:Keeps a shell ready. It needs a redstone signal to stay powered.",
+          "groups": [
+            "storage"
+          ],
+          "markers": [
+            {
+              "icon": "right_click",
+              "block": "storage",
+              "text": "literal:Step in to switch bodies"
+            }
+          ]
+        }
+      ],
+      "hero": true,
+      "ratio": 0.88
+    },
+    {
+      "type": "text",
+      "x": 6,
+      "y": 4,
+      "width": 238,
+      "text": "literal:When you die, you wake up in a stored shell instead."
+    },
+    {
+      "type": "group",
+      "x": 6,
+      "y": 25,
+      "layout": "grid",
+      "columns": 2,
+      "cell_width": 20,
+      "cell_height": 20,
+      "elements": [
+        {
+          "type": "slot",
+          "x": 0,
+          "y": 0,
+          "item": "neosync:shell_constructor"
+        },
+        {
+          "type": "slot",
+          "x": 0,
+          "y": 0,
+          "item": "neosync:treadmill"
+        },
+        {
+          "type": "slot",
+          "x": 0,
+          "y": 0,
+          "item": "neosync:shell_storage"
+        },
+        {
+          "type": "slot",
+          "x": 0,
+          "y": 0,
+          "item": "neosync:zero_point_shell_constructor"
+        }
+      ]
+    },
+    {
+      "type": "conditions",
+      "x": 6,
+      "y": 73,
+      "width": 238,
+      "entries": [
+        {
+          "kind": "redstone",
+          "text": "literal:Storage needs redstone"
+        },
+        {
+          "kind": "power",
+          "text": "literal:Treadmill or power"
+        }
+      ]
+    }
+  ],
+  "reflow": true,
+  "auto_height": true,
+  "hide_title": true
+}

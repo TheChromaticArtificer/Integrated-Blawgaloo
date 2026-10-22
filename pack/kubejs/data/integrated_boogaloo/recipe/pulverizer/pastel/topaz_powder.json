@@ -1,0 +1,15 @@
+{
+  "type": "oritech:pulverizer",
+  "ingredients": [
+    {
+      "item": "pastel:topaz_shard"
+    }
+  ],
+  "results": [
+    {
+      "count": 3,
+      "id": "pastel:topaz_powder"
+    }
+  ],
+  "time": 100
+}

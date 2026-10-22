@@ -1,0 +1,21 @@
+{
+  "type": "createcybernetics:engineering_deconstruct",
+  "inputs": [
+    {
+      "item": "createcybernetics:heartupgrades_platelets"
+    },
+    {
+      "item": "createcybernetics:scavenged_platelets"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "antarchy:titanium_nugget",
+      "count": 24
+    },
+    {
+      "id": "minecraft:copper_ingot",
+      "count": 4
+    }
+  ]
+}

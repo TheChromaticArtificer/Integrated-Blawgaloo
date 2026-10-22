@@ -1,0 +1,56 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "weeping_angels:angel_mocking"
+		},
+		{
+			"weight": 1.0,
+			"key": "weeping_angels:blow"
+		},
+		{
+			"weight": 1.0,
+			"key": "weeping_angels:catacomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "weeping_angels:crumbling"
+		},
+		{
+			"weight": 1.0,
+			"key": "weeping_angels:ding"
+		},
+		{
+			"weight": 1.0,
+			"key": "weeping_angels:disc_sally"
+		},
+		{
+			"weight": 1.0,
+			"key": "weeping_angels:disc_time_prevails"
+		},
+		{
+			"weight": 1.0,
+			"key": "weeping_angels:knock"
+		},
+		{
+			"weight": 1.0,
+			"key": "weeping_angels:locked"
+		},
+		{
+			"weight": 1.0,
+			"key": "weeping_angels:neck_snap"
+		},
+		{
+			"weight": 1.0,
+			"key": "weeping_angels:projector"
+		},
+		{
+			"weight": 1.0,
+			"key": "weeping_angels:tardis_takeoff"
+		},
+		{
+			"weight": 1.0,
+			"key": "weeping_angels:teleport"
+		}
+	]
+}

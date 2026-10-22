@@ -1,0 +1,46 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.engineering_garage.title",
+  "description": "task.integrated_boogaloo.engineering_garage.description",
+  "showcase": [
+    "@recipe:mts:mts.vehiclebench"
+  ],
+  "icon": "mts:mts.vehiclebench",
+  "program": "integrated_boogaloo:engineering",
+  "category": "integrated_boogaloo:engineering",
+  "sort_order": 40,
+  "position": {
+    "x": 0,
+    "y": 6
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "vehicle_bench",
+      "type": "item",
+      "target": "mts:mts.vehiclebench",
+      "description": "task.integrated_boogaloo.engineering_garage.vehicle_bench",
+      "count": 1
+    },
+    {
+      "id": "first_car",
+      "type": "item_tag",
+      "target": "integrated_boogaloo:collections/vehicle/camaro",
+      "tag_mode": "any",
+      "description": "task.integrated_boogaloo.engineering_garage.first_car",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 25
+    },
+    {
+      "type": "experience_levels",
+      "levels": 3
+    }
+  ],
+  "line_axis": "horizontal",
+  "shape": "hexagon"
+}

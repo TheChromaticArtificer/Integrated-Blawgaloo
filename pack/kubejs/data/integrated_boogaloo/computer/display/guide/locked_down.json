@@ -1,0 +1,15 @@
+{
+  "title": "literal:Locked Down",
+  "variants": [
+    {
+      "id": "keycards",
+      "title": "literal:Keycards",
+      "display": "integrated_boogaloo:guide/keycards"
+    },
+    {
+      "id": "cameras",
+      "title": "literal:Cameras",
+      "display": "integrated_boogaloo:guide/cameras"
+    }
+  ]
+}

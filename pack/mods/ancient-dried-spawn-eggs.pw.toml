@@ -1,0 +1,13 @@
+name = "Ancient Dried Spawn Eggs"
+filename = "ancient_dried_spawn_eggs-1.0.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "87f6b6f4eac3f53b51c0eb32bf47e875d757ff13"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8310044
+project-id = 1545589

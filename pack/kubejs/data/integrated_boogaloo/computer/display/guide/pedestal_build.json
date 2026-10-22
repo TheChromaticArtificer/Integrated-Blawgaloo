@@ -1,0 +1,169 @@
+{
+  "version": 1,
+  "title": "literal:Pedestal shrine",
+  "width": 260,
+  "height": 125,
+  "elements": [
+    {
+      "id": "shrine",
+      "type": "scene",
+      "x": 2,
+      "y": 2,
+      "width": 160,
+      "height": 166,
+      "yaw": 45,
+      "pitch": 30,
+      "scale": 0.9,
+      "material_rules": [
+        {
+          "state": "pastel:polished_basalt",
+          "label": "literal:Polished basalt or calcite"
+        },
+        {
+          "state": "pastel:polished_basalt_pillar[axis=y]",
+          "label": "literal:Basalt or calcite pillar"
+        },
+        {
+          "state": "pastel:polished_basalt_slab",
+          "label": "literal:Basalt or calcite slab"
+        },
+        {
+          "state": "pastel:chiseled_polished_basalt",
+          "label": "literal:Chiseled basalt or calcite"
+        },
+        {
+          "state": "pastel:notched_polished_basalt",
+          "label": "literal:Notched basalt or calcite"
+        },
+        {
+          "state": "pastel:polished_amethyst_block",
+          "label": "literal:Any polished gemstone block"
+        },
+        {
+          "state": "pastel:liquid_crystal",
+          "item": "pastel:liquid_crystal_bucket",
+          "label": "literal:Liquid crystal (bucket)"
+        },
+        {
+          "state": "pastel:amethyst_basalt_light",
+          "label": "literal:Any gemstone light"
+        },
+        {
+          "state": "pastel:item_bowl_basalt",
+          "label": "literal:Item bowl (basalt or calcite)"
+        }
+      ],
+      "steps": [
+        {
+          "id": "base",
+          "title": "literal:Floor",
+          "text": "literal:Lay the round floor, leaving the middle open.",
+          "through_y": 0
+        },
+        {
+          "id": "pedestal",
+          "title": "literal:Pedestal",
+          "text": "literal:Set the pedestal in the center and start the four pillars.",
+          "through_y": 1
+        },
+        {
+          "id": "gems",
+          "title": "literal:Gems",
+          "text": "literal:Add the gemstone blocks on the inner posts.",
+          "through_y": 2
+        },
+        {
+          "id": "caps",
+          "title": "literal:Caps",
+          "text": "literal:Top each corner pillar.",
+          "through_y": 3
+        }
+      ],
+      "pattern": [
+        [
+          "           ",
+          "   XXXXX   ",
+          "  XXXXXXX  ",
+          " XXXXXXXXX ",
+          " XXXXXXXXX ",
+          " XXXX XXXX ",
+          " XXXXXXXXX ",
+          " XXXXXXXXX ",
+          "  XXXXXXX  ",
+          "   XXXXX   ",
+          "           "
+        ],
+        [
+          "K         K",
+          "           ",
+          "  Q     Q  ",
+          "           ",
+          "           ",
+          "     P     ",
+          "           ",
+          "           ",
+          "  Q     Q  ",
+          "           ",
+          "K         K"
+        ],
+        [
+          "Q         Q",
+          "           ",
+          "  S     S  ",
+          "           ",
+          "           ",
+          "           ",
+          "           ",
+          "           ",
+          "  S     S  ",
+          "           ",
+          "Q         Q"
+        ],
+        [
+          "C         C",
+          "           ",
+          "           ",
+          "           ",
+          "           ",
+          "           ",
+          "           ",
+          "           ",
+          "           ",
+          "           ",
+          "C         C"
+        ]
+      ],
+      "mapping": {
+        "X": "pastel:polished_basalt",
+        "Q": "pastel:polished_basalt_pillar[axis=y]",
+        "S": "pastel:polished_amethyst_block",
+        "C": "pastel:chiseled_polished_basalt",
+        "K": "pastel:notched_polished_basalt",
+        "P": "pastel:pedestal_all_basic"
+      },
+      "hero": true,
+      "ratio": 0.88
+    },
+    {
+      "id": "mats",
+      "type": "materials",
+      "scene": "shrine",
+      "scope": "cumulative",
+      "x": 6,
+      "y": 4,
+      "width": 90,
+      "height": 104
+    },
+    {
+      "type": "text",
+      "x": 6,
+      "y": 112,
+      "width": 248,
+      "text": "literal:Basalt and calcite pieces can be mixed.",
+      "color": "muted"
+    }
+  ],
+  "reflow": true,
+  "auto_height": true,
+  "hide_title": true
+}

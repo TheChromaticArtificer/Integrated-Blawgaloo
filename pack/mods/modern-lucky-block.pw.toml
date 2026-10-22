@@ -1,0 +1,13 @@
+name = "Modern Lucky Block"
+filename = "lucky_block-neoforge-0.1.4+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d2f0e0122a15963dc82c03d40bcb385d89b64218"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6182632
+project-id = 1134319

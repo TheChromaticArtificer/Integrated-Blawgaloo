@@ -1,0 +1,10 @@
+#Toggles the rendering of the power hud, found on the bottom left of the screen.
+#
+#Allowed Values: True, False
+renderPowerHud = "True"
+#Toggles the ability to craft paper bags, if hunting for them as a rare drop is not desired. 
+#
+#§l§oChanges will only take effect upon leaving and rejoining the world.§r
+#
+#Allowed Values: True, False
+craftablePaperBags = "False"

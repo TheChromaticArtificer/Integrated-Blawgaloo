@@ -1,0 +1,25 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "pastel:dragonrot",
+			"data": {
+				"fluidName": "pastel:dragonrot"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:humus",
+			"data": {
+				"fluidName": "pastel:humus"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "pastel:liquid_crystal",
+			"data": {
+				"fluidName": "pastel:liquid_crystal"
+			}
+		}
+	]
+}

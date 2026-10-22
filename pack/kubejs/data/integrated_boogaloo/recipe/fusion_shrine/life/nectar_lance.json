@@ -1,0 +1,20 @@
+{
+  "type": "pastel:fusion_shrine",
+  "time": 1200,
+  "experience": 16.0,
+  "fluid": {
+    "fluid": "pastel:liquid_crystal"
+  },
+  "ingredients": [
+    "pastel:knotted_sword",
+    "pastel:evernectar",
+    "pastel:aether_vestiges"
+  ],
+  "result": {
+    "id": "pastel:nectar_lance"
+  },
+  "start_crafting_effect": "nothing",
+  "during_crafting_effects": [],
+  "finish_crafting_effect": "single_visual_explosion_on_shrine",
+  "required_advancement": "pastel:unlocks/equipment/nectar_lance"
+}

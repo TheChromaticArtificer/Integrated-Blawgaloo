@@ -1,0 +1,47 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.witchery_from_afar.title",
+  "description": "task.integrated_boogaloo.witchery_from_afar.description",
+  "showcase": [
+    "@recipe:integrated_boogaloo:ritual/remembrance/wan_ancient_beasts/crusher"
+  ],
+  "icon": "pastel:memory",
+  "program": "integrated_boogaloo:witchcraft",
+  "category": "integrated_boogaloo:witchcraft",
+  "sort_order": 28,
+  "position": {
+    "x": 8,
+    "y": 0
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:witchery_basics/otherwhere_chalk"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "integrated_boogaloo:remembrance/from_afar",
+      "description": "task.integrated_boogaloo.witchery_from_afar.goal",
+      "count": 1
+    },
+    {
+      "id": "vegetal",
+      "type": "item",
+      "target": "pastel:vegetal",
+      "description": "task.integrated_boogaloo.witchery_from_afar.vegetal",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "archive_entries": [
+    "integrated_boogaloo:witchery_rituals"
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 20
+    }
+  ],
+  "line_axis": "horizontal"
+}

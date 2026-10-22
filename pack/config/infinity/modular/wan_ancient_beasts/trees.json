@@ -1,0 +1,32 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:amber_ginkgo",
+			"data": {
+				"Type": "tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:mega_amber_ginkgo",
+			"data": {
+				"Type": "tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:mega_verdant_ginkgo",
+			"data": {
+				"Type": "tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": "wan_ancient_beasts:verdant_ginkgo",
+			"data": {
+				"Type": "tree"
+			}
+		}
+	]
+}

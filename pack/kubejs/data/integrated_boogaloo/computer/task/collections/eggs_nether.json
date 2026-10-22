@@ -1,0 +1,237 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.collection.eggs_nether.title",
+  "description": "task.integrated_boogaloo.collection.eggs_nether.description",
+  "icon": "minecraft:ghast_spawn_egg",
+  "program": "integrated_boogaloo:collections",
+  "category": "integrated_boogaloo:collections",
+  "sort_order": 401,
+  "position": {
+    "x": 1,
+    "y": 4
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "red_ant_spawn_egg",
+      "type": "item",
+      "target": "antarchy:red_ant_spawn_egg",
+      "description": "item.antarchy.red_ant_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "blaze_spawn_egg",
+      "type": "item",
+      "target": "minecraft:blaze_spawn_egg",
+      "description": "item.minecraft.blaze_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "ghast_spawn_egg",
+      "type": "item",
+      "target": "minecraft:ghast_spawn_egg",
+      "description": "item.minecraft.ghast_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "happy_ghast_spawn_egg",
+      "type": "item",
+      "target": "minecraft:happy_ghast_spawn_egg",
+      "description": "item.minecraft.happy_ghast_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "hoglin_spawn_egg",
+      "type": "item",
+      "target": "minecraft:hoglin_spawn_egg",
+      "description": "item.minecraft.hoglin_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "magma_cube_spawn_egg",
+      "type": "item",
+      "target": "minecraft:magma_cube_spawn_egg",
+      "description": "item.minecraft.magma_cube_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "piglin_brute_spawn_egg",
+      "type": "item",
+      "target": "minecraft:piglin_brute_spawn_egg",
+      "description": "item.minecraft.piglin_brute_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "piglin_spawn_egg",
+      "type": "item",
+      "target": "minecraft:piglin_spawn_egg",
+      "description": "item.minecraft.piglin_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "strider_spawn_egg",
+      "type": "item",
+      "target": "minecraft:strider_spawn_egg",
+      "description": "item.minecraft.strider_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "wither_skeleton_spawn_egg",
+      "type": "item",
+      "target": "minecraft:wither_skeleton_spawn_egg",
+      "description": "item.minecraft.wither_skeleton_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "wither_spawn_egg",
+      "type": "item",
+      "target": "minecraft:wither_spawn_egg",
+      "description": "item.minecraft.wither_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "zoglin_spawn_egg",
+      "type": "item",
+      "target": "minecraft:zoglin_spawn_egg",
+      "description": "item.minecraft.zoglin_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "zombified_piglin_spawn_egg",
+      "type": "item",
+      "target": "minecraft:zombified_piglin_spawn_egg",
+      "description": "item.minecraft.zombified_piglin_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "apparition_spawn_egg",
+      "type": "item",
+      "target": "netherexp:apparition_spawn_egg",
+      "description": "item.netherexp.apparition_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "banshee_spawn_egg",
+      "type": "item",
+      "target": "netherexp:banshee_spawn_egg",
+      "description": "item.netherexp.banshee_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "carcass_spawn_egg",
+      "type": "item",
+      "target": "netherexp:carcass_spawn_egg",
+      "description": "item.netherexp.carcass_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "ecto_slab_spawn_egg",
+      "type": "item",
+      "target": "netherexp:ecto_slab_spawn_egg",
+      "description": "item.netherexp.ecto_slab_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "stampede_spawn_egg",
+      "type": "item",
+      "target": "netherexp:stampede_spawn_egg",
+      "description": "item.netherexp.stampede_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "vessel_spawn_egg",
+      "type": "item",
+      "target": "netherexp:vessel_spawn_egg",
+      "description": "item.netherexp.vessel_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "wisp_spawn_egg",
+      "type": "item",
+      "target": "netherexp:wisp_spawn_egg",
+      "description": "item.netherexp.wisp_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "hornlin_spawn_egg",
+      "type": "item",
+      "target": "scguns:hornlin_spawn_egg",
+      "description": "item.scguns.hornlin_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "zombified_hornlin_spawn_egg",
+      "type": "item",
+      "target": "scguns:zombified_hornlin_spawn_egg",
+      "description": "item.scguns.zombified_hornlin_spawn_egg",
+      "count": 1,
+      "sticky": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 2500
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "id": "rare",
+          "title": "task.integrated_boogaloo.reward.rare",
+          "rewards": [
+            {
+              "type": "item_pool",
+              "pool": "integrated_boogaloo:supplies_rare",
+              "mode": "random"
+            }
+          ]
+        },
+        {
+          "id": "lucky",
+          "title": "task.integrated_boogaloo.reward.lucky",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "lucky:lucky_block",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "id": "uranium",
+          "title": "task.integrated_boogaloo.reward.uranium",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "antarchy:uranium_ingot",
+              "count": 4
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "render_mob_from_spawn_egg": false
+}

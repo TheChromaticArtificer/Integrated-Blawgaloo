@@ -1,0 +1,10 @@
+{
+  "type": {
+    "type": "databank:item",
+    "hidden_as": "minecraft:gunpowder",
+    "original": "pastel:bedrock_dust"
+  },
+  "condition": {
+    "type": "databank:always_true"
+  }
+}

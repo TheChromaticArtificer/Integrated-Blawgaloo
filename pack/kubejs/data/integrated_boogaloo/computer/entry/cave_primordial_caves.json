@@ -1,0 +1,52 @@
+{
+  "green_tint": false,
+  "type": "article",
+  "category": "general",
+  "folder": "antarchy:elythia",
+  "sort_order": 100,
+  "cover_entity": "alexscaves:tremorsaurus",
+  "rotation": 45,
+  "title": "guide.integrated_boogaloo.entry.cave_primordial_caves.title",
+  "subtitle": "guide.integrated_boogaloo.entry.cave_primordial_caves.subtitle",
+  "description": [
+    "guide.integrated_boogaloo.entry.cave_primordial_caves.body_1",
+    "guide.integrated_boogaloo.entry.cave_primordial_caves.body_2",
+    "guide.integrated_boogaloo.entry.cave_primordial_caves.body_3",
+    "guide.integrated_boogaloo.entry.cave_primordial_caves.body_4"
+  ],
+  "gallery_title": "guide.integrated_boogaloo.entry.cave_gallery_title",
+  "gallery": [
+    {
+      "entity": "alexscaves:grottoceratops"
+    },
+    {
+      "entity": "alexscaves:subterranodon"
+    },
+    {
+      "entity": "alexscaves:vallumraptor"
+    },
+    {
+      "entity": "alexscaves:tremorsaurus"
+    },
+    {
+      "entity": "alexscaves:relicheirus"
+    },
+    {
+      "entity": "alexscaves:trilocaris"
+    },
+    {
+      "entity": "alexscaves:luxtructosaurus"
+    },
+    {
+      "entity": "alexscaves:atlatitan"
+    }
+  ],
+  "lookup": [
+    "alexscaves:tremorsaurus_egg",
+    "alexscaves:primitive_club",
+    "alexscaves:serene_salad",
+    "alexscaves:dinosaur_chop",
+    "alexscaves:trilocaris_tail",
+    "alexscaves:ominous_catalyst"
+  ]
+}

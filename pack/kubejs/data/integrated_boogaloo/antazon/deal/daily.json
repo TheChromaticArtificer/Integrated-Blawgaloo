@@ -1,0 +1,14 @@
+{
+  "label": "computer.integrated_boogaloo.deal.daily",
+  "priority": 0,
+  "picks": 4,
+  "every_real_hours": 24,
+  "order": "shuffled",
+  "discount_percent": { "min": 25, "max": 35 },
+  "candidates": {
+    "exclude_tags": ["no_deals"],
+    "max_price": 499
+  },
+  "max_per_category": 1,
+  "deal_limit": 4
+}

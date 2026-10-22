@@ -1,0 +1,181 @@
+{
+  "green_tint": false,
+  "type": "item",
+  "category": "bestiary_draconic",
+  "folder": "integrated_boogaloo:bestiary",
+  "sort_order": 10,
+  "item": "iceandfire:dragonsteel_fire_ingot",
+  "title": "guide.integrated_boogaloo.entry.iaf_dragon_gear.title",
+  "subtitle": "guide.integrated_boogaloo.entry.iaf_dragon_gear.subtitle",
+  "gallery": [
+    {
+      "item": "iceandfire:fire_dragon_blood"
+    },
+    {
+      "item": "iceandfire:fire_dragon_heart"
+    },
+    {
+      "item": "iceandfire:dragonbone"
+    },
+    {
+      "item": "iceandfire:dragonscales_red"
+    },
+    {
+      "item": "iceandfire:dragonforge_fire_core"
+    },
+    {
+      "item": "iceandfire:dragonforge_fire_input"
+    },
+    {
+      "item": "iceandfire:dragonsteel_fire_ingot"
+    }
+  ],
+  "lookup": [
+    "iceandfire:dragonscales_amethyst",
+    "iceandfire:dragonscales_black",
+    "iceandfire:dragonscales_blue",
+    "iceandfire:dragonscales_bronze",
+    "iceandfire:dragonscales_copper",
+    "iceandfire:dragonscales_electric",
+    "iceandfire:dragonscales_gray",
+    "iceandfire:dragonscales_green",
+    "iceandfire:dragonscales_red",
+    "iceandfire:dragonscales_sapphire",
+    "iceandfire:dragonscales_silver",
+    "iceandfire:dragonscales_white",
+    "iceandfire:dragonscale_amethyst",
+    "iceandfire:dragonscale_black",
+    "iceandfire:dragonscale_blue",
+    "iceandfire:dragonscale_bronze",
+    "iceandfire:dragonscale_copper",
+    "iceandfire:dragonscale_electric",
+    "iceandfire:dragonscale_gray",
+    "iceandfire:dragonscale_green",
+    "iceandfire:dragonscale_red",
+    "iceandfire:dragonscale_sapphire",
+    "iceandfire:dragonscale_silver",
+    "iceandfire:dragonscale_white",
+    "iceandfire:dragonbone",
+    "iceandfire:dragon_bone_block",
+    "iceandfire:dragonbone_arrow",
+    "iceandfire:dragonbone_axe",
+    "iceandfire:dragonbone_bow",
+    "iceandfire:dragonbone_hoe",
+    "iceandfire:dragonbone_pickaxe",
+    "iceandfire:dragonbone_shovel",
+    "iceandfire:dragonbone_sword",
+    "iceandfire:dragonbone_sword_fire",
+    "iceandfire:dragonbone_sword_ice",
+    "iceandfire:dragonbone_sword_lightning",
+    "iceandfire:dragonforge_fire_brick",
+    "iceandfire:dragonforge_fire_core",
+    "iceandfire:dragonforge_fire_input",
+    "iceandfire:dragonforge_ice_brick",
+    "iceandfire:dragonforge_ice_core",
+    "iceandfire:dragonforge_ice_input",
+    "iceandfire:dragonforge_lightning_brick",
+    "iceandfire:dragonforge_lightning_core",
+    "iceandfire:dragonforge_lightning_input",
+    "iceandfire:dragonsteel_fire_block",
+    "iceandfire:dragonsteel_fire_boots",
+    "iceandfire:dragonsteel_fire_chestplate",
+    "iceandfire:dragonsteel_fire_helmet",
+    "iceandfire:dragonsteel_fire_leggings",
+    "iceandfire:dragonsteel_fire_sword",
+    "iceandfire:dragonsteel_ice_block",
+    "iceandfire:dragonsteel_ice_boots",
+    "iceandfire:dragonsteel_ice_chestplate",
+    "iceandfire:dragonsteel_ice_helmet",
+    "iceandfire:dragonsteel_ice_ingot",
+    "iceandfire:dragonsteel_ice_leggings",
+    "iceandfire:dragonsteel_ice_sword",
+    "iceandfire:dragonsteel_lightning_block",
+    "iceandfire:dragonsteel_lightning_boots",
+    "iceandfire:dragonsteel_lightning_chestplate",
+    "iceandfire:dragonsteel_lightning_helmet",
+    "iceandfire:dragonsteel_lightning_ingot",
+    "iceandfire:dragonsteel_lightning_leggings",
+    "iceandfire:dragonsteel_lightning_sword",
+    "iceandfire:ice_dragon_blood",
+    "iceandfire:ice_dragon_heart",
+    "iceandfire:lightning_dragon_blood",
+    "iceandfire:lightning_dragon_heart",
+    "iceandfire:dragon_skull_fire",
+    "iceandfire:dragon_skull_ice",
+    "iceandfire:dragon_skull_lightning",
+    "iceandfire:armor_amethyst_boots",
+    "iceandfire:armor_amethyst_chestplate",
+    "iceandfire:armor_amethyst_helmet",
+    "iceandfire:armor_amethyst_leggings",
+    "iceandfire:armor_black_boots",
+    "iceandfire:armor_black_chestplate",
+    "iceandfire:armor_black_helmet",
+    "iceandfire:armor_black_leggings",
+    "iceandfire:armor_blue_boots",
+    "iceandfire:armor_blue_chestplate",
+    "iceandfire:armor_blue_helmet",
+    "iceandfire:armor_blue_leggings",
+    "iceandfire:armor_bronze_boots",
+    "iceandfire:armor_bronze_chestplate",
+    "iceandfire:armor_bronze_helmet",
+    "iceandfire:armor_bronze_leggings",
+    "iceandfire:armor_copper_boots",
+    "iceandfire:armor_copper_chestplate",
+    "iceandfire:armor_copper_helmet",
+    "iceandfire:armor_copper_leggings",
+    "iceandfire:armor_electric_boots",
+    "iceandfire:armor_electric_chestplate",
+    "iceandfire:armor_electric_helmet",
+    "iceandfire:armor_electric_leggings",
+    "iceandfire:armor_gray_boots",
+    "iceandfire:armor_gray_chestplate",
+    "iceandfire:armor_gray_helmet",
+    "iceandfire:armor_gray_leggings",
+    "iceandfire:armor_green_boots",
+    "iceandfire:armor_green_chestplate",
+    "iceandfire:armor_green_helmet",
+    "iceandfire:armor_green_leggings",
+    "iceandfire:armor_red_boots",
+    "iceandfire:armor_red_chestplate",
+    "iceandfire:armor_red_helmet",
+    "iceandfire:armor_red_leggings",
+    "iceandfire:armor_sapphire_boots",
+    "iceandfire:armor_sapphire_chestplate",
+    "iceandfire:armor_sapphire_helmet",
+    "iceandfire:armor_sapphire_leggings",
+    "iceandfire:armor_silver_boots",
+    "iceandfire:armor_silver_chestplate",
+    "iceandfire:armor_silver_helmet",
+    "iceandfire:armor_silver_leggings",
+    "iceandfire:armor_white_boots",
+    "iceandfire:armor_white_chestplate",
+    "iceandfire:armor_white_helmet",
+    "iceandfire:armor_white_leggings"
+  ],
+  "content": [
+    {
+      "text": "guide.integrated_boogaloo.entry.iaf_dragon_gear.body_1"
+    },
+    {
+      "display": "integrated_boogaloo:guide/dragon_forge"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.iaf_dragon_gear.body_2"
+    },
+    {
+      "display": "integrated_boogaloo:guide/dragon_harvest"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.iaf_dragon_gear.body_3"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.iaf_dragon_gear.body_4"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.iaf_dragon_gear.body_5"
+    }
+  ],
+  "lookup_recipes": [
+    "iceandfire:dragonforge"
+  ]
+}

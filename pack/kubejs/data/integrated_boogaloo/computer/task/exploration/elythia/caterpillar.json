@@ -1,0 +1,32 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.elythia_caterpillar.title",
+  "description": "task.integrated_boogaloo.elythia_caterpillar.description",
+  "showcase": [
+    "@entity:antarchy:caterpillar"
+  ],
+  "icon": "antarchy:caterpillar_spawn_egg",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:elythia",
+  "sort_order": 7,
+  "position": {
+    "x": 3,
+    "y": 1
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "antarchy:very_hungry_caterpillar",
+      "description": "task.integrated_boogaloo.elythia_caterpillar.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 20
+    }
+  ]
+}

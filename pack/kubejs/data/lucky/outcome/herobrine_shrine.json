@@ -1,0 +1,228 @@
+{
+  "type": "lucky:group",
+  "luck": -1,
+  "outcomes": [
+    {
+      "type": "lucky:block",
+      "state_provider": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+          "Name": "minecraft:gold_block"
+        }
+      },
+      "pos": [
+        "{blockPosX}-1",
+        "{blockPosY}+0",
+        "{blockPosZ}-1"
+      ]
+    },
+    {
+      "type": "lucky:block",
+      "state_provider": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+          "Name": "minecraft:gold_block"
+        }
+      },
+      "pos": [
+        "{blockPosX}-1",
+        "{blockPosY}+0",
+        "{blockPosZ}+0"
+      ]
+    },
+    {
+      "type": "lucky:block",
+      "state_provider": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+          "Name": "minecraft:gold_block"
+        }
+      },
+      "pos": [
+        "{blockPosX}-1",
+        "{blockPosY}+0",
+        "{blockPosZ}+1"
+      ]
+    },
+    {
+      "type": "lucky:block",
+      "state_provider": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+          "Name": "minecraft:gold_block"
+        }
+      },
+      "pos": [
+        "{blockPosX}+0",
+        "{blockPosY}+0",
+        "{blockPosZ}-1"
+      ]
+    },
+    {
+      "type": "lucky:block",
+      "state_provider": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+          "Name": "minecraft:mossy_cobblestone"
+        }
+      },
+      "pos": [
+        "{blockPosX}+0",
+        "{blockPosY}+0",
+        "{blockPosZ}+0"
+      ]
+    },
+    {
+      "type": "lucky:block",
+      "state_provider": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+          "Name": "minecraft:gold_block"
+        }
+      },
+      "pos": [
+        "{blockPosX}+0",
+        "{blockPosY}+0",
+        "{blockPosZ}+1"
+      ]
+    },
+    {
+      "type": "lucky:block",
+      "state_provider": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+          "Name": "minecraft:gold_block"
+        }
+      },
+      "pos": [
+        "{blockPosX}+1",
+        "{blockPosY}+0",
+        "{blockPosZ}-1"
+      ]
+    },
+    {
+      "type": "lucky:block",
+      "state_provider": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+          "Name": "minecraft:gold_block"
+        }
+      },
+      "pos": [
+        "{blockPosX}+1",
+        "{blockPosY}+0",
+        "{blockPosZ}+0"
+      ]
+    },
+    {
+      "type": "lucky:block",
+      "state_provider": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+          "Name": "minecraft:gold_block"
+        }
+      },
+      "pos": [
+        "{blockPosX}+1",
+        "{blockPosY}+0",
+        "{blockPosZ}+1"
+      ]
+    },
+    {
+      "type": "lucky:block",
+      "state_provider": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+          "Name": "minecraft:netherrack"
+        }
+      },
+      "pos": [
+        "{blockPosX}+0",
+        "{blockPosY}+1",
+        "{blockPosZ}+0"
+      ]
+    },
+    {
+      "type": "lucky:block",
+      "state_provider": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+          "Name": "minecraft:redstone_torch"
+        }
+      },
+      "pos": [
+        "{blockPosX}+1",
+        "{blockPosY}+1",
+        "{blockPosZ}+0"
+      ]
+    },
+    {
+      "type": "lucky:block",
+      "state_provider": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+          "Name": "minecraft:redstone_torch"
+        }
+      },
+      "pos": [
+        "{blockPosX}-1",
+        "{blockPosY}+1",
+        "{blockPosZ}+0"
+      ]
+    },
+    {
+      "type": "lucky:block",
+      "state_provider": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+          "Name": "minecraft:redstone_torch"
+        }
+      },
+      "pos": [
+        "{blockPosX}+0",
+        "{blockPosY}+1",
+        "{blockPosZ}+1"
+      ]
+    },
+    {
+      "type": "lucky:block",
+      "state_provider": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+          "Name": "minecraft:redstone_torch"
+        }
+      },
+      "pos": [
+        "{blockPosX}+0",
+        "{blockPosY}+1",
+        "{blockPosZ}-1"
+      ]
+    },
+    {
+      "type": "lucky:block",
+      "state_provider": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+          "Name": "minecraft:fire"
+        }
+      },
+      "pos": [
+        "{blockPosX}+0",
+        "{blockPosY}+2",
+        "{blockPosZ}+0"
+      ]
+    },
+    {
+      "type": "lucky:message",
+      "message": {
+        "translate": "boogaloo_core.lucky.herobrine_shrine",
+        "color": "dark_red"
+      }
+    },
+    {
+      "type": "lucky:command",
+      "command": "/boogaloo_core watching summon creeping {playerName}"
+    }
+  ],
+  "chance": 3
+}

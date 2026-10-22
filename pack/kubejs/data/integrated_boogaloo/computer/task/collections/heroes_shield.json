@@ -1,0 +1,100 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.collection.heroes_shield.title",
+  "description": "task.integrated_boogaloo.collection.heroes_shield.description",
+  "icon": "marvel:captain_america_chestplate",
+  "program": "integrated_boogaloo:collections",
+  "category": "integrated_boogaloo:collections",
+  "sort_order": 102,
+  "position": {
+    "x": 2,
+    "y": 1
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "captain_america_chestplate",
+      "type": "item",
+      "target": "marvel:captain_america_chestplate",
+      "description": "task.integrated_boogaloo.collection.heroes_shield.captain_america_chestplate",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "captain_america_stealth_chestplate",
+      "type": "item",
+      "target": "marvel:captain_america_stealth_chestplate",
+      "description": "task.integrated_boogaloo.collection.heroes_shield.captain_america_stealth_chestplate",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "captain_carter_chestplate",
+      "type": "item",
+      "target": "marvel:captain_carter_chestplate",
+      "description": "task.integrated_boogaloo.collection.heroes_shield.captain_carter_chestplate",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "red_guardian_chestplate",
+      "type": "item",
+      "target": "marvel:red_guardian_chestplate",
+      "description": "task.integrated_boogaloo.collection.heroes_shield.red_guardian_chestplate",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "us_agent_chestplate",
+      "type": "item",
+      "target": "marvel:us_agent_chestplate",
+      "description": "task.integrated_boogaloo.collection.heroes_shield.us_agent_chestplate",
+      "count": 1,
+      "sticky": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 1000
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "id": "supplies",
+          "title": "task.integrated_boogaloo.reward.supplies",
+          "rewards": [
+            {
+              "type": "item_pool",
+              "pool": "integrated_boogaloo:supplies_common",
+              "mode": "random"
+            }
+          ]
+        },
+        {
+          "id": "lucky",
+          "title": "task.integrated_boogaloo.reward.lucky",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "lucky:lucky_block",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "id": "titanium",
+          "title": "task.integrated_boogaloo.reward.titanium",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "antarchy:titanium_nugget",
+              "count": 9
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

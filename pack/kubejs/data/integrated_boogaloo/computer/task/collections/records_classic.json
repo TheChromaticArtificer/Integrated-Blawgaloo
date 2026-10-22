@@ -1,0 +1,212 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.collection.records_classic.title",
+  "description": "task.integrated_boogaloo.collection.records_classic.description",
+  "icon": "minecraft:music_disc_cat",
+  "program": "integrated_boogaloo:collections",
+  "category": "integrated_boogaloo:collections",
+  "sort_order": 700,
+  "position": {
+    "x": 0,
+    "y": 7
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "music_disc_13",
+      "type": "item",
+      "target": "minecraft:music_disc_13",
+      "description": "task.integrated_boogaloo.collection.records_classic.music_disc_13",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "music_disc_cat",
+      "type": "item",
+      "target": "minecraft:music_disc_cat",
+      "description": "task.integrated_boogaloo.collection.records_classic.music_disc_cat",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "music_disc_blocks",
+      "type": "item",
+      "target": "minecraft:music_disc_blocks",
+      "description": "task.integrated_boogaloo.collection.records_classic.music_disc_blocks",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "music_disc_chirp",
+      "type": "item",
+      "target": "minecraft:music_disc_chirp",
+      "description": "task.integrated_boogaloo.collection.records_classic.music_disc_chirp",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "music_disc_far",
+      "type": "item",
+      "target": "minecraft:music_disc_far",
+      "description": "task.integrated_boogaloo.collection.records_classic.music_disc_far",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "music_disc_mall",
+      "type": "item",
+      "target": "minecraft:music_disc_mall",
+      "description": "task.integrated_boogaloo.collection.records_classic.music_disc_mall",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "music_disc_mellohi",
+      "type": "item",
+      "target": "minecraft:music_disc_mellohi",
+      "description": "task.integrated_boogaloo.collection.records_classic.music_disc_mellohi",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "music_disc_stal",
+      "type": "item",
+      "target": "minecraft:music_disc_stal",
+      "description": "task.integrated_boogaloo.collection.records_classic.music_disc_stal",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "music_disc_strad",
+      "type": "item",
+      "target": "minecraft:music_disc_strad",
+      "description": "task.integrated_boogaloo.collection.records_classic.music_disc_strad",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "music_disc_ward",
+      "type": "item",
+      "target": "minecraft:music_disc_ward",
+      "description": "task.integrated_boogaloo.collection.records_classic.music_disc_ward",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "music_disc_11",
+      "type": "item",
+      "target": "minecraft:music_disc_11",
+      "description": "task.integrated_boogaloo.collection.records_classic.music_disc_11",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "music_disc_wait",
+      "type": "item",
+      "target": "minecraft:music_disc_wait",
+      "description": "task.integrated_boogaloo.collection.records_classic.music_disc_wait",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "music_disc_otherside",
+      "type": "item",
+      "target": "minecraft:music_disc_otherside",
+      "description": "task.integrated_boogaloo.collection.records_classic.music_disc_otherside",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "music_disc_5",
+      "type": "item",
+      "target": "minecraft:music_disc_5",
+      "description": "task.integrated_boogaloo.collection.records_classic.music_disc_5",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "music_disc_pigstep",
+      "type": "item",
+      "target": "minecraft:music_disc_pigstep",
+      "description": "task.integrated_boogaloo.collection.records_classic.music_disc_pigstep",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "music_disc_relic",
+      "type": "item",
+      "target": "minecraft:music_disc_relic",
+      "description": "task.integrated_boogaloo.collection.records_classic.music_disc_relic",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "music_disc_creator",
+      "type": "item",
+      "target": "minecraft:music_disc_creator",
+      "description": "task.integrated_boogaloo.collection.records_classic.music_disc_creator",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "music_disc_creator_music_box",
+      "type": "item",
+      "target": "minecraft:music_disc_creator_music_box",
+      "description": "task.integrated_boogaloo.collection.records_classic.music_disc_creator_music_box",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "music_disc_precipice",
+      "type": "item",
+      "target": "minecraft:music_disc_precipice",
+      "description": "task.integrated_boogaloo.collection.records_classic.music_disc_precipice",
+      "count": 1,
+      "sticky": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 2500
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "id": "supplies",
+          "title": "task.integrated_boogaloo.reward.supplies",
+          "rewards": [
+            {
+              "type": "item_pool",
+              "pool": "integrated_boogaloo:supplies_common",
+              "mode": "random"
+            }
+          ]
+        },
+        {
+          "id": "lucky",
+          "title": "task.integrated_boogaloo.reward.lucky",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "lucky:lucky_block",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "id": "titanium",
+          "title": "task.integrated_boogaloo.reward.titanium",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "antarchy:titanium_nugget",
+              "count": 9
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

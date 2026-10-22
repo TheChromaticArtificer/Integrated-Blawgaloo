@@ -1,0 +1,50 @@
+{
+  "name": "computer.integrated_boogaloo.product.lucky.lucky_crate.name",
+  "description": "computer.integrated_boogaloo.product.lucky.lucky_crate.description",
+  "category": "lucky",
+  "green_tint": false,
+  "quantity": 1,
+  "payments": [
+    {
+      "type": "antcoins",
+      "resource": "antcoins",
+      "amount": 525
+    }
+  ],
+  "thumbnail": {
+    "item": "lucky:lucky_block"
+  },
+  "unlock_tasks": [
+    "integrated_boogaloo:start_here/lucky_block"
+  ],
+  "unlock_mode": "all",
+  "availability": {
+    "server_stock": 0,
+    "player_limit": 1,
+    "player_limit_reset": "minecraft_week"
+  },
+  "rewards": [
+    {
+      "item": "lucky:lucky_block",
+      "count": 8
+    }
+  ],
+  "reviews": [
+    {
+      "id": "grian",
+      "author": "Grian",
+      "title": "computer.integrated_boogaloo.product.lucky.lucky_crate.review.grian.title",
+      "body": "computer.integrated_boogaloo.product.lucky.lucky_crate.review.grian.body",
+      "rating": 5,
+      "badge": "POULTRY MAN"
+    },
+    {
+      "id": "mumbo",
+      "author": "Mumbo Jumbo",
+      "title": "computer.integrated_boogaloo.product.lucky.lucky_crate.review.mumbo.title",
+      "body": "computer.integrated_boogaloo.product.lucky.lucky_crate.review.mumbo.body",
+      "rating": 1,
+      "badge": "REDSTONE"
+    }
+  ]
+}

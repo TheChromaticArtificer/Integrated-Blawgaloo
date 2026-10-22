@@ -1,0 +1,37 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.super_serums_viltrumite.title",
+  "description": "task.integrated_boogaloo.super_serums_viltrumite.description",
+  "showcase": [
+    "@recipe:kubejs:oritech/assembler/syringe_viltrumite_blood_omni_man"
+  ],
+  "icon": "integrated_superheroes:syringe_viltrumite_blood_omni_man",
+  "program": "integrated_boogaloo:super_serums",
+  "category": "integrated_boogaloo:super_serums",
+  "sort_order": 71,
+  "position": {
+    "x": 3,
+    "y": 3
+  },
+  "shape": "pentagon",
+  "size": 1.5,
+  "availability": "automatic",
+  "archive_entries": [
+    "integrated_boogaloo:serum_viltrumite"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "integrated_boogaloo:deadpool/syringe_viltrumite",
+      "description": "task.integrated_boogaloo.super_serums_viltrumite.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 150
+    }
+  ]
+}

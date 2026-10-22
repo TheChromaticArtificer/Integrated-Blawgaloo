@@ -1,0 +1,43 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.storage_controller.title",
+  "description": "task.integrated_boogaloo.storage_controller.description",
+  "showcase": [
+    "@item:refinedstorage:controller",
+    "@recipe:refinedstorage:controller"
+  ],
+  "icon": "refinedstorage:controller",
+  "program": "integrated_boogaloo:storage",
+  "category": "integrated_boogaloo:storage",
+  "sort_order": 1,
+  "position": {
+    "x": 0,
+    "y": 0
+  },
+  "shape": "hexagon",
+  "size": 1.25,
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:engineering/processing_unit"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "refinedstorage:controller",
+      "description": "task.integrated_boogaloo.storage_controller.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 50
+    },
+    {
+      "type": "item",
+      "item": "refinedstorage:cable",
+      "count": 16
+    }
+  ]
+}

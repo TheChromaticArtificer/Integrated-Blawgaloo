@@ -1,0 +1,28 @@
+{
+  "name": "book.pastel.guidebook.azurite.name",
+  "condition": {
+    "type": "modonomicon:advancement",
+    "advancement_id": "pastel:midgame/collect_azurite"
+  },
+  "icon": {
+    "item": "antarchy:bluestone"
+  },
+  "category": "pastel:general",
+  "hide_while_locked": true,
+  "parents": [],
+  "background_u_index": 0,
+  "background_v_index": 0,
+  "x": 12,
+  "y": -3,
+  "turnin": "pastel:midgame/grow_azurite_in_crystallarieum",
+  "pages": [
+    {
+      "type": "modonomicon:spotlight",
+      "title": "book.pastel.guidebook.azurite.name",
+      "item": {
+        "item": "antarchy:bluestone"
+      },
+      "text": "book.pastel.guidebook.azurite.page0.text"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "marvellegacy:blocks/tailoring_bench",
+			"data": {
+				"Type": "block"
+			}
+		}
+	]
+}

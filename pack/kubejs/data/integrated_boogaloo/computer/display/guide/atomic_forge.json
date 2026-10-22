@@ -1,0 +1,58 @@
+{
+  "title": "literal:Atomic Forge",
+  "variants": [
+    {
+      "id": "wafer",
+      "title": "literal:Silicon Wafer",
+      "template": "integrated_boogaloo:guide/templates/atomic_forge",
+      "recipe_binding": {
+        "recipe": "oritech:atomicforge/wafer",
+        "adapter": "boogaloo_core:oritech"
+      },
+      "values": {
+        "title": "literal:Atomic Forge: Silicon Wafer"
+      }
+    },
+    {
+      "id": "ace",
+      "title": "literal:Advanced Computing Engine",
+      "template": "integrated_boogaloo:guide/templates/atomic_forge",
+      "recipe_binding": {
+        "recipe": "oritech:atomicforge/advcomputer",
+        "adapter": "boogaloo_core:oritech"
+      },
+      "values": {
+        "title": "literal:Atomic Forge: Advanced Computing Engine"
+      }
+    },
+    {
+      "id": "ai",
+      "title": "literal:Super AI Chip",
+      "template": "integrated_boogaloo:guide/templates/atomic_forge",
+      "recipe_binding": {
+        "recipe": "oritech:atomicforge/aicomputer",
+        "adapter": "boogaloo_core:oritech"
+      },
+      "values": {
+        "title": "literal:Atomic Forge: Super AI Chip"
+      }
+    },
+    {
+      "id": "compensator",
+      "title": "literal:Heisenberg Compensator",
+      "display": "integrated_boogaloo:guide/forge_compensator"
+    },
+    {
+      "id": "prometheum",
+      "title": "literal:Prometheum",
+      "template": "integrated_boogaloo:guide/templates/atomic_forge",
+      "recipe_binding": {
+        "recipe": "kubejs:oritech/atomic_forge/prometheum",
+        "adapter": "boogaloo_core:oritech"
+      },
+      "values": {
+        "title": "literal:Atomic Forge: Prometheum"
+      }
+    }
+  ]
+}

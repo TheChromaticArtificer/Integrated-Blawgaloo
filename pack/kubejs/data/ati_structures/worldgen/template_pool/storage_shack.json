@@ -1,0 +1,15 @@
+{
+  "name": "ati_structures:storage_shack",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/ati_structures/storage_shack/mossify_20_percent",
+        "location": "ati_structures:storage_shack"
+      },
+      "weight": 1
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "name": "book.pastel.guidebook.tarts.name",
+  "icon": {
+    "item": "pastel:ashen_tart"
+  },
+  "condition": {
+    "type": "modonomicon:advancement",
+    "advancement_id": "pastel:unlocks/food/tarts"
+  },
+  "category": "pastel:cuisine",
+  "hide_while_locked": true,
+  "parents": [
+    {
+      "entry": "pastel:cuisine/amaranth",
+      "line_reversed": true
+    }
+  ],
+  "background_u_index": 0,
+  "background_v_index": 0,
+  "x": 9,
+  "y": 1,
+  "pages": [
+    {
+      "type": "modonomicon:text",
+      "text": "book.pastel.guidebook.tarts.page0.text",
+      "title": "book.pastel.guidebook.tarts.name"
+    },
+    {
+      "type": "modonomicon:text",
+      "text": "book.pastel.guidebook.boogaloo.cutting_board.many"
+    },
+    {
+      "type": "modonomicon:spotlight",
+      "title": "item.pastel.jaramel_tart",
+      "item": {
+        "item": "pastel:jaramel_tart"
+      },
+      "text": "book.pastel.guidebook.enemy_tears"
+    },
+    {
+      "type": "modonomicon:spotlight",
+      "condition": {
+        "type": "modonomicon:advancement",
+        "advancement_id": "pastel:craft_salted_jaramel_trifle_or_tart"
+      },
+      "item": {
+        "item": "pastel:salted_jaramel_tart"
+      },
+      "text": "book.pastel.guidebook.extra_salty"
+    },
+    {
+      "type": "modonomicon:spotlight",
+      "item": {
+        "item": "pastel:ashen_tart"
+      },
+      "text": "book.pastel.guidebook.tarts.page3.text"
+    },
+    {
+      "type": "modonomicon:spotlight",
+      "item": {
+        "item": "pastel:weeping_tart"
+      },
+      "text": "book.pastel.guidebook.tarts.page4.text"
+    },
+    {
+      "type": "modonomicon:spotlight",
+      "item": {
+        "item": "pastel:whispy_tart"
+      },
+      "text": "book.pastel.guidebook.tarts.page5.text"
+    },
+    {
+      "type": "modonomicon:spotlight",
+      "item": {
+        "item": "pastel:puff_tart"
+      },
+      "text": "book.pastel.guidebook.tarts.page6.text"
+    }
+  ]
+}

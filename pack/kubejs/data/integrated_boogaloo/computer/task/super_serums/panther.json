@@ -1,0 +1,33 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.super_serums_panther.title",
+  "description": "task.integrated_boogaloo.super_serums_panther.description",
+  "icon": "integrated_superheroes:syringe_heart_shaped_herb_tchalla",
+  "program": "integrated_boogaloo:super_serums",
+  "category": "integrated_boogaloo:super_serums",
+  "sort_order": 12,
+  "position": {
+    "x": 4,
+    "y": 0
+  },
+  "availability": "automatic",
+  "archive_entries": [
+    "integrated_boogaloo:serum_panther"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "integrated_boogaloo:deadpool/syringe_heart_shaped_herb",
+      "description": "task.integrated_boogaloo.super_serums_panther.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 50
+    }
+  ],
+  "showcase": []
+}

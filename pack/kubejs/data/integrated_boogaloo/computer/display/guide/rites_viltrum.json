@@ -1,0 +1,41 @@
+{
+  "title": "literal:Rites of Viltrum",
+  "variants": [
+    {
+      "id": "call",
+      "title": "literal:Call of Viltrum",
+      "template": "integrated_boogaloo:guide/templates/rite",
+      "recipe_binding": {
+        "recipe": "integrated_boogaloo:ritual/call_of_viltrum",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Call of Viltrum"
+      }
+    },
+    {
+      "id": "conquest",
+      "title": "literal:Challenge of Conquest",
+      "template": "integrated_boogaloo:guide/templates/rite",
+      "recipe_binding": {
+        "recipe": "integrated_boogaloo:ritual/challenge_of_conquest",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Challenge of Conquest"
+      }
+    },
+    {
+      "id": "bounty",
+      "title": "literal:Viltrumite Bounty",
+      "template": "integrated_boogaloo:guide/templates/rite",
+      "recipe_binding": {
+        "recipe": "integrated_boogaloo:ritual/viltrumite_bounty",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Viltrumite Bounty"
+      }
+    }
+  ]
+}

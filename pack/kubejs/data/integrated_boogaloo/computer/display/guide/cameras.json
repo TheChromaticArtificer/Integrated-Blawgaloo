@@ -1,0 +1,446 @@
+{
+  "version": 1,
+  "title": "literal:Cameras",
+  "width": 250,
+  "height": 43,
+  "elements": [
+    {
+      "id": "camera",
+      "type": "scene",
+      "x": 2,
+      "y": 2,
+      "width": 130,
+      "height": 136,
+      "yaw": 200,
+      "pitch": 20,
+      "scale": 1.1,
+      "blocks": [
+        {
+          "pos": [
+            -2,
+            -1,
+            -2
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -2,
+            -1,
+            -1
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -2,
+            -1,
+            0
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -2,
+            -1,
+            1
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -2,
+            -1,
+            2
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            -1,
+            -2
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            -1,
+            -1
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            -1,
+            0
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            -1,
+            1
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            -1,
+            2
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            -2
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            -1
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            0
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            1
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            2
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            -2
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            -1
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            0
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            1
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            2
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            2,
+            -1,
+            -2
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            2,
+            -1,
+            -1
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            2,
+            -1,
+            0
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            2,
+            -1,
+            1
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            2,
+            -1,
+            2
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            3,
+            -1,
+            -2
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            3,
+            -1,
+            -1
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            3,
+            -1,
+            0
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            3,
+            -1,
+            1
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            3,
+            -1,
+            2
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            4,
+            -1,
+            -2
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            4,
+            -1,
+            -1
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            4,
+            -1,
+            0
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            4,
+            -1,
+            1
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            4,
+            -1,
+            2
+          ],
+          "state": "minecraft:smooth_stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            3,
+            1,
+            0
+          ],
+          "state": "securitycraft:reinforced_stone",
+          "id": "post"
+        },
+        {
+          "pos": [
+            3,
+            0,
+            0
+          ],
+          "state": "securitycraft:reinforced_stone",
+          "id": "base"
+        },
+        {
+          "pos": [
+            2,
+            1,
+            0
+          ],
+          "state": "securitycraft:security_camera[facing=west]",
+          "id": "cam",
+          "highlight": true
+        }
+      ],
+      "entities": [
+        {
+          "pos": [
+            -1,
+            0,
+            0
+          ],
+          "id": "minecraft:zombie",
+          "rotation": 90
+        }
+      ],
+      "effects": [
+        {
+          "kind": "beam",
+          "from": [
+            2,
+            1,
+            0
+          ],
+          "to": [
+            -1,
+            1,
+            0
+          ],
+          "color": "#E03A3A",
+          "size": 0.5
+        }
+      ],
+      "steps": [
+        {
+          "id": "cam",
+          "title": "literal:Place a camera",
+          "text": "literal:On a wall, looking where you want to watch."
+        },
+        {
+          "id": "monitor",
+          "title": "literal:Link the monitor",
+          "text": "literal:Use the Camera Monitor on it, then look through it from anywhere.",
+          "markers": [
+            {
+              "icon": "right_click",
+              "block": "cam",
+              "item": "securitycraft:camera_monitor"
+            }
+          ]
+        }
+      ],
+      "hero": true,
+      "ratio": 0.89
+    },
+    {
+      "type": "text",
+      "x": 6,
+      "y": 4,
+      "width": 238,
+      "text": "literal:A monitor holds several cameras."
+    },
+    {
+      "type": "group",
+      "x": 6,
+      "y": 15,
+      "layout": "grid",
+      "columns": 2,
+      "cell_width": 20,
+      "cell_height": 20,
+      "elements": [
+        {
+          "type": "slot",
+          "x": 0,
+          "y": 0,
+          "item": "securitycraft:security_camera"
+        },
+        {
+          "type": "slot",
+          "x": 0,
+          "y": 0,
+          "item": "securitycraft:camera_monitor"
+        }
+      ]
+    }
+  ],
+  "reflow": true,
+  "auto_height": true,
+  "hide_title": true
+}

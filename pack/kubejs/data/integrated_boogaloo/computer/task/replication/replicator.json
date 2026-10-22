@@ -1,0 +1,40 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.replication_replicator.title",
+  "description": "task.integrated_boogaloo.replication_replicator.description",
+  "showcase": [
+    "@item:replication:replicator",
+    "@recipe:replication:replicator"
+  ],
+  "icon": "replication:replicator",
+  "program": "integrated_boogaloo:replication",
+  "category": "integrated_boogaloo:replication",
+  "sort_order": 6,
+  "position": {
+    "x": 3,
+    "y": 0
+  },
+  "shape": "pentagon",
+  "size": 1.5,
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:replication/disintegrator",
+    "integrated_boogaloo:replication/patterns"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "replication:replicator",
+      "description": "task.integrated_boogaloo.replication_replicator.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 50
+    }
+  ],
+  "line_axis": "horizontal"
+}

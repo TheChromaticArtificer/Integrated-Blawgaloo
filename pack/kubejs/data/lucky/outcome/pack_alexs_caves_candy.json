@@ -1,0 +1,62 @@
+{
+  "type": "lucky:group",
+  "luck": 2,
+  "outcomes": [
+    {
+      "type": "lucky:item",
+      "item": "alexscaves:sweetish_fish_red",
+      "count": 2
+    },
+    {
+      "type": "lucky:item",
+      "item": "alexscaves:sweetish_fish_green",
+      "count": 2
+    },
+    {
+      "type": "lucky:item",
+      "item": "alexscaves:sweetish_fish_yellow",
+      "count": 2
+    },
+    {
+      "type": "lucky:item",
+      "item": "alexscaves:sweetish_fish_blue",
+      "count": 2
+    },
+    {
+      "type": "lucky:item",
+      "item": "alexscaves:sweetish_fish_pink",
+      "count": 2
+    },
+    {
+      "type": "lucky:item",
+      "item": "alexscaves:gelatin_red",
+      "count": 2
+    },
+    {
+      "type": "lucky:item",
+      "item": "alexscaves:gelatin_green",
+      "count": 2
+    },
+    {
+      "type": "lucky:item",
+      "item": "alexscaves:gelatin_yellow",
+      "count": 2
+    },
+    {
+      "type": "lucky:item",
+      "item": "alexscaves:gelatin_blue",
+      "count": 2
+    },
+    {
+      "type": "lucky:item",
+      "item": "alexscaves:gelatin_pink",
+      "count": 2
+    },
+    {
+      "type": "lucky:item",
+      "item": "alexscaves:gumball_pile",
+      "count": 4
+    }
+  ],
+  "chance": 2.0
+}

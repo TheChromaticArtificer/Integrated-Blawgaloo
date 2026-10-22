@@ -1,0 +1,9 @@
+{
+  "category": "integrated_boogaloo:vikings",
+  "title": "guide.integrated_boogaloo.disk.viking_monstrous_nightmare.title",
+  "description": "guide.integrated_boogaloo.disk.viking_monstrous_nightmare.description",
+  "entries": [
+    "integrated_boogaloo:bda_monstrous_nightmare",
+    "integrated_boogaloo:iaf_dragons"
+  ]
+}

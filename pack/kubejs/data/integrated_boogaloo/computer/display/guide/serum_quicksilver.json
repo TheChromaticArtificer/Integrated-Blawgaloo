@@ -1,0 +1,10 @@
+{
+  "template": "integrated_boogaloo:guide/templates/serum",
+  "recipe_binding": {
+    "recipe": "kubejs:oritech/assembler/syringe_super_speed_pietro_maximoff",
+    "adapter": "boogaloo_core:oritech"
+  },
+  "values": {
+    "title": "literal:Serum recipe"
+  }
+}

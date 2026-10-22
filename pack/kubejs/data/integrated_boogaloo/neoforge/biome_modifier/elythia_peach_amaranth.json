@@ -1,0 +1,8 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "antarchy:peach_forest"
+  ],
+  "features": "integrated_boogaloo:elythia_peach_amaranth",
+  "step": "vegetal_decoration"
+}

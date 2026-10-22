@@ -1,0 +1,13 @@
+name = "Infinite Dimensions"
+filename = "infinity-2.7.3+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "89b6db656a7a46c75cdc5f7f16dc5ddb9369656d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8899025
+project-id = 981829

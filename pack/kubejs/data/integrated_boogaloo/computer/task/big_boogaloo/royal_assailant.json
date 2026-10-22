@@ -1,0 +1,56 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.boogaloo_royal_assailant.title",
+  "description": "task.integrated_boogaloo.boogaloo_royal_assailant.description",
+  "showcase": [
+    "@recipe:antarchy:royal_assailant_chestplate"
+  ],
+  "icon": "antarchy:royal_assailant_chestplate",
+  "program": "integrated_boogaloo:big_boogaloo",
+  "category": "integrated_boogaloo:big_boogaloo",
+  "sort_order": 27,
+  "position": {
+    "x": 8,
+    "y": -3
+  },
+  "shape": "octagon",
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:infinity_gauntlet/time_stone"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "antarchy:royal_assailant_chestplate",
+      "description": "task.integrated_boogaloo.boogaloo_royal_assailant.goal",
+      "count": 1
+    },
+    {
+      "id": "axe",
+      "type": "item",
+      "target": "antarchy:royal_assailant_battleaxe",
+      "description": "task.integrated_boogaloo.boogaloo_royal_assailant.axe",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "staff",
+      "type": "item",
+      "target": "antarchy:royal_assailant_staff",
+      "description": "task.integrated_boogaloo.boogaloo_royal_assailant.staff",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "archive_entries": [
+    "integrated_boogaloo:controls"
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 500
+    }
+  ],
+  "line_axis": "horizontal"
+}

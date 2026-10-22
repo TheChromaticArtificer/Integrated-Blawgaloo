@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "CSC",
+    "BPM",
+    "U3U"
+  ],
+  "key": {
+    "C": {
+      "item": "antarchy:dead_star_coral_block"
+    },
+    "S": {
+      "item": "pastel:stardust_block"
+    },
+    "B": {
+      "item": "minecraft:blast_furnace"
+    },
+    "P": {
+      "item": "pastel:pristine_shooting_star"
+    },
+    "M": {
+      "item": "minecraft:smithing_table"
+    },
+    "U": {
+      "item": "marvel:uru_ingot"
+    },
+    "3": {
+      "item": "oritech:machine_core_3"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "celestisynth:starlit_factory"
+  }
+}
