@@ -33015,11 +33015,6 @@ hash = "ffeb4b9cfa89def130c4dbae2727f276bfbddc15ffdb3d251d8dd8f2bdde6fb4"
 metafile = true
 
 [[files]]
-file = "mods/badoptimizations.pw.toml"
-hash = "8b4cb33940d2a5771439131c9b80d68b099efaf5c957ced3ab5ba6c59a0e85ae"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "0f6b24d697903dc261c881c4a736ec57c57ed5384f23d77ca9f6cec1e954d559"
 metafile = true
