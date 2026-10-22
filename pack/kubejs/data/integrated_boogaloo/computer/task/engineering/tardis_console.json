@@ -43,6 +43,11 @@
     {
       "type": "archive",
       "entry": "integrated_boogaloo:tardis"
+    },
+    {
+      "type": "item",
+      "item": "timevortex:tardis_handbook",
+      "count": 1
     }
   ],
   "line_axis": "horizontal",

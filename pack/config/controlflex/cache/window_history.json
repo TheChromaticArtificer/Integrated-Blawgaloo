@@ -3,24 +3,66 @@
   "entries": [
     {
       "kind": "SCREEN",
-      "className": "com.craisinlord.antos.content.client.screen.ComputerScreen",
+      "className": "dev.sterner.witchery.client.AbilitySelectionScreen",
       "attribution": "NONE",
-      "firstSeen": 1792469151831,
-      "lastSeen": 1792539591853
-    },
-    {
-      "kind": "SCREEN",
-      "className": "earth.terrarium.adastra.client.screens.PlanetsScreen",
-      "attribution": "NONE",
-      "firstSeen": 1792484429399,
-      "lastSeen": 1792503452669
+      "firstSeen": 1792335124971,
+      "lastSeen": 1792635030026
     },
     {
       "kind": "SCREEN",
       "className": "net.neoforged.neoforge.client.gui.ModListScreen",
       "attribution": "NONE",
       "firstSeen": 1792480057320,
-      "lastSeen": 1792502502351
+      "lastSeen": 1792634850114
+    },
+    {
+      "kind": "SCREEN",
+      "className": "de.maxhenkel.gravestone.gui.ObituaryScreen",
+      "attribution": "NONE",
+      "firstSeen": 1792472103323,
+      "lastSeen": 1792600336001
+    },
+    {
+      "kind": "SCREEN",
+      "className": "com.plaaasma.timevortex.client.monitor.MonitorScreen",
+      "attribution": "NONE",
+      "firstSeen": 1792484822568,
+      "lastSeen": 1792600262396
+    },
+    {
+      "kind": "SCREEN",
+      "className": "com.plaaasma.timevortex.client.screen.SettingsScreen",
+      "attribution": "NONE",
+      "firstSeen": 1792599831454,
+      "lastSeen": 1792599831454
+    },
+    {
+      "kind": "SCREEN",
+      "className": "net.mehvahdjukaar.moonlight.core.client.config.MoonlightConfigSelectScreen",
+      "attribution": "NONE",
+      "firstSeen": 1792544325609,
+      "lastSeen": 1792551209722
+    },
+    {
+      "kind": "SCREEN",
+      "className": "net.mehvahdjukaar.moonlight.core.client.config.MoonlightConfigScreen",
+      "attribution": "NONE",
+      "firstSeen": 1792544327209,
+      "lastSeen": 1792551209210
+    },
+    {
+      "kind": "SCREEN",
+      "className": "earth.terrarium.adastra.client.screens.PlanetsScreen",
+      "attribution": "NONE",
+      "firstSeen": 1792484429399,
+      "lastSeen": 1792544136775
+    },
+    {
+      "kind": "SCREEN",
+      "className": "com.craisinlord.antos.content.client.screen.ComputerScreen",
+      "attribution": "NONE",
+      "firstSeen": 1792469151831,
+      "lastSeen": 1792539591853
     },
     {
       "kind": "SCREEN",
@@ -42,13 +84,6 @@
       "attribution": "NONE",
       "firstSeen": 1792471749669,
       "lastSeen": 1792501482362
-    },
-    {
-      "kind": "SCREEN",
-      "className": "de.maxhenkel.gravestone.gui.ObituaryScreen",
-      "attribution": "NONE",
-      "firstSeen": 1792472103323,
-      "lastSeen": 1792500451423
     },
     {
       "kind": "SCREEN",
@@ -84,13 +119,6 @@
       "attribution": "NONE",
       "firstSeen": 1792487246022,
       "lastSeen": 1792487605327
-    },
-    {
-      "kind": "SCREEN",
-      "className": "com.plaaasma.timevortex.client.monitor.MonitorScreen",
-      "attribution": "NONE",
-      "firstSeen": 1792484822568,
-      "lastSeen": 1792485108401
     },
     {
       "kind": "SCREEN",
@@ -133,13 +161,6 @@
       "attribution": "NONE",
       "firstSeen": 1792321408883,
       "lastSeen": 1792457164175
-    },
-    {
-      "kind": "SCREEN",
-      "className": "dev.sterner.witchery.client.AbilitySelectionScreen",
-      "attribution": "NONE",
-      "firstSeen": 1792335124971,
-      "lastSeen": 1792335136771
     },
     {
       "kind": "SCREEN",

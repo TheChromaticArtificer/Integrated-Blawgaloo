@@ -1,0 +1,36 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.locked_down_shape_up.title",
+  "description": "task.integrated_boogaloo.locked_down_shape_up.description",
+  "showcase": [
+    "@recipe:mffs:sphere_mode"
+  ],
+  "icon": "mffs:sphere_mode",
+  "program": "integrated_boogaloo:locked_down",
+  "category": "integrated_boogaloo:locked_down",
+  "sort_order": 22,
+  "position": {
+    "x": 5,
+    "y": 1
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:locked_down/bubble_boy"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "mffs:sphere_mode",
+      "description": "task.integrated_boogaloo.locked_down_shape_up.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 25
+    }
+  ],
+  "line_axis": "horizontal"
+}

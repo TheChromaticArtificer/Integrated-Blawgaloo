@@ -1,0 +1,44 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.locked_down_stay_charged.title",
+  "description": "task.integrated_boogaloo.locked_down_stay_charged.description",
+  "showcase": [
+    "@recipe:mffs:fortron_capacitor"
+  ],
+  "icon": "mffs:fortron_capacitor",
+  "program": "integrated_boogaloo:locked_down",
+  "category": "integrated_boogaloo:locked_down",
+  "sort_order": 23,
+  "position": {
+    "x": 6,
+    "y": 1
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:locked_down/shape_up"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "mffs:fortron_capacitor",
+      "description": "task.integrated_boogaloo.locked_down_stay_charged.goal",
+      "count": 1
+    },
+    {
+      "id": "card",
+      "type": "item",
+      "target": "mffs:frequency_card",
+      "description": "task.integrated_boogaloo.locked_down_stay_charged.card",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 40
+    }
+  ],
+  "line_axis": "horizontal"
+}

@@ -1,0 +1,54 @@
+{
+  "stateVersion": 1,
+  "preferences": {
+    "theme": "amber",
+    "displayBrightness": "standard",
+    "reduceEffects": false,
+    "resumeSession": true,
+    "displayLook": "terminal",
+    "iconColor": "accent",
+    "wallpaperColors": "match",
+    "customColors": "102010,030603,071007,A0D8A0,6E926E,65FF65,65FF65,FF7777",
+    "lookChosen": true,
+    "pauseWhileOpen": false,
+    "interfaceSounds": true,
+    "interfaceVolume": 60,
+    "uiSize": "standard",
+    "uiScalePercent": 115,
+    "mailAlerts": "toast",
+    "mailSound": true,
+    "taskAlerts": "actionbar",
+    "taskSound": true,
+    "taskMapZoom": "75",
+    "taskSidebarBehavior": "click",
+    "taskSidebarWidth": "narrow",
+    "taskSidebarText": "small",
+    "taskSidebarSpacing": "compact",
+    "archiveText": "small",
+    "taskSidebarCounts": true,
+    "editorLineNumbers": "auto",
+    "paintGrid": true,
+    "paintBrush": 1,
+    "terminalKeepHistory": true,
+    "explorerPlaces": true,
+    "explorerSortBySize": false
+  },
+  "lastAnternetUsername": "Kyroswoe",
+  "initialBootSeen": true,
+  "completedComputerTours": [
+    "d5acaaba-e4bc-4d6e-95d3-849567484057",
+    "40e44eef-9ac3-4e3e-b43b-d661add41248",
+    "7a2c8e3c-d9a5-49e7-a2dc-2765c8d86929"
+  ],
+  "taskGroupCollapsed": {
+    "integrated_boogaloo:exploration": false,
+    "integrated_boogaloo:hit_list": false,
+    "integrated_boogaloo:marvelous_engineering": false
+  },
+  "resumeSnapshots": {
+    "workspace:feb946eb-e53b-4d13-b95c-09cad5bf68b6": "{\"windows\":[{\"type\":\"TASKS\",\"x\":38,\"y\":52,\"restore_x\":38,\"restore_y\":52,\"minimized\":false,\"maximized\":true}],\"apps\":{\"files\":{\"directory\":\"/\",\"selected\":\"\"},\"text\":{},\"paint\":{},\"archive\":{},\"antazon\":{\"mode\":\"sell\",\"return_mode\":\"catalog\",\"category\":\"MATERIALS\",\"product\":\"\"},\"antmail\":{\"mode\":\"inbox\"},\"settings\":{\"category\":\"about\"}}}",
+    "workspace:855d0352-a23e-438e-bdc4-f5fc00a8e331": "{\"windows\":[{\"type\":\"TASKS\",\"x\":38,\"y\":52,\"restore_x\":112,\"restore_y\":52,\"minimized\":false,\"maximized\":false}],\"apps\":{\"files\":{\"directory\":\"/\",\"selected\":\"\"},\"text\":{},\"paint\":{},\"archive\":{},\"antazon\":{\"mode\":\"catalog\",\"return_mode\":\"catalog\",\"category\":\"ALL\",\"product\":\"\"},\"antmail\":{},\"settings\":{\"category\":\"account\"}}}",
+    "workspace:e19c9dfd-17db-4c18-a1fc-19e1783517b2": "{\"windows\":[{\"type\":\"TASKS\",\"x\":38,\"y\":52,\"restore_x\":112,\"restore_y\":52,\"minimized\":false,\"maximized\":false}],\"apps\":{\"files\":{\"directory\":\"/\",\"selected\":\"\"},\"text\":{},\"paint\":{},\"archive\":{},\"antazon\":{\"mode\":\"catalog\",\"return_mode\":\"catalog\",\"category\":\"ALL\",\"product\":\"\"},\"antmail\":{\"mode\":\"inbox\"},\"settings\":{\"category\":\"account\"},\"games\":{\"gallery\":true}}}"
+  },
+  "terminalHistory": {}
+}

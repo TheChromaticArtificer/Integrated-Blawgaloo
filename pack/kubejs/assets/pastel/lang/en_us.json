@@ -1,4 +1,5 @@
 {
+  "pastel.recipe.fusion_shrine.explanation.onyx_shard": "Midnight only",
   "book.pastel.guidebook.boogaloo.cutting_board.one": "I put this one together on a Cutting Board.",
   "book.pastel.guidebook.boogaloo.cutting_board.many": "I put these together on a Cutting Board.",
   "book.pastel.guidebook.boogaloo.effect.nightdew_sprout":"Soothes the mind and slows a racing heart.",
@@ -214,7 +215,7 @@
   "item.pastel.infused_beverage.tooltip.variant.glass_peach_cider": "Peach Cider",
   "book.pastel.guidebook.nephrite.page1.text": "Their blossoms are lovely, but the fruit they bear is brittle and inedible.\\\nFor anything that calls for peaches I use [](item://antarchy:peach) from Elythia's Peach Forests instead. Eating one may give me a short burst of [Toughness](entry://brewing/effects/toughness).",
   "book.pastel.guidebook.midnight_chip.page1.text": "The very drop I get from killing creatures with this feisty liquid enables me to make even more of it. Quite morbid, when I think about it.\\nThe base is [#](bb00bb)Ichor[#](), the withering liquid that pools across Thoraxis. A chip and a little black pigment turn it to midnight.",
-  "book.pastel.guidebook.bedrock_tools.page0.text": "Whenever I enter a new world I go about the mindless, days-long task of gathering villagers around me, turning them into zombies and healing them, only for one of them to eventually hand me a book of [#](449900)Mending[#](). All this just so I don't have to repair my tools.\\\nNow I take the finest tools I own, the [#](bb00bb)Ultimate[#]() ones, and fuse Bedrock into them. They come out unbreakable and stronger than before.\\\nSneak-using the pickaxe, axe, shovel or hoe switches its mining area between 1x1, 3x3 and 5x5.",
+  "book.pastel.guidebook.bedrock_tools.page0.text": "Whenever I enter a new world I go about the mindless, days-long task of gathering villagers around me, turning them into zombies and healing them, only for one of them to eventually hand me a book of [#](449900)Mending[#](). All this just so I don't have to repair my tools.\\\nNow I take the finest tools I own, the [#](bb00bb)Ultimate[#]() ones, and fuse Bedrock into them. They come out unbreakable and stronger than before.\\\nSneak-using the pickaxe, axe, shovel or hoe switches its mining area between 1x1, 3x3 and 5x5. The pickaxe and axe have one more setting that breaks every connected block of the same kind.",
   "book.pastel.guidebook.bedrock_tools.page1.text": "The Bedrock Pickaxe comes with **Efficiency VII**. Silk Touch or Fortune is my choice to add.",
   "book.pastel.guidebook.bedrock_tools.page2.text": "The Bedrock Axe comes with **Efficiency VII**.",
   "book.pastel.guidebook.bedrock_tools.page3.text": "The Bedrock Shovel comes with **Efficiency VII**.",

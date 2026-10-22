@@ -47,7 +47,7 @@
 #Energy production settings
 [energyProduction]
 	#Entity energy production map (format: 'entity_id:energy_per_tick')
-	energyMap = ["minecraft:chicken:2", "minecraft:pig:16", "minecraft:player:20", "minecraft:villager:25", "minecraft:wolf:22", "minecraft:creeper:80", "minecraft:enderman:160", "antarchy:brown_ant:40", "antarchy:termite:60", "antarchy:red_ant:80", "antarchy:rainbow_ant:120", "antarchy:mantis:50", "antarchy:hercules_beetle:200", "alexscaves:gammaroach:30", "alexscaves:raycat:20", "alexscaves:vallumraptor:45", "alexscaves:grottoceratops:100", "alexscaves:tremorsaurus:180", "iceandfire:hippogryph:60"]
+	energyMap = ["minecraft:chicken:2", "minecraft:pig:16", "minecraft:player:20", "minecraft:villager:25", "minecraft:wolf:22", "minecraft:creeper:80", "minecraft:enderman:160", "antarchy:brown_ant:512", "antarchy:termite:768", "antarchy:red_ant:1024", "antarchy:rainbow_ant:2048", "antarchy:mantis:256", "antarchy:hercules_beetle:4096", "alexscaves:gammaroach:30", "alexscaves:raycat:20", "alexscaves:vallumraptor:45", "alexscaves:grottoceratops:100", "alexscaves:tremorsaurus:180", "iceandfire:hippogryph:60"]
 
 #Synchronization settings
 [sync]

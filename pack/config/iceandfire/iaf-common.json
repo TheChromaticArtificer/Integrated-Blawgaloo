@@ -61,7 +61,13 @@
   "siren": {
     "maxHealth": 50.0,
     "maxSingTime": 12000,
-    "timeBetweenSongs": 2000
+    "timeBetweenSongs": 2000,
+    "beachSpawns": true,
+    "beachSpawnWeight": 10,
+    "beachMinGroupSize": 1,
+    "beachMaxGroupSize": 1,
+    "beachMinPlayerDistance": 48.0,
+    "despawnAtMorning": true
   },
   "gorgon": {
     "maxHealth": 100.0

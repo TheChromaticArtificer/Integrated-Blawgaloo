@@ -1,0 +1,27 @@
+{
+    "forEntity": "witchery:spectre",
+    "variantNbtStrip": [
+        "Origin",
+        "UuidMap"
+    ],
+    "traits": [
+        {
+            "type": "traitHostile"
+        },
+        {
+            "type": "abilityFlightFlap",
+            "slowdownInWater": true
+        },
+        {
+            "type": "abilityFlight",
+            "slowdownInWater": true,
+            "upgradeFor": "abilityFlightFlap"
+        },
+        {
+            "type": "traitProjectileImmunity"
+        },
+        {
+            "type": "traitFallNegate"
+        }
+    ]
+}

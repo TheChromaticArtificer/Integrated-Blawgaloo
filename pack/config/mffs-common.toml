@@ -6,23 +6,23 @@
 	#How many force field blocks can be generated per tick? Less reduces lag.
 	# Default: 1000000
 	# Range: > 0
-	maxFFGenPerTick = 1000000
+	maxFFGenPerTick = 50000
 	#Allow server operators to bypass Force Field biometry
 	allowOpBiometryOverride = true
 	#Should the interdiction matrix interact with creative players?
-	interactCreative = true
+	interactCreative = false
 	#Max custom mode field scale
 	# Default: 200
 	# Range: > 0
 	maxCustomModeScale = 200
 	#Give players a copy of the MFFS guidebook when they first join a world
-	giveGuidebookOnFirstJoin = true
+	giveGuidebookOnFirstJoin = false
 
 [coercion_deriver]
 	#FE to convert into 1 Fortron
 	# Default: 400
 	# Range: > 1
-	feCostPerFortron = 400
+	feCostPerFortron = 10
 	#FE to subtract when converting Fortron to FE
 	# Default: 1
 	# Range: > 0
@@ -30,11 +30,11 @@
 	#Base limit of fortron produced per tick (20 per second). Scales with speed modules and catalyst.
 	# Default: 200
 	# Range: > 1
-	fortronPerTick = 200
+	fortronPerTick = 100
 	#Production bonus per speed module. production = fortronPerTick + (fortronPerTick * speedModuleCount)... or x2 multiplicative
 	# Default: 200
 	# Range: > 1
-	fortronPerTickSpeedModule = 200
+	fortronPerTickSpeedModule = 100
 
 [balance]
 	#Fortron catalyst production multiplier

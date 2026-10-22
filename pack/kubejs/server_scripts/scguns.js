@@ -124,6 +124,15 @@ ServerEvents.recipes(event => {
     .id('kubejs:scguns/crafting/grenade')
   event.shaped('2x scguns:powder_keg', ['QXQ', 'PRP', 'QLQ'], { Q: '#minecraft:wooden_slabs', X: '#c:dusts/phosphorus', P: 'minecraft:iron_nugget', R: 'minecraft:tnt', L: '#c:dusts/saltpeter' })
     .id('kubejs:scguns/crafting/powder_keg')
+
+  const niterGlassColors = ['', 'white_', 'orange_', 'magenta_', 'light_blue_', 'yellow_', 'lime_', 'pink_', 'gray_',
+    'light_gray_', 'cyan_', 'purple_', 'blue_', 'brown_', 'green_', 'red_', 'black_']
+  niterGlassColors.forEach(color => {
+    const glass = color ? `minecraft:${color}stained_glass` : 'minecraft:glass'
+    event.remove({ id: `scguns:${color}niter_glass` })
+    event.shaped(`8x scguns:${color}niter_glass`, ['QQQ', 'QXQ', 'QQQ'], { Q: glass, X: 'scguns:niter' })
+      .id(`kubejs:scguns/crafting/${color}niter_glass`)
+  })
   event.shapeless('scguns:nitro_keg', ['scguns:powder_keg', 'scguns:nitro_powder', 'scguns:nitro_powder'])
     .id('kubejs:scguns/crafting/nitro_keg')
   event.shaped('scguns:thermolith', ['QXQ', 'XMX', 'QXQ'], { Q: 'oritech:nickel_ingot', X: 'minecraft:iron_bars', M: 'minecraft:blaze_rod' })

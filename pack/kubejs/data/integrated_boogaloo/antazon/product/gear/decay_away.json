@@ -24,5 +24,15 @@
       "item": "pastel:bottle_of_decay_away",
       "count": 2
     }
+  ],
+  "reviews": [
+    {
+      "id": "bloxiclean",
+      "author": "Bloxiclean",
+      "title": "computer.integrated_boogaloo.product.gear.decay_away.review.bloxiclean.title",
+      "body": "computer.integrated_boogaloo.product.gear.decay_away.review.bloxiclean.body",
+      "rating": 3,
+      "badge": "VERIFIED"
+    }
   ]
 }

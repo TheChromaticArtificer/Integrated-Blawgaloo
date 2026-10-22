@@ -17,10 +17,6 @@
     "type": "minecraft:random_spread",
     "spacing": 110,
     "separation": 70,
-    "salt": 1640215804,
-    "exclusion_zone": {
-      "other_set": "bda:hooligan_villages",
-      "chunk_count": 8
-    }
+    "salt": 1640215804
   }
 }

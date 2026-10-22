@@ -28,7 +28,19 @@
     "antarchy:molevore",
     "antarchy:worm",
     "antarchy:rolly_polly",
-    "antarchy:stink_bug"
+    "antarchy:stink_bug",
+    "alexscaves:nucleeper",
+    "alexscaves:brainiac",
+    "alexscaves:gammaroach",
+    "alexscaves:raycat",
+    "alexscaves:radgill",
+    "alexscaves:gloomoth",
+    "alexscaves:underzealot",
+    "alexscaves:corrodent",
+    "alexscaves:vesper",
+    "iceandfire:hydra",
+    "iceandfire:deathworm",
+    "iceandfire:troll"
   ],
   "unlocked_by_default": true
 }

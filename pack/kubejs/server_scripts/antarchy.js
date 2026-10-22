@@ -1,7 +1,5 @@
 ServerEvents.recipes(event => {
-	event.remove({ output: 'antarchy:uranium_ingot', type: 'minecraft:smelting' }),
-		event.remove({ output: 'antarchy:uranium_ingot', type: 'minecraft:blasting' }),
-		replace(event, 'antarchy:titanium_block', ['marvel:titanium_block']),
+	replace(event, 'antarchy:titanium_block', ['marvel:titanium_block']),
 		replace(event, 'antarchy:raw_titanium_block', ['marvel:raw_titanium_block']),
 		replace(event, 'antarchy:raw_titanium', ['marvel:raw_titanium']),
 		replace(event, 'antarchy:titanium_ingot', ['marvel:titanium_ingot']),

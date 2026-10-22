@@ -24,5 +24,23 @@
       "item": "marvel:vibranium",
       "count": 1
     }
+  ],
+  "reviews": [
+    {
+      "id": "captain_america",
+      "author": "Captain America",
+      "title": "computer.integrated_boogaloo.product.materials.vibranium.review.captain_america.title",
+      "body": "computer.integrated_boogaloo.product.materials.vibranium.review.captain_america.body",
+      "rating": 5,
+      "badge": "AVENGERS"
+    },
+    {
+      "id": "black_panther",
+      "author": "Black Panther",
+      "title": "computer.integrated_boogaloo.product.materials.vibranium.review.black_panther.title",
+      "body": "computer.integrated_boogaloo.product.materials.vibranium.review.black_panther.body",
+      "rating": 2,
+      "badge": "WAKANDA"
+    }
   ]
 }

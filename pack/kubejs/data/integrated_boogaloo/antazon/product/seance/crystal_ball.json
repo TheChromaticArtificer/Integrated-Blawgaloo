@@ -29,5 +29,15 @@
       "item": "witchery:crystal_ball",
       "count": 1
     }
+  ],
+  "reviews": [
+    {
+      "id": "null",
+      "author": "null",
+      "title": "computer.integrated_boogaloo.product.seance.crystal_ball.review.null.title",
+      "body": "computer.integrated_boogaloo.product.seance.crystal_ball.review.null.body",
+      "rating": 5,
+      "badge": ""
+    }
   ]
 }

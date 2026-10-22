@@ -1,0 +1,17 @@
+{
+  "sender": "deadpool@antmail.com",
+  "sender_display": "Deadpool",
+  "sender_avatar_item": "marvel:deadpool_helmet",
+  "subject": "Bogus",
+  "body": "Hood, robe, the little slippers. Very Bill and Teds Bogus Journey. Those two beat Death at Battleship AND Twister, so the bar for you is on the floor. Also you look like a Hogwarts reject.\n\nxoxo",
+  "trigger": {
+    "type": "advancement",
+    "value": "integrated_boogaloo:deadpool/wearing_death_set",
+    "delay_minutes": 3
+  },
+  "conditions": {
+    "mail_read": [
+      "integrated_boogaloo:deadpool_intro"
+    ]
+  }
+}

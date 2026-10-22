@@ -1,0 +1,11 @@
+{
+  "sender": "trayaurus@antmail.com",
+  "sender_avatar_item": "antarchy:diamond_minecart",
+  "subject": "Your wings are on the waitlist",
+  "body": "Ooh, you’ve got a form with wings now! Unfortunately I've got bad news for you. For now it can only flap, so keep tapping jump in the air to stay up.\n\nThe skies belong to the Kraken. The ocean wasn't enough for the Kraken so it conquered the skies too. Kill one and every form you have will fly properly. A witch can call one up with a ring of Otherwhere Chalk.\n\nDr. T",
+  "trigger": {
+    "delay_minutes": 1,
+    "type": "advancement",
+    "value": "integrated_boogaloo:morph/killed_flier"
+  }
+}

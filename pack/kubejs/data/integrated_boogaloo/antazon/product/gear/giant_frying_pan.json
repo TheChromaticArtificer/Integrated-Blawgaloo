@@ -24,5 +24,15 @@
       "item": "antarchy:giant_frying_pan",
       "count": 1
     }
+  ],
+  "reviews": [
+    {
+      "id": "gobber",
+      "author": "Gobber",
+      "title": "computer.integrated_boogaloo.product.gear.giant_frying_pan.review.gobber.title",
+      "body": "computer.integrated_boogaloo.product.gear.giant_frying_pan.review.gobber.body",
+      "rating": 5,
+      "badge": "BLACKSMITH"
+    }
   ]
 }

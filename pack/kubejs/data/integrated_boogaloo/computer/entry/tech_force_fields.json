@@ -1,0 +1,28 @@
+{
+  "green_tint": false,
+  "type": "article",
+  "category": "general",
+  "folder": "integrated_boogaloo:workshop",
+  "sort_order": 55,
+  "title": "guide.integrated_boogaloo.entry.tech_force_fields.title",
+  "subtitle": "guide.integrated_boogaloo.entry.tech_force_fields.subtitle",
+  "cover_item": "mffs:projector",
+  "lookup": [
+    "mffs:coercion_deriver",
+    "mffs:projector",
+    "mffs:fortron_capacitor",
+    "mffs:focus_matrix",
+    "mffs:frequency_card",
+    "mffs:interdiction_matrix",
+    "mffs:biometric_identifier",
+    "mffs:id_card"
+  ],
+  "content": [
+    {
+      "text": "guide.integrated_boogaloo.entry.tech_force_fields.body_1"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.tech_force_fields.body_2"
+    }
+  ]
+}

@@ -1,13 +1,13 @@
 name = "Just Another Witchery Remake"
-filename = "witchery-0.5.25+mc1.21.1.jar"
+filename = "witchery-0.5.26+mc1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ce5b2965826c19a4aedc8213f76d1af1b70a220d"
+hash = "0e4398fa3ca97ac1e1014c630bdaf029cbb18c7b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9250331
+file-id = 9270947
 project-id = 1125946

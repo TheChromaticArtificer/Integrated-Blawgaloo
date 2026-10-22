@@ -1,0 +1,12 @@
+{
+  "sender": "trayaurus@antmail.com",
+  "sender_avatar_item": "antarchy:diamond_minecart",
+  "subject": "It hums!",
+  "body": "You made a force field!! A real one that hums and everything. One tip mate, the bigger it gets the hungrier it gets, so keep that Deriver fed. And maybe don't build it with you stuck on the inside. They are very dangerous.\n\nYour old friend,\nDr. T",
+  "trigger": {
+    "delay_minutes": 3,
+    "type": "task_complete",
+    "value": "integrated_boogaloo:locked_down/bubble_boy"
+  },
+  "once": true
+}

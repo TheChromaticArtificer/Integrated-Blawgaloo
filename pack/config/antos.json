@@ -31,7 +31,8 @@
     "antazon": true,
     "games": true,
     "disks": true,
-    "tasks": true
+    "tasks": true,
+    "merchant": true
   },
   "client": {
     "inventoryComputerButton": true,

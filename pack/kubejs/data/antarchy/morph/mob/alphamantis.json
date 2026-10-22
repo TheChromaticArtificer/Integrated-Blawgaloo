@@ -1,0 +1,48 @@
+{
+    "forEntity": "antarchy:alpha_mantis",
+    "traits": [
+        {
+            "type": "traitHostile"
+        },
+        {
+            "type": "traitFallNegate"
+        },
+        {
+            "type": "abilityFlightFlap",
+            "resetVerticalVelocity": true,
+            "velocityAdded": 0.5,
+            "flapLimit": 6,
+            "slowdownInWater": true
+        },
+        {
+            "type": "abilityFlight",
+            "upgradeFor": "abilityFlightFlap",
+            "slowdownInWater": true
+        },
+        {
+            "type": "abilityAntarchyMantisSlash",
+            "nativeClassName": "com.craisinlord.antarchy.content.entity.AlphaMantisEntity",
+            "noArgMethods": [
+                "startAttack"
+            ],
+            "triggerControllerName": "attack_controller",
+            "triggerAnimName": "attack",
+            "radius": 3.0,
+            "damage": 6.0,
+            "knockback": 0.6,
+            "cooldown": 15,
+            "soundEventId": "antarchy:mantis_attack",
+            "slot": 1
+        },
+        {
+            "type": "abilityAntarchyAlphaMantisSummon",
+            "nativeClassName": "com.craisinlord.antarchy.content.entity.AlphaMantisEntity",
+            "summonEntityId": "antarchy:mantis",
+            "summonCount": 2,
+            "summonRadius": 3.0,
+            "cooldown": 600,
+            "soundEventId": "antarchy:mantis_ambient",
+            "slot": 2
+        }
+    ]
+}

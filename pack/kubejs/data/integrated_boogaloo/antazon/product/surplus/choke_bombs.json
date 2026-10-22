@@ -29,5 +29,15 @@
       "item": "scguns:choke_bomb",
       "count": 4
     }
+  ],
+  "reviews": [
+    {
+      "id": "glados",
+      "author": "GLaDOS",
+      "title": "computer.integrated_boogaloo.product.surplus.choke_bombs.review.glados.title",
+      "body": "computer.integrated_boogaloo.product.surplus.choke_bombs.review.glados.body",
+      "rating": 2,
+      "badge": "APERTURE"
+    }
   ]
 }

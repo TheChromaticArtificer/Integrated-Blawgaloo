@@ -1,0 +1,22 @@
+{
+  "criteria": {
+    "wearing": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "equipment": {
+            "head": {
+              "items": "witchery:death_hood"
+            },
+            "chest": {
+              "items": "witchery:death_robe"
+            },
+            "feet": {
+              "items": "witchery:death_footwear"
+            }
+          }
+        }
+      }
+    }
+  }
+}

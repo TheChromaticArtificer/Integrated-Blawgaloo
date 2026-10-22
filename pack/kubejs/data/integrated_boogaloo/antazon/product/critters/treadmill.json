@@ -24,5 +24,15 @@
       "item": "neosync:treadmill",
       "count": 1
     }
+  ],
+  "reviews": [
+    {
+      "id": "dr_t",
+      "author": "Dr. T",
+      "title": "computer.integrated_boogaloo.product.critters.treadmill.review.dr_t.title",
+      "body": "computer.integrated_boogaloo.product.critters.treadmill.review.dr_t.body",
+      "rating": 5,
+      "badge": "LAB VERIFIED"
+    }
   ]
 }

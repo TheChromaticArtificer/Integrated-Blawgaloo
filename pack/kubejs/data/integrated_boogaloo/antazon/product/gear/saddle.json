@@ -24,5 +24,15 @@
     "integrated_boogaloo:expedition_outfitters"
   ],
   "unlock_mode": "all",
-  "hidden_until_unlocked": true
+  "hidden_until_unlocked": true,
+  "reviews": [
+    {
+      "id": "gobber",
+      "author": "Gobber",
+      "title": "computer.integrated_boogaloo.product.gear.saddle.review.gobber.title",
+      "body": "computer.integrated_boogaloo.product.gear.saddle.review.gobber.body",
+      "rating": 3,
+      "badge": "BLACKSMITH"
+    }
+  ]
 }

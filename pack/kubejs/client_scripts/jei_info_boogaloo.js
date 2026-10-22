@@ -1,6 +1,5 @@
 RecipeViewerEvents.addInformation('item', e => {
   e.add('lucky:lucky_block', ['Right-click a placed one with a luck item to change its luck, or craft it together with luck items. Luck goes from -100 to +100 and starts at 0.', 'Gold, gems, glowstone, netherite, Rainbow Sugar, Titanium and Drops of Luck raise it. Rotten flesh, spider eyes, Wither Roses, Echo Shards, Uranium and Bile lower it.']);
-  e.add('kubejs:red_death_fang', ['Obtained by defeating the Red Death on Dragon Island.']);
   e.add('boogaloo_core:infinity_corndog', ['Obtained by trading a finished Gauntlet to Dr. Trayaurus. Kills anything in one hit.']);
   e.add('alexscaves:cave_tablet', ['Decode on a Spelunkery Table.']);
   e.add('alexscaves:cave_codex', ['Use to unlock new chapters on the Cave Codex or combine with a Map to obtain a Cave Biome Map.']);
@@ -78,7 +77,6 @@ RecipeViewerEvents.addInformation('item', e => {
   e.add('alexscaves:hazmat_leggings', ['Lowers the damage and effects of Irradiation and Acid.']);
   e.add('alexscaves:hazmat_boots', ['Lowers the damage and effects of Irradiation and Acid.']);
   e.add('alexscaves:remote_detonator', ['Allows remote trigger of registered explosives.']);
-  e.add('alexscaves:raygun', ['Inflicted Irradiation. Requires Uranium Rods as fuel.']);
   e.add('alexscaves:nuclear_furnace_component', ['Create a Nuclear Furnace by placing 8 Nuclear Furnace Component blocks together. Similar to, but 5x faster than a Blast Furnace. Uses Uranium Rods as fuel, but produces Unrefined Waste as a byproduct. To prevent it from exploding, Metal Barrels need to be provided to store the Unrefined Waste.']);
   e.add('alexscaves:spawn_egg_sea_pig', ['Sifts through Muck to look for anything edible. Feed Muck, Clay Balls, or Mud to cause Sea Pigs to produce Muck, Clay, Bone Meal, Sea Glass Shards, Pearls, and Marine Snow. Bucketable.']);
   e.add('alexscaves:spawn_egg_hullbreaker', ['Will investigate and eventually attacks anything that emits light or glows.']);

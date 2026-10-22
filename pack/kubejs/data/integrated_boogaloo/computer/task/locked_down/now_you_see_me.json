@@ -1,0 +1,36 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.locked_down_now_you_see_me.title",
+  "description": "task.integrated_boogaloo.locked_down_now_you_see_me.description",
+  "showcase": [
+    "@recipe:mffs:camouflage_module"
+  ],
+  "icon": "mffs:camouflage_module",
+  "program": "integrated_boogaloo:locked_down",
+  "category": "integrated_boogaloo:locked_down",
+  "sort_order": 25,
+  "position": {
+    "x": 4,
+    "y": 2
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:locked_down/bubble_boy"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "mffs:camouflage_module",
+      "description": "task.integrated_boogaloo.locked_down_now_you_see_me.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 25
+    }
+  ],
+  "line_axis": "horizontal"
+}

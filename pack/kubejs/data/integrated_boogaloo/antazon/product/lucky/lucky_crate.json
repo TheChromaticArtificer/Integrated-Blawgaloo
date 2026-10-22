@@ -37,6 +37,14 @@
       "body": "computer.integrated_boogaloo.product.lucky.lucky_crate.review.grian.body",
       "rating": 5,
       "badge": "POULTRY MAN"
+    },
+    {
+      "id": "mumbo",
+      "author": "Mumbo Jumbo",
+      "title": "computer.integrated_boogaloo.product.lucky.lucky_crate.review.mumbo.title",
+      "body": "computer.integrated_boogaloo.product.lucky.lucky_crate.review.mumbo.body",
+      "rating": 1,
+      "badge": "REDSTONE"
     }
   ]
 }

@@ -29,5 +29,23 @@
       "item": "createcybernetics:bodypart_brain",
       "count": 1
     }
+  ],
+  "reviews": [
+    {
+      "id": "wheatley",
+      "author": "Wheatley",
+      "title": "computer.integrated_boogaloo.product.black_market.brain.review.wheatley.title",
+      "body": "computer.integrated_boogaloo.product.black_market.brain.review.wheatley.body",
+      "rating": 5,
+      "badge": "NOT A MORON"
+    },
+    {
+      "id": "glados",
+      "author": "GLaDOS",
+      "title": "computer.integrated_boogaloo.product.black_market.brain.review.glados.title",
+      "body": "computer.integrated_boogaloo.product.black_market.brain.review.glados.body",
+      "rating": 1,
+      "badge": "APERTURE"
+    }
   ]
 }

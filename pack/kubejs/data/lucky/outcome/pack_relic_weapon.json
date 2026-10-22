@@ -81,10 +81,6 @@
         },
         {
           "type": "lucky:command",
-          "command": "/boogaloo_core relic give {playerName} timber"
-        },
-        {
-          "type": "lucky:command",
           "command": "/boogaloo_core relic give {playerName} flipper"
         },
         {

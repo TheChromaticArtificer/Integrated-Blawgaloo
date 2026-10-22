@@ -29,5 +29,15 @@
       "item": "antarchy:ant_trap",
       "count": 4
     }
+  ],
+  "reviews": [
+    {
+      "id": "scarlet_witch",
+      "author": "Scarlet Witch",
+      "title": "computer.integrated_boogaloo.product.pest_control.ant_traps.review.scarlet_witch.title",
+      "body": "computer.integrated_boogaloo.product.pest_control.ant_traps.review.scarlet_witch.body",
+      "rating": 5,
+      "badge": "AVENGERS"
+    }
   ]
 }

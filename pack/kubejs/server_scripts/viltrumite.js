@@ -1,6 +1,6 @@
 ServerEvents.recipes(event => {
   event.recipes.oritech.assembler()
-    .itemInputs(['marvellegacy:syringe_empty', 'viltrumitecore:viltrumite_blood_sample', 'viltrumitecore:viltrumite_blood_sample', 'minecraft:nether_star'])
+    .itemInputs(['marvellegacy:syringe_empty', 'viltrumitecore:viltrumite_blood_sample', 'antarchy:king_scale', 'antarchy:queen_scale'])
     .itemOutputs('integrated_superheroes:syringe_viltrumite_blood_omni_man')
     .time(200)
     .id('kubejs:oritech/assembler/syringe_viltrumite_blood_omni_man')

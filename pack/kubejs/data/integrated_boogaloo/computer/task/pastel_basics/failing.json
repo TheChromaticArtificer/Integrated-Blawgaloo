@@ -20,8 +20,8 @@
   "objectives": [
     {
       "id": "goal",
-      "type": "advancement",
-      "target": "pastel:midgame/collect_neolith",
+      "type": "item",
+      "target": "pastel:neolith",
       "description": "task.integrated_boogaloo.pastel_failing.goal",
       "count": 1
     },

@@ -5,10 +5,12 @@
 	biomassValue = 0.3
 
 [morphMode]
+	#Advancement ID that unlocks trait upgrades for a player (for example creative flight replacing flapping flight). Leave empty to only use the setting above.
+	classicUpgradeTraitsAdvancement = "antarchy:davy_jones_locker"
 	#Allows the selector to be used in COMMAND_ONLY mode. This lets the player morph freely from morphs that have been given to them.
 	commandAllowSelector = false
 	#Upgrades traits to the highest upgrade available for the morph. This, for example, will convert the bat's flapping flight ability to creative-mode flight ability.
-	classicUpgradeTraits = true
+	classicUpgradeTraits = false
 
 [playerFilter]
 	#Name of players in the filter list.
@@ -76,6 +78,8 @@
 	loseMorphOnDeath = false
 	#The Biomass Skin is meant to show during invisibility. Turning this off disables that.
 	biomassSkinWhilstInvisible = true
+	#Disable Better Combat attacks and animations while morphed. When disabled, Better Combat remains active and Morph replaces the visible player hands with the morph's hands.
+	disableBetterCombatForMorphs = false
 	#Lets a Snatcher morph pickpocket a random hotbar item from other players.
 	snatcherStealFromPlayers = true
 	#Resource Location name for Mob types you cannot acquire biomass or morphs from. Uses Regex matching.
