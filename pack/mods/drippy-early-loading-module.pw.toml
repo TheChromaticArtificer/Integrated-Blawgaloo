@@ -1,6 +1,6 @@
 name = "Drippy Early Loading Module"
 filename = "drippyloadingscreen-earlywindow_neoforge_3.1.5_MC_1.21.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

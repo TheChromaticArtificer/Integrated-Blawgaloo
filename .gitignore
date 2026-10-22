@@ -1,7 +1,8 @@
 
 #Exclude packwiz and its ignore files
 *.exe
-*.packwizignore
 *.bat
 *.bak
+*.bak.1
 packwiz
+serverpack/

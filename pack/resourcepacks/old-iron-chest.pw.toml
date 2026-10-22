@@ -1,0 +1,13 @@
+name = "Old Iron Chest"
+filename = "Old+Iron+Chest.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e5d0481df03e6a5a85a31a03cfaddb9616e40ebc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4703814
+project-id = 581931

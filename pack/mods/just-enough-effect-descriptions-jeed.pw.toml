@@ -1,6 +1,6 @@
 name = "Just Enough Effect Descriptions (JEED)"
 filename = "jeed-1.21-2.3.5-neoforge.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

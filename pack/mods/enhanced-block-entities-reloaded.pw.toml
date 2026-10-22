@@ -1,6 +1,6 @@
 name = "Enhanced Block Entities Reloaded"
 filename = "enhancedblockentities-0.13.2+1.21-neoforge.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

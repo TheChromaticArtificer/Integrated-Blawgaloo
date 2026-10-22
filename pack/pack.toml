@@ -1,11 +1,11 @@
-name = "Integrated Blawgaloo"
-version = "1.0.0"
+name = "Integrated Boogaloo"
+version = "1.0.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8da106421fb6f6ce5f6cdb8725a6d682a6d20ff155fe7a9c96260569e77f6074"
+hash = "9e1d07928f9a40bcb3be433a67d55ee2ad8cdfc81b1da7e896105bad2454d12a"
 
 [versions]
 minecraft = "1.21.1"

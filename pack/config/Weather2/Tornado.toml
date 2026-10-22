@@ -3,7 +3,7 @@
 	#Prevents tearing up of dirt, grass, sand and logs, overrides strength based grabbing
 	Storm_Tornado_RefinedGrabRules = true
 	#Makes weather boring! or peacefull?
-	Storm_NoTornadosOrCyclones = true
+	Storm_NoTornadosOrCyclones = false
 	#Grab player or not
 	Storm_Tornado_grabPlayer = true
 	#Prevent grabbing of non players
