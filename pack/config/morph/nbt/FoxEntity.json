@@ -1,9 +1,0 @@
-{
-  "forClass": "net.minecraft.world.entity.animal.Fox",
-  "modifiers": [
-    {
-      "key": "Type",
-      "keep": true
-    }
-  ]
-}

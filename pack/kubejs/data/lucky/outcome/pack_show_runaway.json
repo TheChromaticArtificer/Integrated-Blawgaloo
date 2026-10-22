@@ -1,6 +1,0 @@
-{
-  "type": "lucky:command",
-  "luck": 1,
-  "chance": 2.0,
-  "command": "/boogaloo_core lucky show runaway {playerName} {blockPosX} {blockPosY} {blockPosZ}"
-}

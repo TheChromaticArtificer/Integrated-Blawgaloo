@@ -1,8 +1,0 @@
-{
-  "category": "integrated_boogaloo:programs",
-  "title": "guide.integrated_boogaloo.disk.creature_feature.title",
-  "description": "guide.integrated_boogaloo.disk.creature_feature.description",
-  "programs": [
-    "integrated_boogaloo:creature_feature"
-  ]
-}

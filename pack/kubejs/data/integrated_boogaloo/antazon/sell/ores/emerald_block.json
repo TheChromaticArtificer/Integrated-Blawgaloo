@@ -1,7 +1,0 @@
-{
-  "item": "minecraft:emerald_block",
-  "value": 135,
-  "limit": 16,
-  "limit_reset": "minecraft_day",
-  "green_tint": false
-}

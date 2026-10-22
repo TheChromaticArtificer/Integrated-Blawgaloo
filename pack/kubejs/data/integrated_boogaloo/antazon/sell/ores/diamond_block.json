@@ -1,7 +1,0 @@
-{
-  "item": "minecraft:diamond_block",
-  "value": 360,
-  "limit": 8,
-  "limit_reset": "minecraft_day",
-  "green_tint": false
-}

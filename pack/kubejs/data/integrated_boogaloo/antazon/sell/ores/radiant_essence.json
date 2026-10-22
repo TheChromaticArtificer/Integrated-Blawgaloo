@@ -1,7 +1,0 @@
-{
-  "item": "alexscaves:radiant_essence",
-  "value": 250,
-  "limit": 16,
-  "limit_reset": "minecraft_day",
-  "green_tint": false
-}

@@ -1,5 +1,0 @@
-[Logging]
-	#Default is 'false/off'
-	BlueLibLogging = false
-	#Default is 'false/off'
-	modLogging = false

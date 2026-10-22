@@ -1,8 +1,0 @@
-{
-  "green_tint": false,
-  "render_mob_from_spawn_egg": true,
-  "title": "task.category.integrated_boogaloo.cavaryn",
-  "icon": "antarchy:termite_spawn_egg",
-  "sort_order": 20,
-  "group": "integrated_boogaloo:exploration"
-}

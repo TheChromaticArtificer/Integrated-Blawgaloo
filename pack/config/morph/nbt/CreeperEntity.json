@@ -1,9 +1,0 @@
-{
-  "forClass": "net.minecraft.world.entity.monster.Creeper",
-  "modifiers": [
-    {
-      "key": "powered",
-      "keep": true
-    }
-  ]
-}

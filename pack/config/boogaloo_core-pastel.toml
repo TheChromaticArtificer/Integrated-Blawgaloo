@@ -1,4 +1,0 @@
-[recipe_viewers]
-	#Show Pastel's "You have not discovered this recipe yet" screen in EMI and JEI
-	#until the recipe's advancement is earned. Off shows every Pastel recipe.
-	hide_undiscovered_recipes = false

@@ -1,7 +1,0 @@
-{
-  "criteria": {
-    "confirmed_drinking_age": {
-      "trigger": "minecraft:tick"
-    }
-  }
-}

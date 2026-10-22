@@ -1,9 +1,0 @@
-{
-  "replace": true,
-  "values": [
-    {
-      "id": "#integrated_api:collections/beaches",
-      "required": false
-    }
-  ]
-}

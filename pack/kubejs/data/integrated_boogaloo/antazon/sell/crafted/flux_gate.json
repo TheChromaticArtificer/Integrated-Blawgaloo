@@ -1,7 +1,0 @@
-{
-  "item": "oritech:flux_gate",
-  "value": 55,
-  "limit": 32,
-  "limit_reset": "minecraft_day",
-  "green_tint": false
-}

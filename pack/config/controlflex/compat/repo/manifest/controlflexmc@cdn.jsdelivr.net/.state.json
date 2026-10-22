@@ -1,8 +1,0 @@
-{
-  "schemaVersion": 1,
-  "baseUrl": "https://cdn.jsdelivr.net/gh/ControlFlexMC/cfx-compat-configs@0.8.8",
-  "mcVersion": "1.21.1",
-  "loader": "neoforge",
-  "lastSyncAt": "2026-10-22T21:41:41.285631800Z",
-  "manifestSha256": "614734359722930d08e579bcffe42def5e3cafbe7a3eddfab17e7c51902b52cc"
-}

@@ -1,7 +1,0 @@
-{
-  "green_tint": false,
-  "title": "task.category.integrated_boogaloo.hit_list_titans",
-  "icon_entity": "minecraft:wither",
-  "sort_order": 20,
-  "group": "integrated_boogaloo:hit_list"
-}

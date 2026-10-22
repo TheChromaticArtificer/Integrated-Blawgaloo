@@ -1,7 +1,0 @@
-{
-  "item": "oritech:ion_thruster",
-  "value": 55,
-  "limit": 32,
-  "limit_reset": "minecraft_day",
-  "green_tint": false
-}

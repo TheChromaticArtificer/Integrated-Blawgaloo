@@ -1,7 +1,0 @@
-{
-  "maxFlightSpeed": 9.0,
-  "throttleSpeed": 0.017,
-  "isHeatEnabled": true,
-  "breakBlocksOnTakeoff": true,
-  "tiltHitboxInFlight": true
-}

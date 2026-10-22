@@ -1,8 +1,0 @@
-{
-  "category": "integrated_boogaloo:programs",
-  "title": "guide.integrated_boogaloo.disk.marvel_comics.title",
-  "description": "guide.integrated_boogaloo.disk.marvel_comics.description",
-  "programs": [
-    "integrated_boogaloo:marvel_comics"
-  ]
-}

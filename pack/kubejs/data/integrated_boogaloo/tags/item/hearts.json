@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    "createcybernetics:bodypart_heart",
-    "witchery:demon_heart",
-    "iceandfire:hydra_heart",
-    "#iceandfire:dragon_hearts"
-  ]
-}

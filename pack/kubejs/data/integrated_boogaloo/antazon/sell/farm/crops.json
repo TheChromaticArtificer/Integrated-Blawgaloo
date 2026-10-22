@@ -1,7 +1,0 @@
-{
-  "tag": "integrated_boogaloo:antazon_sell/crops",
-  "value": 1,
-  "limit": 128,
-  "limit_reset": "minecraft_day",
-  "green_tint": false
-}
