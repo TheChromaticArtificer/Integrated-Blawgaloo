@@ -78,10 +78,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "minecraft:air"
-		},
-		{
-			"weight": 1.0,
 			"key": "minecraft:allium"
 		},
 		{
@@ -794,10 +790,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "minecraft:camel_husk_spawn_egg"
-		},
-		{
-			"weight": 1.0,
 			"key": "minecraft:campfire"
 		},
 		{
@@ -1203,10 +1195,6 @@
 		{
 			"weight": 1.0,
 			"key": "minecraft:copper_door"
-		},
-		{
-			"weight": 1.0,
-			"key": "minecraft:copper_golem_spawn_egg"
 		},
 		{
 			"weight": 1.0,
@@ -3442,10 +3430,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "minecraft:nautilus_spawn_egg"
-		},
-		{
-			"weight": 1.0,
 			"key": "minecraft:nether_brick"
 		},
 		{
@@ -3899,10 +3883,6 @@
 		{
 			"weight": 1.0,
 			"key": "minecraft:paper"
-		},
-		{
-			"weight": 1.0,
-			"key": "minecraft:parched_spawn_egg"
 		},
 		{
 			"weight": 1.0,
@@ -6111,10 +6091,6 @@
 		{
 			"weight": 1.0,
 			"key": "minecraft:zombie_head"
-		},
-		{
-			"weight": 1.0,
-			"key": "minecraft:zombie_nautilus_spawn_egg"
 		}
 	]
 }

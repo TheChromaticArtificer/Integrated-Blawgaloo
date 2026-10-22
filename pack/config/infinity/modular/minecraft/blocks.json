@@ -1561,16 +1561,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "minecraft:bubble_column",
-			"data": {
-				"float": false,
-				"laggy": false,
-				"top": false,
-				"full": false
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "minecraft:bubble_coral",
 			"data": {
 				"float": false,
@@ -1751,16 +1741,6 @@
 		{
 			"weight": 1.0,
 			"key": "minecraft:cauldron",
-			"data": {
-				"float": true,
-				"laggy": false,
-				"top": true,
-				"full": false
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "minecraft:cave_air",
 			"data": {
 				"float": true,
 				"laggy": false,
@@ -6550,16 +6530,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "minecraft:moving_piston",
-			"data": {
-				"float": true,
-				"laggy": true,
-				"top": true,
-				"full": false
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "minecraft:mud",
 			"data": {
 				"float": true,
@@ -7856,16 +7826,6 @@
 				"laggy": false,
 				"top": true,
 				"full": true
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "minecraft:piston_head",
-			"data": {
-				"float": false,
-				"laggy": false,
-				"top": false,
-				"full": false
 			}
 		},
 		{
@@ -11303,16 +11263,6 @@
 				"float": false,
 				"laggy": false,
 				"top": false,
-				"full": false
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "minecraft:void_air",
-			"data": {
-				"float": true,
-				"laggy": false,
-				"top": true,
 				"full": false
 			}
 		},

@@ -48,13 +48,6 @@
 			"data": {
 				"Category": "monster"
 			}
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:tathog",
-			"data": {
-				"Category": "creature"
-			}
 		}
 	]
 }

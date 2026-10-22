@@ -622,10 +622,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "supplementaries:gold_bars"
-		},
-		{
-			"weight": 1.0,
 			"key": "supplementaries:gold_door"
 		},
 		{
@@ -1287,10 +1283,6 @@
 		{
 			"weight": 1.0,
 			"key": "supplementaries:wild_flax"
-		},
-		{
-			"weight": 1.0,
-			"key": "supplementaries:wind_vane"
 		},
 		{
 			"weight": 1.0,

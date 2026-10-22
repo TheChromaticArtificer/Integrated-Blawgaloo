@@ -482,10 +482,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "abyssal_decor:block_of_pearl"
-		},
-		{
-			"weight": 1.0,
 			"key": "abyssal_decor:block_of_prismarine_crystal"
 		},
 		{
@@ -2027,10 +2023,6 @@
 		{
 			"weight": 1.0,
 			"key": "abyssal_decor:laventine_glass_pane_top"
-		},
-		{
-			"weight": 1.0,
-			"key": "abyssal_decor:le_fishe_au_chocolat"
 		},
 		{
 			"weight": 1.0,

@@ -54,10 +54,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "alexscaves:advancement_tab_icon"
-		},
-		{
-			"weight": 1.0,
 			"key": "alexscaves:alex_meal"
 		},
 		{
@@ -231,10 +227,6 @@
 		{
 			"weight": 1.0,
 			"key": "alexscaves:cave_map_filled"
-		},
-		{
-			"weight": 1.0,
-			"key": "alexscaves:cave_map_inventory"
 		},
 		{
 			"weight": 1.0,
@@ -546,22 +538,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "alexscaves:dreadbow_inventory"
-		},
-		{
-			"weight": 1.0,
-			"key": "alexscaves:dreadbow_pulling_0_inventory"
-		},
-		{
-			"weight": 1.0,
-			"key": "alexscaves:dreadbow_pulling_1_inventory"
-		},
-		{
-			"weight": 1.0,
-			"key": "alexscaves:dreadbow_pulling_2_inventory"
-		},
-		{
-			"weight": 1.0,
 			"key": "alexscaves:dusk_anemone"
 		},
 		{
@@ -583,10 +559,6 @@
 		{
 			"weight": 1.0,
 			"key": "alexscaves:extinction_spear"
-		},
-		{
-			"weight": 1.0,
-			"key": "alexscaves:extinction_spear_inventory"
 		},
 		{
 			"weight": 1.0,
@@ -671,10 +643,6 @@
 		{
 			"weight": 1.0,
 			"key": "alexscaves:frostmint_spear"
-		},
-		{
-			"weight": 1.0,
-			"key": "alexscaves:frostmint_spear_inventory"
 		},
 		{
 			"weight": 1.0,
@@ -1058,10 +1026,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "alexscaves:limestone_spear_inventory"
-		},
-		{
-			"weight": 1.0,
 			"key": "alexscaves:limestone_stairs"
 		},
 		{
@@ -1163,10 +1127,6 @@
 		{
 			"weight": 1.0,
 			"key": "alexscaves:ortholance"
-		},
-		{
-			"weight": 1.0,
-			"key": "alexscaves:ortholance_inventory"
 		},
 		{
 			"weight": 1.0,
@@ -1287,10 +1247,6 @@
 		{
 			"weight": 1.0,
 			"key": "alexscaves:primitive_club"
-		},
-		{
-			"weight": 1.0,
-			"key": "alexscaves:primitive_club_inventory"
 		},
 		{
 			"weight": 1.0,
@@ -1610,10 +1566,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "alexscaves:sea_staff_inventory"
-		},
-		{
-			"weight": 1.0,
 			"key": "alexscaves:seeking_arrow"
 		},
 		{
@@ -1751,10 +1703,6 @@
 		{
 			"weight": 1.0,
 			"key": "alexscaves:sugar_staff"
-		},
-		{
-			"weight": 1.0,
-			"key": "alexscaves:sugar_staff_inventory"
 		},
 		{
 			"weight": 1.0,

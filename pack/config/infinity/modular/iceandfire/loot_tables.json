@@ -2,13 +2,6 @@
 	"elements": [
 		{
 			"weight": 1.0,
-			"key": "iceandfire:blocks/ash",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "iceandfire:blocks/burnt_torch",
 			"data": {
 				"Type": "block"
@@ -114,13 +107,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "iceandfire:blocks/deepslate_silver_ore",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "iceandfire:blocks/dragon_bone_block",
 			"data": {
 				"Type": "block"
@@ -156,27 +142,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "iceandfire:blocks/dragonforge_fire_core",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "iceandfire:blocks/dragonforge_fire_core_disabled",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "iceandfire:blocks/dragonforge_fire_input",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "iceandfire:blocks/dragonforge_ice_brick",
 			"data": {
 				"Type": "block"
@@ -184,49 +149,7 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "iceandfire:blocks/dragonforge_ice_core",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "iceandfire:blocks/dragonforge_ice_core_disabled",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "iceandfire:blocks/dragonforge_ice_input",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "iceandfire:blocks/dragonforge_lightning_brick",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "iceandfire:blocks/dragonforge_lightning_core",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "iceandfire:blocks/dragonforge_lightning_core_disabled",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "iceandfire:blocks/dragonforge_lightning_input",
 			"data": {
 				"Type": "block"
 			}
@@ -334,13 +257,6 @@
 			"key": "iceandfire:blocks/dragonsteel_lightning_block",
 			"data": {
 				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "iceandfire:blocks/dread_spawner",
-			"data": {
-				"Type": "generic"
 			}
 		},
 		{
@@ -646,41 +562,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "iceandfire:blocks/raw_silver_block",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "iceandfire:blocks/sapphire_block",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "iceandfire:blocks/sapphire_ore",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "iceandfire:blocks/silver_block",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "iceandfire:blocks/silver_ore",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "iceandfire:blocks/silver_pile",
 			"data": {
 				"Type": "block"
@@ -794,13 +675,6 @@
 		{
 			"weight": 1.0,
 			"key": "iceandfire:entities/cockatrice",
-			"data": {
-				"Type": "generic"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "iceandfire:entities/cyclops",
 			"data": {
 				"Type": "generic"
 			}
@@ -961,13 +835,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "iceandfire:entities/gorgon",
-			"data": {
-				"Type": "generic"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "iceandfire:entities/hippocampus",
 			"data": {
 				"Type": "generic"
@@ -982,21 +849,7 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "iceandfire:entities/hydra",
-			"data": {
-				"Type": "generic"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "iceandfire:entities/pixie",
-			"data": {
-				"Type": "generic"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "iceandfire:entities/sea_serpent",
 			"data": {
 				"Type": "generic"
 			}

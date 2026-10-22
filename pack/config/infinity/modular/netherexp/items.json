@@ -42,10 +42,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "netherexp:blank_shotgun_shell"
-		},
-		{
-			"weight": 1.0,
 			"key": "netherexp:blotted_netherrack"
 		},
 		{
@@ -615,10 +611,6 @@
 		{
 			"weight": 1.0,
 			"key": "netherexp:shotgun_fist"
-		},
-		{
-			"weight": 1.0,
-			"key": "netherexp:shotgun_shell"
 		},
 		{
 			"weight": 1.0,

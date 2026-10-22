@@ -302,6 +302,7 @@
       "vicious_acid_source": "fluid_type.scguns.vicious_acid",
       "invisibility_elixir": "fluid_type.irons_spellbooks.invisibility_elixir",
       "flowing_bile": "block.antarchy.bile",
+      "liquid_malice": "fluid_type.discerning_the_eldritch.liquid_malice",
       "greater_oakskin_elixir": "fluid_type.irons_spellbooks.greater_oakskin_elixir",
       "flowing_fuel": "fluid.oritech.still_fuel",
       "flowing_strange_matter": "fluid.oritech.still_strange_matter",

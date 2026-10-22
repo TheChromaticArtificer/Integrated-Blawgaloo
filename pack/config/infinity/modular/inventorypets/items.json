@@ -2,15 +2,7 @@
 	"elements": [
 		{
 			"weight": 1.0,
-			"key": "inventorypets:banana"
-		},
-		{
-			"weight": 1.0,
 			"key": "inventorypets:blue_screen"
-		},
-		{
-			"weight": 1.0,
-			"key": "inventorypets:candy_cane"
 		},
 		{
 			"weight": 1.0,
@@ -194,50 +186,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "inventorypets:pet_meta_100"
-		},
-		{
-			"weight": 1.0,
-			"key": "inventorypets:pet_meta_25"
-		},
-		{
-			"weight": 1.0,
-			"key": "inventorypets:pet_meta_50"
-		},
-		{
-			"weight": 1.0,
-			"key": "inventorypets:pet_meta_75"
-		},
-		{
-			"weight": 1.0,
-			"key": "inventorypets:pet_meta_aoe"
-		},
-		{
-			"weight": 1.0,
-			"key": "inventorypets:pet_meta_fan"
-		},
-		{
-			"weight": 1.0,
-			"key": "inventorypets:pet_meta_mob"
-		},
-		{
-			"weight": 1.0,
-			"key": "inventorypets:pet_meta_peaceful"
-		},
-		{
-			"weight": 1.0,
-			"key": "inventorypets:pet_meta_special"
-		},
-		{
-			"weight": 1.0,
-			"key": "inventorypets:pet_meta_utility"
-		},
-		{
-			"weight": 1.0,
-			"key": "inventorypets:pet_meta_youtuber"
-		},
-		{
-			"weight": 1.0,
 			"key": "inventorypets:pet_mickerson"
 		},
 		{
@@ -355,50 +303,6 @@
 		{
 			"weight": 1.0,
 			"key": "inventorypets:pet_wolf"
-		},
-		{
-			"weight": 1.0,
-			"key": "inventorypets:petachieve_1"
-		},
-		{
-			"weight": 1.0,
-			"key": "inventorypets:petachieve_10"
-		},
-		{
-			"weight": 1.0,
-			"key": "inventorypets:petachieve_20"
-		},
-		{
-			"weight": 1.0,
-			"key": "inventorypets:petachieve_30"
-		},
-		{
-			"weight": 1.0,
-			"key": "inventorypets:petachieve_40"
-		},
-		{
-			"weight": 1.0,
-			"key": "inventorypets:petachieve_5"
-		},
-		{
-			"weight": 1.0,
-			"key": "inventorypets:petachieve_50"
-		},
-		{
-			"weight": 1.0,
-			"key": "inventorypets:petachieve_60"
-		},
-		{
-			"weight": 1.0,
-			"key": "inventorypets:petachieve_all"
-		},
-		{
-			"weight": 1.0,
-			"key": "inventorypets:petachieve_general"
-		},
-		{
-			"weight": 1.0,
-			"key": "inventorypets:rock_candy"
 		},
 		{
 			"weight": 1.0,

@@ -184,13 +184,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "pastel:blocks/ash_pile",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "pastel:blocks/ashen_blackslag",
 			"data": {
 				"Type": "block"
@@ -226,13 +219,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "pastel:blocks/axolotl_idol",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "pastel:blocks/axolotl_leucistic_head",
 			"data": {
 				"Type": "block"
@@ -241,27 +227,6 @@
 		{
 			"weight": 1.0,
 			"key": "pastel:blocks/axolotl_wild_head",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/azurite_block",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/azurite_cluster",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/azurite_ore",
 			"data": {
 				"Type": "block"
 			}
@@ -436,20 +401,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "pastel:blocks/bedrock_anvil",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/bedrock_dust_block",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "pastel:blocks/bee_head",
 			"data": {
 				"Type": "block"
@@ -507,13 +458,6 @@
 		{
 			"weight": 1.0,
 			"key": "pastel:blocks/black_glowblock",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/black_hole_chest",
 			"data": {
 				"Type": "block"
 			}
@@ -619,13 +563,6 @@
 		{
 			"weight": 1.0,
 			"key": "pastel:blocks/blackslag_amethyst_ore",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/blackslag_azurite_ore",
 			"data": {
 				"Type": "block"
 			}
@@ -751,13 +688,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "pastel:blocks/blackslag_shimmerstone_ore",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "pastel:blocks/blackslag_slab",
 			"data": {
 				"Type": "block"
@@ -864,20 +794,6 @@
 		{
 			"weight": 1.0,
 			"key": "pastel:blocks/blood_orchid",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/bloodstone_block",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/bloodstone_cluster",
 			"data": {
 				"Type": "block"
 			}
@@ -1465,13 +1381,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "pastel:blocks/chicken_idol",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "pastel:blocks/chiseled_polished_basalt",
 			"data": {
 				"Type": "block"
@@ -1487,13 +1396,6 @@
 		{
 			"weight": 1.0,
 			"key": "pastel:blocks/chiseled_polished_calcite",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/cinderhearth",
 			"data": {
 				"Type": "block"
 			}
@@ -1633,20 +1535,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "pastel:blocks/color_picker",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/compacting_chest",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "pastel:blocks/connection_node",
 			"data": {
 				"Type": "block"
@@ -1731,35 +1619,7 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "pastel:blocks/cracked_end_portal_frame",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "pastel:blocks/creature_detector",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/creeper_idol",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/crystal_apothecary",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/crystallarieum",
 			"data": {
 				"Type": "block"
 			}
@@ -1892,13 +1752,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "pastel:blocks/deepslate_azurite_ore",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "pastel:blocks/deepslate_citrine_ore",
 			"data": {
 				"Type": "block"
@@ -1928,13 +1781,6 @@
 		{
 			"weight": 1.0,
 			"key": "pastel:blocks/deepslate_shimmerstone_light",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/deepslate_shimmerstone_ore",
 			"data": {
 				"Type": "block"
 			}
@@ -2151,20 +1997,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "pastel:blocks/enchanter",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/ender_dragon_idol",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "pastel:blocks/ender_dropper",
 			"data": {
 				"Type": "block"
@@ -2187,13 +2019,6 @@
 		{
 			"weight": 1.0,
 			"key": "pastel:blocks/enderman_head",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/enderman_idol",
 			"data": {
 				"Type": "block"
 			}
@@ -2229,13 +2054,6 @@
 		{
 			"weight": 1.0,
 			"key": "pastel:blocks/evoker_head",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/evoker_idol",
 			"data": {
 				"Type": "block"
 			}
@@ -2305,13 +2123,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "pastel:blocks/fabrication_chest",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "pastel:blocks/fading",
 			"data": {
 				"Type": "block"
@@ -2320,13 +2131,6 @@
 		{
 			"weight": 1.0,
 			"key": "pastel:blocks/failing",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/fish_idol",
 			"data": {
 				"Type": "block"
 			}
@@ -2368,13 +2172,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "pastel:blocks/fox_idol",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "pastel:blocks/frog_cold_head",
 			"data": {
 				"Type": "block"
@@ -2403,20 +2200,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "pastel:blocks/fusion_shrine_basalt",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/fusion_shrine_calcite",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "pastel:blocks/gather_node",
 			"data": {
 				"Type": "block"
@@ -2425,13 +2208,6 @@
 		{
 			"weight": 1.0,
 			"key": "pastel:blocks/ghast_head",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/ghast_idol",
 			"data": {
 				"Type": "block"
 			}
@@ -2466,13 +2242,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "pastel:blocks/glow_squid_idol",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "pastel:blocks/glowstone_cluster",
 			"data": {
 				"Type": "block"
@@ -2481,13 +2250,6 @@
 		{
 			"weight": 1.0,
 			"key": "pastel:blocks/goat_head",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/goat_idol",
 			"data": {
 				"Type": "block"
 			}
@@ -2725,20 +2487,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "pastel:blocks/guardian_idol",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/heartbound_chest",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "pastel:blocks/hoglin_head",
 			"data": {
 				"Type": "block"
@@ -2754,13 +2502,6 @@
 		{
 			"weight": 1.0,
 			"key": "pastel:blocks/horse_head",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/horse_idol",
 			"data": {
 				"Type": "block"
 			}
@@ -2810,13 +2551,6 @@
 		{
 			"weight": 1.0,
 			"key": "pastel:blocks/illusioner_head",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/illusioner_idol",
 			"data": {
 				"Type": "block"
 			}
@@ -3103,21 +2837,7 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "pastel:blocks/large_azurite_bud",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "pastel:blocks/large_bismuth_bud",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/large_bloodstone_bud",
 			"data": {
 				"Type": "block"
 			}
@@ -3202,13 +2922,6 @@
 		{
 			"weight": 1.0,
 			"key": "pastel:blocks/large_moonstone_bud",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/large_netherite_scrap_bud",
 			"data": {
 				"Type": "block"
 			}
@@ -4055,13 +3768,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "pastel:blocks/netherite_scrap_cluster",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "pastel:blocks/nickel_cluster",
 			"data": {
 				"Type": "block"
@@ -4091,13 +3797,6 @@
 		{
 			"weight": 1.0,
 			"key": "pastel:blocks/ocelot_head",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/ocelot_idol",
 			"data": {
 				"Type": "block"
 			}
@@ -4328,13 +4027,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "pastel:blocks/paltaeria_ore",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "pastel:blocks/panda_head",
 			"data": {
 				"Type": "block"
@@ -4370,13 +4062,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "pastel:blocks/parrot_idol",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "pastel:blocks/parrot_red_head",
 			"data": {
 				"Type": "block"
@@ -4384,63 +4069,7 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "pastel:blocks/particle_spawner",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/pedestal_all_basic",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/pedestal_basic_amethyst",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/pedestal_basic_citrine",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/pedestal_basic_topaz",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/pedestal_moonstone",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/pedestal_onyx",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "pastel:blocks/phantom_head",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/phantom_idol",
 			"data": {
 				"Type": "block"
 			}
@@ -4958,13 +4587,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "pastel:blocks/potion_workshop",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "pastel:blocks/potted_amaranth_bushel",
 			"data": {
 				"Type": "block"
@@ -5189,13 +4811,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "pastel:blocks/pufferfish_idol",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "pastel:blocks/pure_coal_block",
 			"data": {
 				"Type": "block"
@@ -5253,13 +4868,6 @@
 		{
 			"weight": 1.0,
 			"key": "pastel:blocks/pure_lapis_block",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/pure_netherite_scrap_block",
 			"data": {
 				"Type": "block"
 			}
@@ -5518,21 +5126,7 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "pastel:blocks/quitoxic_reeds",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "pastel:blocks/rabbit_head",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/rabbit_idol",
 			"data": {
 				"Type": "block"
 			}
@@ -5875,20 +5469,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "pastel:blocks/shimmerstone_block",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/shimmerstone_ore",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "pastel:blocks/shulker_black_head",
 			"data": {
 				"Type": "block"
@@ -5932,13 +5512,6 @@
 		{
 			"weight": 1.0,
 			"key": "pastel:blocks/shulker_head",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/shulker_idol",
 			"data": {
 				"Type": "block"
 			}
@@ -6022,21 +5595,7 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "pastel:blocks/silverfish_idol",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "pastel:blocks/skeleton_horse_head",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/skeleton_idol",
 			"data": {
 				"Type": "block"
 			}
@@ -6197,13 +5756,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "pastel:blocks/small_azurite_bud",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "pastel:blocks/small_bismuth_bud",
 			"data": {
 				"Type": "block"
@@ -6212,13 +5764,6 @@
 		{
 			"weight": 1.0,
 			"key": "pastel:blocks/small_black_dragonjag",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/small_bloodstone_bud",
 			"data": {
 				"Type": "block"
 			}
@@ -6303,13 +5848,6 @@
 		{
 			"weight": 1.0,
 			"key": "pastel:blocks/small_moonstone_bud",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/small_netherite_scrap_bud",
 			"data": {
 				"Type": "block"
 			}
@@ -6442,35 +5980,7 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "pastel:blocks/snow_golem_idol",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "pastel:blocks/spider_head",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/spider_idol",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/spirit_instiller",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/spirit_sallow_heart",
 			"data": {
 				"Type": "block"
 			}
@@ -6505,13 +6015,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "pastel:blocks/squid_idol",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "pastel:blocks/stardust_block",
 			"data": {
 				"Type": "block"
@@ -6540,13 +6043,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "pastel:blocks/stratine_ore",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "pastel:blocks/stray_head",
 			"data": {
 				"Type": "block"
@@ -6554,21 +6050,7 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "pastel:blocks/stray_idol",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "pastel:blocks/strider_head",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/strider_idol",
 			"data": {
 				"Type": "block"
 			}
@@ -6869,13 +6351,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "pastel:blocks/stuck_storm_stone",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "pastel:blocks/sweet_pea",
 			"data": {
 				"Type": "block"
@@ -6947,13 +6422,6 @@
 		{
 			"weight": 1.0,
 			"key": "pastel:blocks/titanium_cluster",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/titration_barrel",
 			"data": {
 				"Type": "block"
 			}
@@ -7059,13 +6527,6 @@
 		{
 			"weight": 1.0,
 			"key": "pastel:blocks/turtle_head",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/turtle_idol",
 			"data": {
 				"Type": "block"
 			}
@@ -7555,28 +7016,7 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "pastel:blocks/witch_idol",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "pastel:blocks/wither_head",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/wither_idol",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:blocks/wither_skeleton_idol",
 			"data": {
 				"Type": "block"
 			}
@@ -7975,13 +7415,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "pastel:chests/forsaken_cathedral/entry",
-			"data": {
-				"Type": "chest"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "pastel:chests/ruined_pedestal_deepslate",
 			"data": {
 				"Type": "chest"
@@ -8312,13 +7745,6 @@
 		{
 			"weight": 1.0,
 			"key": "pastel:entities/lizard",
-			"data": {
-				"Type": "entity"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:entities/preservation_turret",
 			"data": {
 				"Type": "entity"
 			}

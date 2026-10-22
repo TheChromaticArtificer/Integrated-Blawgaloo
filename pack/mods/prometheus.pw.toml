@@ -1,0 +1,13 @@
+name = "Prometheus"
+filename = "prometheus-neoforge-1.21.1-1.2.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d7360ff8eb9e77c8b3bc62568565c9d8ec82ca83"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9285782
+project-id = 1365195

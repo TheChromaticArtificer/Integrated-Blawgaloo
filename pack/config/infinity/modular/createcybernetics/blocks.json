@@ -22,26 +22,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "createcybernetics:computer",
-			"data": {
-				"float": true,
-				"laggy": true,
-				"top": true,
-				"full": true
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:computer_tower",
-			"data": {
-				"float": true,
-				"laggy": true,
-				"top": true,
-				"full": true
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "createcybernetics:data_cache",
 			"data": {
 				"float": true,
@@ -62,16 +42,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "createcybernetics:deepslate_titaniumore_block",
-			"data": {
-				"float": true,
-				"laggy": false,
-				"top": true,
-				"full": true
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "createcybernetics:digital_architecture",
 			"data": {
 				"float": true,
@@ -86,36 +56,6 @@
 			"data": {
 				"float": true,
 				"laggy": true,
-				"top": true,
-				"full": false
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:etched_titanium_copper",
-			"data": {
-				"float": true,
-				"laggy": false,
-				"top": true,
-				"full": true
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:etched_titanium_copper_slab",
-			"data": {
-				"float": true,
-				"laggy": false,
-				"top": true,
-				"full": false
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:etched_titanium_copper_stairs",
-			"data": {
-				"float": true,
-				"laggy": false,
 				"top": true,
 				"full": false
 			}
@@ -182,72 +122,12 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "createcybernetics:raw_titanium_block",
-			"data": {
-				"float": true,
-				"laggy": false,
-				"top": true,
-				"full": true
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "createcybernetics:robosurgeon",
 			"data": {
 				"float": true,
 				"laggy": true,
 				"top": true,
 				"full": true
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:smooth_titanium",
-			"data": {
-				"float": true,
-				"laggy": false,
-				"top": true,
-				"full": true
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:smooth_titanium_slab",
-			"data": {
-				"float": true,
-				"laggy": false,
-				"top": true,
-				"full": false
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:smooth_titanium_stairs",
-			"data": {
-				"float": true,
-				"laggy": false,
-				"top": true,
-				"full": false
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:surgery_chamber",
-			"data": {
-				"float": true,
-				"laggy": false,
-				"top": true,
-				"full": false
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:surgery_chamber_top",
-			"data": {
-				"float": true,
-				"laggy": false,
-				"top": true,
-				"full": false
 			}
 		},
 		{
@@ -268,66 +148,6 @@
 				"laggy": false,
 				"top": true,
 				"full": false
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:titanium_block",
-			"data": {
-				"float": true,
-				"laggy": false,
-				"top": true,
-				"full": true
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:titanium_clad_copper",
-			"data": {
-				"float": true,
-				"laggy": false,
-				"top": true,
-				"full": true
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:titanium_clad_copper_slab",
-			"data": {
-				"float": true,
-				"laggy": false,
-				"top": true,
-				"full": false
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:titanium_clad_copper_stairs",
-			"data": {
-				"float": true,
-				"laggy": false,
-				"top": true,
-				"full": false
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:titanium_grate",
-			"data": {
-				"float": true,
-				"laggy": false,
-				"top": true,
-				"full": true
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:titaniumore_block",
-			"data": {
-				"float": true,
-				"laggy": false,
-				"top": true,
-				"full": true
 			}
 		}
 	]

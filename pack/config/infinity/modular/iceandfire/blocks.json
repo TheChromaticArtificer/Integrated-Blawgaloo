@@ -2,16 +2,6 @@
 	"elements": [
 		{
 			"weight": 1.0,
-			"key": "iceandfire:ash",
-			"data": {
-				"float": false,
-				"laggy": false,
-				"top": true,
-				"full": true
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "iceandfire:burnt_torch",
 			"data": {
 				"float": false,
@@ -212,36 +202,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "iceandfire:dragonforge_fire_core",
-			"data": {
-				"float": true,
-				"laggy": true,
-				"top": true,
-				"full": true
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "iceandfire:dragonforge_fire_core_disabled",
-			"data": {
-				"float": true,
-				"laggy": true,
-				"top": true,
-				"full": true
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "iceandfire:dragonforge_fire_input",
-			"data": {
-				"float": true,
-				"laggy": true,
-				"top": true,
-				"full": true
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "iceandfire:dragonforge_ice_brick",
 			"data": {
 				"float": true,
@@ -252,67 +212,7 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "iceandfire:dragonforge_ice_core",
-			"data": {
-				"float": true,
-				"laggy": true,
-				"top": true,
-				"full": true
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "iceandfire:dragonforge_ice_core_disabled",
-			"data": {
-				"float": true,
-				"laggy": true,
-				"top": true,
-				"full": true
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "iceandfire:dragonforge_ice_input",
-			"data": {
-				"float": true,
-				"laggy": true,
-				"top": true,
-				"full": true
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "iceandfire:dragonforge_lightning_brick",
-			"data": {
-				"float": true,
-				"laggy": true,
-				"top": true,
-				"full": true
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "iceandfire:dragonforge_lightning_core",
-			"data": {
-				"float": true,
-				"laggy": true,
-				"top": true,
-				"full": true
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "iceandfire:dragonforge_lightning_core_disabled",
-			"data": {
-				"float": true,
-				"laggy": true,
-				"top": true,
-				"full": true
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "iceandfire:dragonforge_lightning_input",
 			"data": {
 				"float": true,
 				"laggy": true,

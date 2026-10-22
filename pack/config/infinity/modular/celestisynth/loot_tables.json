@@ -2,48 +2,6 @@
 	"elements": [
 		{
 			"weight": 1.0,
-			"key": "celestisynth:blocks/celestial_crafting_table",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "celestisynth:blocks/lunar_stone",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "celestisynth:blocks/solar_crystal",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "celestisynth:blocks/starlit_factory",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "celestisynth:blocks/wintereis",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "celestisynth:blocks/zephyr_deposit",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "celestisynth:chests/underground_dungeons",
 			"data": {
 				"Type": "chest"

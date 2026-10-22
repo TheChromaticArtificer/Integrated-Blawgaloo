@@ -58,41 +58,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "abyssal_decor:blocks/amaranth_1",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "abyssal_decor:blocks/amaranth_2",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "abyssal_decor:blocks/amaranth_3",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "abyssal_decor:blocks/amaranth_4_bottom",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "abyssal_decor:blocks/amaranth_4_top",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "abyssal_decor:blocks/amaranth_crate",
 			"data": {
 				"Type": "block"
@@ -857,13 +822,6 @@
 		{
 			"weight": 1.0,
 			"key": "abyssal_decor:blocks/block_of_black_pearl",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "abyssal_decor:blocks/block_of_pearl",
 			"data": {
 				"Type": "block"
 			}
@@ -6135,13 +6093,6 @@
 		{
 			"weight": 1.0,
 			"key": "abyssal_decor:blocks/white_cracked_stucco",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "abyssal_decor:blocks/white_pearl",
 			"data": {
 				"Type": "block"
 			}

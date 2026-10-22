@@ -1,14 +1,3 @@
 {
-	"elements": [
-		{
-			"weight": 1.0,
-			"key": "elysium_api:structure_stamp_anchor",
-			"data": {
-				"float": true,
-				"laggy": false,
-				"top": true,
-				"full": true
-			}
-		}
-	]
+	"elements": []
 }

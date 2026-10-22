@@ -78,6 +78,10 @@
 			strophar = true
 			glacian = true
 
+		[types.wood_type.hazennstuff]
+			wisewood = true
+			frostbite_birch = true
+
 		[types.leaves_type.pastel]
 			weeping_gala = true
 			nephrite_blossom = true
@@ -168,6 +172,10 @@
 
 		[types.leaves_type.ad_astra]
 			glacian = true
+
+		[types.leaves_type.hazennstuff]
+			wisewood = true
+			permafrost = true
 
 		[entries.wood_type.refurbished_furniture]
 			cutting_board = true

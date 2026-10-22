@@ -135,13 +135,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "alexscaves:blocks/atlatitan_egg",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "alexscaves:blocks/azure_magnet",
 			"data": {
 				"Type": "block"
@@ -444,13 +437,6 @@
 		{
 			"weight": 1.0,
 			"key": "alexscaves:blocks/cave_painting_pewen",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "alexscaves:blocks/cave_painting_portal",
 			"data": {
 				"Type": "block"
 			}
@@ -2312,13 +2298,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "alexscaves:blocks/tremorzilla_egg",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "alexscaves:blocks/tube_worm",
 			"data": {
 				"Type": "block"
@@ -2641,13 +2620,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "alexscaves:entities/gum_worm",
-			"data": {
-				"Type": "generic"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "alexscaves:entities/gumbeeper",
 			"data": {
 				"Type": "generic"
@@ -2662,13 +2634,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "alexscaves:entities/hullbreaker",
-			"data": {
-				"Type": "generic"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "alexscaves:entities/lanternfish",
 			"data": {
 				"Type": "generic"
@@ -2677,13 +2642,6 @@
 		{
 			"weight": 1.0,
 			"key": "alexscaves:entities/licowitch",
-			"data": {
-				"Type": "generic"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "alexscaves:entities/luxtructosaurus",
 			"data": {
 				"Type": "generic"
 			}
@@ -2768,13 +2726,6 @@
 		{
 			"weight": 1.0,
 			"key": "alexscaves:entities/tremorsaurus",
-			"data": {
-				"Type": "generic"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "alexscaves:entities/tremorzilla",
 			"data": {
 				"Type": "generic"
 			}

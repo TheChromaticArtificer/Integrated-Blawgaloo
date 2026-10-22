@@ -114,13 +114,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "scguns:swarm",
-			"data": {
-				"Category": "monster"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "scguns:the_merchant",
 			"data": {
 				"Category": "monster"

@@ -6,8 +6,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:ancient_temple"
 			}
 		},
@@ -17,8 +16,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:ancient_vessel"
 			}
 		},
@@ -28,8 +26,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:arachnid_dwelling"
 			}
 		},
@@ -39,8 +36,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:ati_stoneworks"
 			}
 		},
@@ -50,8 +46,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:castillo"
 			}
 		},
@@ -61,8 +56,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:catalonian_castle"
 			}
 		},
@@ -72,8 +66,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:dark_keep"
 			}
 		},
@@ -83,8 +76,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:dark_tower"
 			}
 		},
@@ -94,8 +86,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:deepslate_keep"
 			}
 		},
@@ -105,8 +96,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:desert_outpost"
 			}
 		},
@@ -116,8 +106,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:dojo"
 			}
 		},
@@ -127,8 +116,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:fortified_temple"
 			}
 		},
@@ -138,8 +126,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:gnome_hut"
 			}
 		},
@@ -149,8 +136,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:granite_fort"
 			}
 		},
@@ -160,8 +146,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:haunted_ruin"
 			}
 		},
@@ -171,8 +156,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:herobrine_stronghold"
 			}
 		},
@@ -182,8 +166,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:ice_tribe"
 			}
 		},
@@ -193,8 +176,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:illager_homestead"
 			}
 		},
@@ -204,8 +186,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:illager_tower"
 			}
 		},
@@ -215,8 +196,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:jungle_grotto"
 			}
 		},
@@ -226,8 +206,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:jungle_settlement"
 			}
 		},
@@ -237,8 +216,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:lighthouse"
 			}
 		},
@@ -248,8 +226,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:manor"
 			}
 		},
@@ -259,8 +236,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:marble_chateau"
 			}
 		},
@@ -270,8 +246,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:monastery_tower"
 			}
 		},
@@ -281,8 +256,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:mosque"
 			}
 		},
@@ -292,8 +266,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:mud_tower"
 			}
 		},
@@ -303,8 +276,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:nomadic_camp"
 			}
 		},
@@ -314,8 +286,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:old_fort"
 			}
 		},
@@ -325,8 +296,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:old_home"
 			}
 		},
@@ -336,8 +306,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:old_residence"
 			}
 		},
@@ -347,8 +316,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:overgrown_outpost"
 			}
 		},
@@ -358,8 +326,7 @@
 			"data": {
 				"step": "underground_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:pufferfish_cave"
 			}
 		},
@@ -369,8 +336,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:quarry"
 			}
 		},
@@ -380,8 +346,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:rotten_log"
 			}
 		},
@@ -391,8 +356,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:rotting_temple"
 			}
 		},
@@ -402,8 +366,7 @@
 			"data": {
 				"step": "underground_structures",
 				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:rotting_temple_underground"
 			}
 		},
@@ -413,8 +376,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:ruined_castle"
 			}
 		},
@@ -424,8 +386,7 @@
 			"data": {
 				"step": "underground_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:sculk_deposit"
 			}
 		},
@@ -435,8 +396,7 @@
 			"data": {
 				"step": "underground_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:silverfish_nest"
 			}
 		},
@@ -446,8 +406,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:sinking_temple"
 			}
 		},
@@ -457,8 +416,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:small_keep"
 			}
 		},
@@ -468,8 +426,7 @@
 			"data": {
 				"step": "underground_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:spider_nest"
 			}
 		},
@@ -479,8 +436,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:steam_house"
 			}
 		},
@@ -490,8 +446,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:storage_house"
 			}
 		},
@@ -501,8 +456,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:storage_shack"
 			}
 		},
@@ -512,8 +466,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:stray_ruins"
 			}
 		},
@@ -523,8 +476,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:tavern"
 			}
 		},
@@ -534,8 +486,7 @@
 			"data": {
 				"step": "underground_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:underground_monument"
 			}
 		},
@@ -545,8 +496,7 @@
 			"data": {
 				"step": "underground_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:underwater_dungeon"
 			}
 		},
@@ -556,8 +506,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:villager_inn"
 			}
 		},
@@ -567,8 +516,7 @@
 			"data": {
 				"step": "underground_structures",
 				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:warden_monument"
 			}
 		},
@@ -581,8 +529,7 @@
 				"spawn_overrides": {
 					"monster": {
 						"bounding_box": "full",
-						"spawns": [
-						]
+						"spawns": []
 					}
 				},
 				"id": "ati_structures:wither_cavern"
@@ -594,8 +541,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:wither_keep"
 			}
 		},
@@ -605,8 +551,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "ati_structures:woodland_keep"
 			}
 		}

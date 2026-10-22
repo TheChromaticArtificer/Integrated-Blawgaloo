@@ -102,22 +102,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "iceandfire:armor_copper_metal_boots"
-		},
-		{
-			"weight": 1.0,
-			"key": "iceandfire:armor_copper_metal_chestplate"
-		},
-		{
-			"weight": 1.0,
-			"key": "iceandfire:armor_copper_metal_helmet"
-		},
-		{
-			"weight": 1.0,
-			"key": "iceandfire:armor_copper_metal_leggings"
-		},
-		{
-			"weight": 1.0,
 			"key": "iceandfire:armor_electric_boots"
 		},
 		{
@@ -243,10 +227,6 @@
 		{
 			"weight": 1.0,
 			"key": "iceandfire:armor_white_leggings"
-		},
-		{
-			"weight": 1.0,
-			"key": "iceandfire:ash"
 		},
 		{
 			"weight": 1.0,
@@ -398,27 +378,7 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "iceandfire:copper_axe"
-		},
-		{
-			"weight": 1.0,
-			"key": "iceandfire:copper_hoe"
-		},
-		{
-			"weight": 1.0,
-			"key": "iceandfire:copper_pickaxe"
-		},
-		{
-			"weight": 1.0,
 			"key": "iceandfire:copper_pile"
-		},
-		{
-			"weight": 1.0,
-			"key": "iceandfire:copper_shovel"
-		},
-		{
-			"weight": 1.0,
-			"key": "iceandfire:copper_sword"
 		},
 		{
 			"weight": 1.0,
@@ -1743,10 +1703,6 @@
 		{
 			"weight": 1.0,
 			"key": "iceandfire:tide_trident"
-		},
-		{
-			"weight": 1.0,
-			"key": "iceandfire:tide_trident_inventory"
 		},
 		{
 			"weight": 1.0,

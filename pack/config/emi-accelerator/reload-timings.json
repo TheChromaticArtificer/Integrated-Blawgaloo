@@ -1,0 +1,8166 @@
+[
+  {
+    "timestamp": 1792640031899,
+    "reload_number": 3,
+    "total_ms": 9981,
+    "cache_hit": true,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 29
+      },
+      {
+        "name": "Initializing plugin from supplementaries",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from curios",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from pastel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from travelersbackpack",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from iceandfire",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from marvel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from jeed",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from oritech",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from infinity",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from reliable_recipes",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from kubejs",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from elysium_api",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from ali",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from randomium",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from jemi",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 78
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 346
+      },
+      {
+        "name": "Loading plugin from supplementaries",
+        "duration_ms": 3636
+      },
+      {
+        "name": "Loading plugin from curios",
+        "duration_ms": 28
+      },
+      {
+        "name": "Loading plugin from pastel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from travelersbackpack",
+        "duration_ms": 78
+      },
+      {
+        "name": "Loading plugin from iceandfire",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from marvel",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from jeed",
+        "duration_ms": 21
+      },
+      {
+        "name": "Loading plugin from oritech",
+        "duration_ms": 55
+      },
+      {
+        "name": "Loading plugin from infinity",
+        "duration_ms": 45
+      },
+      {
+        "name": "Loading plugin from reliable_recipes",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading plugin from kubejs",
+        "duration_ms": 237
+      },
+      {
+        "name": "Loading plugin from elysium_api",
+        "duration_ms": 98
+      },
+      {
+        "name": "Loading plugin from ali",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from randomium",
+        "duration_ms": 1801
+      },
+      {
+        "name": "Loading plugin from jemi",
+        "duration_ms": 0
+      },
+      {
+        "name": "Waiting for JEI to finish...",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading information from JEI...",
+        "duration_ms": 1322
+      },
+      {
+        "name": "Processing JEI stacks...",
+        "duration_ms": 1
+      },
+      {
+        "name": "Processing JEI subtypes...",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing JEI recipes...",
+        "duration_ms": 5
+      },
+      {
+        "name": "Loading JEI data for Crafting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Anvil",
+        "duration_ms": 76
+      },
+      {
+        "name": "Loading JEI data for Blasting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Brewing",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Campfire Cooking",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Composting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Fuel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Grindstone",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Smelting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Smithing Table",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Smoking",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Stonecutting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Removing Reinforcement",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Tesselating",
+        "duration_ms": 6
+      },
+      {
+        "name": "Loading JEI data for Brazier",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Cauldron Brewing",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Cauldron Crafting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Cauldron Infusion",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Distilling",
+        "duration_ms": 32
+      },
+      {
+        "name": "Loading JEI data for Oven Fumigation",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Ritual",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Spinning",
+        "duration_ms": 22
+      },
+      {
+        "name": "Loading JEI data for Decays Into",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Block Reinforcing",
+        "duration_ms": 11
+      },
+      {
+        "name": "Loading JEI data for Combining",
+        "duration_ms": 6
+      },
+      {
+        "name": "Loading JEI data for Slicing",
+        "duration_ms": 5
+      },
+      {
+        "name": "Loading JEI data for Solidifying",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Frying",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Grilling",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Heating",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Baking",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Toasting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Constructing",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Information",
+        "duration_ms": 108
+      },
+      {
+        "name": "Loading JEI data for Nuclear Furnace Blasting",
+        "duration_ms": 10
+      },
+      {
+        "name": "Loading JEI data for Spelunkery Table Translation",
+        "duration_ms": 5
+      },
+      {
+        "name": "Loading JEI data for Americanize",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Custom Bench",
+        "duration_ms": 7
+      },
+      {
+        "name": "Loading JEI data for Decor Bench",
+        "duration_ms": 11
+      },
+      {
+        "name": "Loading JEI data for Engine Bench",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Gun Bench",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Instrument Bench",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Component Bench",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading JEI data for Propeller Bench",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Seat \u0026 Cargo Bench",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Vehicle Bench",
+        "duration_ms": 7
+      },
+      {
+        "name": "Loading JEI data for Wheel Bench",
+        "duration_ms": 56
+      },
+      {
+        "name": "Loading JEI data for Gun Bench",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Lightning Battery",
+        "duration_ms": 58
+      },
+      {
+        "name": "Loading JEI data for Macerator",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Stamping Press",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Powered Macerator",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Powered Stamping Press",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Crusher Crushing",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Brazier",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Symbology",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Starlit Factory",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Alloy Smelting",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Matrix Assembling",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Mercury Distilling",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Circuit Fabricating",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Filling Fluid Links",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Artron Forging",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Temporal Grinding",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Reconfiguring",
+        "duration_ms": 9
+      },
+      {
+        "name": "Loading JEI data for In the World",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Cyberware Anvil Repair",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Potion Autoinjector Crafting",
+        "duration_ms": 13
+      },
+      {
+        "name": "Loading JEI data for Cyberware Bench Deconstruction",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Cyberware Bench",
+        "duration_ms": 22
+      },
+      {
+        "name": "Loading JEI data for Grafting Table",
+        "duration_ms": 9
+      },
+      {
+        "name": "Loading JEI data for Biological Repair",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Treadmill Energy Sources",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Antazon",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Antazon Selling",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading JEI data for AntOS Task Rewards",
+        "duration_ms": 2
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 9
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 926
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 0
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 736
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 1
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 3
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 1
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 2
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 2
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1792640021918
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1792640021930
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1792640021948
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1792640022026
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1792640030233
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1792640031159
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1792640031848
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1792640031849
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1792640031895
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1792640031895
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1792640031896
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1792640031896
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1792640031897
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1792640031899
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1792640031899
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1792640031899
+      }
+    ]
+  },
+  {
+    "timestamp": 1792640178992,
+    "reload_number": 4,
+    "total_ms": 28,
+    "cache_hit": true,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 1
+      },
+      {
+        "name": "complete",
+        "duration_ms": 27
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1792640178965
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1792640178990
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1792640178992
+      }
+    ]
+  },
+  {
+    "timestamp": 1792640554022,
+    "reload_number": 1,
+    "total_ms": 29477,
+    "cache_hit": true,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 170
+      },
+      {
+        "name": "Initializing plugin from supplementaries",
+        "duration_ms": 33
+      },
+      {
+        "name": "Initializing plugin from curios",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from pastel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from travelersbackpack",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from iceandfire",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from marvel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from jeed",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from oritech",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from infinity",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from reliable_recipes",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from kubejs",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from elysium_api",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from ali",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from randomium",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from jemi",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 3
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 116
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 277
+      },
+      {
+        "name": "Loading plugin from supplementaries",
+        "duration_ms": 6060
+      },
+      {
+        "name": "Loading plugin from curios",
+        "duration_ms": 299
+      },
+      {
+        "name": "Loading plugin from pastel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from travelersbackpack",
+        "duration_ms": 265
+      },
+      {
+        "name": "Loading plugin from iceandfire",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading plugin from marvel",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading plugin from jeed",
+        "duration_ms": 43
+      },
+      {
+        "name": "Loading plugin from oritech",
+        "duration_ms": 120
+      },
+      {
+        "name": "Loading plugin from infinity",
+        "duration_ms": 92
+      },
+      {
+        "name": "Loading plugin from reliable_recipes",
+        "duration_ms": 12
+      },
+      {
+        "name": "Loading plugin from kubejs",
+        "duration_ms": 430
+      },
+      {
+        "name": "Loading plugin from elysium_api",
+        "duration_ms": 127
+      },
+      {
+        "name": "Loading plugin from ali",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from randomium",
+        "duration_ms": 4627
+      },
+      {
+        "name": "Loading plugin from jemi",
+        "duration_ms": 13
+      },
+      {
+        "name": "Waiting for JEI to finish...",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading information from JEI...",
+        "duration_ms": 13196
+      },
+      {
+        "name": "Processing JEI stacks...",
+        "duration_ms": 18
+      },
+      {
+        "name": "Processing JEI subtypes...",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing JEI recipes...",
+        "duration_ms": 13
+      },
+      {
+        "name": "Loading JEI data for Crafting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Anvil",
+        "duration_ms": 635
+      },
+      {
+        "name": "Loading JEI data for Blasting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Brewing",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Campfire Cooking",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Composting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Fuel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Grindstone",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Smelting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Smithing Table",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Smoking",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Stonecutting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Removing Reinforcement",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Tesselating",
+        "duration_ms": 261
+      },
+      {
+        "name": "Loading JEI data for Brazier",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Cauldron Brewing",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Cauldron Crafting",
+        "duration_ms": 7
+      },
+      {
+        "name": "Loading JEI data for Cauldron Infusion",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Distilling",
+        "duration_ms": 95
+      },
+      {
+        "name": "Loading JEI data for Oven Fumigation",
+        "duration_ms": 30
+      },
+      {
+        "name": "Loading JEI data for Ritual",
+        "duration_ms": 5
+      },
+      {
+        "name": "Loading JEI data for Spinning",
+        "duration_ms": 44
+      },
+      {
+        "name": "Loading JEI data for Decays Into",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Block Reinforcing",
+        "duration_ms": 23
+      },
+      {
+        "name": "Loading JEI data for Combining",
+        "duration_ms": 9
+      },
+      {
+        "name": "Loading JEI data for Slicing",
+        "duration_ms": 8
+      },
+      {
+        "name": "Loading JEI data for Solidifying",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Frying",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Grilling",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Heating",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Baking",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Toasting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Constructing",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Information",
+        "duration_ms": 118
+      },
+      {
+        "name": "Loading JEI data for Nuclear Furnace Blasting",
+        "duration_ms": 19
+      },
+      {
+        "name": "Loading JEI data for Spelunkery Table Translation",
+        "duration_ms": 6
+      },
+      {
+        "name": "Loading JEI data for Americanize",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Custom Bench",
+        "duration_ms": 14
+      },
+      {
+        "name": "Loading JEI data for Decor Bench",
+        "duration_ms": 17
+      },
+      {
+        "name": "Loading JEI data for Engine Bench",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading JEI data for Gun Bench",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Instrument Bench",
+        "duration_ms": 6
+      },
+      {
+        "name": "Loading JEI data for Component Bench",
+        "duration_ms": 6
+      },
+      {
+        "name": "Loading JEI data for Propeller Bench",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Seat \u0026 Cargo Bench",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Vehicle Bench",
+        "duration_ms": 6
+      },
+      {
+        "name": "Loading JEI data for Wheel Bench",
+        "duration_ms": 49
+      },
+      {
+        "name": "Loading JEI data for Gun Bench",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Lightning Battery",
+        "duration_ms": 67
+      },
+      {
+        "name": "Loading JEI data for Macerator",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Stamping Press",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Powered Macerator",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Powered Stamping Press",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Crusher Crushing",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Brazier",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Symbology",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Starlit Factory",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Alloy Smelting",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Matrix Assembling",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Mercury Distilling",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Circuit Fabricating",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Filling Fluid Links",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Artron Forging",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Temporal Grinding",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Reconfiguring",
+        "duration_ms": 16
+      },
+      {
+        "name": "Loading JEI data for In the World",
+        "duration_ms": 5
+      },
+      {
+        "name": "Loading JEI data for Cyberware Anvil Repair",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Potion Autoinjector Crafting",
+        "duration_ms": 15
+      },
+      {
+        "name": "Loading JEI data for Cyberware Bench Deconstruction",
+        "duration_ms": 5
+      },
+      {
+        "name": "Loading JEI data for Cyberware Bench",
+        "duration_ms": 26
+      },
+      {
+        "name": "Loading JEI data for Grafting Table",
+        "duration_ms": 8
+      },
+      {
+        "name": "Loading JEI data for Biological Repair",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading JEI data for Treadmill Energy Sources",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Antazon",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Antazon Selling",
+        "duration_ms": 18
+      },
+      {
+        "name": "Loading JEI data for AntOS Task Rewards",
+        "duration_ms": 5
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 18
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 879
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 1
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 988
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 14
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 88
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 7
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 8
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 8
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1792640524547
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1792640524571
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1792640524754
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1792640524872
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1792640552052
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1792640552932
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1792640553821
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1792640553823
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1792640553920
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1792640553920
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1792640553934
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1792640553934
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1792640554010
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1792640554018
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1792640554021
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1792640554022
+      }
+    ]
+  },
+  {
+    "timestamp": 1792641189680,
+    "reload_number": 2,
+    "total_ms": 17,
+    "cache_hit": true,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 17
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1792641189664
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1792641189679
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1792641189680
+      }
+    ]
+  },
+  {
+    "timestamp": 1792641410846,
+    "reload_number": 1,
+    "total_ms": 23689,
+    "cache_hit": true,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 281
+      },
+      {
+        "name": "Initializing plugin from supplementaries",
+        "duration_ms": 25
+      },
+      {
+        "name": "Initializing plugin from curios",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from pastel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from travelersbackpack",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from iceandfire",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from marvel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from jeed",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from oritech",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from infinity",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from reliable_recipes",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from kubejs",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from elysium_api",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from ali",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from randomium",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from jemi",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 2
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 208
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 331
+      },
+      {
+        "name": "Loading plugin from supplementaries",
+        "duration_ms": 6414
+      },
+      {
+        "name": "Loading plugin from curios",
+        "duration_ms": 40
+      },
+      {
+        "name": "Loading plugin from pastel",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from travelersbackpack",
+        "duration_ms": 226
+      },
+      {
+        "name": "Loading plugin from iceandfire",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading plugin from marvel",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading plugin from jeed",
+        "duration_ms": 44
+      },
+      {
+        "name": "Loading plugin from oritech",
+        "duration_ms": 100
+      },
+      {
+        "name": "Loading plugin from infinity",
+        "duration_ms": 68
+      },
+      {
+        "name": "Loading plugin from reliable_recipes",
+        "duration_ms": 8
+      },
+      {
+        "name": "Loading plugin from kubejs",
+        "duration_ms": 505
+      },
+      {
+        "name": "Loading plugin from elysium_api",
+        "duration_ms": 125
+      },
+      {
+        "name": "Loading plugin from ali",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading plugin from randomium",
+        "duration_ms": 390
+      },
+      {
+        "name": "Loading plugin from jemi",
+        "duration_ms": 3
+      },
+      {
+        "name": "Waiting for JEI to finish...",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading information from JEI...",
+        "duration_ms": 12509
+      },
+      {
+        "name": "Processing JEI stacks...",
+        "duration_ms": 9
+      },
+      {
+        "name": "Processing JEI subtypes...",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing JEI recipes...",
+        "duration_ms": 10
+      },
+      {
+        "name": "Loading JEI data for Crafting",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Anvil",
+        "duration_ms": 144
+      },
+      {
+        "name": "Loading JEI data for Blasting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Brewing",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Campfire Cooking",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Composting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Fuel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Grindstone",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Smelting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Smithing Table",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Smoking",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Stonecutting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Removing Reinforcement",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Tesselating",
+        "duration_ms": 24
+      },
+      {
+        "name": "Loading JEI data for Brazier",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Cauldron Brewing",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Cauldron Crafting",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading JEI data for Cauldron Infusion",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Distilling",
+        "duration_ms": 30
+      },
+      {
+        "name": "Loading JEI data for Oven Fumigation",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Ritual",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Spinning",
+        "duration_ms": 17
+      },
+      {
+        "name": "Loading JEI data for Decays Into",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Block Reinforcing",
+        "duration_ms": 16
+      },
+      {
+        "name": "Loading JEI data for Combining",
+        "duration_ms": 5
+      },
+      {
+        "name": "Loading JEI data for Slicing",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Solidifying",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Frying",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Grilling",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Heating",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Baking",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Toasting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Constructing",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Information",
+        "duration_ms": 93
+      },
+      {
+        "name": "Loading JEI data for Nuclear Furnace Blasting",
+        "duration_ms": 11
+      },
+      {
+        "name": "Loading JEI data for Spelunkery Table Translation",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading JEI data for Americanize",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Custom Bench",
+        "duration_ms": 8
+      },
+      {
+        "name": "Loading JEI data for Decor Bench",
+        "duration_ms": 10
+      },
+      {
+        "name": "Loading JEI data for Engine Bench",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Gun Bench",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Instrument Bench",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Component Bench",
+        "duration_ms": 5
+      },
+      {
+        "name": "Loading JEI data for Propeller Bench",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Seat \u0026 Cargo Bench",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Vehicle Bench",
+        "duration_ms": 6
+      },
+      {
+        "name": "Loading JEI data for Wheel Bench",
+        "duration_ms": 48
+      },
+      {
+        "name": "Loading JEI data for Gun Bench",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Lightning Battery",
+        "duration_ms": 54
+      },
+      {
+        "name": "Loading JEI data for Macerator",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Stamping Press",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Powered Macerator",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Powered Stamping Press",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Crusher Crushing",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Brazier",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Symbology",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Starlit Factory",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Alloy Smelting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Matrix Assembling",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Mercury Distilling",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Circuit Fabricating",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Filling Fluid Links",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Artron Forging",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Temporal Grinding",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Reconfiguring",
+        "duration_ms": 10
+      },
+      {
+        "name": "Loading JEI data for In the World",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Cyberware Anvil Repair",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Potion Autoinjector Crafting",
+        "duration_ms": 13
+      },
+      {
+        "name": "Loading JEI data for Cyberware Bench Deconstruction",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading JEI data for Cyberware Bench",
+        "duration_ms": 25
+      },
+      {
+        "name": "Loading JEI data for Grafting Table",
+        "duration_ms": 34
+      },
+      {
+        "name": "Loading JEI data for Biological Repair",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Treadmill Energy Sources",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading JEI data for Antazon",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Antazon Selling",
+        "duration_ms": 13
+      },
+      {
+        "name": "Loading JEI data for AntOS Task Rewards",
+        "duration_ms": 6
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 14
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 668
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 0
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 1051
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 1
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 7
+      }
+    ],
+    "phases": [
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 28
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 28
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 9
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 1
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 1
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 2
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 1
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 1
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 1
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 1
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 1
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 1
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 1
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 3
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 3
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 1
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 1
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 1
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 1
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 0
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 1
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 1
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1792641387159
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1792641387186
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1792641387467
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1792641387678
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1792641409120
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1792641409787
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1792641410777
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1792641410779
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1792641410838
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1792641410839
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1792641410839
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1792641410839
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1792641410840
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1792641410841
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1792641410846
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1792641410846
+      }
+    ]
+  },
+  {
+    "timestamp": 1792641829475,
+    "reload_number": 2,
+    "total_ms": 37,
+    "cache_hit": true,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 37
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1792641829440
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1792641829474
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1792641829475
+      }
+    ]
+  },
+  {
+    "timestamp": 1792643877666,
+    "reload_number": 1,
+    "total_ms": 25479,
+    "cache_hit": false,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 227
+      },
+      {
+        "name": "Initializing plugin from supplementaries",
+        "duration_ms": 29
+      },
+      {
+        "name": "Initializing plugin from curios",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from pastel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from travelersbackpack",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from iceandfire",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from marvel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from jeed",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from oritech",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from infinity",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from reliable_recipes",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from kubejs",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from elysium_api",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from ali",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from randomium",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from jemi",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 8
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 135
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Starting Reload",
+        "duration_ms": 1923
+      },
+      {
+        "name": "Starting Reload",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 1036
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 40
+      },
+      {
+        "name": "Initializing plugin from supplementaries",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from curios",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from pastel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from travelersbackpack",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from iceandfire",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from marvel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from jeed",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from oritech",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from infinity",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from reliable_recipes",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from kubejs",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from elysium_api",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from ali",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from randomium",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from jemi",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 122
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 8314
+      },
+      {
+        "name": "Loading plugin from supplementaries",
+        "duration_ms": 3890
+      },
+      {
+        "name": "Loading plugin from curios",
+        "duration_ms": 118
+      },
+      {
+        "name": "Loading plugin from pastel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from travelersbackpack",
+        "duration_ms": 309
+      },
+      {
+        "name": "Loading plugin from iceandfire",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading plugin from marvel",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading plugin from jeed",
+        "duration_ms": 40
+      },
+      {
+        "name": "Loading plugin from oritech",
+        "duration_ms": 67
+      },
+      {
+        "name": "Loading plugin from infinity",
+        "duration_ms": 96
+      },
+      {
+        "name": "Loading plugin from reliable_recipes",
+        "duration_ms": 9
+      },
+      {
+        "name": "Loading plugin from kubejs",
+        "duration_ms": 260
+      },
+      {
+        "name": "Loading plugin from elysium_api",
+        "duration_ms": 214
+      },
+      {
+        "name": "Loading plugin from ali",
+        "duration_ms": 5
+      },
+      {
+        "name": "Loading plugin from randomium",
+        "duration_ms": 3302
+      },
+      {
+        "name": "Loading plugin from jemi",
+        "duration_ms": 4
+      },
+      {
+        "name": "Waiting for JEI to finish...",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading information from JEI...",
+        "duration_ms": 2691
+      },
+      {
+        "name": "Processing JEI stacks...",
+        "duration_ms": 9
+      },
+      {
+        "name": "Processing JEI subtypes...",
+        "duration_ms": 4
+      },
+      {
+        "name": "Processing JEI recipes...",
+        "duration_ms": 5
+      },
+      {
+        "name": "Loading JEI data for Crafting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Anvil",
+        "duration_ms": 121
+      },
+      {
+        "name": "Loading JEI data for Blasting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Brewing",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Campfire Cooking",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Composting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Fuel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Grindstone",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Smelting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Smithing Table",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Smoking",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Stonecutting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Removing Reinforcement",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Tesselating",
+        "duration_ms": 23
+      },
+      {
+        "name": "Loading JEI data for Brazier",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Cauldron Brewing",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Cauldron Crafting",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading JEI data for Cauldron Infusion",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Distilling",
+        "duration_ms": 33
+      },
+      {
+        "name": "Loading JEI data for Oven Fumigation",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Ritual",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading JEI data for Spinning",
+        "duration_ms": 20
+      },
+      {
+        "name": "Loading JEI data for Decays Into",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Block Reinforcing",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Combining",
+        "duration_ms": 8
+      },
+      {
+        "name": "Loading JEI data for Slicing",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading JEI data for Solidifying",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Frying",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Grilling",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Heating",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Baking",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Toasting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Constructing",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Information",
+        "duration_ms": 124
+      },
+      {
+        "name": "Loading JEI data for Nuclear Furnace Blasting",
+        "duration_ms": 8
+      },
+      {
+        "name": "Loading JEI data for Spelunkery Table Translation",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading JEI data for Americanize",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Custom Bench",
+        "duration_ms": 8
+      },
+      {
+        "name": "Loading JEI data for Decor Bench",
+        "duration_ms": 10
+      },
+      {
+        "name": "Loading JEI data for Engine Bench",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Gun Bench",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Instrument Bench",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Component Bench",
+        "duration_ms": 5
+      },
+      {
+        "name": "Loading JEI data for Propeller Bench",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Seat \u0026 Cargo Bench",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Vehicle Bench",
+        "duration_ms": 7
+      },
+      {
+        "name": "Loading JEI data for Wheel Bench",
+        "duration_ms": 40
+      },
+      {
+        "name": "Loading JEI data for Gun Bench",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Lightning Battery",
+        "duration_ms": 65
+      },
+      {
+        "name": "Loading JEI data for Macerator",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Stamping Press",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Powered Macerator",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Powered Stamping Press",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Crusher Crushing",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Brazier",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Symbology",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Starlit Factory",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Alloy Smelting",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Matrix Assembling",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Mercury Distilling",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Circuit Fabricating",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Filling Fluid Links",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Artron Forging",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Temporal Grinding",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Reconfiguring",
+        "duration_ms": 11
+      },
+      {
+        "name": "Loading JEI data for In the World",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Cyberware Anvil Repair",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Potion Autoinjector Crafting",
+        "duration_ms": 13
+      },
+      {
+        "name": "Loading JEI data for Cyberware Bench Deconstruction",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Cyberware Bench",
+        "duration_ms": 22
+      },
+      {
+        "name": "Loading JEI data for Grafting Table",
+        "duration_ms": 11
+      },
+      {
+        "name": "Loading JEI data for Biological Repair",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Treadmill Energy Sources",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Antazon",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Antazon Selling",
+        "duration_ms": 12
+      },
+      {
+        "name": "Loading JEI data for AntOS Task Rewards",
+        "duration_ms": 6
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 68
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 904
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 1
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 903
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 43
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 88
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 14
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 6
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 6
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1792643852189
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1792643852203
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1792643852454
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1792643852592
+      },
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1792643855548
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1792643855570
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1792643855589
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1792643855717
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1792643875727
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1792643876633
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1792643877428
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1792643877431
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1792643877536
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1792643877546
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1792643877578
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1792643877578
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1792643877657
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1792643877663
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1792643877666
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1792643877666
+      }
+    ]
+  },
+  {
+    "timestamp": 1792644174737,
+    "reload_number": 2,
+    "total_ms": 11492,
+    "cache_hit": true,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 149
+      },
+      {
+        "name": "Initializing plugin from supplementaries",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from curios",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from pastel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from travelersbackpack",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from iceandfire",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from marvel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from jeed",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from oritech",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from infinity",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from reliable_recipes",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from kubejs",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from elysium_api",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from ali",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from randomium",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from jemi",
+        "duration_ms": 1
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 242
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 405
+      },
+      {
+        "name": "Loading plugin from supplementaries",
+        "duration_ms": 5278
+      },
+      {
+        "name": "Loading plugin from curios",
+        "duration_ms": 178
+      },
+      {
+        "name": "Loading plugin from pastel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from travelersbackpack",
+        "duration_ms": 759
+      },
+      {
+        "name": "Loading plugin from iceandfire",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from marvel",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from jeed",
+        "duration_ms": 29
+      },
+      {
+        "name": "Loading plugin from oritech",
+        "duration_ms": 24
+      },
+      {
+        "name": "Loading plugin from infinity",
+        "duration_ms": 60
+      },
+      {
+        "name": "Loading plugin from reliable_recipes",
+        "duration_ms": 5
+      },
+      {
+        "name": "Loading plugin from kubejs",
+        "duration_ms": 274
+      },
+      {
+        "name": "Loading plugin from elysium_api",
+        "duration_ms": 685
+      },
+      {
+        "name": "Loading plugin from ali",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading plugin from randomium",
+        "duration_ms": 172
+      },
+      {
+        "name": "Loading plugin from jemi",
+        "duration_ms": 2
+      },
+      {
+        "name": "Waiting for JEI to finish...",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading information from JEI...",
+        "duration_ms": 39
+      },
+      {
+        "name": "Processing JEI stacks...",
+        "duration_ms": 1
+      },
+      {
+        "name": "Processing JEI subtypes...",
+        "duration_ms": 3
+      },
+      {
+        "name": "Processing JEI recipes...",
+        "duration_ms": 9
+      },
+      {
+        "name": "Loading JEI data for Crafting",
+        "duration_ms": 65
+      },
+      {
+        "name": "Loading JEI data for Anvil",
+        "duration_ms": 192
+      },
+      {
+        "name": "Loading JEI data for Blasting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Brewing",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Campfire Cooking",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Composting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Fuel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Grindstone",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Smelting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Smithing Table",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Smoking",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Stonecutting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Removing Reinforcement",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Tesselating",
+        "duration_ms": 9
+      },
+      {
+        "name": "Loading JEI data for Brazier",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Cauldron Brewing",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Cauldron Crafting",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading JEI data for Cauldron Infusion",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading JEI data for Distilling",
+        "duration_ms": 44
+      },
+      {
+        "name": "Loading JEI data for Oven Fumigation",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Ritual",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading JEI data for Spinning",
+        "duration_ms": 28
+      },
+      {
+        "name": "Loading JEI data for Decays Into",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Block Reinforcing",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Combining",
+        "duration_ms": 6
+      },
+      {
+        "name": "Loading JEI data for Slicing",
+        "duration_ms": 5
+      },
+      {
+        "name": "Loading JEI data for Solidifying",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Frying",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Grilling",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Heating",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Baking",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Toasting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Constructing",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Information",
+        "duration_ms": 378
+      },
+      {
+        "name": "Loading JEI data for Nuclear Furnace Blasting",
+        "duration_ms": 9
+      },
+      {
+        "name": "Loading JEI data for Spelunkery Table Translation",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading JEI data for Americanize",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Custom Bench",
+        "duration_ms": 7
+      },
+      {
+        "name": "Loading JEI data for Decor Bench",
+        "duration_ms": 18
+      },
+      {
+        "name": "Loading JEI data for Engine Bench",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading JEI data for Gun Bench",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Instrument Bench",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading JEI data for Component Bench",
+        "duration_ms": 8
+      },
+      {
+        "name": "Loading JEI data for Propeller Bench",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Seat \u0026 Cargo Bench",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Vehicle Bench",
+        "duration_ms": 15
+      },
+      {
+        "name": "Loading JEI data for Wheel Bench",
+        "duration_ms": 49
+      },
+      {
+        "name": "Loading JEI data for Gun Bench",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Lightning Battery",
+        "duration_ms": 71
+      },
+      {
+        "name": "Loading JEI data for Macerator",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Stamping Press",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Powered Macerator",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Powered Stamping Press",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Crusher Crushing",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Brazier",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Symbology",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Starlit Factory",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Alloy Smelting",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Matrix Assembling",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Mercury Distilling",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Circuit Fabricating",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Filling Fluid Links",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Artron Forging",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Temporal Grinding",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Reconfiguring",
+        "duration_ms": 11
+      },
+      {
+        "name": "Loading JEI data for In the World",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Cyberware Anvil Repair",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Potion Autoinjector Crafting",
+        "duration_ms": 11
+      },
+      {
+        "name": "Loading JEI data for Cyberware Bench Deconstruction",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Cyberware Bench",
+        "duration_ms": 16
+      },
+      {
+        "name": "Loading JEI data for Grafting Table",
+        "duration_ms": 11
+      },
+      {
+        "name": "Loading JEI data for Biological Repair",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Treadmill Energy Sources",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Antazon",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Antazon Selling",
+        "duration_ms": 7
+      },
+      {
+        "name": "Loading JEI data for AntOS Task Rewards",
+        "duration_ms": 1
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 9
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 935
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 76
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 1097
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 2
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 26
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 7
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 1
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 13
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 13
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1792644163245
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1792644163289
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1792644163397
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1792644163639
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1792644172601
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1792644173613
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1792644174648
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1792644174651
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1792644174709
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1792644174710
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1792644174711
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1792644174711
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1792644174724
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1792644174737
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1792644174737
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1792644174737
+      }
+    ]
+  },
+  {
+    "timestamp": 1792644341955,
+    "reload_number": 3,
+    "total_ms": 57355,
+    "cache_hit": true,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 1000
+      },
+      {
+        "name": "Initializing plugin from supplementaries",
+        "duration_ms": 2
+      },
+      {
+        "name": "Initializing plugin from curios",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from pastel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from travelersbackpack",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from iceandfire",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from marvel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from jeed",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from oritech",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from infinity",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from reliable_recipes",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from kubejs",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from elysium_api",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from ali",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from randomium",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from jemi",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 138
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 368
+      },
+      {
+        "name": "Loading plugin from supplementaries",
+        "duration_ms": 12798
+      },
+      {
+        "name": "Loading plugin from curios",
+        "duration_ms": 48
+      },
+      {
+        "name": "Loading plugin from pastel",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from travelersbackpack",
+        "duration_ms": 339
+      },
+      {
+        "name": "Loading plugin from iceandfire",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from marvel",
+        "duration_ms": 10
+      },
+      {
+        "name": "Loading plugin from jeed",
+        "duration_ms": 22
+      },
+      {
+        "name": "Loading plugin from oritech",
+        "duration_ms": 153
+      },
+      {
+        "name": "Loading plugin from infinity",
+        "duration_ms": 77
+      },
+      {
+        "name": "Loading plugin from reliable_recipes",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading plugin from kubejs",
+        "duration_ms": 259
+      },
+      {
+        "name": "Loading plugin from elysium_api",
+        "duration_ms": 646
+      },
+      {
+        "name": "Loading plugin from ali",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading plugin from randomium",
+        "duration_ms": 263
+      },
+      {
+        "name": "Loading plugin from jemi",
+        "duration_ms": 2
+      },
+      {
+        "name": "Waiting for JEI to finish...",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading information from JEI...",
+        "duration_ms": 38433
+      },
+      {
+        "name": "Processing JEI stacks...",
+        "duration_ms": 18
+      },
+      {
+        "name": "Processing JEI subtypes...",
+        "duration_ms": 2
+      },
+      {
+        "name": "Processing JEI recipes...",
+        "duration_ms": 5
+      },
+      {
+        "name": "Loading JEI data for Crafting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Anvil",
+        "duration_ms": 65
+      },
+      {
+        "name": "Loading JEI data for Blasting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Brewing",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Campfire Cooking",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Composting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Fuel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Grindstone",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Smelting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Smithing Table",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Smoking",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Stonecutting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Removing Reinforcement",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Tesselating",
+        "duration_ms": 7
+      },
+      {
+        "name": "Loading JEI data for Brazier",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Cauldron Brewing",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Cauldron Crafting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Cauldron Infusion",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Distilling",
+        "duration_ms": 35
+      },
+      {
+        "name": "Loading JEI data for Oven Fumigation",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Ritual",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Spinning",
+        "duration_ms": 21
+      },
+      {
+        "name": "Loading JEI data for Decays Into",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Block Reinforcing",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Combining",
+        "duration_ms": 6
+      },
+      {
+        "name": "Loading JEI data for Slicing",
+        "duration_ms": 5
+      },
+      {
+        "name": "Loading JEI data for Solidifying",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Frying",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Grilling",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Heating",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Baking",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Toasting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Constructing",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Information",
+        "duration_ms": 109
+      },
+      {
+        "name": "Loading JEI data for Nuclear Furnace Blasting",
+        "duration_ms": 7
+      },
+      {
+        "name": "Loading JEI data for Spelunkery Table Translation",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading JEI data for Americanize",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Custom Bench",
+        "duration_ms": 5
+      },
+      {
+        "name": "Loading JEI data for Decor Bench",
+        "duration_ms": 9
+      },
+      {
+        "name": "Loading JEI data for Engine Bench",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Gun Bench",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Instrument Bench",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Component Bench",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading JEI data for Propeller Bench",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Seat \u0026 Cargo Bench",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Vehicle Bench",
+        "duration_ms": 7
+      },
+      {
+        "name": "Loading JEI data for Wheel Bench",
+        "duration_ms": 38
+      },
+      {
+        "name": "Loading JEI data for Gun Bench",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Lightning Battery",
+        "duration_ms": 55
+      },
+      {
+        "name": "Loading JEI data for Macerator",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Stamping Press",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Powered Macerator",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Powered Stamping Press",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Crusher Crushing",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Brazier",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Symbology",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Starlit Factory",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Alloy Smelting",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Matrix Assembling",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Mercury Distilling",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Circuit Fabricating",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Filling Fluid Links",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Artron Forging",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Temporal Grinding",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Reconfiguring",
+        "duration_ms": 6
+      },
+      {
+        "name": "Loading JEI data for In the World",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Cyberware Anvil Repair",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Potion Autoinjector Crafting",
+        "duration_ms": 6
+      },
+      {
+        "name": "Loading JEI data for Cyberware Bench Deconstruction",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Cyberware Bench",
+        "duration_ms": 16
+      },
+      {
+        "name": "Loading JEI data for Grafting Table",
+        "duration_ms": 11
+      },
+      {
+        "name": "Loading JEI data for Biological Repair",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Treadmill Energy Sources",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Antazon",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Antazon Selling",
+        "duration_ms": 5
+      },
+      {
+        "name": "Loading JEI data for AntOS Task Rewards",
+        "duration_ms": 3
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 10
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 1443
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 1
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 844
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 1
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 8
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 3
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 1
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 3
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 3
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1792644284601
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1792644284613
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1792644285603
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1792644285741
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1792644339659
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1792644341103
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1792644341898
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1792644341901
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1792644341946
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1792644341947
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1792644341947
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1792644341947
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1792644341951
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1792644341954
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1792644341954
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1792644341954
+      }
+    ]
+  },
+  {
+    "timestamp": 1792644386605,
+    "reload_number": 4,
+    "total_ms": 3270,
+    "cache_hit": true,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 46
+      },
+      {
+        "name": "Initializing plugin from supplementaries",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from curios",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from pastel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from travelersbackpack",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from iceandfire",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from marvel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from jeed",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from oritech",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from infinity",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from reliable_recipes",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from kubejs",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from elysium_api",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from ali",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from randomium",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from jemi",
+        "duration_ms": 1
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 41
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 126
+      },
+      {
+        "name": "Loading plugin from supplementaries",
+        "duration_ms": 1520
+      },
+      {
+        "name": "Loading plugin from curios",
+        "duration_ms": 17
+      },
+      {
+        "name": "Loading plugin from pastel",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from travelersbackpack",
+        "duration_ms": 66
+      },
+      {
+        "name": "Loading plugin from iceandfire",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from marvel",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading plugin from jeed",
+        "duration_ms": 12
+      },
+      {
+        "name": "Loading plugin from oritech",
+        "duration_ms": 7
+      },
+      {
+        "name": "Loading plugin from infinity",
+        "duration_ms": 24
+      },
+      {
+        "name": "Loading plugin from reliable_recipes",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading plugin from kubejs",
+        "duration_ms": 76
+      },
+      {
+        "name": "Loading plugin from elysium_api",
+        "duration_ms": 74
+      },
+      {
+        "name": "Loading plugin from ali",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from randomium",
+        "duration_ms": 48
+      },
+      {
+        "name": "Loading plugin from jemi",
+        "duration_ms": 0
+      },
+      {
+        "name": "Waiting for JEI to finish...",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading information from JEI...",
+        "duration_ms": 11
+      },
+      {
+        "name": "Processing JEI stacks...",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing JEI subtypes...",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing JEI recipes...",
+        "duration_ms": 6
+      },
+      {
+        "name": "Loading JEI data for Crafting",
+        "duration_ms": 11
+      },
+      {
+        "name": "Loading JEI data for Anvil",
+        "duration_ms": 28
+      },
+      {
+        "name": "Loading JEI data for Blasting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Brewing",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Campfire Cooking",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Composting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Fuel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Grindstone",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Smelting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Smithing Table",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Smoking",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Stonecutting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Removing Reinforcement",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Tesselating",
+        "duration_ms": 6
+      },
+      {
+        "name": "Loading JEI data for Brazier",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Cauldron Brewing",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Cauldron Crafting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Cauldron Infusion",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Distilling",
+        "duration_ms": 23
+      },
+      {
+        "name": "Loading JEI data for Oven Fumigation",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Ritual",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Spinning",
+        "duration_ms": 13
+      },
+      {
+        "name": "Loading JEI data for Decays Into",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Block Reinforcing",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Combining",
+        "duration_ms": 5
+      },
+      {
+        "name": "Loading JEI data for Slicing",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading JEI data for Solidifying",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Frying",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Grilling",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Heating",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Baking",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Toasting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Constructing",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Information",
+        "duration_ms": 77
+      },
+      {
+        "name": "Loading JEI data for Nuclear Furnace Blasting",
+        "duration_ms": 5
+      },
+      {
+        "name": "Loading JEI data for Spelunkery Table Translation",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Americanize",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Custom Bench",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Decor Bench",
+        "duration_ms": 7
+      },
+      {
+        "name": "Loading JEI data for Engine Bench",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Gun Bench",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Instrument Bench",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Component Bench",
+        "duration_ms": 11
+      },
+      {
+        "name": "Loading JEI data for Propeller Bench",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Seat \u0026 Cargo Bench",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Vehicle Bench",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Wheel Bench",
+        "duration_ms": 31
+      },
+      {
+        "name": "Loading JEI data for Gun Bench",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Lightning Battery",
+        "duration_ms": 44
+      },
+      {
+        "name": "Loading JEI data for Macerator",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Stamping Press",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Powered Macerator",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Powered Stamping Press",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Crusher Crushing",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Brazier",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Symbology",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Starlit Factory",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Alloy Smelting",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Matrix Assembling",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Mercury Distilling",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Circuit Fabricating",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Filling Fluid Links",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Artron Forging",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Temporal Grinding",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Reconfiguring",
+        "duration_ms": 5
+      },
+      {
+        "name": "Loading JEI data for In the World",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Cyberware Anvil Repair",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Potion Autoinjector Crafting",
+        "duration_ms": 8
+      },
+      {
+        "name": "Loading JEI data for Cyberware Bench Deconstruction",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Cyberware Bench",
+        "duration_ms": 8
+      },
+      {
+        "name": "Loading JEI data for Grafting Table",
+        "duration_ms": 7
+      },
+      {
+        "name": "Loading JEI data for Biological Repair",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Treadmill Energy Sources",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Antazon",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Antazon Selling",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading JEI data for AntOS Task Rewards",
+        "duration_ms": 1
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 3
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 296
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 0
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 553
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 1
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 1
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1792644383335
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1792644383352
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1792644383383
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1792644383424
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1792644385755
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1792644386051
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1792644386556
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1792644386557
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1792644386604
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1792644386604
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1792644386604
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1792644386604
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1792644386605
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1792644386605
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1792644386605
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1792644386605
+      }
+    ]
+  },
+  {
+    "timestamp": 1792660508613,
+    "reload_number": 1,
+    "total_ms": 12052,
+    "cache_hit": false,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 2
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 147
+      },
+      {
+        "name": "Initializing plugin from supplementaries",
+        "duration_ms": 28
+      },
+      {
+        "name": "Initializing plugin from curios",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from pastel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from travelersbackpack",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from iceandfire",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from halcyon",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from marvel",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from jeed",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from oritech",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from infinity",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from kubejs",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from reliable_recipes",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from elysium_api",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from ali",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from randomium",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from toomanyrecipeviewers",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Initializing...",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 8
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 163
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 2364
+      },
+      {
+        "name": "Loading plugin from supplementaries",
+        "duration_ms": 3214
+      },
+      {
+        "name": "Loading plugin from curios",
+        "duration_ms": 43
+      },
+      {
+        "name": "Loading plugin from pastel",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from travelersbackpack",
+        "duration_ms": 141
+      },
+      {
+        "name": "Loading plugin from iceandfire",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading plugin from halcyon",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading plugin from marvel",
+        "duration_ms": 21
+      },
+      {
+        "name": "Loading plugin from jeed",
+        "duration_ms": 27
+      },
+      {
+        "name": "Loading plugin from oritech",
+        "duration_ms": 68
+      },
+      {
+        "name": "Loading plugin from infinity",
+        "duration_ms": 45
+      },
+      {
+        "name": "Loading plugin from kubejs",
+        "duration_ms": 6
+      },
+      {
+        "name": "Loading plugin from reliable_recipes",
+        "duration_ms": 75
+      },
+      {
+        "name": "Loading plugin from elysium_api",
+        "duration_ms": 221
+      },
+      {
+        "name": "Loading plugin from ali",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading plugin from randomium",
+        "duration_ms": 114
+      },
+      {
+        "name": "Loading plugin from toomanyrecipeviewers",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] Dispatching `registerItemSubtypes` with default strategy `SYNC_EMI`...",
+        "duration_ms": 37
+      },
+      {
+        "name": "[TMRV] Dispatching `registerItemSubtypes` took 30ms",
+        "duration_ms": 31
+      },
+      {
+        "name": "[TMRV] Dispatching `registerItemSubtypes` took 30ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerFluidSubtypes` with default strategy `SYNC_EMI`...",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] Dispatching `registerFluidSubtypes` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerFluidSubtypes` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerIngredients` with default strategy `ASYNC`...",
+        "duration_ms": 74
+      },
+      {
+        "name": "[TMRV] Dispatching `registerIngredients` took 7ms",
+        "duration_ms": 8
+      },
+      {
+        "name": "[TMRV] Dispatching `registerIngredients` took 7ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerExtraIngredients` with default strategy `ASYNC`...",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] Dispatching `registerExtraIngredients` took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] Dispatching `registerExtraIngredients` took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerIngredientAliases` with default strategy `ASYNC`...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerIngredientAliases` took 7ms",
+        "duration_ms": 7
+      },
+      {
+        "name": "[TMRV] Dispatching `registerIngredientAliases` took 7ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerModInfo` with default strategy `SYNC_EMI`...",
+        "duration_ms": 23
+      },
+      {
+        "name": "[TMRV] Dispatching `registerModInfo` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerModInfo` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerCategories` with default strategy `SYNC_EMI`...",
+        "duration_ms": 29
+      },
+      {
+        "name": "[TMRV] Dispatching `registerCategories` took 138ms",
+        "duration_ms": 138
+      },
+      {
+        "name": "[TMRV] Dispatching `registerCategories` took 138ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerVanillaCategoryExtensions` with default strategy `SYNC_EMI`...",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] Dispatching `registerVanillaCategoryExtensions` took 5ms",
+        "duration_ms": 5
+      },
+      {
+        "name": "[TMRV] Dispatching `registerVanillaCategoryExtensions` took 5ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipeCatalysts` with default strategy `SYNC_EMI`...",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipeCatalysts` took 2ms",
+        "duration_ms": 2
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipeCatalysts` took 2ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerAdvanced` with default strategy `SYNC_EMI`...",
+        "duration_ms": 2
+      },
+      {
+        "name": "[TMRV] Dispatching `registerAdvanced` took 3ms",
+        "duration_ms": 3
+      },
+      {
+        "name": "[TMRV] Dispatching `registerAdvanced` took 3ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipes` with default strategy `ASYNC`...",
+        "duration_ms": 4
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipes` took 1961ms",
+        "duration_ms": 1961
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipes` took 1961ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipeTransferHandlers` with default strategy `SYNC_EMI`...",
+        "duration_ms": 305
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipeTransferHandlers` took 4ms",
+        "duration_ms": 4
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipeTransferHandlers` took 4ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerGuiHandlers` with default strategy `SYNC_EMI`...",
+        "duration_ms": 3
+      },
+      {
+        "name": "[TMRV] Dispatching `registerGuiHandlers` took 12ms",
+        "duration_ms": 12
+      },
+      {
+        "name": "[TMRV] Dispatching `registerGuiHandlers` took 12ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRuntime` with default strategy `SYNC_EMI`...",
+        "duration_ms": 19
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRuntime` took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRuntime` took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `onRuntimeAvailable` with default strategy `SYNC_EMI`...",
+        "duration_ms": 3
+      },
+      {
+        "name": "[TMRV] Dispatching `onRuntimeAvailable` took 19ms",
+        "duration_ms": 19
+      },
+      {
+        "name": "[TMRV] Dispatching `onRuntimeAvailable` took 19ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Locking JEI Ingredient Registry...",
+        "duration_ms": 8
+      },
+      {
+        "name": "[TMRV] Locking JEI Recipe Registry...",
+        "duration_ms": 0
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 1327
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 1
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 1274
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 7
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 39
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 3
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 6
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 6
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1792660496564
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1792660496584
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1792660496749
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1792660496915
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1792660505965
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1792660507293
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1792660508269
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1792660508270
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1792660508567
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1792660508568
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1792660508574
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1792660508574
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1792660508604
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1792660508610
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1792660508613
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1792660508613
+      }
+    ]
+  },
+  {
+    "timestamp": 1792661028114,
+    "reload_number": 2,
+    "total_ms": 7,
+    "cache_hit": false,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 7
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1792661028107
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1792661028114
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1792661028114
+      }
+    ]
+  },
+  {
+    "timestamp": 1792661168790,
+    "reload_number": 1,
+    "total_ms": 12032,
+    "cache_hit": false,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 185
+      },
+      {
+        "name": "Initializing plugin from supplementaries",
+        "duration_ms": 18
+      },
+      {
+        "name": "Initializing plugin from curios",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from pastel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from travelersbackpack",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from iceandfire",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from halcyon",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from marvel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from jeed",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from oritech",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from infinity",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from kubejs",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from reliable_recipes",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from elysium_api",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from ali",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from randomium",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from toomanyrecipeviewers",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Initializing...",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 6
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 80
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 2149
+      },
+      {
+        "name": "Loading plugin from supplementaries",
+        "duration_ms": 3823
+      },
+      {
+        "name": "Loading plugin from curios",
+        "duration_ms": 52
+      },
+      {
+        "name": "Loading plugin from pastel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from travelersbackpack",
+        "duration_ms": 167
+      },
+      {
+        "name": "Loading plugin from iceandfire",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading plugin from halcyon",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading plugin from marvel",
+        "duration_ms": 21
+      },
+      {
+        "name": "Loading plugin from jeed",
+        "duration_ms": 26
+      },
+      {
+        "name": "Loading plugin from oritech",
+        "duration_ms": 73
+      },
+      {
+        "name": "Loading plugin from infinity",
+        "duration_ms": 54
+      },
+      {
+        "name": "Loading plugin from kubejs",
+        "duration_ms": 5
+      },
+      {
+        "name": "Loading plugin from reliable_recipes",
+        "duration_ms": 81
+      },
+      {
+        "name": "Loading plugin from elysium_api",
+        "duration_ms": 223
+      },
+      {
+        "name": "Loading plugin from ali",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from randomium",
+        "duration_ms": 107
+      },
+      {
+        "name": "Loading plugin from toomanyrecipeviewers",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerItemSubtypes` with default strategy `SYNC_EMI`...",
+        "duration_ms": 29
+      },
+      {
+        "name": "[TMRV] Dispatching `registerItemSubtypes` took 21ms",
+        "duration_ms": 21
+      },
+      {
+        "name": "[TMRV] Dispatching `registerItemSubtypes` took 21ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerFluidSubtypes` with default strategy `SYNC_EMI`...",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] Dispatching `registerFluidSubtypes` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerFluidSubtypes` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerIngredients` with default strategy `ASYNC`...",
+        "duration_ms": 74
+      },
+      {
+        "name": "[TMRV] Dispatching `registerIngredients` took 8ms",
+        "duration_ms": 8
+      },
+      {
+        "name": "[TMRV] Dispatching `registerIngredients` took 8ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerExtraIngredients` with default strategy `ASYNC`...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerExtraIngredients` took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] Dispatching `registerExtraIngredients` took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerIngredientAliases` with default strategy `ASYNC`...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerIngredientAliases` took 7ms",
+        "duration_ms": 8
+      },
+      {
+        "name": "[TMRV] Dispatching `registerIngredientAliases` took 7ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerModInfo` with default strategy `SYNC_EMI`...",
+        "duration_ms": 18
+      },
+      {
+        "name": "[TMRV] Dispatching `registerModInfo` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerModInfo` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerCategories` with default strategy `SYNC_EMI`...",
+        "duration_ms": 34
+      },
+      {
+        "name": "[TMRV] Dispatching `registerCategories` took 155ms",
+        "duration_ms": 155
+      },
+      {
+        "name": "[TMRV] Dispatching `registerCategories` took 155ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerVanillaCategoryExtensions` with default strategy `SYNC_EMI`...",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] Dispatching `registerVanillaCategoryExtensions` took 9ms",
+        "duration_ms": 9
+      },
+      {
+        "name": "[TMRV] Dispatching `registerVanillaCategoryExtensions` took 9ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipeCatalysts` with default strategy `SYNC_EMI`...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipeCatalysts` took 2ms",
+        "duration_ms": 2
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipeCatalysts` took 2ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerAdvanced` with default strategy `SYNC_EMI`...",
+        "duration_ms": 2
+      },
+      {
+        "name": "[TMRV] Dispatching `registerAdvanced` took 2ms",
+        "duration_ms": 2
+      },
+      {
+        "name": "[TMRV] Dispatching `registerAdvanced` took 2ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipes` with default strategy `ASYNC`...",
+        "duration_ms": 3
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipes` took 1852ms",
+        "duration_ms": 1852
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipes` took 1852ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipeTransferHandlers` with default strategy `SYNC_EMI`...",
+        "duration_ms": 312
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipeTransferHandlers` took 7ms",
+        "duration_ms": 7
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipeTransferHandlers` took 7ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerGuiHandlers` with default strategy `SYNC_EMI`...",
+        "duration_ms": 3
+      },
+      {
+        "name": "[TMRV] Dispatching `registerGuiHandlers` took 11ms",
+        "duration_ms": 11
+      },
+      {
+        "name": "[TMRV] Dispatching `registerGuiHandlers` took 11ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRuntime` with default strategy `SYNC_EMI`...",
+        "duration_ms": 13
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRuntime` took 2ms",
+        "duration_ms": 2
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRuntime` took 2ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `onRuntimeAvailable` with default strategy `SYNC_EMI`...",
+        "duration_ms": 2
+      },
+      {
+        "name": "[TMRV] Dispatching `onRuntimeAvailable` took 19ms",
+        "duration_ms": 19
+      },
+      {
+        "name": "[TMRV] Dispatching `onRuntimeAvailable` took 19ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Locking JEI Ingredient Registry...",
+        "duration_ms": 8
+      },
+      {
+        "name": "[TMRV] Locking JEI Recipe Registry...",
+        "duration_ms": 1
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 1109
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 1
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 1183
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 9
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 52
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 5
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 6
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 6
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1792661156760
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1792661156777
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1792661156970
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1792661157053
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1792661166436
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1792661167546
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1792661168443
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1792661168444
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1792661168729
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1792661168729
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1792661168738
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1792661168738
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1792661168782
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1792661168788
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1792661168790
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1792661168790
+      }
+    ]
+  },
+  {
+    "timestamp": 1792662417534,
+    "reload_number": 2,
+    "total_ms": 6,
+    "cache_hit": false,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 6
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1792662417528
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1792662417534
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1792662417534
+      }
+    ]
+  },
+  {
+    "timestamp": 1792662517572,
+    "reload_number": 3,
+    "total_ms": 6737,
+    "cache_hit": true,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 19
+      },
+      {
+        "name": "Initializing plugin from supplementaries",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from curios",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from pastel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from travelersbackpack",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from iceandfire",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from halcyon",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from marvel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from jeed",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from oritech",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from infinity",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from kubejs",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from reliable_recipes",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from elysium_api",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from ali",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from randomium",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from toomanyrecipeviewers",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Initializing...",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 46
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 197
+      },
+      {
+        "name": "Loading plugin from supplementaries",
+        "duration_ms": 2838
+      },
+      {
+        "name": "Loading plugin from curios",
+        "duration_ms": 16
+      },
+      {
+        "name": "Loading plugin from pastel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from travelersbackpack",
+        "duration_ms": 58
+      },
+      {
+        "name": "Loading plugin from iceandfire",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from halcyon",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from marvel",
+        "duration_ms": 6
+      },
+      {
+        "name": "Loading plugin from jeed",
+        "duration_ms": 9
+      },
+      {
+        "name": "Loading plugin from oritech",
+        "duration_ms": 39
+      },
+      {
+        "name": "Loading plugin from infinity",
+        "duration_ms": 24
+      },
+      {
+        "name": "Loading plugin from kubejs",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading plugin from reliable_recipes",
+        "duration_ms": 29
+      },
+      {
+        "name": "Loading plugin from elysium_api",
+        "duration_ms": 222
+      },
+      {
+        "name": "Loading plugin from ali",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from randomium",
+        "duration_ms": 34
+      },
+      {
+        "name": "Loading plugin from toomanyrecipeviewers",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerItemSubtypes` with default strategy `SYNC_EMI`...",
+        "duration_ms": 9
+      },
+      {
+        "name": "[TMRV] Dispatching `registerItemSubtypes` took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] Dispatching `registerItemSubtypes` took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerFluidSubtypes` with default strategy `SYNC_EMI`...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerFluidSubtypes` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerFluidSubtypes` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerIngredients` with default strategy `ASYNC`...",
+        "duration_ms": 25
+      },
+      {
+        "name": "[TMRV] Dispatching `registerIngredients` took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] Dispatching `registerIngredients` took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerExtraIngredients` with default strategy `ASYNC`...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerExtraIngredients` took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] Dispatching `registerExtraIngredients` took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerIngredientAliases` with default strategy `ASYNC`...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerIngredientAliases` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerIngredientAliases` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerModInfo` with default strategy `SYNC_EMI`...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerModInfo` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerModInfo` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerCategories` with default strategy `SYNC_EMI`...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerCategories` took 7ms",
+        "duration_ms": 8
+      },
+      {
+        "name": "[TMRV] Dispatching `registerCategories` took 7ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerVanillaCategoryExtensions` with default strategy `SYNC_EMI`...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerVanillaCategoryExtensions` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerVanillaCategoryExtensions` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipeCatalysts` with default strategy `SYNC_EMI`...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipeCatalysts` took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipeCatalysts` took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerAdvanced` with default strategy `SYNC_EMI`...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerAdvanced` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerAdvanced` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipes` with default strategy `ASYNC`...",
+        "duration_ms": 21
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipes` took 1398ms",
+        "duration_ms": 1398
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipes` took 1398ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipeTransferHandlers` with default strategy `SYNC_EMI`...",
+        "duration_ms": 214
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipeTransferHandlers` took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipeTransferHandlers` took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerGuiHandlers` with default strategy `SYNC_EMI`...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerGuiHandlers` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerGuiHandlers` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRuntime` with default strategy `SYNC_EMI`...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRuntime` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRuntime` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `onRuntimeAvailable` with default strategy `SYNC_EMI`...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `onRuntimeAvailable` took 7ms",
+        "duration_ms": 7
+      },
+      {
+        "name": "[TMRV] Dispatching `onRuntimeAvailable` took 7ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Locking JEI Ingredient Registry...",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] Locking JEI Recipe Registry...",
+        "duration_ms": 0
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 686
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 0
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 822
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 1
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 0
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1792662510835
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1792662510842
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1792662510854
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1792662510901
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1792662516063
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1792662516749
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1792662517434
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1792662517434
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1792662517571
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1792662517571
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1792662517571
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1792662517571
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1792662517572
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1792662517572
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1792662517572
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1792662517572
+      }
+    ]
+  },
+  {
+    "timestamp": 1792662704059,
+    "reload_number": 4,
+    "total_ms": 5,
+    "cache_hit": true,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 5
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1792662704054
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1792662704059
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1792662704059
+      }
+    ]
+  },
+  {
+    "timestamp": 1792703663162,
+    "reload_number": 1,
+    "total_ms": 19056,
+    "cache_hit": true,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 144
+      },
+      {
+        "name": "Initializing plugin from supplementaries",
+        "duration_ms": 18
+      },
+      {
+        "name": "Initializing plugin from curios",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from pastel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from travelersbackpack",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from iceandfire",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from halcyon",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from marvel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from jeed",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from oritech",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from infinity",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from kubejs",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from reliable_recipes",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from elysium_api",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from ali",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from randomium",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from toomanyrecipeviewers",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Initializing...",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 10
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 90
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 2661
+      },
+      {
+        "name": "Loading plugin from supplementaries",
+        "duration_ms": 4800
+      },
+      {
+        "name": "Loading plugin from curios",
+        "duration_ms": 28
+      },
+      {
+        "name": "Loading plugin from pastel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from travelersbackpack",
+        "duration_ms": 148
+      },
+      {
+        "name": "Loading plugin from iceandfire",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from halcyon",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from marvel",
+        "duration_ms": 13
+      },
+      {
+        "name": "Loading plugin from jeed",
+        "duration_ms": 19
+      },
+      {
+        "name": "Loading plugin from oritech",
+        "duration_ms": 49
+      },
+      {
+        "name": "Loading plugin from infinity",
+        "duration_ms": 28
+      },
+      {
+        "name": "Loading plugin from kubejs",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading plugin from reliable_recipes",
+        "duration_ms": 64
+      },
+      {
+        "name": "Loading plugin from elysium_api",
+        "duration_ms": 156
+      },
+      {
+        "name": "Loading plugin from ali",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from randomium",
+        "duration_ms": 42
+      },
+      {
+        "name": "Loading plugin from toomanyrecipeviewers",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] Dispatching `registerItemSubtypes` with default strategy `SYNC_EMI`...",
+        "duration_ms": 20
+      },
+      {
+        "name": "[TMRV] Dispatching `registerItemSubtypes` took 8ms",
+        "duration_ms": 8
+      },
+      {
+        "name": "[TMRV] Dispatching `registerItemSubtypes` took 8ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerFluidSubtypes` with default strategy `SYNC_EMI`...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerFluidSubtypes` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerFluidSubtypes` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerIngredients` with default strategy `ASYNC`...",
+        "duration_ms": 42
+      },
+      {
+        "name": "[TMRV] Dispatching `registerIngredients` took 6ms",
+        "duration_ms": 6
+      },
+      {
+        "name": "[TMRV] Dispatching `registerIngredients` took 6ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerExtraIngredients` with default strategy `ASYNC`...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerExtraIngredients` took 0ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] Dispatching `registerExtraIngredients` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerIngredientAliases` with default strategy `ASYNC`...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerIngredientAliases` took 6ms",
+        "duration_ms": 6
+      },
+      {
+        "name": "[TMRV] Dispatching `registerIngredientAliases` took 6ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerModInfo` with default strategy `SYNC_EMI`...",
+        "duration_ms": 14
+      },
+      {
+        "name": "[TMRV] Dispatching `registerModInfo` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerModInfo` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerCategories` with default strategy `SYNC_EMI`...",
+        "duration_ms": 14
+      },
+      {
+        "name": "[TMRV] Dispatching `registerCategories` took 55ms",
+        "duration_ms": 55
+      },
+      {
+        "name": "[TMRV] Dispatching `registerCategories` took 55ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerVanillaCategoryExtensions` with default strategy `SYNC_EMI`...",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] Dispatching `registerVanillaCategoryExtensions` took 2ms",
+        "duration_ms": 2
+      },
+      {
+        "name": "[TMRV] Dispatching `registerVanillaCategoryExtensions` took 2ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipeCatalysts` with default strategy `SYNC_EMI`...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipeCatalysts` took 2ms",
+        "duration_ms": 2
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipeCatalysts` took 2ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerAdvanced` with default strategy `SYNC_EMI`...",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] Dispatching `registerAdvanced` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerAdvanced` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipes` with default strategy `ASYNC`...",
+        "duration_ms": 2
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipes` took 1412ms",
+        "duration_ms": 1412
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipes` took 1412ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipeTransferHandlers` with default strategy `SYNC_EMI`...",
+        "duration_ms": 248
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipeTransferHandlers` took 3ms",
+        "duration_ms": 3
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipeTransferHandlers` took 3ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerGuiHandlers` with default strategy `SYNC_EMI`...",
+        "duration_ms": 2
+      },
+      {
+        "name": "[TMRV] Dispatching `registerGuiHandlers` took 8ms",
+        "duration_ms": 8
+      },
+      {
+        "name": "[TMRV] Dispatching `registerGuiHandlers` took 8ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRuntime` with default strategy `SYNC_EMI`...",
+        "duration_ms": 7
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRuntime` took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRuntime` took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `onRuntimeAvailable` with default strategy `SYNC_EMI`...",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] Dispatching `onRuntimeAvailable` took 13ms",
+        "duration_ms": 13
+      },
+      {
+        "name": "[TMRV] Dispatching `onRuntimeAvailable` took 13ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Locking JEI Ingredient Registry...",
+        "duration_ms": 4
+      },
+      {
+        "name": "[TMRV] Locking JEI Recipe Registry...",
+        "duration_ms": 0
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 1
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Starting Reload",
+        "duration_ms": 322
+      },
+      {
+        "name": "Starting Reload",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 747
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 0
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 1088
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 5
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 27
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 17
+      },
+      {
+        "name": "Initializing plugin from supplementaries",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from curios",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from pastel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from travelersbackpack",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from iceandfire",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from halcyon",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from marvel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from jeed",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from oritech",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from infinity",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from kubejs",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from reliable_recipes",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from elysium_api",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from ali",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from randomium",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from toomanyrecipeviewers",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Initializing...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `onRuntimeUnavailable` with default strategy `SYNC_EMI`...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `onRuntimeUnavailable` took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] Dispatching `onRuntimeUnavailable` took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 1
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 31
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 135
+      },
+      {
+        "name": "Loading plugin from supplementaries",
+        "duration_ms": 1984
+      },
+      {
+        "name": "Loading plugin from curios",
+        "duration_ms": 13
+      },
+      {
+        "name": "Loading plugin from pastel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from travelersbackpack",
+        "duration_ms": 48
+      },
+      {
+        "name": "Loading plugin from iceandfire",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from halcyon",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from marvel",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading plugin from jeed",
+        "duration_ms": 7
+      },
+      {
+        "name": "Loading plugin from oritech",
+        "duration_ms": 20
+      },
+      {
+        "name": "Loading plugin from infinity",
+        "duration_ms": 13
+      },
+      {
+        "name": "Loading plugin from kubejs",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from reliable_recipes",
+        "duration_ms": 41
+      },
+      {
+        "name": "Loading plugin from elysium_api",
+        "duration_ms": 100
+      },
+      {
+        "name": "Loading plugin from ali",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from randomium",
+        "duration_ms": 31
+      },
+      {
+        "name": "Loading plugin from toomanyrecipeviewers",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerItemSubtypes` with default strategy `SYNC_EMI`...",
+        "duration_ms": 3
+      },
+      {
+        "name": "[TMRV] Dispatching `registerItemSubtypes` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerItemSubtypes` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerFluidSubtypes` with default strategy `SYNC_EMI`...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerFluidSubtypes` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerFluidSubtypes` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerIngredients` with default strategy `ASYNC`...",
+        "duration_ms": 33
+      },
+      {
+        "name": "[TMRV] Dispatching `registerIngredients` took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] Dispatching `registerIngredients` took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerExtraIngredients` with default strategy `ASYNC`...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerExtraIngredients` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerExtraIngredients` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerIngredientAliases` with default strategy `ASYNC`...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerIngredientAliases` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerIngredientAliases` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerModInfo` with default strategy `SYNC_EMI`...",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] Dispatching `registerModInfo` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerModInfo` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerCategories` with default strategy `SYNC_EMI`...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerCategories` took 5ms",
+        "duration_ms": 5
+      },
+      {
+        "name": "[TMRV] Dispatching `registerCategories` took 5ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerVanillaCategoryExtensions` with default strategy `SYNC_EMI`...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerVanillaCategoryExtensions` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerVanillaCategoryExtensions` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipeCatalysts` with default strategy `SYNC_EMI`...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipeCatalysts` took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipeCatalysts` took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerAdvanced` with default strategy `SYNC_EMI`...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerAdvanced` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerAdvanced` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipes` with default strategy `ASYNC`...",
+        "duration_ms": 22
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipes` took 1710ms",
+        "duration_ms": 1710
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipes` took 1710ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipeTransferHandlers` with default strategy `SYNC_EMI`...",
+        "duration_ms": 277
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipeTransferHandlers` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipeTransferHandlers` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerGuiHandlers` with default strategy `SYNC_EMI`...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerGuiHandlers` took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] Dispatching `registerGuiHandlers` took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRuntime` with default strategy `SYNC_EMI`...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRuntime` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRuntime` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `onRuntimeAvailable` with default strategy `SYNC_EMI`...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `onRuntimeAvailable` took 9ms",
+        "duration_ms": 9
+      },
+      {
+        "name": "[TMRV] Dispatching `onRuntimeAvailable` took 9ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Locking JEI Ingredient Registry...",
+        "duration_ms": 2
+      },
+      {
+        "name": "[TMRV] Locking JEI Recipe Registry...",
+        "duration_ms": 0
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 863
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 0
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 1335
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 0
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 2
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 2
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 2
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 11
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 24
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 24
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 5
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 1
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 0
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1792703644108
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1792703644126
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1792703644281
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1792703644372
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1792703654259
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1792703655328
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1792703656100
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1792703656101
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1792703656416
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1792703656417
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1792703656421
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1792703656421
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1792703656445
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1792703656447
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1792703656448
+      },
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1792703656448
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1792703656456
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1792703656469
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1792703656500
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1792703660964
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1792703661827
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1792703662708
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1792703662709
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1792703663162
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1792703663162
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1792703663162
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1792703663162
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1792703663162
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1792703663162
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1792703663162
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1792703663162
+      }
+    ]
+  },
+  {
+    "timestamp": 1792704458282,
+    "reload_number": 2,
+    "total_ms": 8,
+    "cache_hit": true,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 8
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1792704458274
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1792704458282
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1792704458282
+      }
+    ]
+  },
+  {
+    "timestamp": 1792705041314,
+    "reload_number": 1,
+    "total_ms": 12616,
+    "cache_hit": false,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 162
+      },
+      {
+        "name": "Initializing plugin from supplementaries",
+        "duration_ms": 78
+      },
+      {
+        "name": "Initializing plugin from curios",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from pastel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from travelersbackpack",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from iceandfire",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from halcyon",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from marvel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from jeed",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from oritech",
+        "duration_ms": 2
+      },
+      {
+        "name": "Initializing plugin from infinity",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from kubejs",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from reliable_recipes",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from elysium_api",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from ali",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from randomium",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from toomanyrecipeviewers",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Initializing...",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 11
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 78
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 2258
+      },
+      {
+        "name": "Loading plugin from supplementaries",
+        "duration_ms": 3650
+      },
+      {
+        "name": "Loading plugin from curios",
+        "duration_ms": 29
+      },
+      {
+        "name": "Loading plugin from pastel",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from travelersbackpack",
+        "duration_ms": 129
+      },
+      {
+        "name": "Loading plugin from iceandfire",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading plugin from halcyon",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from marvel",
+        "duration_ms": 21
+      },
+      {
+        "name": "Loading plugin from jeed",
+        "duration_ms": 22
+      },
+      {
+        "name": "Loading plugin from oritech",
+        "duration_ms": 80
+      },
+      {
+        "name": "Loading plugin from infinity",
+        "duration_ms": 51
+      },
+      {
+        "name": "Loading plugin from kubejs",
+        "duration_ms": 6
+      },
+      {
+        "name": "Loading plugin from reliable_recipes",
+        "duration_ms": 82
+      },
+      {
+        "name": "Loading plugin from elysium_api",
+        "duration_ms": 207
+      },
+      {
+        "name": "Loading plugin from ali",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading plugin from randomium",
+        "duration_ms": 64
+      },
+      {
+        "name": "Loading plugin from toomanyrecipeviewers",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerItemSubtypes` with default strategy `SYNC_EMI`...",
+        "duration_ms": 27
+      },
+      {
+        "name": "[TMRV] Dispatching `registerItemSubtypes` took 20ms",
+        "duration_ms": 20
+      },
+      {
+        "name": "[TMRV] Dispatching `registerItemSubtypes` took 20ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerFluidSubtypes` with default strategy `SYNC_EMI`...",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] Dispatching `registerFluidSubtypes` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerFluidSubtypes` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerIngredients` with default strategy `ASYNC`...",
+        "duration_ms": 80
+      },
+      {
+        "name": "[TMRV] Dispatching `registerIngredients` took 9ms",
+        "duration_ms": 9
+      },
+      {
+        "name": "[TMRV] Dispatching `registerIngredients` took 9ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerExtraIngredients` with default strategy `ASYNC`...",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] Dispatching `registerExtraIngredients` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerExtraIngredients` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerIngredientAliases` with default strategy `ASYNC`...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerIngredientAliases` took 7ms",
+        "duration_ms": 7
+      },
+      {
+        "name": "[TMRV] Dispatching `registerIngredientAliases` took 7ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerModInfo` with default strategy `SYNC_EMI`...",
+        "duration_ms": 19
+      },
+      {
+        "name": "[TMRV] Dispatching `registerModInfo` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerModInfo` took 0ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerCategories` with default strategy `SYNC_EMI`...",
+        "duration_ms": 34
+      },
+      {
+        "name": "[TMRV] Dispatching `registerCategories` took 147ms",
+        "duration_ms": 147
+      },
+      {
+        "name": "[TMRV] Dispatching `registerCategories` took 147ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerVanillaCategoryExtensions` with default strategy `SYNC_EMI`...",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] Dispatching `registerVanillaCategoryExtensions` took 7ms",
+        "duration_ms": 8
+      },
+      {
+        "name": "[TMRV] Dispatching `registerVanillaCategoryExtensions` took 7ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipeCatalysts` with default strategy `SYNC_EMI`...",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipeCatalysts` took 2ms",
+        "duration_ms": 2
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipeCatalysts` took 2ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerAdvanced` with default strategy `SYNC_EMI`...",
+        "duration_ms": 15
+      },
+      {
+        "name": "[TMRV] Dispatching `registerAdvanced` took 3ms",
+        "duration_ms": 3
+      },
+      {
+        "name": "[TMRV] Dispatching `registerAdvanced` took 3ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipes` with default strategy `ASYNC`...",
+        "duration_ms": 2
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipes` took 2061ms",
+        "duration_ms": 2062
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipes` took 2061ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipeTransferHandlers` with default strategy `SYNC_EMI`...",
+        "duration_ms": 260
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipeTransferHandlers` took 5ms",
+        "duration_ms": 5
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRecipeTransferHandlers` took 5ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerGuiHandlers` with default strategy `SYNC_EMI`...",
+        "duration_ms": 3
+      },
+      {
+        "name": "[TMRV] Dispatching `registerGuiHandlers` took 7ms",
+        "duration_ms": 7
+      },
+      {
+        "name": "[TMRV] Dispatching `registerGuiHandlers` took 7ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRuntime` with default strategy `SYNC_EMI`...",
+        "duration_ms": 9
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRuntime` took 1ms",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] Dispatching `registerRuntime` took 1ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Dispatching `onRuntimeAvailable` with default strategy `SYNC_EMI`...",
+        "duration_ms": 1
+      },
+      {
+        "name": "[TMRV] Dispatching `onRuntimeAvailable` took 15ms",
+        "duration_ms": 15
+      },
+      {
+        "name": "[TMRV] Dispatching `onRuntimeAvailable` took 15ms",
+        "duration_ms": 0
+      },
+      {
+        "name": "[TMRV] Locking JEI Ingredient Registry...",
+        "duration_ms": 6
+      },
+      {
+        "name": "[TMRV] Locking JEI Recipe Registry...",
+        "duration_ms": 0
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 1463
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 1
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 1427
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 7
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 33
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 4
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 5
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 5
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1792705028701
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1792705028721
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1792705028953
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1792705029033
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1792705038383
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1792705039847
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1792705040790
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1792705040791
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1792705041274
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1792705041275
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1792705041281
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1792705041281
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1792705041307
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1792705041312
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1792705041314
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1792705041314
+      }
+    ]
+  },
+  {
+    "timestamp": 1792705226741,
+    "reload_number": 2,
+    "total_ms": 7,
+    "cache_hit": false,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 7
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1792705226734
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1792705226741
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1792705226741
+      }
+    ]
+  }
+]

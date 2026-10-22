@@ -2,10 +2,6 @@
 	"elements": [
 		{
 			"weight": 1.0,
-			"key": "timevortex:alloy_smelter"
-		},
-		{
-			"weight": 1.0,
 			"key": "timevortex:artron_capacitor"
 		},
 		{
@@ -18,23 +14,7 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "timevortex:artron_crystal"
-		},
-		{
-			"weight": 1.0,
-			"key": "timevortex:artron_crystal_cluster"
-		},
-		{
-			"weight": 1.0,
-			"key": "timevortex:artron_forge"
-		},
-		{
-			"weight": 1.0,
 			"key": "timevortex:artron_generator"
-		},
-		{
-			"weight": 1.0,
-			"key": "timevortex:artronic_gold_ingot"
 		},
 		{
 			"weight": 1.0,
@@ -42,27 +22,7 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "timevortex:basic_circuit"
-		},
-		{
-			"weight": 1.0,
-			"key": "timevortex:captured_rift"
-		},
-		{
-			"weight": 1.0,
 			"key": "timevortex:chameleon_circuit"
-		},
-		{
-			"weight": 1.0,
-			"key": "timevortex:cinnabar"
-		},
-		{
-			"weight": 1.0,
-			"key": "timevortex:cinnabar_ore"
-		},
-		{
-			"weight": 1.0,
-			"key": "timevortex:circuit_fabricator"
 		},
 		{
 			"weight": 1.0,
@@ -74,19 +34,7 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "timevortex:deepslate_cinnabar_ore"
-		},
-		{
-			"weight": 1.0,
-			"key": "timevortex:deepslate_zeiton_ore"
-		},
-		{
-			"weight": 1.0,
 			"key": "timevortex:demat_circuit"
-		},
-		{
-			"weight": 1.0,
-			"key": "timevortex:dimensional_circuit"
 		},
 		{
 			"weight": 1.0,
@@ -95,10 +43,6 @@
 		{
 			"weight": 1.0,
 			"key": "timevortex:dimensional_stabiliser"
-		},
-		{
-			"weight": 1.0,
-			"key": "timevortex:dwarf_star_alloy_ingot"
 		},
 		{
 			"weight": 1.0,
@@ -111,14 +55,6 @@
 		{
 			"weight": 1.0,
 			"key": "timevortex:fluid_link"
-		},
-		{
-			"weight": 1.0,
-			"key": "timevortex:fluid_link_casing"
-		},
-		{
-			"weight": 1.0,
-			"key": "timevortex:forge_casing"
 		},
 		{
 			"weight": 1.0,
@@ -146,10 +82,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "timevortex:huon_dust"
-		},
-		{
-			"weight": 1.0,
 			"key": "timevortex:interior_floor"
 		},
 		{
@@ -158,27 +90,7 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "timevortex:large_artron_bud"
-		},
-		{
-			"weight": 1.0,
-			"key": "timevortex:matrix_assembler"
-		},
-		{
-			"weight": 1.0,
-			"key": "timevortex:matrix_frame"
-		},
-		{
-			"weight": 1.0,
-			"key": "timevortex:medium_artron_bud"
-		},
-		{
-			"weight": 1.0,
 			"key": "timevortex:memory_bank"
-		},
-		{
-			"weight": 1.0,
-			"key": "timevortex:mercury_distiller"
 		},
 		{
 			"weight": 1.0,
@@ -198,31 +110,11 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "timevortex:nether_cinnabar_ore"
-		},
-		{
-			"weight": 1.0,
 			"key": "timevortex:police_box_tardis"
 		},
 		{
 			"weight": 1.0,
 			"key": "timevortex:randomiser"
-		},
-		{
-			"weight": 1.0,
-			"key": "timevortex:raw_zeiton"
-		},
-		{
-			"weight": 1.0,
-			"key": "timevortex:raw_zeiton_block"
-		},
-		{
-			"weight": 1.0,
-			"key": "timevortex:rift_collector"
-		},
-		{
-			"weight": 1.0,
-			"key": "timevortex:rift_jar"
 		},
 		{
 			"weight": 1.0,
@@ -242,10 +134,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "timevortex:small_artron_bud"
-		},
-		{
-			"weight": 1.0,
 			"key": "timevortex:tardis_console"
 		},
 		{
@@ -262,14 +150,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "timevortex:temporal_circuit"
-		},
-		{
-			"weight": 1.0,
-			"key": "timevortex:temporal_grinder"
-		},
-		{
-			"weight": 1.0,
 			"key": "timevortex:throttle"
 		},
 		{
@@ -279,26 +159,6 @@
 		{
 			"weight": 1.0,
 			"key": "timevortex:vortex_siphon"
-		},
-		{
-			"weight": 1.0,
-			"key": "timevortex:zeiton_block"
-		},
-		{
-			"weight": 1.0,
-			"key": "timevortex:zeiton_dust"
-		},
-		{
-			"weight": 1.0,
-			"key": "timevortex:zeiton_ingot"
-		},
-		{
-			"weight": 1.0,
-			"key": "timevortex:zeiton_ore"
-		},
-		{
-			"weight": 1.0,
-			"key": "timevortex:zeiton_steel_ingot"
 		}
 	]
 }

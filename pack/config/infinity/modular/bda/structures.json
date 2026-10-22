@@ -21,17 +21,6 @@
 				},
 				"id": "bda:hooligan_village"
 			}
-		},
-		{
-			"weight": 1.0,
-			"key": "bda:red_death_volcano",
-			"data": {
-				"step": "surface_structures",
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"id": "bda:red_death_volcano"
-			}
 		}
 	]
 }

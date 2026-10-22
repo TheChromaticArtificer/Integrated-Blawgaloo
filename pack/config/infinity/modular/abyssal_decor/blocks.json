@@ -1206,16 +1206,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "abyssal_decor:block_of_pearl",
-			"data": {
-				"float": true,
-				"laggy": false,
-				"top": true,
-				"full": true
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "abyssal_decor:block_of_prismarine_crystal",
 			"data": {
 				"float": true,

@@ -2,6 +2,9 @@
   "replace": true,
   "values": [
     "antarchy:elythia_meadow",
-    "antarchy:peach_forest"
+    "antarchy:peach_forest",
+    "minecraft:plains",
+    "minecraft:sunflower_plains",
+    "minecraft:meadow"
   ]
 }

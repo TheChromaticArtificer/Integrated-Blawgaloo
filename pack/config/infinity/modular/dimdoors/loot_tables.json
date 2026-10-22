@@ -16,13 +16,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "dimdoors:blocks/amalgam_door",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "dimdoors:blocks/amalgam_ore",
 			"data": {
 				"Type": "block"
@@ -38,13 +31,6 @@
 		{
 			"weight": 1.0,
 			"key": "dimdoors:blocks/amalgam_stairs",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "dimdoors:blocks/amalgam_trapdoor",
 			"data": {
 				"Type": "block"
 			}
@@ -569,90 +555,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "dimdoors:blocks/driftwood_button",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "dimdoors:blocks/driftwood_door",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "dimdoors:blocks/driftwood_fence",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "dimdoors:blocks/driftwood_gate",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "dimdoors:blocks/driftwood_leaves",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "dimdoors:blocks/driftwood_log",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "dimdoors:blocks/driftwood_planks",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "dimdoors:blocks/driftwood_sapling",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "dimdoors:blocks/driftwood_slab",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "dimdoors:blocks/driftwood_stairs",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "dimdoors:blocks/driftwood_trapdoor",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "dimdoors:blocks/driftwood_wood",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "dimdoors:blocks/end_stone_button",
 			"data": {
 				"Type": "block"
@@ -689,13 +591,6 @@
 		{
 			"weight": 1.0,
 			"key": "dimdoors:blocks/end_stone_wall",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "dimdoors:blocks/gold_door",
 			"data": {
 				"Type": "block"
 			}
@@ -1675,20 +1570,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "dimdoors:blocks/quartz_door",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "dimdoors:blocks/reality_sponge",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "dimdoors:blocks/red_fabric",
 			"data": {
 				"Type": "block"
@@ -1878,13 +1759,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "dimdoors:blocks/stone_door",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "dimdoors:blocks/stone_slab",
 			"data": {
 				"Type": "block"
@@ -1942,13 +1816,6 @@
 		{
 			"weight": 1.0,
 			"key": "dimdoors:blocks/terracotta_wall",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "dimdoors:blocks/tesselating_loom",
 			"data": {
 				"Type": "block"
 			}

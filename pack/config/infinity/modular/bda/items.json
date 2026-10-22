@@ -6,19 +6,7 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "bda:chicken_spawn_egg"
-		},
-		{
-			"weight": 1.0,
-			"key": "bda:crow_spawn_egg"
-		},
-		{
-			"weight": 1.0,
 			"key": "bda:deadly_nadder_egg"
-		},
-		{
-			"weight": 1.0,
-			"key": "bda:deadly_nadder_spawn_egg"
 		},
 		{
 			"weight": 1.0,
@@ -30,10 +18,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "bda:gronckle_spawn_egg"
-		},
-		{
-			"weight": 1.0,
 			"key": "bda:hatch_stick"
 		},
 		{
@@ -42,15 +26,7 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "bda:hooligan_adult_spawn_egg"
-		},
-		{
-			"weight": 1.0,
 			"key": "bda:hooligan_bolas"
-		},
-		{
-			"weight": 1.0,
-			"key": "bda:hooligan_child_spawn_egg"
 		},
 		{
 			"weight": 1.0,
@@ -134,35 +110,11 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "bda:night_fury_spawn_egg"
-		},
-		{
-			"weight": 1.0,
-			"key": "bda:red_death_spawn_egg"
-		},
-		{
-			"weight": 1.0,
-			"key": "bda:seagull_spawn_egg"
-		},
-		{
-			"weight": 1.0,
-			"key": "bda:sheep_spawn_egg"
-		},
-		{
-			"weight": 1.0,
-			"key": "bda:songbird_spawn_egg"
-		},
-		{
-			"weight": 1.0,
 			"key": "bda:tame_staff"
 		},
 		{
 			"weight": 1.0,
 			"key": "bda:war_hammer"
-		},
-		{
-			"weight": 1.0,
-			"key": "bda:yak_spawn_egg"
 		}
 	]
 }

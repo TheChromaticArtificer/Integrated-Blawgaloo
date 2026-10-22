@@ -268,16 +268,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "witchery:cage_component",
-			"data": {
-				"float": true,
-				"laggy": true,
-				"top": true,
-				"full": false
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "witchery:censer",
 			"data": {
 				"float": false,
@@ -297,16 +287,6 @@
 				"laggy": true,
 				"top": true,
 				"full": false
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:component",
-			"data": {
-				"float": true,
-				"laggy": true,
-				"top": true,
-				"full": true
 			}
 		},
 		{
@@ -346,16 +326,6 @@
 				"float": false,
 				"laggy": false,
 				"top": false,
-				"full": false
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:effigy_component",
-			"data": {
-				"float": true,
-				"laggy": true,
-				"top": true,
 				"full": false
 			}
 		},
@@ -628,16 +598,6 @@
 		{
 			"weight": 1.0,
 			"key": "witchery:mushroom_log",
-			"data": {
-				"float": true,
-				"laggy": true,
-				"top": true,
-				"full": true
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:mushroom_log_component",
 			"data": {
 				"float": true,
 				"laggy": true,
@@ -931,36 +891,6 @@
 				"float": false,
 				"laggy": false,
 				"top": false,
-				"full": false
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:spirit_component",
-			"data": {
-				"float": true,
-				"laggy": true,
-				"top": true,
-				"full": false
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:statue_of_hobgoblin_patron",
-			"data": {
-				"float": true,
-				"laggy": true,
-				"top": true,
-				"full": false
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:statue_of_hobgoblin_patron_component",
-			"data": {
-				"float": true,
-				"laggy": true,
-				"top": true,
 				"full": false
 			}
 		},

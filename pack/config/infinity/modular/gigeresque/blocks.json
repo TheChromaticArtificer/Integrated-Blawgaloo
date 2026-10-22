@@ -62,26 +62,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "gigeresque:alien_storage_invis",
-			"data": {
-				"float": true,
-				"laggy": false,
-				"top": true,
-				"full": true
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "gigeresque:alien_storage_invis2",
-			"data": {
-				"float": true,
-				"laggy": false,
-				"top": true,
-				"full": true
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "gigeresque:beacon_block",
 			"data": {
 				"float": true,
@@ -506,16 +486,6 @@
 			"data": {
 				"float": true,
 				"laggy": true,
-				"top": true,
-				"full": true
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "gigeresque:petrified_statue_invis",
-			"data": {
-				"float": true,
-				"laggy": false,
 				"top": true,
 				"full": true
 			}

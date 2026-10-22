@@ -2,28 +2,7 @@
 	"elements": [
 		{
 			"weight": 1.0,
-			"key": "infinity:blocks/altar",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "infinity:blocks/ant",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "infinity:blocks/biome_bottle",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "infinity:blocks/book_box",
 			"data": {
 				"Type": "block"
 			}
@@ -38,27 +17,6 @@
 		{
 			"weight": 1.0,
 			"key": "infinity:blocks/chromatic_wool",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "infinity:blocks/cosmic_altar",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "infinity:blocks/cursor",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "infinity:blocks/iridescence_cauldron",
 			"data": {
 				"Type": "block"
 			}

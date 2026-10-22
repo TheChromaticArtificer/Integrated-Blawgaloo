@@ -23,13 +23,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "vista:blocks/wave_gate",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "vista:inject/creeper_tapes",
 			"data": {
 				"Type": "entity"

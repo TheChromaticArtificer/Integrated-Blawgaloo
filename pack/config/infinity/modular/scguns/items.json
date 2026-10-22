@@ -590,10 +590,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "scguns:geothermal_vent"
-		},
-		{
-			"weight": 1.0,
 			"key": "scguns:gibbs_round"
 		},
 		{
@@ -966,10 +962,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "scguns:nether_star_fragment"
-		},
-		{
-			"weight": 1.0,
 			"key": "scguns:netherite_bayonet"
 		},
 		{
@@ -1311,10 +1303,6 @@
 		{
 			"weight": 1.0,
 			"key": "scguns:shock_cell"
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:shock_coil"
 		},
 		{
 			"weight": 1.0,

@@ -51,7 +51,7 @@
     "stealItems": false
   },
   "cyclops": {
-    "spawnWanderingChance": 0.0011111111111111111,
+    "spawnWanderingChance": 0.12,
     "sheepSearchLength": 17,
     "maxHealth": 150.0,
     "attackDamage": 15.0,

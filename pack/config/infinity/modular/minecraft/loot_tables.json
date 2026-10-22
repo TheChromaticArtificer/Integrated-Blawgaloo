@@ -226,13 +226,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "minecraft:blocks/ancient_debris",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "minecraft:blocks/andesite",
 			"data": {
 				"Type": "block"
@@ -437,13 +430,6 @@
 		{
 			"weight": 1.0,
 			"key": "minecraft:blocks/basalt",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "minecraft:blocks/beacon",
 			"data": {
 				"Type": "block"
 			}
@@ -1647,13 +1633,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "minecraft:blocks/conduit",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "minecraft:blocks/copper_bars",
 			"data": {
 				"Type": "block"
@@ -2558,13 +2537,6 @@
 		{
 			"weight": 1.0,
 			"key": "minecraft:blocks/dispenser",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "minecraft:blocks/dragon_egg",
 			"data": {
 				"Type": "block"
 			}
@@ -4426,13 +4398,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "minecraft:blocks/nether_portal",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "minecraft:blocks/nether_quartz_ore",
 			"data": {
 				"Type": "block"
@@ -4455,13 +4420,6 @@
 		{
 			"weight": 1.0,
 			"key": "minecraft:blocks/nether_wart_block",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "minecraft:blocks/netherite_block",
 			"data": {
 				"Type": "block"
 			}
@@ -6407,13 +6365,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "minecraft:blocks/reinforced_deepslate",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "minecraft:blocks/repeater",
 			"data": {
 				"Type": "block"
@@ -6800,13 +6751,6 @@
 		{
 			"weight": 1.0,
 			"key": "minecraft:blocks/soul_torch",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "minecraft:blocks/spawner",
 			"data": {
 				"Type": "block"
 			}
@@ -7373,13 +7317,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "minecraft:blocks/trial_spawner",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "minecraft:blocks/tripwire",
 			"data": {
 				"Type": "block"
@@ -7486,13 +7423,6 @@
 		{
 			"weight": 1.0,
 			"key": "minecraft:blocks/twisting_vines_plant",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "minecraft:blocks/vault",
 			"data": {
 				"Type": "block"
 			}
@@ -8500,13 +8430,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "minecraft:chests/ancient_city",
-			"data": {
-				"Type": "chest"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "minecraft:chests/ancient_city_ice_box",
 			"data": {
 				"Type": "chest"
@@ -9116,20 +9039,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "minecraft:entities/elder_guardian",
-			"data": {
-				"Type": "entity"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "minecraft:entities/ender_dragon",
-			"data": {
-				"Type": "entity"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "minecraft:entities/enderman",
 			"data": {
 				"Type": "entity"
@@ -9166,13 +9075,6 @@
 		{
 			"weight": 1.0,
 			"key": "minecraft:entities/ghast",
-			"data": {
-				"Type": "entity"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "minecraft:entities/giant",
 			"data": {
 				"Type": "entity"
 			}
@@ -9222,13 +9124,6 @@
 		{
 			"weight": 1.0,
 			"key": "minecraft:entities/husk",
-			"data": {
-				"Type": "entity"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "minecraft:entities/illusioner",
 			"data": {
 				"Type": "entity"
 			}
@@ -9641,21 +9536,7 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "minecraft:entities/warden",
-			"data": {
-				"Type": "entity"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "minecraft:entities/witch",
-			"data": {
-				"Type": "entity"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "minecraft:entities/wither",
 			"data": {
 				"Type": "entity"
 			}

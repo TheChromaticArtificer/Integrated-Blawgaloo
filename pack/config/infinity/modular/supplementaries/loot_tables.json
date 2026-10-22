@@ -891,13 +891,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "supplementaries:blocks/gold_bars",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "supplementaries:blocks/gold_door",
 			"data": {
 				"Type": "block"
@@ -1284,13 +1277,6 @@
 		{
 			"weight": 1.0,
 			"key": "supplementaries:blocks/wild_flax",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "supplementaries:blocks/wind_vane",
 			"data": {
 				"Type": "block"
 			}

@@ -16,13 +16,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "alexscaves:boundroid_winch",
-			"data": {
-				"Category": "monster"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "alexscaves:brainiac",
 			"data": {
 				"Category": "monster"
@@ -124,13 +117,6 @@
 			"key": "alexscaves:grottoceratops",
 			"data": {
 				"Category": "alexscaves:cave_creature"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "alexscaves:gum_worm",
-			"data": {
-				"Category": "monster"
 			}
 		},
 		{

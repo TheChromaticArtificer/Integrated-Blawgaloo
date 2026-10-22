@@ -42,16 +42,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "antarchy:antigravel",
-			"data": {
-				"float": true,
-				"laggy": false,
-				"top": true,
-				"full": true
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "antarchy:antimetal",
 			"data": {
 				"float": true,
@@ -812,16 +802,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "antarchy:dimensional_tear_marker",
-			"data": {
-				"float": true,
-				"laggy": true,
-				"top": true,
-				"full": false
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "antarchy:dream_campfire",
 			"data": {
 				"float": true,
@@ -1214,19 +1194,6 @@
 				"laggy": false,
 				"top": true,
 				"full": false
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "antarchy:lucid_anchor",
-			"data": {
-				"float": true,
-				"laggy": true,
-				"Properties": {
-					"lit": "false"
-				},
-				"top": true,
-				"full": true
 			}
 		},
 		{
@@ -3570,16 +3537,6 @@
 				"laggy": false,
 				"top": true,
 				"full": false
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "antarchy:undervault",
-			"data": {
-				"float": true,
-				"laggy": true,
-				"top": true,
-				"full": true
 			}
 		},
 		{

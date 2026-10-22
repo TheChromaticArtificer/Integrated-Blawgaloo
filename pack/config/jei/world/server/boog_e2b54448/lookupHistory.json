@@ -1,5 +1,6 @@
 [
   {"version":1},
+  {"ingredient":{"id":"iceandfire:dread_shard"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"createcybernetics:wetware_sculkheart"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"createcybernetics:wetware_wardenantlers"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"createcybernetics:wetware_sculklungs"},"type":"item_stack","bookmarkType":"INGREDIENT"},

@@ -146,35 +146,11 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "createcybernetics:bodypart_axolotlmarrow"
-		},
-		{
-			"weight": 1.0,
 			"key": "createcybernetics:bodypart_brain"
 		},
 		{
 			"weight": 1.0,
-			"key": "createcybernetics:bodypart_dragonscale"
-		},
-		{
-			"weight": 1.0,
 			"key": "createcybernetics:bodypart_eyeballs"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:bodypart_firegland"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:bodypart_gills"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:bodypart_guardianretina"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:bodypart_gyroscopicbladder"
 		},
 		{
 			"weight": 1.0,
@@ -255,10 +231,6 @@
 		{
 			"weight": 1.0,
 			"key": "createcybernetics:bodypart_skin"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:bodypart_spinnerette"
 		},
 		{
 			"weight": 1.0,
@@ -366,59 +338,7 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "createcybernetics:component_actuator"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:component_diodes"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:component_fiberoptics"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:component_graphicscard"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:component_led"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:component_mesh"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:component_plating"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:component_ssd"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:component_storage"
-		},
-		{
-			"weight": 1.0,
 			"key": "createcybernetics:component_synthnerves"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:component_titaniumrod"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:component_wiring"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:computer"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:computer_tower"
 		},
 		{
 			"weight": 1.0,
@@ -435,18 +355,6 @@
 		{
 			"weight": 1.0,
 			"key": "createcybernetics:copper_upgrade_template"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:crushedtitanium"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:cyberskeleton_spawn_egg"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:cyberzombie_spawn_egg"
 		},
 		{
 			"weight": 1.0,
@@ -474,127 +382,11 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "createcybernetics:data_shard_game_chess"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:data_shard_game_minesweeper"
-		},
-		{
-			"weight": 1.0,
 			"key": "createcybernetics:data_shard_gray"
 		},
 		{
 			"weight": 1.0,
 			"key": "createcybernetics:data_shard_green"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:data_shard_infolog"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:data_shard_infolog_ai_chat"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:data_shard_infolog_chromatophore_field_note"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:data_shard_infolog_cpu_install"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:data_shard_infolog_cyberbestiary"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:data_shard_infolog_cyberdeck"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:data_shard_infolog_cyberdeck_security_brief"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:data_shard_infolog_cyberpsycho_transcript"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:data_shard_infolog_datura"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:data_shard_infolog_dense_battery_ad"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:data_shard_infolog_drillfist_ad"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:data_shard_infolog_fbc_guide"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:data_shard_infolog_getting_started"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:data_shard_infolog_harvester_enchantment"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:data_shard_infolog_house_rules"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:data_shard_infolog_idem_article"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:data_shard_infolog_immunosuppressor_advisory"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:data_shard_infolog_lunch_break"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:data_shard_infolog_mom_im_fine"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:data_shard_infolog_omniscient_optics_ad"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:data_shard_infolog_private_ward_report"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:data_shard_infolog_robosurgeon_manual"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:data_shard_infolog_sunset_shift"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:data_shard_infolog_surgery_table_manual"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:data_shard_infolog_the_breach"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:data_shard_infolog_the_raise"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:data_shard_infolog_wait_your_turn"
 		},
 		{
 			"weight": 1.0,
@@ -634,10 +426,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "createcybernetics:deepslate_titaniumore_block"
-		},
-		{
-			"weight": 1.0,
 			"key": "createcybernetics:digital_architecture"
 		},
 		{
@@ -654,27 +442,11 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "createcybernetics:etched_titanium_copper"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:etched_titanium_copper_slab"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:etched_titanium_copper_stairs"
-		},
-		{
-			"weight": 1.0,
 			"key": "createcybernetics:exosuit1"
 		},
 		{
 			"weight": 1.0,
 			"key": "createcybernetics:expcapsule"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:eyeupgradebase"
 		},
 		{
 			"weight": 1.0,
@@ -754,10 +526,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "createcybernetics:graphene_elastomer"
-		},
-		{
-			"weight": 1.0,
 			"key": "createcybernetics:heartupgrades_coupler"
 		},
 		{
@@ -779,10 +547,6 @@
 		{
 			"weight": 1.0,
 			"key": "createcybernetics:heartupgrades_stemcell"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:hogboy_spawn_egg"
 		},
 		{
 			"weight": 1.0,
@@ -930,10 +694,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "createcybernetics:organsupgrade_creativebattery"
-		},
-		{
-			"weight": 1.0,
 			"key": "createcybernetics:organsupgrade_densebattery"
 		},
 		{
@@ -978,19 +738,7 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "createcybernetics:pigstrom_spawn_egg"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:plastic_sheet"
-		},
-		{
-			"weight": 1.0,
 			"key": "createcybernetics:potion_autoinjector"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:punklin_spawn_egg"
 		},
 		{
 			"weight": 1.0,
@@ -1023,18 +771,6 @@
 		{
 			"weight": 1.0,
 			"key": "createcybernetics:raw_data_fragment"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:raw_titanium_block"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:rawtitanium"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:ripper_spawn_egg"
 		},
 		{
 			"weight": 1.0,
@@ -1450,22 +1186,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "createcybernetics:smasher_spawn_egg"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:smooth_titanium"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:smooth_titanium_slab"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:smooth_titanium_stairs"
-		},
-		{
-			"weight": 1.0,
 			"key": "createcybernetics:surgery_chamber"
 		},
 		{
@@ -1474,63 +1194,11 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "createcybernetics:tar"
-		},
-		{
-			"weight": 1.0,
 			"key": "createcybernetics:target_code_fragment"
 		},
 		{
 			"weight": 1.0,
-			"key": "createcybernetics:tathog_spawn_egg"
-		},
-		{
-			"weight": 1.0,
 			"key": "createcybernetics:temporal_lobe"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:titanium_block"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:titanium_clad_copper"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:titanium_clad_copper_slab"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:titanium_clad_copper_stairs"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:titanium_grate"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:titanium_hand"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:titaniumingot"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:titaniumnugget"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:titaniumore_block"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:titaniumsheet"
-		},
-		{
-			"weight": 1.0,
-			"key": "createcybernetics:unrefined_polymer"
 		},
 		{
 			"weight": 1.0,

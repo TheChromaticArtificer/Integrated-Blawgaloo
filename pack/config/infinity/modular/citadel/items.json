@@ -11,10 +11,6 @@
 		{
 			"weight": 1.0,
 			"key": "citadel:fancy_item"
-		},
-		{
-			"weight": 1.0,
-			"key": "citadel:icon_item"
 		}
 	]
 }

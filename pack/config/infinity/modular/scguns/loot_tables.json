@@ -23,20 +23,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "scguns:blocks/ancient_brass_block",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/anthralite_block",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "scguns:blocks/anthralite_grate",
 			"data": {
 				"Type": "block"
@@ -58,21 +44,7 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "scguns:blocks/anthralite_ore",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "scguns:blocks/anthralite_pillar",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/anthralite_plates",
 			"data": {
 				"Type": "block"
 			}
@@ -205,20 +177,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "scguns:blocks/chiseled_diamond_steel_block",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/chiseled_treated_brass_block",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "scguns:blocks/chiseled_treated_iron_block",
 			"data": {
 				"Type": "block"
@@ -234,13 +192,6 @@
 		{
 			"weight": 1.0,
 			"key": "scguns:blocks/cracked_asgharian_tiles",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/cracked_phosphorite_bricks",
 			"data": {
 				"Type": "block"
 			}
@@ -269,48 +220,6 @@
 		{
 			"weight": 1.0,
 			"key": "scguns:blocks/cut_anthralite_stairs",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/cut_diamond_steel",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/cut_diamond_steel_slab",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/cut_diamond_steel_stairs",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/cut_treated_brass",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/cut_treated_brass_slab",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/cut_treated_brass_stairs",
 			"data": {
 				"Type": "block"
 			}
@@ -352,90 +261,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "scguns:blocks/deepslate_anthralite_ore",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/deepslate_sulfur_ore",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/diamond_steel_bars",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/diamond_steel_block",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/diamond_steel_grate",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/diamond_steel_grate_pane",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/diamond_steel_lamp",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/diamond_steel_panel",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/diamond_steel_pillar",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/diamond_steel_tiles",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/diamond_steel_tiles_slab",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/diamond_steel_tiles_stairs",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "scguns:blocks/felix_memorial",
 			"data": {
 				"Type": "block"
@@ -444,13 +269,6 @@
 		{
 			"weight": 1.0,
 			"key": "scguns:blocks/fire_rate_turret_module",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/geothermal_vent",
 			"data": {
 				"Type": "block"
 			}
@@ -513,20 +331,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "scguns:blocks/lightning_battery",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/lightning_rod_connector",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "scguns:blocks/lime_niter_glass",
 			"data": {
 				"Type": "block"
@@ -534,21 +338,7 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "scguns:blocks/macerator",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "scguns:blocks/magenta_niter_glass",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/mechanical_press",
 			"data": {
 				"Type": "block"
 			}
@@ -570,13 +360,6 @@
 		{
 			"weight": 1.0,
 			"key": "scguns:blocks/mossy_asgharian_tiles",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/nether_sulfur_ore",
 			"data": {
 				"Type": "block"
 			}
@@ -632,49 +415,7 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "scguns:blocks/phosphorite",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/phosphorite_brick_slab",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/phosphorite_brick_stairs",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/phosphorite_brick_wall",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/phosphorite_bricks",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "scguns:blocks/pink_niter_glass",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/plasma_block",
 			"data": {
 				"Type": "block"
 			}
@@ -695,13 +436,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "scguns:blocks/polar_generator",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "scguns:blocks/polished_asgharian_panel",
 			"data": {
 				"Type": "block"
@@ -709,28 +443,7 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "scguns:blocks/polished_phosphorite",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "scguns:blocks/powder_keg",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/powered_macerator",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/powered_mechanical_press",
 			"data": {
 				"Type": "block"
 			}
@@ -751,20 +464,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "scguns:blocks/raw_anthralite_block",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/raw_phosphor_block",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "scguns:blocks/red_niter_glass",
 			"data": {
 				"Type": "block"
@@ -773,13 +472,6 @@
 		{
 			"weight": 1.0,
 			"key": "scguns:blocks/reinforced_asgharian_tiles",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/rich_phosphorite",
 			"data": {
 				"Type": "block"
 			}
@@ -807,13 +499,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "scguns:blocks/shock_coil",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "scguns:blocks/shotgun_turret",
 			"data": {
 				"Type": "block"
@@ -821,42 +506,7 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "scguns:blocks/smooth_phosphorite",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "scguns:blocks/sniper_turret",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/sulfur",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/sulfur_block",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/sulfur_ore",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/sulfur_vent",
 			"data": {
 				"Type": "block"
 			}
@@ -871,62 +521,6 @@
 		{
 			"weight": 1.0,
 			"key": "scguns:blocks/thermolith",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/treated_brass_block",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/treated_brass_grate",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/treated_brass_grate_pane",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/treated_brass_lamp",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/treated_brass_plates",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/treated_brass_tiles",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/treated_brass_tiles_slab",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/treated_brass_tiles_stairs",
 			"data": {
 				"Type": "block"
 			}
@@ -976,27 +570,6 @@
 		{
 			"weight": 1.0,
 			"key": "scguns:blocks/turret_targeting_module",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/vehement_coal_block",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/vehement_coal_ore",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:blocks/vent_collector",
 			"data": {
 				"Type": "block"
 			}
@@ -1228,13 +801,6 @@
 		{
 			"weight": 1.0,
 			"key": "scguns:entities/redcoat",
-			"data": {
-				"Type": "entity"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:entities/scamp_tank",
 			"data": {
 				"Type": "entity"
 			}

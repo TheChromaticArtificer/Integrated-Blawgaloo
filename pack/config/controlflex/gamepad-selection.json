@@ -3,7 +3,7 @@
   "selectedUid": "0300fa67c82d00000a31000014017801",
   "selectedUidFallbackName": "XInput Controller #1",
   "autoSelectIfMissing": true,
-  "lastSeenAt": "2026-10-21T16:10:27.179476100Z",
+  "lastSeenAt": "2026-10-22T09:15:07.082829900Z",
   "ordinalMap": {
     "00000000000000000000000000000000": 0,
     "0300fa67c82d00000a31000014017801": 0
@@ -14,7 +14,7 @@
       "vendorId": 11720,
       "productId": 12554,
       "type": "XBOXONE",
-      "lastSeenAt": "2026-10-21T16:10:27.179476100Z"
+      "lastSeenAt": "2026-10-22T09:15:07.082829900Z"
     },
     "00000000000000000000000000000000": {
       "name": "XInput Controller #1",

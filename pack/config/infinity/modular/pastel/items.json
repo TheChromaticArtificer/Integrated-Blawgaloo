@@ -122,10 +122,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "pastel:ash_pile"
-		},
-		{
-			"weight": 1.0,
 			"key": "pastel:ashen_blackslag"
 		},
 		{
@@ -355,10 +351,6 @@
 		{
 			"weight": 1.0,
 			"key": "pastel:black_log"
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:black_materia"
 		},
 		{
 			"weight": 1.0,
@@ -663,22 +655,6 @@
 		{
 			"weight": 1.0,
 			"key": "pastel:bone_ash_tiles"
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:bottle_of_decay_away"
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:bottle_of_fading"
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:bottle_of_failing"
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:bottle_of_ruin"
 		},
 		{
 			"weight": 1.0,
@@ -1938,10 +1914,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "pastel:invisible_wall"
-		},
-		{
-			"weight": 1.0,
 			"key": "pastel:iron_cluster"
 		},
 		{
@@ -2679,10 +2651,6 @@
 		{
 			"weight": 1.0,
 			"key": "pastel:midnight_chip"
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:midnight_solution_bucket"
 		},
 		{
 			"weight": 1.0,

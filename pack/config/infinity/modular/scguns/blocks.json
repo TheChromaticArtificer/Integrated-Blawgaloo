@@ -415,16 +415,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "scguns:geothermal_vent",
-			"data": {
-				"float": true,
-				"laggy": false,
-				"top": true,
-				"full": false
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "scguns:gray_niter_glass",
 			"data": {
 				"float": true,
@@ -758,16 +748,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "scguns:shock_coil",
-			"data": {
-				"float": true,
-				"laggy": true,
-				"top": true,
-				"full": false
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "scguns:shotgun_turret",
 			"data": {
 				"float": true,
@@ -804,16 +784,6 @@
 				"laggy": false,
 				"top": true,
 				"full": true
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "scguns:temporary_light",
-			"data": {
-				"float": true,
-				"laggy": false,
-				"top": true,
-				"full": false
 			}
 		},
 		{

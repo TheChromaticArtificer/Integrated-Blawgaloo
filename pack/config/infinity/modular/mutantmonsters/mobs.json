@@ -2,13 +2,6 @@
 	"elements": [
 		{
 			"weight": 1.0,
-			"key": "mutantmonsters:endersoul_clone",
-			"data": {
-				"Category": "monster"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "mutantmonsters:mutant_creeper",
 			"data": {
 				"Category": "monster"

@@ -1018,10 +1018,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "natures_spirit:half_pizza"
-		},
-		{
-			"weight": 1.0,
 			"key": "natures_spirit:helvola_flower"
 		},
 		{
@@ -1998,10 +1994,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "natures_spirit:quarter_pizza"
-		},
-		{
-			"weight": 1.0,
 			"key": "natures_spirit:red_bearberries"
 		},
 		{
@@ -2510,10 +2502,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "natures_spirit:three_quarters_pizza"
-		},
-		{
-			"weight": 1.0,
 			"key": "natures_spirit:tiger_lily"
 		},
 		{
@@ -2615,10 +2603,6 @@
 		{
 			"weight": 1.0,
 			"key": "natures_spirit:white_wisteria_vines"
-		},
-		{
-			"weight": 1.0,
-			"key": "natures_spirit:whole_pizza"
 		},
 		{
 			"weight": 1.0,

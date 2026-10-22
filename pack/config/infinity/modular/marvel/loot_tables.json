@@ -2,21 +2,7 @@
 	"elements": [
 		{
 			"weight": 1.0,
-			"key": "marvel:blocks/adamantium_block",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "marvel:blocks/deepslate_brick_lamp",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "marvel:blocks/deepslate_palladium_ore",
 			"data": {
 				"Type": "block"
 			}
@@ -30,13 +16,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "marvel:blocks/deepslate_vibranium_ore",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "marvel:blocks/gold_titanium_block",
 			"data": {
 				"Type": "block"
@@ -44,140 +23,7 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "marvel:blocks/gray_hydra_brick_lamp",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "marvel:blocks/gray_hydra_brick_slab",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "marvel:blocks/gray_hydra_brick_stairs",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "marvel:blocks/gray_hydra_brick_wall",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "marvel:blocks/gray_hydra_bricks",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "marvel:blocks/green_hydra_brick_lamp",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "marvel:blocks/green_hydra_brick_slab",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "marvel:blocks/green_hydra_brick_stairs",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "marvel:blocks/green_hydra_brick_wall",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "marvel:blocks/green_hydra_bricks",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "marvel:blocks/light_gray_hydra_brick_lamp",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "marvel:blocks/light_gray_hydra_brick_slab",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "marvel:blocks/light_gray_hydra_brick_stairs",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "marvel:blocks/light_gray_hydra_brick_wall",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "marvel:blocks/light_gray_hydra_bricks",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "marvel:blocks/mark_38_charger",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "marvel:blocks/palladium_block",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "marvel:blocks/palladium_ore",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "marvel:blocks/proto_adamantium_block",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "marvel:blocks/raw_palladium_block",
 			"data": {
 				"Type": "block"
 			}
@@ -205,27 +51,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "marvel:blocks/suit_charger",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "marvel:blocks/suit_table",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "marvel:blocks/tesseract",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "marvel:blocks/titanium_block",
 			"data": {
 				"Type": "block"
@@ -234,62 +59,6 @@
 		{
 			"weight": 1.0,
 			"key": "marvel:blocks/titanium_ore",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "marvel:blocks/uru_block",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "marvel:blocks/vibranium_block",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "marvel:blocks/vibranium_ore",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "marvel:blocks/yellow_hydra_brick_lamp",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "marvel:blocks/yellow_hydra_brick_slab",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "marvel:blocks/yellow_hydra_brick_stairs",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "marvel:blocks/yellow_hydra_brick_wall",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "marvel:blocks/yellow_hydra_bricks",
 			"data": {
 				"Type": "block"
 			}
@@ -317,28 +86,7 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "marvel:entities/baron_zemo",
-			"data": {
-				"Type": "entity"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "marvel:entities/hydra_agent",
-			"data": {
-				"Type": "entity"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "marvel:entities/red_skull",
-			"data": {
-				"Type": "entity"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "marvel:entities/winter_soldier",
 			"data": {
 				"Type": "entity"
 			}

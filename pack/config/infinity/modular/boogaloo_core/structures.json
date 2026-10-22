@@ -6,8 +6,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "boogaloo_core:bluestone_leafless_grove"
 			}
 		},
@@ -17,8 +16,7 @@
 			"data": {
 				"step": "underground_structures",
 				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "boogaloo_core:bluestone_torch_cave"
 			}
 		},
@@ -28,8 +26,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "boogaloo_core:bluestone_torch_trail"
 			}
 		},
@@ -39,8 +36,7 @@
 			"data": {
 				"step": "underground_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "boogaloo_core:bluestone_tunnel/1x2/tunnel"
 			}
 		},
@@ -50,8 +46,7 @@
 			"data": {
 				"step": "underground_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "boogaloo_core:bluestone_tunnel/2x2_tunnel"
 			}
 		},
@@ -61,8 +56,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "boogaloo_core:leafless_grove"
 			}
 		},
@@ -72,8 +66,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "boogaloo_core:logless_tree/acacia"
 			}
 		},
@@ -83,8 +76,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "boogaloo_core:logless_tree/birch"
 			}
 		},
@@ -94,8 +86,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "boogaloo_core:logless_tree/oak"
 			}
 		},
@@ -105,8 +96,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "boogaloo_core:logless_tree/spruce"
 			}
 		},
@@ -116,8 +106,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "boogaloo_core:mossy_pyramid"
 			}
 		},
@@ -127,8 +116,7 @@
 			"data": {
 				"step": "top_layer_modification",
 				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "boogaloo_core:ocean_sand_pyramid"
 			}
 		},
@@ -138,8 +126,7 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "boogaloo_core:redstone_torch_trail"
 			}
 		},
@@ -149,20 +136,8 @@
 			"data": {
 				"step": "surface_structures",
 				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "boogaloo_core:sand_pyramid"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "boogaloo_core:soul_temple",
-			"data": {
-				"step": "underground_structures",
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"id": "boogaloo_core:soul_temple"
 			}
 		},
 		{
@@ -171,8 +146,7 @@
 			"data": {
 				"step": "underground_structures",
 				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "boogaloo_core:torch_cave"
 			}
 		},
@@ -182,8 +156,7 @@
 			"data": {
 				"step": "underground_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "boogaloo_core:torch_tunnel/1x2/torchless_tunnel"
 			}
 		},
@@ -193,8 +166,7 @@
 			"data": {
 				"step": "underground_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "boogaloo_core:torch_tunnel/1x2/tunnel"
 			}
 		},
@@ -204,8 +176,7 @@
 			"data": {
 				"step": "underground_structures",
 				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
+				"spawn_overrides": {},
 				"id": "boogaloo_core:torch_tunnel/2x2_tunnel"
 			}
 		}

@@ -46,10 +46,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "tempad:new_location_upgrade"
-		},
-		{
-			"weight": 1.0,
 			"key": "tempad:player_teleport_upgrade"
 		},
 		{
@@ -67,10 +63,6 @@
 		{
 			"weight": 1.0,
 			"key": "tempad:time_twister"
-		},
-		{
-			"weight": 1.0,
-			"key": "tempad:timedoor_marker"
 		},
 		{
 			"weight": 1.0,

@@ -232,16 +232,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "pastel:ash_pile",
-			"data": {
-				"float": false,
-				"laggy": false,
-				"top": true,
-				"full": false
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "pastel:ashen_blackslag",
 			"data": {
 				"float": true,
@@ -4117,16 +4107,6 @@
 				"laggy": false,
 				"top": true,
 				"full": true
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:invisible_wall",
-			"data": {
-				"float": true,
-				"laggy": false,
-				"top": true,
-				"full": false
 			}
 		},
 		{
@@ -10516,16 +10496,6 @@
 				"laggy": false,
 				"top": true,
 				"full": false
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "pastel:titration_barrel",
-			"data": {
-				"float": true,
-				"laggy": true,
-				"top": true,
-				"full": true
 			}
 		},
 		{

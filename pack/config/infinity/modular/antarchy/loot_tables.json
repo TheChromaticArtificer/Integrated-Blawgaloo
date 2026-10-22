@@ -30,13 +30,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "antarchy:blocks/antigravel",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "antarchy:blocks/antimetal",
 			"data": {
 				"Type": "block"
@@ -1780,20 +1773,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "antarchy:blocks/prince_egg",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "antarchy:blocks/princess_egg",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "antarchy:blocks/purple_truffalo_tuft",
 			"data": {
 				"Type": "block"
@@ -2033,13 +2012,6 @@
 		{
 			"weight": 1.0,
 			"key": "antarchy:blocks/shellstone_wall",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "antarchy:blocks/skulking_fright_egg",
 			"data": {
 				"Type": "block"
 			}
@@ -2795,13 +2767,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "antarchy:entities/alpha_mantis",
-			"data": {
-				"Type": "entity"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "antarchy:entities/apple_cow",
 			"data": {
 				"Type": "entity"
@@ -2823,13 +2788,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "antarchy:entities/brutalfly",
-			"data": {
-				"Type": "entity"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "antarchy:entities/cheep",
 			"data": {
 				"Type": "entity"
@@ -2845,13 +2803,6 @@
 		{
 			"weight": 1.0,
 			"key": "antarchy:entities/easter_bunny",
-			"data": {
-				"Type": "entity"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "antarchy:entities/emperor_scorpion",
 			"data": {
 				"Type": "entity"
 			}
@@ -2886,28 +2837,7 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "antarchy:entities/hercules_beetle",
-			"data": {
-				"Type": "entity"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "antarchy:entities/jerry",
-			"data": {
-				"Type": "entity"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "antarchy:entities/king",
-			"data": {
-				"Type": "entity"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "antarchy:entities/kraken",
 			"data": {
 				"Type": "entity"
 			}
@@ -2977,13 +2907,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "antarchy:entities/queen",
-			"data": {
-				"Type": "entity"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "antarchy:entities/skulking_fright",
 			"data": {
 				"Type": "entity"
@@ -3013,13 +2936,6 @@
 		{
 			"weight": 1.0,
 			"key": "antarchy:entities/stratoshark",
-			"data": {
-				"Type": "entity"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "antarchy:entities/toreterror",
 			"data": {
 				"Type": "entity"
 			}

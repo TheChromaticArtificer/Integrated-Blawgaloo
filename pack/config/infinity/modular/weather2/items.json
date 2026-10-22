@@ -26,10 +26,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "weather2:weather_item"
-		},
-		{
-			"weight": 1.0,
 			"key": "weather2:wind_turbine"
 		},
 		{

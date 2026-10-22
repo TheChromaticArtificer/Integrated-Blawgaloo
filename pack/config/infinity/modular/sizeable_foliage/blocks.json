@@ -12,31 +12,11 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "sizeable_foliage:big_bush_part",
-			"data": {
-				"float": true,
-				"laggy": false,
-				"top": true,
-				"full": false
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "sizeable_foliage:big_sweet_berry_bush",
 			"data": {
 				"float": false,
 				"laggy": false,
 				"top": false,
-				"full": false
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "sizeable_foliage:big_sweet_berry_bush_part",
-			"data": {
-				"float": true,
-				"laggy": false,
-				"top": true,
 				"full": false
 			}
 		},

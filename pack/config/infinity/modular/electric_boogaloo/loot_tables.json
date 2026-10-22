@@ -1,18 +1,3 @@
 {
-	"elements": [
-		{
-			"weight": 1.0,
-			"key": "electric_boogaloo:entities/backup_dancer",
-			"data": {
-				"Type": "entity"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "electric_boogaloo:entities/electric_boogaloo",
-			"data": {
-				"Type": "entity"
-			}
-		}
-	]
+	"elements": []
 }

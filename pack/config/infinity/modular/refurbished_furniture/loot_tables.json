@@ -730,13 +730,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "refurbished_furniture:blocks/computer",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "refurbished_furniture:blocks/crimson_basin",
 			"data": {
 				"Type": "block"
@@ -969,13 +962,6 @@
 		{
 			"weight": 1.0,
 			"key": "refurbished_furniture:blocks/dark_ceiling_light",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "refurbished_furniture:blocks/dark_electricity_generator",
 			"data": {
 				"Type": "block"
 			}
@@ -1641,13 +1627,6 @@
 		{
 			"weight": 1.0,
 			"key": "refurbished_furniture:blocks/light_ceiling_light",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "refurbished_furniture:blocks/light_electricity_generator",
 			"data": {
 				"Type": "block"
 			}
@@ -2803,13 +2782,6 @@
 		{
 			"weight": 1.0,
 			"key": "refurbished_furniture:blocks/stone_stepping_stones",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "refurbished_furniture:blocks/television",
 			"data": {
 				"Type": "block"
 			}

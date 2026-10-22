@@ -128,35 +128,7 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "witchery:blocks/altar",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/altar_component",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/bear_trap",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "witchery:blocks/belladonna",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/black_iron_candelabra",
 			"data": {
 				"Type": "block"
 			}
@@ -191,42 +163,7 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "witchery:blocks/blue_iron_candelabra",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/brazier",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/brown_iron_candelabra",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/cauldron",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "witchery:blocks/censer",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/chalice",
 			"data": {
 				"Type": "block"
 			}
@@ -240,41 +177,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "witchery:blocks/coffin",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/copper_cauldron",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/copper_witches_oven",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/copper_witches_oven_fume_extension",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/critter_snare",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "witchery:blocks/crystal_ball",
 			"data": {
 				"Type": "block"
@@ -282,77 +184,7 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "witchery:blocks/cyan_iron_candelabra",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/deepslate_altar_block",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/demon_heart",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/distillery",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "witchery:blocks/disturbed_cotton",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/dream_weaver",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/dream_weaver_of_fasting",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/dream_weaver_of_fleet_foot",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/dream_weaver_of_intensity",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/dream_weaver_of_iron_arm",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/dream_weaver_of_nightmares",
 			"data": {
 				"Type": "block"
 			}
@@ -373,27 +205,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "witchery:blocks/exposed_copper_cauldron",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/exposed_copper_witches_oven",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/exposed_copper_witches_oven_fume_extension",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "witchery:blocks/garlic",
 			"data": {
 				"Type": "block"
@@ -402,34 +213,6 @@
 		{
 			"weight": 1.0,
 			"key": "witchery:blocks/glintweed",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/grassper",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/gravestone",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/gray_iron_candelabra",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/green_iron_candelabra",
 			"data": {
 				"Type": "block"
 			}
@@ -555,56 +338,7 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "witchery:blocks/iron_candelabra",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/iron_witches_oven",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/iron_witches_oven_fume_extension",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "witchery:blocks/koboldite_pentacle",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/light_blue_iron_candelabra",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/light_gray_iron_candelabra",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/lime_iron_candelabra",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/magenta_iron_candelabra",
 			"data": {
 				"Type": "block"
 			}
@@ -618,42 +352,7 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "witchery:blocks/orange_iron_candelabra",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/oxidized_copper_cauldron",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/oxidized_copper_witches_oven",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/oxidized_copper_witches_oven_fume_extension",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "witchery:blocks/pentacle",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/pink_iron_candelabra",
 			"data": {
 				"Type": "block"
 			}
@@ -675,20 +374,6 @@
 		{
 			"weight": 1.0,
 			"key": "witchery:blocks/potted_rowan_sapling",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/purple_iron_candelabra",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/red_iron_candelabra",
 			"data": {
 				"Type": "block"
 			}
@@ -842,20 +527,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "witchery:blocks/spinning_wheel",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/statue_of_hobgoblin_patron",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "witchery:blocks/stripped_alder_log",
 			"data": {
 				"Type": "block"
@@ -912,125 +583,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "witchery:blocks/waxed_copper_cauldron",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/waxed_copper_witches_oven",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/waxed_copper_witches_oven_fume_extension",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/waxed_exposed_copper_cauldron",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/waxed_exposed_copper_witches_oven",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/waxed_exposed_copper_witches_oven_fume_extension",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/waxed_oxidized_copper_cauldron",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/waxed_oxidized_copper_witches_oven",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/waxed_oxidized_copper_witches_oven_fume_extension",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/waxed_weathered_copper_cauldron",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/waxed_weathered_copper_witches_oven",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/waxed_weathered_copper_witches_oven_fume_extension",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/weathered_copper_cauldron",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/weathered_copper_witches_oven",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/weathered_copper_witches_oven_fume_extension",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/werewolf_altar",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:blocks/white_iron_candelabra",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "witchery:blocks/wild_bramble",
 			"data": {
 				"Type": "block"
@@ -1066,13 +618,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "witchery:blocks/yellow_iron_candelabra",
-			"data": {
-				"Type": "block"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "witchery:chests/coven_hut",
 			"data": {
 				"Type": "chest"
@@ -1087,21 +632,7 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "witchery:entities/baba_yaga",
-			"data": {
-				"Type": "entity"
-			}
-		},
-		{
-			"weight": 1.0,
 			"key": "witchery:entities/banshee",
-			"data": {
-				"Type": "entity"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:entities/death",
 			"data": {
 				"Type": "entity"
 			}
@@ -1137,13 +668,6 @@
 		{
 			"weight": 1.0,
 			"key": "witchery:entities/hunter",
-			"data": {
-				"Type": "entity"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": "witchery:entities/leonard",
 			"data": {
 				"Type": "entity"
 			}

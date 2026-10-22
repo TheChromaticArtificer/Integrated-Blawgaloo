@@ -166,10 +166,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "oritech:copper_nugget"
-		},
-		{
-			"weight": 1.0,
 			"key": "oritech:crop_filter_addon"
 		},
 		{
