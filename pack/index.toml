@@ -166,7 +166,7 @@ hash = "493aec9a545591ba664566e72d70ffc9ef100c373dc8337cd7b30a8ecf24e564"
 
 [[files]]
 file = "config/astralsorcery/known_trees.json"
-hash = "e0201640af8e2539582d8cb5dd8d17085139288c618915f39c559c18b605f3f6"
+hash = "75135dfb7b62e8bf99e83358a376f2bbc3b1f914a3ee02d57e3c73d7f111e13f"
 
 [[files]]
 file = "config/astralsorcery/perk_gem_modifiers.json"
