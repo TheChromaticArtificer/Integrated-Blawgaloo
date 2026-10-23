@@ -33862,6 +33862,11 @@ hash = "a3f6da0a0185d1f5725d57ea0fde61fc33922a3b42408e491ba407a98e0e2f68"
 metafile = true
 
 [[files]]
+file = "mods/observable.pw.toml"
+hash = "fc589b7dde0a49cc77ebc6ba1afd201881204d1d5bf0f25b4c10fca941ae9dc3"
+metafile = true
+
+[[files]]
 file = "mods/observerlib.pw.toml"
 hash = "ff407a1e06ce5a70fd10e60a9c822a69d2722d8d1b5751918ff65145a976036e"
 metafile = true
