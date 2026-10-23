@@ -33889,6 +33889,11 @@ hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
 metafile = true
 
 [[files]]
+file = "mods/pneumaticcraft-repressurized.pw.toml"
+hash = "582b26125348a32a2c70a5b9fdd512c8e446be975db4790842f0471ee7f34505"
+metafile = true
+
+[[files]]
 file = "mods/prometheus.pw.toml"
 hash = "6f076af82f183969c2ccf5ad3ed1d0a17b906ae4f808af88edadf467d8f6b083"
 metafile = true
