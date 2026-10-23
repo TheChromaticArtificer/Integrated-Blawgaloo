@@ -181,10 +181,6 @@ file = "config/azurelib.json"
 hash = "9f136b36f13fb0f7d0de277ecf6d933914c7dcc3f646136cd09a68e904659109"
 
 [[files]]
-file = "config/badoptimizations.txt"
-hash = "cae5ba66971b2f61e0b523c5aeb8b8d4fa806f0bea8a1709860e4fea94426ac9"
-
-[[files]]
 file = "config/bda/main.json"
 hash = "de2238ddd0747bec991fd97594c0e982f8c4f61a9f461c0f37baab9288723782"
 
