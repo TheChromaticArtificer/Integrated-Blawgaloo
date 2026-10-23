@@ -33863,6 +33863,11 @@ hash = "a3f6da0a0185d1f5725d57ea0fde61fc33922a3b42408e491ba407a98e0e2f68"
 metafile = true
 
 [[files]]
+file = "mods/now-playing.pw.toml"
+hash = "85b49eb1c7d7ed0e32f39ae8e3135c2b26e368f6221541201df749c036b31ffa"
+metafile = true
+
+[[files]]
 file = "mods/observable.pw.toml"
 hash = "fc589b7dde0a49cc77ebc6ba1afd201881204d1d5bf0f25b4c10fca941ae9dc3"
 metafile = true
