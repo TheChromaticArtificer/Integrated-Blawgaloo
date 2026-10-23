@@ -3358,7 +3358,7 @@ hash = "60433b671b895f0de388c1baa7aeb7c1dcd2dbd93622e0f3d7128b77daf8be11"
 
 [[files]]
 file = "config/irons_spellbooks_spell_config/global_config.json"
-hash = "7a8fd5e37e183cccd59a72a4af0b9e1fe1b4d930cd034b2f11da7307a8741580"
+hash = "6434fb87eca931ac682a1fb905e1a622a1dda4163b159fb14c4b13fc7239ac11"
 
 [[files]]
 file = "config/irons_spellbooks_spell_config/irons_spellbooks/example.txt"
@@ -33465,7 +33465,7 @@ metafile = true
 
 [[files]]
 file = "mods/ears.pw.toml"
-hash = "d4fb9100185dd62bd3d945d3122674583d89b413ef6d0273c3a28844979869d6"
+hash = "0f610cb765a7186e142739047915b90e3853615ae91d30afda38c33a53e1c9b2"
 metafile = true
 
 [[files]]
