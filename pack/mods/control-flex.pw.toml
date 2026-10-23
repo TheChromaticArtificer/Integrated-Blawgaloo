@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 8931627
 project-id = 1590666
+
+[option]
+optional = true
+description = "Controller suppport mod"
