@@ -33674,11 +33674,6 @@ hash = "767cac8c5fcf8b072571492c3f820e19cbd596e5706f1d28a189b9f494cac388"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "50109154721adb4a72b7f2d034b1839aea2221d84bce2c40a6dfd98368363716"
-metafile = true
-
-[[files]]
 file = "mods/jinxedlib.pw.toml"
 hash = "1350afbe0b8ffcd889f3093b5e1feadb255224a1c887acbcc30a36e50450b351"
 metafile = true
@@ -33905,7 +33900,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "688becd8128786fc5f45bfedc4f023a3d9773dd7163c281b9696497e2989a521"
+hash = "5b1e4d40fcf5f464a41348c25f281d24059eb7341bab8af5c78d3ec57fecb32a"
 metafile = true
 
 [[files]]
