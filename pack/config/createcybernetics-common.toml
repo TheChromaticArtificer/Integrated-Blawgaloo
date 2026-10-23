@@ -18,7 +18,7 @@ epilepsyMode = false
 #ONLY_CYBERNETICS: Durability applies only to cybernetics.
 #DISABLED: Durability is disabled.
 #Allowed Values: ENABLED, ONLY_IMPLANTS, ONLY_CYBERNETICS, DISABLED
-cyberwareDurabilityMode = "ONLY_IMPLANTS"
+cyberwareDurabilityMode = "DISABLED"
 #Controls critical durability effects for damaged organs and organ-replacement implants.
 #When enabled, critically damaged organs may cause effects such as blindness, weakness, slowness, nausea, poison, reduced saturation, and prolonged harmful effects.
 #When disabled, organ durability still functions, but critical durability debuffs are not applied.
