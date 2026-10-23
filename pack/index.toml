@@ -33292,6 +33292,11 @@ hash = "53747d2fe247e881f3fcc2c2dae9c42c2ae2841f4f59eb237b4d055f3dbbf221"
 metafile = true
 
 [[files]]
+file = "mods/autostel.pw.toml"
+hash = "cfbe1a54d2905252c2a021636f3935d17878e9b8f78c47b4d4ef9166af14bd14"
+metafile = true
+
+[[files]]
 file = "mods/azurelib.pw.toml"
 hash = "ffeb4b9cfa89def130c4dbae2727f276bfbddc15ffdb3d251d8dd8f2bdde6fb4"
 metafile = true
