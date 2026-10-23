@@ -5,6 +5,10 @@ file = "config/.infinity-temp.json"
 hash = "9dceb1edf3523fbae6cfaaaf5e6c5166b7f4ba90043a958c535c7bb39e6f29c4"
 
 [[files]]
+file = "config/AdvancedBackups.properties"
+hash = "992b7cc39939645f1f6cd8d9f22ed0b3b9dd14cd1a0f552cc9f6f71c50e0d996"
+
+[[files]]
 file = "config/CoroUtil/General.toml"
 hash = "6d46bdc090d4bb9bdfb660be4ca94075dc08e09d5fed84108eba92a422a23c49"
 
@@ -33190,6 +33194,11 @@ metafile = true
 [[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "b8e2705fef6e92a224508cd09a5e77f5600937e8f519d229bc7437156128faf3"
+metafile = true
+
+[[files]]
+file = "mods/advanced-backups.pw.toml"
+hash = "eec26a02ae733113e66a324e471eb01c24fb8739804592cd5c65c8d6a9ee9a72"
 metafile = true
 
 [[files]]
