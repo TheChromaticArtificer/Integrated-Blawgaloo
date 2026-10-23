@@ -33304,11 +33304,6 @@ hash = "663121322a8768c6542131b18d277b0b0da3676ff80ee1271ec4714a87155a89"
 metafile = true
 
 [[files]]
-file = "mods/better-combat-by-daedelus.pw.toml"
-hash = "f75f946469a16f1640622c2bdecbd8a6dafa0876bf7f1000332abd1328e15ef5"
-metafile = true
-
-[[files]]
 file = "mods/better-fog.pw.toml"
 hash = "1187e5fc5b7e66b48b36cb7eac9b82c9238986644e26d1c4fcd9df27292c71bb"
 metafile = true
