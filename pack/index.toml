@@ -5345,6 +5345,10 @@ file = "config/stellarview-client.toml"
 hash = "f66428e29612700415a815d003449239ed65853bd5ae78298de42fb294b474db"
 
 [[files]]
+file = "config/styled-nicknames.json"
+hash = "24a24fcd9c14f6c4597c76580ba3857b9e6e3e091c748667b3097c18cb2d834d"
+
+[[files]]
 file = "config/supplementaries-client.toml"
 hash = "e5a6ee1cf8759a5682e58f7a00a57276f2aa7b8d05477d1623d758a8189a2eba"
 
@@ -34026,6 +34030,11 @@ metafile = true
 [[files]]
 file = "mods/stellarview.pw.toml"
 hash = "bb12c1aeaeb1a9a860cb5a872d9335862b0a28300f13de0386936879de40aacd"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames-unofficial-neoforge.pw.toml"
+hash = "a05fab22efac8380044afb11b3cec5f9162a41331dcf321c52c5f136aeeb2f14"
 metafile = true
 
 [[files]]
