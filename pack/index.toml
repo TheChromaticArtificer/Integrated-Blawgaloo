@@ -33328,11 +33328,6 @@ hash = "3330f934f8dd4d6fa0c188d96cae55449dc8e9b27458ba73cceb801f1a81e082"
 metafile = true
 
 [[files]]
-file = "mods/bisecthosting-server-integration-menu-neoforge.pw.toml"
-hash = "838a0031854e49bd8363cc5a3f8bd4016c07d51ec985f0d94d523ec8351cb088"
-metafile = true
-
-[[files]]
 file = "mods/bluelib.pw.toml"
 hash = "dfb00702a262da2ef5c98cbe76e5e6916b2742027c87ca41a33d6a58f75fd3b3"
 metafile = true
