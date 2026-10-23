@@ -1,0 +1,13 @@
+name = "Gunsmith's Gadgets 'n Gizmos"
+filename = "gunsmiths_gadgetsn_gizmos-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1f47501179a09957b76299879d78b40ba93a2c5c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9054600
+project-id = 1673217

@@ -3358,7 +3358,7 @@ hash = "60433b671b895f0de388c1baa7aeb7c1dcd2dbd93622e0f3d7128b77daf8be11"
 
 [[files]]
 file = "config/irons_spellbooks_spell_config/global_config.json"
-hash = "7a8fd5e37e183cccd59a72a4af0b9e1fe1b4d930cd034b2f11da7307a8741580"
+hash = "4d8aea3d0f654ed9789fa225ade2aa0e7f97f00ea7c5fda58a84f02e3892d3b1"
 
 [[files]]
 file = "config/irons_spellbooks_spell_config/irons_spellbooks/example.txt"
@@ -33576,6 +33576,11 @@ metafile = true
 [[files]]
 file = "mods/guard-villagers.pw.toml"
 hash = "f8e18076cba5f91b05429d2192deac5fc59708dbe33cf6e2bf613ff090366f95"
+metafile = true
+
+[[files]]
+file = "mods/gunsmiths-gadgets-n-gizmos.pw.toml"
+hash = "058e521d52040aad6c3a8b391262b437b1fb42f0371eba197d0823cc66cbd957"
 metafile = true
 
 [[files]]
