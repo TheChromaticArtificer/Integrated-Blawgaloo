@@ -10,7 +10,7 @@
 #Settings that try to accommodate for certain disabilities.
 [accessibility]
 	#Whether to enable color-assist mode. When on, various tweaks to color-dependent puzzles will be made to hopefully help in their completion, or in the case of one puzzle, will be outright bypassed.
-	colorAssist = false
+	colorAssist = true
 
 #Particular sound settings that we cannot easily add to the ingame menu.
 [sounds]

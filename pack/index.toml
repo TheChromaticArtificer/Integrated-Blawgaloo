@@ -814,7 +814,7 @@ hash = "654e9ad3709811b604d7a5c8b0804e1686b5338aea9d615832ffdad34f7baacc"
 
 [[files]]
 file = "config/halcyon-client.toml"
-hash = "380fd367bd66391d44c38c93cfa2491e7c1c7663a932fa09a17552339cf77656"
+hash = "ea110babf7e1ba411ef66a0e591cb6386d4ce2d08647cef468a0a0f42496c407"
 
 [[files]]
 file = "config/halcyon.toml"
