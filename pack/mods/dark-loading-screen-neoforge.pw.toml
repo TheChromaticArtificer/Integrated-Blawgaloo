@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 8605002
 project-id = 1568908
+
+[option]
+optional = true
+description = "Darkmode neoforge loading screen"

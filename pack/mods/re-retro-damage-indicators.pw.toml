@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 7921238
 project-id = 1456876
+
+[option]
+optional = true
+description = "MMO style healthbars with a spinning entity render, and popup damage numbers"

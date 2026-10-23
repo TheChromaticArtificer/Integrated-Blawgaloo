@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 8312039
 project-id = 1220460
+
+[option]
+optional = true
+description = "Does distributed HUD update fuckery"

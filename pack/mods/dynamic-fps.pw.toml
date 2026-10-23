@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 7546938
 project-id = 335493
+
+[option]
+optional = true
+description = "Greatly reduce the FPS cap when Minecraft is unfocused or AFK"

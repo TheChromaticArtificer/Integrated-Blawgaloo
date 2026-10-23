@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 8242804
 project-id = 455508
+
+[option]
+optional = true
+description = "Allows shaderpacks so you can use your computer as a space heater"

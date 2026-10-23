@@ -1,0 +1,27 @@
+{
+  "version": 3,
+  "selectedUid": "0300fa67c82d00000a31000014017801",
+  "selectedUidFallbackName": "XInput Controller #1",
+  "autoSelectIfMissing": true,
+  "lastSeenAt": "2026-10-22T09:15:07.082829900Z",
+  "ordinalMap": {
+    "00000000000000000000000000000000": 0,
+    "0300fa67c82d00000a31000014017801": 0
+  },
+  "knownGamepads": {
+    "0300fa67c82d00000a31000014017801": {
+      "name": "XInput Controller #1",
+      "vendorId": 11720,
+      "productId": 12554,
+      "type": "XBOXONE",
+      "lastSeenAt": "2026-10-22T09:15:07.082829900Z"
+    },
+    "00000000000000000000000000000000": {
+      "name": "XInput Controller #1",
+      "vendorId": 11720,
+      "productId": 12554,
+      "type": "XBOXONE",
+      "lastSeenAt": "2026-10-20T01:04:51.249348100Z"
+    }
+  }
+}

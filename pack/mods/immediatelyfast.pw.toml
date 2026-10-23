@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 9165518
 project-id = 686911
+
+[option]
+optional = true
+description = "Does somewhat dangerous clientside optimizations"

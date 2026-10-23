@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 5637846
 project-id = 60089
+
+[option]
+optional = true
+description = "Mouse Tweaks"

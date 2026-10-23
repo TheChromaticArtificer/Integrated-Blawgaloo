@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 8780227
 project-id = 393442
+
+[option]
+optional = true
+description = "Performant clientside dynamic lighting of blocks and items"

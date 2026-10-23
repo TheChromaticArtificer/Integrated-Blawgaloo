@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 9100286
 project-id = 448233
+
+[option]
+optional = true
+description = "Uses pathtracing from the player's view to cull entities hidden behind blocks. May not work on large or partially hidden entities."
