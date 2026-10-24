@@ -1,8 +1,0 @@
-{
-  "category": "integrated_boogaloo:lab",
-  "title": "guide.integrated_boogaloo.disk.pop_quiz.title",
-  "description": "guide.integrated_boogaloo.disk.pop_quiz.description",
-  "programs": [
-    "integrated_boogaloo:pop_quiz"
-  ]
-}

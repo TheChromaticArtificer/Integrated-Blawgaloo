@@ -1,7 +1,0 @@
-{
-  "item": "minecraft:quartz",
-  "value": 2,
-  "limit": 128,
-  "limit_reset": "minecraft_day",
-  "green_tint": false
-}

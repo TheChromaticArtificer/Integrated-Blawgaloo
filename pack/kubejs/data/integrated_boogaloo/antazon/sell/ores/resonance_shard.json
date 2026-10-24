@@ -1,7 +1,0 @@
-{
-  "item": "pastel:resonance_shard",
-  "value": 60,
-  "limit": 32,
-  "limit_reset": "minecraft_day",
-  "green_tint": false
-}

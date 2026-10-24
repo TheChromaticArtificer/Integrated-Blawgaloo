@@ -1,7 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    { "id": "createcybernetics:tathog_spawn_egg", "required": false },
-    { "id": "celestisynth:tempest_spawn_egg", "required": false }
-  ]
-}

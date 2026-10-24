@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    {
-      "id": "#boogaloo_core:random_item_blacklist",
-      "required": false
-    }
-  ]
-}

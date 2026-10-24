@@ -1,7 +1,0 @@
-{
-  "criteria": {
-    "unlocked_shooting_stars": {
-      "trigger": "minecraft:tick"
-    }
-  }
-}

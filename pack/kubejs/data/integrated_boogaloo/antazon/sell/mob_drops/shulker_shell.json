@@ -1,7 +1,0 @@
-{
-  "item": "minecraft:shulker_shell",
-  "value": 30,
-  "limit": 32,
-  "limit_reset": "minecraft_day",
-  "green_tint": false
-}

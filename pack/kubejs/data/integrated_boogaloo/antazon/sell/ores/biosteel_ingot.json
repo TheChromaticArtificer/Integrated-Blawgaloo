@@ -1,7 +1,0 @@
-{
-  "item": "oritech:biosteel_ingot",
-  "value": 20,
-  "limit": 64,
-  "limit_reset": "minecraft_day",
-  "green_tint": false
-}

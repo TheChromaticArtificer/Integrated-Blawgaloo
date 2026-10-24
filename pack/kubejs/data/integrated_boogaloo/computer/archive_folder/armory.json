@@ -1,7 +1,0 @@
-{
-  "title": "guide.integrated_boogaloo.archive_folder.armory",
-  "icon_item": "marvel:iron_man_mark_3_chestplate",
-  "parent": "integrated_boogaloo:heroes",
-  "sort_order": 10,
-  "green_tint": false
-}

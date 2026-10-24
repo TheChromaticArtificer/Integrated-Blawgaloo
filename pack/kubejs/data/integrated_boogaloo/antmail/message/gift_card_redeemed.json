@@ -1,9 +1,0 @@
-{
-  "sender": "antazongiftcards@antmail.com",
-  "sender_display": "Antazon Gift Cards",
-  "subject": "Gift card redeemed",
-  "body": "Congratulations. A gift card has been added to your account.\n\nAntazon Gift Cards: Money You Didn't Earn.",
-  "trigger": {
-    "type": "manual"
-  }
-}

@@ -1,7 +1,0 @@
-{
-  "item": "minecraft:netherite_ingot",
-  "value": 450,
-  "limit": 8,
-  "limit_reset": "minecraft_day",
-  "green_tint": false
-}

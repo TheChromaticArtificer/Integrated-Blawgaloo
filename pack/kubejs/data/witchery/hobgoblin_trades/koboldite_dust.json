@@ -1,8 +1,0 @@
-{
-  "costA": "witchery:koboldite_dust",
-  "costACount": 9,
-  "costB": "minecraft:gold_ingot",
-  "maxUses": 16,
-  "priceMultiplier": 1.0,
-  "result": "iceandfire:silver_nugget"
-}

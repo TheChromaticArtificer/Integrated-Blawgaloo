@@ -1,7 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    "#minecraft:is_overworld",
-    { "id": "#antarchy:is_elythia", "required": false }
-  ]
-}

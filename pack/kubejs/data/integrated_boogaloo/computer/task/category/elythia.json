@@ -1,8 +1,0 @@
-{
-  "green_tint": false,
-  "render_mob_from_spawn_egg": true,
-  "title": "task.category.integrated_boogaloo.elythia",
-  "icon": "antarchy:brown_ant_spawn_egg",
-  "sort_order": 10,
-  "group": "integrated_boogaloo:exploration"
-}

@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    "#c:is_swamp",
-    "minecraft:warm_ocean",
-    "antarchy:elythia_ocean",
-    "antarchy:elythia_coral_spikes"
-  ]
-}

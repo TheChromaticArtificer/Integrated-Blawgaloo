@@ -1,9 +1,0 @@
-{
-  "replace": true,
-  "values": [
-    {
-      "id": "celestisynth:celestial_spell_book",
-      "required": false
-    }
-  ]
-}
