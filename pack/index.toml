@@ -3541,6 +3541,10 @@ file = "config/lodestone-client.toml"
 hash = "c088a5e2ac97282375f0c346ced0647f0b76d09e62f0e37342b52dcba17f43c3"
 
 [[files]]
+file = "config/logbegone.json"
+hash = "5191f7e47f154a413a905048209f91d7a6f5c73508b3112d8be967c73f13b272"
+
+[[files]]
 file = "config/lootr-client.toml"
 hash = "2e0eed967110c4fb2639f778388f5ea64a82781ccf75cdf43f44a971ed9c6b27"
 
@@ -34224,6 +34228,11 @@ metafile = true
 [[files]]
 file = "mods/lodestone.pw.toml"
 hash = "8590e77951c4fb7c1ac4a52f8e1e0fa0103518b8c64ef3ae55ae654bfd6d2594"
+metafile = true
+
+[[files]]
+file = "mods/log-begone.pw.toml"
+hash = "0b41566dd30a36d375860ce7e5443b46b08380ffd3c3b9eee4db8cd476c30eb6"
 metafile = true
 
 [[files]]
