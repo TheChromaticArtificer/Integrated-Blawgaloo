@@ -1,0 +1,78 @@
+{
+  "name": "book.pastel.guidebook.boogaloo.foreign.name",
+  "icon": {
+    "item": "minecraft:enchanted_book"
+  },
+  "condition": {
+    "type": "modonomicon:advancement",
+    "advancement_id": "pastel:midgame/build_enchanting_structure"
+  },
+  "category": "pastel:enchanting",
+  "hide_while_locked": true,
+  "parents": [
+    {
+      "entry": "pastel:enchanting/enchanter"
+    }
+  ],
+  "background_u_index": 0,
+  "background_v_index": 0,
+  "x": 1,
+  "y": 1,
+  "pages": [
+    {
+      "type": "modonomicon:text",
+      "title": "book.pastel.guidebook.boogaloo.foreign.name",
+      "text": "book.pastel.guidebook.boogaloo.foreign.page0"
+    },
+    {
+      "type": "pastel:enchanter_crafting",
+      "title": "container.pastel.rei.enchanter_recipe",
+      "recipe_id": "integrated_boogaloo:enchanter/antarchy/chronosphere",
+      "text": "book.pastel.guidebook.boogaloo.foreign.chronosphere",
+      "condition": {
+        "type": "modonomicon:advancement",
+        "advancement_id": "integrated_boogaloo:unlocks/enchantments/antarchy"
+      }
+    },
+    {
+      "type": "pastel:enchanter_crafting",
+      "title": "container.pastel.rei.enchanter_recipe",
+      "recipe_id": "integrated_boogaloo:enchanter/antarchy/feather_rising",
+      "text": "book.pastel.guidebook.boogaloo.foreign.feather_rising",
+      "condition": {
+        "type": "modonomicon:advancement",
+        "advancement_id": "integrated_boogaloo:unlocks/enchantments/antarchy"
+      }
+    },
+    {
+      "type": "pastel:enchanter_crafting",
+      "title": "container.pastel.rei.enchanter_recipe",
+      "recipe_id": "integrated_boogaloo:enchanter/supplementaries/stasis",
+      "text": "book.pastel.guidebook.boogaloo.foreign.stasis",
+      "condition": {
+        "type": "modonomicon:advancement",
+        "advancement_id": "integrated_boogaloo:unlocks/enchantments/supplementaries"
+      }
+    },
+    {
+      "type": "pastel:enchanter_crafting",
+      "title": "container.pastel.rei.enchanter_recipe",
+      "recipe_id": "integrated_boogaloo:enchanter/alexscaves/x_ray",
+      "text": "book.pastel.guidebook.boogaloo.foreign.x_ray",
+      "condition": {
+        "type": "modonomicon:advancement",
+        "advancement_id": "integrated_boogaloo:unlocks/enchantments/alexscaves"
+      }
+    },
+    {
+      "type": "pastel:enchanter_upgrading",
+      "title": "container.pastel.rei.enchantment_upgrading.title",
+      "recipe_id": "integrated_boogaloo:enchantment_upgrade/alexscaves/far_flung",
+      "text": "book.pastel.guidebook.boogaloo.foreign.upgrade",
+      "condition": {
+        "type": "modonomicon:advancement",
+        "advancement_id": "integrated_boogaloo:unlocks/enchantments/alexscaves"
+      }
+    }
+  ]
+}

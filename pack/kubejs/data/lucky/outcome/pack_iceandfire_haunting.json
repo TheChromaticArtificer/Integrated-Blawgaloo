@@ -1,0 +1,43 @@
+{
+  "type": "lucky:group",
+  "luck": -1,
+  "chance": 0.6,
+  "outcomes": [
+    {
+      "type": "lucky:message",
+      "message": {
+        "text": "The air turns cold...",
+        "color": "gray",
+        "bold": true
+      },
+      "overlay": true
+    },
+    {
+      "type": "lucky:command",
+      "command": "/time set 18000"
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "iceandfire:ghost",
+      "reinit": true,
+      "count": 3,
+      "pos": {
+        "type": "lucky:random_in_shape",
+        "center": [
+          "{blockPosX}",
+          "{blockPosY}",
+          "{blockPosZ}"
+        ],
+        "shape": {
+          "type": "lucky:sphere",
+          "size": [
+            4,
+            1,
+            4
+          ]
+        }
+      },
+      "delay": 20
+    }
+  ]
+}

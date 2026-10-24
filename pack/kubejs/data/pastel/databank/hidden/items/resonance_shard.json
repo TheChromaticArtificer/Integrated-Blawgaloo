@@ -1,0 +1,10 @@
+{
+  "type": {
+    "type": "databank:item",
+    "hidden_as": "minecraft:light_blue_dye",
+    "original": "pastel:resonance_shard"
+  },
+  "condition": {
+    "type": "databank:always_true"
+  }
+}

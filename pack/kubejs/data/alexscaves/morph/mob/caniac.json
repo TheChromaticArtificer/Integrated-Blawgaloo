@@ -1,0 +1,32 @@
+{
+    "forEntity": "alexscaves:caniac",
+    "tickMode": "client_strict",
+    "traits": [
+        {
+            "type": "traitHostile"
+        },
+        {
+            "type": "abilitySpinAttack",
+            "enterTicks": 4,
+            "loopTicks": 40,
+            "exitTicks": 4,
+            "hitIntervalTicks": 10,
+            "radius": 2.5,
+            "damage": 10.8,
+            "cooldown": 160,
+            "soundEventId": "alexscaves:caniac_swing",
+            "slot": 1
+        },
+        {
+            "type": "abilityDash",
+            "speed": 1.4,
+            "durationTicks": 8,
+            "damage": 12.0,
+            "knockback": 0.8,
+            "radius": 1.5,
+            "cooldown": 60,
+            "soundEventId": "alexscaves:caniac_attack",
+            "slot": 2
+        }
+    ]
+}

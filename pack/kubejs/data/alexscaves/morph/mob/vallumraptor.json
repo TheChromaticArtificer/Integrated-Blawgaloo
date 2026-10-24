@@ -1,0 +1,31 @@
+{
+    "forEntity": "alexscaves:vallumraptor",
+    "traits": [
+        {
+            "type": "traitHostile"
+        },
+        {
+            "type": "traitFallNegate"
+        },
+        {
+            "type": "abilityAlexsCavesVallumraptorPounce",
+            "nativeClassName": "com.github.alexmodguy.alexscaves.server.entity.living.VallumraptorEntity",
+            "animationFieldName": "ANIMATION_STARTLEAP",
+            "trueBooleanMethods": [
+                "setLeaping",
+                "setRunning"
+            ],
+            "lineAttack": true,
+            "range": 8.0,
+            "radius": 1.5,
+            "damage": 12.0,
+            "knockback": 0.8,
+            "selfMotion": true,
+            "selfMotionForward": 1.3,
+            "selfMotionUp": 0.35,
+            "cooldown": 60,
+            "soundEventId": "alexscaves:vallumraptor_attack",
+            "slot": 1
+        }
+    ]
+}

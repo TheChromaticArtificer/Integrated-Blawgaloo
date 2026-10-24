@@ -1,0 +1,107 @@
+{
+  "type": "lucky:group",
+  "luck": 1,
+  "chance": 0.6,
+  "outcomes": [
+    {
+      "type": "lucky:message",
+      "message": {
+        "text": "A gem garden in every color!",
+        "color": "light_purple",
+        "bold": true
+      },
+      "overlay": true
+    },
+    {
+      "type": "lucky:command",
+      "command": "/setblock ~3 ~ ~0 pastel:red_lamp"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/setblock ~2 ~ ~2 pastel:orange_lamp"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/setblock ~0 ~ ~3 pastel:yellow_lamp"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/setblock ~-2 ~ ~2 pastel:lime_lamp"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/setblock ~-3 ~ ~0 pastel:cyan_lamp"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/setblock ~-2 ~ ~-2 pastel:blue_lamp"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/setblock ~0 ~ ~-3 pastel:purple_lamp"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/setblock ~2 ~ ~-2 pastel:magenta_lamp"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/setblock ~1 ~ ~ pastel:topaz_cluster"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/setblock ~-1 ~ ~ pastel:citrine_cluster"
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "pastel:lizard",
+      "reinit": true,
+      "count": 3,
+      "pos": {
+        "type": "lucky:random_in_shape",
+        "center": [
+          "{blockPosX}",
+          "{blockPosY}",
+          "{blockPosZ}"
+        ],
+        "shape": {
+          "type": "lucky:sphere",
+          "size": [
+            3,
+            1,
+            3
+          ]
+        }
+      }
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "pastel:eraser",
+      "reinit": true,
+      "pos": [
+        "{blockPosX}",
+        "{blockPosY}",
+        "{blockPosZ}"
+      ],
+      "delay": 60
+    },
+    {
+      "type": "lucky:item",
+      "item": "pastel:topaz_shard",
+      "count": {
+        "type": "minecraft:uniform",
+        "min_inclusive": 2,
+        "max_inclusive": 4
+      }
+    },
+    {
+      "type": "lucky:item",
+      "item": "pastel:citrine_shard",
+      "count": {
+        "type": "minecraft:uniform",
+        "min_inclusive": 2,
+        "max_inclusive": 4
+      }
+    }
+  ]
+}

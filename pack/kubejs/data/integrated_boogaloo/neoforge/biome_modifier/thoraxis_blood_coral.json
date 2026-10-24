@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "integrated_boogaloo:thoraxis_magnetic_caves",
+  "features": "integrated_boogaloo:thoraxis_blood_coral",
+  "step": "vegetal_decoration"
+}

@@ -1,0 +1,37 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.storage_range.title",
+  "description": "task.integrated_boogaloo.storage_range.description",
+  "showcase": [
+    "@recipe:refinedstorage:range_upgrade"
+  ],
+  "icon": "refinedstorage:range_upgrade",
+  "program": "integrated_boogaloo:storage",
+  "category": "integrated_boogaloo:storage",
+  "sort_order": 21,
+  "position": {
+    "x": 2,
+    "y": -3
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:storage/wireless"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "refinedstorage:range_upgrade",
+      "description": "task.integrated_boogaloo.storage_range.goal",
+      "count": 1,
+      "sticky": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 75
+    }
+  ],
+  "line_axis": "vertical"
+}

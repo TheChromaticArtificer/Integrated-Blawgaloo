@@ -1,0 +1,56 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.boogaloo_royal_guardian.title",
+  "description": "task.integrated_boogaloo.boogaloo_royal_guardian.description",
+  "showcase": [
+    "@recipe:antarchy:royal_guardian_chestplate"
+  ],
+  "icon": "antarchy:royal_guardian_chestplate",
+  "program": "integrated_boogaloo:big_boogaloo",
+  "category": "integrated_boogaloo:big_boogaloo",
+  "sort_order": 26,
+  "position": {
+    "x": 8,
+    "y": -4
+  },
+  "shape": "octagon",
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:infinity_gauntlet/mind_stone"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "antarchy:royal_guardian_chestplate",
+      "description": "task.integrated_boogaloo.boogaloo_royal_guardian.goal",
+      "count": 1
+    },
+    {
+      "id": "sword",
+      "type": "item",
+      "target": "antarchy:royal_guardian_sword",
+      "description": "task.integrated_boogaloo.boogaloo_royal_guardian.sword",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "shield",
+      "type": "item",
+      "target": "antarchy:royal_guardian_shield",
+      "description": "task.integrated_boogaloo.boogaloo_royal_guardian.shield",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "archive_entries": [
+    "integrated_boogaloo:controls"
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 500
+    }
+  ],
+  "line_axis": "horizontal"
+}

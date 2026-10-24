@@ -1,0 +1,24 @@
+{
+  "type": "lucky:random",
+  "outcomes": [
+    {
+      "type": "lucky:structure",
+      "structure": "lucky:lucky_choice_left",
+      "pos": [
+        "{blockPosX}",
+        "{blockPosY}-1",
+        "{blockPosZ}"
+      ]
+    },
+    {
+      "type": "lucky:structure",
+      "structure": "lucky:lucky_choice_right",
+      "pos": [
+        "{blockPosX}",
+        "{blockPosY}-1",
+        "{blockPosZ}"
+      ]
+    }
+  ],
+  "chance": 1.0
+}

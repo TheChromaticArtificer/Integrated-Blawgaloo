@@ -1,0 +1,36 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.engineering_wrench.title",
+  "description": "task.integrated_boogaloo.engineering_wrench.description",
+  "showcase": [
+    "@recipe:oritech:wrench"
+  ],
+  "icon": "oritech:wrench",
+  "program": "integrated_boogaloo:engineering",
+  "category": "integrated_boogaloo:engineering",
+  "sort_order": 31,
+  "position": {
+    "x": 2,
+    "y": 2
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:engineering/generator"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "oritech:wrench",
+      "description": "task.integrated_boogaloo.engineering_wrench.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 10
+    }
+  ],
+  "line_axis": "horizontal"
+}

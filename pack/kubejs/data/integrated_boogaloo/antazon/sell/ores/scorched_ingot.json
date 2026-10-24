@@ -1,0 +1,11 @@
+{
+  "item": "scguns:scorched_ingot",
+  "value": 350,
+  "limit": 8,
+  "limit_reset": "minecraft_day",
+  "green_tint": false,
+  "unlock_tasks": [
+    "integrated_boogaloo:hit_list/fire_dragon"
+  ],
+  "unlock_mode": "any"
+}

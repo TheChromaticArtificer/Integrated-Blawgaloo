@@ -1,0 +1,15 @@
+{
+  "type": "oritech:pulverizer",
+  "ingredients": [
+    {
+      "item": "pastel:red_leaves"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "id": "pastel:red_pigment"
+    }
+  ],
+  "time": 60
+}

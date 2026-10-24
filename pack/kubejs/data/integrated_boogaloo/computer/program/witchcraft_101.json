@@ -1,0 +1,125 @@
+{
+  "type": "quiz",
+  "title": "program.integrated_boogaloo.witchcraft_101.title",
+  "green_tint": false,
+  "questions_per_run": 5,
+  "reward_on": "perfect",
+  "reward_limit": "once",
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 50
+    }
+  ],
+  "questions": [
+    {
+      "question": "What do you light a Cauldron with?",
+      "answers": [
+        "Flint and Steel",
+        "A torch",
+        "Lava"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What powers rituals and contraptions nearby?",
+      "answers": [
+        "The Altar",
+        "The Moon",
+        "A Furnace"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What makes an Altar stronger?",
+      "answers": [
+        "More nature around it",
+        "More gold around it",
+        "Darkness"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What does a Death Protection Poppet do?",
+      "answers": [
+        "Saves you from death once",
+        "Brings back pets",
+        "Nothing"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What do you use to bind a poppet to someone?",
+      "answers": [
+        "A Taglock",
+        "A name tag",
+        "A lead"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which brew sends you to the Spirit World?",
+      "answers": [
+        "Brew of Sleeping",
+        "Brew of Love",
+        "Brew of the Depths"
+      ],
+      "correct": 0,
+      "item": "witchery:brew_of_sleeping"
+    },
+    {
+      "question": "What does an Apple of Sleeping do?",
+      "answers": [
+        "Sends you straight to the Nightmare",
+        "Heals you",
+        "Gives you a nice dream"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "How do you become a werewolf?",
+      "answers": [
+        "Let a werewolf caught in a bear trap bite you at the Werewolf Altar",
+        "Eat raw mutton",
+        "Sleep under a full moon"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What does the Distillery do?",
+      "answers": [
+        "Separates a brew into its parts",
+        "Makes water",
+        "Cooks food"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What goes in the center of a ritual circle?",
+      "answers": [
+        "Golden Chalk",
+        "A candle",
+        "A skull"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What does an Armor Protection Poppet do?",
+      "answers": [
+        "Repairs your armor right before it breaks",
+        "Makes armor lighter",
+        "Adds thorns"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What does a Voodoo Poppet do?",
+      "answers": [
+        "Hurts whoever it's bound to",
+        "Protects you",
+        "Summons a familiar"
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:command",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pastel:greater_potion_pendant",
+          "functions": [
+            {
+              "function": "pastel:fill_potion_fillable",
+              "ambient": true,
+              "show_particles": false,
+              "duration": 3600,
+              "status_effect": [
+                "minecraft:strength",
+                "minecraft:resistance",
+                "minecraft:regeneration"
+              ],
+              "color": -1,
+              "amplifier": 0,
+              "ink_color": [
+                "pastel:red",
+                "pastel:blue",
+                "pastel:pink"
+              ],
+              "ink_cost": 20
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

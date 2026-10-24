@@ -1,0 +1,25 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.start_here_gravestone.title",
+  "description": "task.integrated_boogaloo.start_here_gravestone.description",
+  "showcase": [
+    "@item:gravestone:gravestone",
+    "@recipe:gravestone:gravestone"
+  ],
+  "icon": "gravestone:gravestone",
+  "program": "integrated_boogaloo:start_here",
+  "category": "integrated_boogaloo:start_here",
+  "sort_order": 10,
+  "position": {
+    "x": -2,
+    "y": -1
+  },
+  "shape": "circle",
+  "availability": "automatic",
+  "objectives": [],
+  "rewards": [],
+  "connects": [
+    "integrated_boogaloo:weather2/first_tornado"
+  ],
+  "line_axis": "horizontal"
+}

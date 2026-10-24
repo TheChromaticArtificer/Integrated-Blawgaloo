@@ -1,0 +1,21 @@
+{
+  "green_tint": false,
+  "type": "item",
+  "category": "general",
+  "folder": "integrated_boogaloo:super_serums",
+  "sort_order": 0,
+  "item": "integrated_superheroes:syringe_chaos_magic_wanda_maximoff",
+  "title": "guide.integrated_boogaloo.entry.serum_scarlet_witch.title",
+  "subtitle": "guide.integrated_boogaloo.entry.serum_scarlet_witch.subtitle",
+  "content": [
+    {
+      "text": "guide.integrated_boogaloo.entry.serum_scarlet_witch.body_1"
+    },
+    {
+      "display": "integrated_boogaloo:guide/serum_scarlet_witch"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.serum_scarlet_witch.body_2"
+    }
+  ]
+}

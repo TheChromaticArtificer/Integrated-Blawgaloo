@@ -1,0 +1,14 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "antarchy:ouranwood_forest",
+    "antarchy:fungal_ouranwood_forest",
+    "antarchy:peach_forest"
+  ],
+  "spawners": {
+    "type": "iceandfire:amphithere",
+    "weight": 20,
+    "minCount": 1,
+    "maxCount": 3
+  }
+}

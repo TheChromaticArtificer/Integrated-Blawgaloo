@@ -1,0 +1,39 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.storage_node_upgrades.title",
+  "description": "task.integrated_boogaloo.storage_node_upgrades.description",
+  "showcase": [
+    "@item:antarchy:blood_crystal_shard",
+    "@item:antarchy:bluestone",
+    "@item:pastel:raw_malachite"
+  ],
+  "icon": "antarchy:blood_crystal_shard",
+  "program": "integrated_boogaloo:storage",
+  "category": "integrated_boogaloo:storage",
+  "sort_order": 305,
+  "position": {
+    "x": 3,
+    "y": 8
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:storage/node_network",
+    "integrated_boogaloo:pastel_basics/complex"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "pastel:midgame/upgrade_pastel_node",
+      "description": "task.integrated_boogaloo.storage_node_upgrades.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 150
+    }
+  ],
+  "line_axis": "horizontal"
+}

@@ -1,0 +1,45 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.locked_down_fortron_quarry.title",
+  "description": "task.integrated_boogaloo.locked_down_fortron_quarry.description",
+  "showcase": [
+    "@recipe:mffs:disintegration_module"
+  ],
+  "icon": "mffs:disintegration_module",
+  "program": "integrated_boogaloo:locked_down",
+  "category": "integrated_boogaloo:locked_down",
+  "sort_order": 27,
+  "position": {
+    "x": 7,
+    "y": 2
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:locked_down/bubble_boy",
+    "integrated_boogaloo:engineering/atomic_forge"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "mffs:disintegration_module",
+      "description": "task.integrated_boogaloo.locked_down_fortron_quarry.goal",
+      "count": 1
+    },
+    {
+      "id": "collection",
+      "type": "item",
+      "target": "mffs:collection_module",
+      "description": "task.integrated_boogaloo.locked_down_fortron_quarry.collection",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 75
+    }
+  ],
+  "line_axis": "horizontal"
+}

@@ -1,0 +1,53 @@
+{
+  "type": "lucky:group",
+  "luck": -2,
+  "chance": 0.25,
+  "outcomes": [
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} times 5 50 15"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} subtitle {\"text\": \"Something big is hungry\", \"color\": \"red\"}"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} title {\"text\": \"STAMPEDE\", \"color\": \"dark_red\", \"bold\": true}"
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "wan_ancient_beasts:eater",
+      "reinit": true,
+      "pos": [
+        "{blockPosX}",
+        "{blockPosY}",
+        "{blockPosZ}+7"
+      ],
+      "delay": 20
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "wan_ancient_beasts:crusher",
+      "reinit": true,
+      "count": 2,
+      "pos": {
+        "type": "lucky:random_in_shape",
+        "center": [
+          "{blockPosX}",
+          "{blockPosY}",
+          "{blockPosZ}"
+        ],
+        "shape": {
+          "type": "lucky:sphere",
+          "size": [
+            6,
+            1,
+            6
+          ]
+        }
+      },
+      "delay": 40
+    }
+  ]
+}

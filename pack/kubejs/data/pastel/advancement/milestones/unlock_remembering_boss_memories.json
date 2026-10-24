@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "manifested_a_memory": {
+      "trigger": "databank:has_advancement",
+      "conditions": {
+        "advancement": "pastel:midgame/manifest_memory"
+      }
+    }
+  }
+}

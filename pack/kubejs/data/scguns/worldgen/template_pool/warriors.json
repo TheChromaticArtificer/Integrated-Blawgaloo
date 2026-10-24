@@ -1,0 +1,42 @@
+{
+  "name": "scguns:warriors",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 10,
+      "element": {
+        "location": "scguns:spawners/warrior/husk",
+        "processors": "integrated_boogaloo:structures/scguns/cog_chambers",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "scguns:spawners/warrior/trauma_unit",
+        "processors": "integrated_boogaloo:structures/scguns/cog_chambers",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "scguns:spawners/warrior/cog_knight",
+        "processors": "integrated_boogaloo:structures/scguns/cog_chambers",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "scguns:spawners/warrior/cog_minion",
+        "processors": "integrated_boogaloo:structures/scguns/cog_chambers",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

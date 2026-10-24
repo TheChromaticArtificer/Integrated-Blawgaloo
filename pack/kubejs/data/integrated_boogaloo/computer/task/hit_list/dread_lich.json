@@ -1,0 +1,74 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.hit_list_dread_lich.title",
+  "description": "task.integrated_boogaloo.hit_list_dread_lich.description",
+  "showcase": [
+    "@entity:iceandfire:dread_lich"
+  ],
+  "icon_entity": "iceandfire:dread_lich",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:hit_list_monsters",
+  "sort_order": 430,
+  "position": {
+    "x": 3,
+    "y": 4
+  },
+  "shape": "octagon",
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "kill",
+      "type": "stat",
+      "stat_type": "entity_killed",
+      "target": "iceandfire:dread_lich",
+      "description": "task.integrated_boogaloo.hit_list_dread_lich.kill",
+      "count": 1
+    }
+  ],
+  "archive_entries": [
+    "integrated_boogaloo:iaf_dread_mobs"
+  ],
+  "rewards": [
+    {
+      "type": "choice",
+      "options": [
+        {
+          "id": "coins",
+          "title": "task.integrated_boogaloo.reward.coins",
+          "rewards": [
+            {
+              "type": "antcoins",
+              "amount": 300
+            }
+          ]
+        },
+        {
+          "id": "crate",
+          "title": "task.integrated_boogaloo.reward.rare",
+          "rewards": [
+            {
+              "type": "item_pool",
+              "pool": "integrated_boogaloo:supplies_rare",
+              "mode": "random"
+            }
+          ]
+        },
+        {
+          "id": "lucky",
+          "title": "task.integrated_boogaloo.reward.lucky",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "lucky:lucky_block",
+              "count": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "experience_levels",
+      "levels": 10
+    }
+  ]
+}

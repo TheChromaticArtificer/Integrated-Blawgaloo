@@ -1,0 +1,61 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.storage_node_network.title",
+  "description": "task.integrated_boogaloo.storage_node_network.description",
+  "showcase": [
+    "@item:pastel:sender_node",
+    "@recipe:pastel:sender_node",
+    "@item:pastel:tuning_stamp",
+    "@recipe:pastel:tuning_stamp"
+  ],
+  "icon": "pastel:sender_node",
+  "program": "integrated_boogaloo:storage",
+  "category": "integrated_boogaloo:storage",
+  "sort_order": 303,
+  "position": {
+    "x": 2,
+    "y": 7
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:storage/bottomless_bundle",
+    "integrated_boogaloo:pastel_basics/temple"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "pastel:midgame/create_pastel_network",
+      "description": "task.integrated_boogaloo.storage_node_network.goal",
+      "count": 1
+    },
+    {
+      "id": "sender",
+      "type": "item",
+      "target": "pastel:sender_node",
+      "description": "task.integrated_boogaloo.storage_node_network.sender",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "storage",
+      "type": "item",
+      "target": "pastel:storage_node",
+      "description": "task.integrated_boogaloo.storage_node_network.storage",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 100
+    },
+    {
+      "type": "item",
+      "item": "antarchy:bluestone",
+      "count": 4
+    }
+  ],
+  "line_axis": "horizontal"
+}

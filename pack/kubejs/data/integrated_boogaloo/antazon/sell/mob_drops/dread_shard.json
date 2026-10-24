@@ -1,0 +1,11 @@
+{
+  "item": "iceandfire:dread_shard",
+  "value": 6,
+  "limit": 64,
+  "limit_reset": "minecraft_day",
+  "green_tint": false,
+  "unlock_tasks": [
+    "integrated_boogaloo:exploration/thoraxis/dread_barrens"
+  ],
+  "unlock_mode": "any"
+}

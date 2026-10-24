@@ -1,0 +1,14 @@
+{
+  "type": "createcybernetics:add_item",
+  "conditions": [
+    {
+      "condition": "neoforge:loot_table_id",
+      "loot_table_id": "iceandfire:entities/deathworm_white_giant"
+    },
+    {
+      "chance": 0.6,
+      "condition": "minecraft:random_chance"
+    }
+  ],
+  "item": "createcybernetics:bodypart_intestines"
+}

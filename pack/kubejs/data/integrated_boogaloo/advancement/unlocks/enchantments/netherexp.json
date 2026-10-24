@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "built_enchanting_structure": {
+      "trigger": "databank:has_advancement",
+      "conditions": {
+        "advancement": "pastel:midgame/build_enchanting_structure"
+      }
+    },
+    "has_netherexp_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "netherexp:banshee_powder",
+              "netherexp:banshee_rod",
+              "netherexp:bone_cortical",
+              "scguns:shotgun_shell",
+              "netherexp:phasmo_shard"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": {
+    "type": "databank:item",
+    "hidden_as": "minecraft:gray_dye",
+    "original": "pastel:dragonbone_chunk"
+  },
+  "condition": {
+    "type": "databank:always_true"
+  }
+}

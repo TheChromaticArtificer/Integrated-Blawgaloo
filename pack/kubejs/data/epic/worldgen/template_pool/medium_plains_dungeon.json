@@ -1,0 +1,15 @@
+{
+  "name": "epic:epic_dungeon/medium_plains_dungeon",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/medium_plains_dungeon",
+        "location": "epic:epic_dungeon/plains_dungeon/medium_plains_dungeon"
+      },
+      "weight": 1
+    }
+  ]
+}

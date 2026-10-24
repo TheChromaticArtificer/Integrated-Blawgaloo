@@ -1,0 +1,42 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.armory_iron_frame.title",
+  "description": "task.integrated_boogaloo.armory_iron_frame.description",
+  "showcase": [
+    "@recipe:scguns:m3_carabine"
+  ],
+  "icon": "scguns:m3_carabine",
+  "program": "integrated_boogaloo:armory",
+  "category": "integrated_boogaloo:armory",
+  "sort_order": 4,
+  "position": {
+    "x": 3,
+    "y": 0
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:armory/copper_rounds"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "scguns:m3_carabine",
+      "description": "task.integrated_boogaloo.armory_iron_frame.goal",
+      "count": 1,
+      "sticky": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 40
+    },
+    {
+      "type": "item",
+      "item": "scguns:advanced_round",
+      "count": 32
+    }
+  ],
+  "line_axis": "horizontal"
+}

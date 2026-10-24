@@ -1,0 +1,35 @@
+{
+  "type": "lucky:group",
+  "luck": -1,
+  "chance": 0.6,
+  "outcomes": [
+    {
+      "type": "lucky:message",
+      "message": {
+        "text": "Something moved inside you...",
+        "color": "dark_green",
+        "bold": true
+      },
+      "overlay": true
+    },
+    {
+      "type": "lucky:effect",
+      "status_effect": {
+        "id": "minecraft:nausea",
+        "amplifier": 0,
+        "duration": 120
+      }
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "gigeresque:chestburster",
+      "reinit": true,
+      "pos": [
+        "{blockPosX}+1",
+        "{blockPosY}",
+        "{blockPosZ}"
+      ],
+      "delay": 60
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "green_tint": false,
+  "type": "article",
+  "category": "general",
+  "folder": "integrated_boogaloo:cybernetics",
+  "sort_order": 30,
+  "title": "guide.integrated_boogaloo.entry.cyber_surgery_table.title",
+  "subtitle": "guide.integrated_boogaloo.entry.cyber_surgery_table.subtitle",
+  "cover_item": "createcybernetics:surgery_table",
+  "lookup": [
+    "createcybernetics:bodypart_brain",
+    "createcybernetics:bodypart_eyeballs",
+    "createcybernetics:bodypart_heart",
+    "createcybernetics:bodypart_intestines",
+    "createcybernetics:bodypart_leftarm",
+    "createcybernetics:bodypart_leftleg",
+    "createcybernetics:bodypart_liver",
+    "createcybernetics:bodypart_lungs",
+    "createcybernetics:bodypart_muscle",
+    "createcybernetics:bodypart_rightarm",
+    "createcybernetics:bodypart_rightleg",
+    "createcybernetics:bodypart_sculkbrain",
+    "createcybernetics:bodypart_sculkintestines",
+    "createcybernetics:bodypart_sculkleftarm",
+    "createcybernetics:bodypart_sculkleftleg",
+    "createcybernetics:bodypart_sculkliver",
+    "createcybernetics:bodypart_sculkmuscle",
+    "createcybernetics:bodypart_sculkrightarm",
+    "createcybernetics:bodypart_sculkrightleg",
+    "createcybernetics:bodypart_sculkskin",
+    "createcybernetics:bodypart_skeleton",
+    "createcybernetics:bodypart_skin",
+    "createcybernetics:bodypart_wardenesophagus"
+  ],
+  "content": [
+    {
+      "text": "guide.integrated_boogaloo.entry.cyber_surgery_table.body_1"
+    },
+    {
+      "display": "integrated_boogaloo:guide/cybernetics"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.cyber_surgery_table.body_2"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.cyber_surgery_table.body_3"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.cyber_surgery_table.body_4"
+    }
+  ]
+}

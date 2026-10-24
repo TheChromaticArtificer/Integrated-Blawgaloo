@@ -1,0 +1,32 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.thoraxis_stinky.title",
+  "description": "task.integrated_boogaloo.thoraxis_stinky.description",
+  "showcase": [
+    "@entity:antarchy:stink_bug"
+  ],
+  "icon": "antarchy:stink_bug_spawn_egg",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:thoraxis",
+  "sort_order": 5,
+  "position": {
+    "x": 4,
+    "y": 0
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "antarchy:whoever_smelt_it_dealt_it",
+      "description": "task.integrated_boogaloo.thoraxis_stinky.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 20
+    }
+  ]
+}

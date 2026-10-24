@@ -1,0 +1,31 @@
+{
+  "green_tint": false,
+  "type": "article",
+  "category": "general",
+  "folder": "integrated_boogaloo:world_of_color",
+  "sort_order": 70,
+  "title": "guide.integrated_boogaloo.entry.pastel_fusion_shrine.title",
+  "subtitle": "guide.integrated_boogaloo.entry.pastel_fusion_shrine.subtitle",
+  "content": [
+    {
+      "text": "guide.integrated_boogaloo.entry.pastel_fusion_shrine.body_1"
+    },
+    {
+      "display": "integrated_boogaloo:guide/fusion_shrine"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.pastel_fusion_shrine.body_2"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.pastel_fusion_shrine.body_3"
+    }
+  ],
+  "cover_item": "pastel:fusion_shrine_basalt",
+  "lookup": [
+    "pastel:fusion_shrine_calcite",
+    "pastel:fusion_shrine_structure_placer"
+  ],
+  "lookup_recipes": [
+    "pastel:fusion_shrine"
+  ]
+}

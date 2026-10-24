@@ -1,0 +1,49 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.pastel_titration_barrel.title",
+  "description": "task.integrated_boogaloo.pastel_titration_barrel.description",
+  "showcase": [
+    "@item:pastel:titration_barrel",
+    "@recipe:pastel:pedestal/tier1/titration_barrel"
+  ],
+  "icon": "pastel:titration_barrel",
+  "program": "integrated_boogaloo:world_of_color",
+  "category": "integrated_boogaloo:world_of_color",
+  "sort_order": 30,
+  "position": {
+    "x": 4,
+    "y": 1
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:pastel_basics/first_pigment"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "pastel:tap_titration_barrel",
+      "description": "task.integrated_boogaloo.pastel_titration_barrel.goal",
+      "count": 1
+    },
+    {
+      "id": "barrel",
+      "type": "item",
+      "target": "pastel:titration_barrel",
+      "description": "task.integrated_boogaloo.pastel_titration_barrel.barrel",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 20
+    },
+    {
+      "type": "archive",
+      "entry": "integrated_boogaloo:pastel_titration"
+    }
+  ],
+  "line_axis": "vertical"
+}

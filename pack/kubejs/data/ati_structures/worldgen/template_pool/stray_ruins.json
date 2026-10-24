@@ -1,0 +1,15 @@
+{
+  "name": "ati_structures:stray_ruins",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/ati_structures/stray_ruins/mossify_20_percent",
+        "location": "ati_structures:stray_ruins"
+      },
+      "weight": 1
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.collection.pets_holiday.title",
+  "description": "task.integrated_boogaloo.collection.pets_holiday.description",
+  "icon": "inventorypets:pet_april_fool",
+  "program": "integrated_boogaloo:collections",
+  "category": "integrated_boogaloo:collections",
+  "sort_order": 604,
+  "position": {
+    "x": 4,
+    "y": 6
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "pet_april_fool",
+      "type": "item",
+      "target": "inventorypets:pet_april_fool",
+      "description": "task.integrated_boogaloo.collection.pets_holiday.pet_april_fool",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pet_christmas_tree",
+      "type": "item",
+      "target": "inventorypets:pet_christmas_tree",
+      "description": "task.integrated_boogaloo.collection.pets_holiday.pet_christmas_tree",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pet_menorah",
+      "type": "item",
+      "target": "inventorypets:pet_menorah",
+      "description": "task.integrated_boogaloo.collection.pets_holiday.pet_menorah",
+      "count": 1,
+      "sticky": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 750
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "id": "supplies",
+          "title": "task.integrated_boogaloo.reward.supplies",
+          "rewards": [
+            {
+              "type": "item_pool",
+              "pool": "integrated_boogaloo:supplies_common",
+              "mode": "random"
+            }
+          ]
+        },
+        {
+          "id": "lucky",
+          "title": "task.integrated_boogaloo.reward.lucky",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "lucky:lucky_block",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "id": "titanium",
+          "title": "task.integrated_boogaloo.reward.titanium",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "antarchy:titanium_nugget",
+              "count": 9
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

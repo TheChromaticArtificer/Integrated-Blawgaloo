@@ -1,0 +1,108 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.big_bertha_handle.title",
+  "description": "task.integrated_boogaloo.big_bertha_handle.description",
+  "showcase": [
+    "@recipe:antarchy:big_bertha_handle"
+  ],
+  "icon": "antarchy:big_bertha_handle",
+  "program": "integrated_boogaloo:big_boogaloo",
+  "category": "integrated_boogaloo:big_boogaloo",
+  "sort_order": 52,
+  "position": {
+    "x": 4,
+    "y": 1
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:big_boogaloo/magic"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "antarchy:big_bertha_handle",
+      "description": "task.integrated_boogaloo.big_bertha_handle.goal",
+      "count": 1
+    },
+    {
+      "id": "mantis_claw",
+      "type": "item",
+      "target": "antarchy:mantis_claw",
+      "description": "task.integrated_boogaloo.big_bertha_handle.mantis_claw",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "brutalfly_wing",
+      "type": "item",
+      "target": "antarchy:brutalfly_wing",
+      "description": "task.integrated_boogaloo.big_bertha_handle.brutalfly_wing",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "sea_serpent_fang",
+      "type": "item",
+      "target": "iceandfire:sea_serpent_fang",
+      "description": "task.integrated_boogaloo.big_bertha_handle.sea_serpent_fang",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "cyclops_eye",
+      "type": "item",
+      "target": "iceandfire:cyclops_eye",
+      "description": "task.integrated_boogaloo.big_bertha_handle.cyclops_eye",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "red_death_fang",
+      "type": "item",
+      "target": "kubejs:red_death_fang",
+      "description": "task.integrated_boogaloo.big_bertha_handle.red_death_fang",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "manticore_wing",
+      "type": "item",
+      "target": "antarchy:manticore_wing",
+      "description": "task.integrated_boogaloo.big_bertha_handle.manticore_wing",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "raygun",
+      "type": "item",
+      "target": "alexscaves:raygun",
+      "description": "task.integrated_boogaloo.big_bertha_handle.raygun",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "immortal_embryo",
+      "type": "item",
+      "target": "alexscaves:immortal_embryo",
+      "description": "task.integrated_boogaloo.big_bertha_handle.immortal_embryo",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "corndog",
+      "type": "item",
+      "target": "antarchy:cooked_corndog",
+      "description": "task.integrated_boogaloo.big_bertha_handle.corndog",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 300
+    }
+  ],
+  "line_axis": "horizontal"
+}

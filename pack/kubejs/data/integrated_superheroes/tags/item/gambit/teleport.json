@@ -1,0 +1,49 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "alexscaves:telecore",
+      "required": false
+    },
+    {
+      "id": "dimdoors:rift_pearl",
+      "required": false
+    },
+    {
+      "id": "mutantmonsters:endersoul_hand",
+      "required": false
+    },
+    {
+      "id": "netherexp:phasmo_shard",
+      "required": false
+    },
+    {
+      "id": "oritech:enderic_compound",
+      "required": false
+    },
+    {
+      "id": "oritech:enderic_lens",
+      "required": false
+    },
+    {
+      "id": "pastel:ender_splice",
+      "required": false
+    },
+    {
+      "id": "pastel:spectral_shard",
+      "required": false
+    },
+    {
+      "id": "transmog:void_fragment",
+      "required": false
+    },
+    {
+      "id": "witchery:ender_dew",
+      "required": false
+    },
+    {
+      "id": "witchery:spirit_of_otherwhere",
+      "required": false
+    }
+  ]
+}

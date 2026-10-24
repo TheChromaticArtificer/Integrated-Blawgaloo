@@ -1,0 +1,34 @@
+{
+    "forEntity": "marvel:red_skull",
+    "tickMode": "client_strict",
+    "attributeOverrides": {
+        "minecraft:generic.max_health": 120.0,
+        "minecraft:generic.attack_damage": 9.0,
+        "minecraft:generic.knockback_resistance": 0.5
+    },
+    "traits": [
+        {
+            "type": "abilityMeleeSweep",
+            "slot": 1,
+            "range": 3.5,
+            "damage": 40.0,
+            "arcDegrees": 120.0,
+            "cooldown": 40,
+            "soundEventId": "minecraft:entity.player.attack.strong"
+        },
+        {
+            "type": "abilitySelfBuff",
+            "slot": 2,
+            "effectId": "minecraft:strength",
+            "amplifier": 1,
+            "durationTicks": 200,
+            "cooldown": 600,
+            "soundEventId": "minecraft:entity.evoker.prepare_attack"
+        },
+        {
+            "type": "abilityRoar",
+            "slot": 3,
+            "cooldown": 300
+        }
+    ]
+}

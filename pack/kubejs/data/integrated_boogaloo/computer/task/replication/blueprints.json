@@ -1,0 +1,36 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.replication_blueprints.title",
+  "description": "task.integrated_boogaloo.replication_blueprints.description",
+  "showcase": [
+    "@recipe:replication:matter_blueprint"
+  ],
+  "icon": "replication:matter_blueprint",
+  "program": "integrated_boogaloo:replication",
+  "category": "integrated_boogaloo:replication",
+  "sort_order": 5,
+  "position": {
+    "x": 2,
+    "y": 1
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:replication/network"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "replication:matter_blueprint",
+      "description": "task.integrated_boogaloo.replication_blueprints.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 20
+    }
+  ],
+  "line_axis": "horizontal"
+}

@@ -1,0 +1,177 @@
+{
+  "version": 1,
+  "title": "literal:Enchanter: build",
+  "width": 260,
+  "height": 170,
+  "elements": [
+    {
+      "id": "shrine",
+      "type": "scene",
+      "x": 2,
+      "y": 2,
+      "width": 160,
+      "height": 166,
+      "yaw": 45,
+      "pitch": 35,
+      "scale": 0.85,
+      "material_rules": [
+        {
+          "state": "pastel:polished_basalt",
+          "label": "literal:Polished basalt or calcite"
+        },
+        {
+          "state": "pastel:polished_basalt_pillar[axis=y]",
+          "label": "literal:Basalt or calcite pillar"
+        },
+        {
+          "state": "pastel:polished_basalt_slab",
+          "label": "literal:Basalt or calcite slab"
+        },
+        {
+          "state": "pastel:chiseled_polished_basalt",
+          "label": "literal:Chiseled basalt or calcite"
+        },
+        {
+          "state": "pastel:notched_polished_basalt",
+          "label": "literal:Notched basalt or calcite"
+        },
+        {
+          "state": "pastel:polished_amethyst_block",
+          "label": "literal:Any polished gemstone block"
+        },
+        {
+          "state": "pastel:liquid_crystal",
+          "item": "pastel:liquid_crystal_bucket",
+          "label": "literal:Liquid crystal (bucket)"
+        },
+        {
+          "state": "pastel:amethyst_basalt_light",
+          "label": "literal:Any gemstone light"
+        },
+        {
+          "state": "pastel:item_bowl_basalt",
+          "label": "literal:Item bowl (basalt or calcite)"
+        }
+      ],
+      "steps": [
+        {
+          "id": "pools",
+          "title": "literal:Pools",
+          "text": "literal:Dig out the four square pools.",
+          "through_y": 0
+        },
+        {
+          "id": "floor",
+          "title": "literal:Floor",
+          "text": "literal:Lay the floor and fill the pools with liquid crystal.",
+          "through_y": 1
+        },
+        {
+          "id": "frame",
+          "title": "literal:Frame",
+          "text": "literal:Build the slab steps and pillars.",
+          "through_y": 3
+        },
+        {
+          "id": "bowls",
+          "title": "literal:Bowls",
+          "text": "literal:Place the enchanter in the middle and eight item bowls around it.",
+          "through_y": 4
+        }
+      ],
+      "pattern": [
+        [
+          "           ",
+          " XXX   XXX ",
+          " X X   X X ",
+          " XXX   XXX ",
+          "           ",
+          "           ",
+          "           ",
+          " XXX   XXX ",
+          " X X   X X ",
+          " XXX   XXX ",
+          "           "
+        ],
+        [
+          " XXXXXXXXX ",
+          "XCCCXXXCCCX",
+          "XCXCXXXCXCX",
+          "XCCCXXXCCCX",
+          "XXXXXXXXXXX",
+          "XXXXX0XXXXX",
+          "XXXXXXXXXXX",
+          "XCCCXXXCCCX",
+          "XCXCXXXCXCX",
+          "XCCCXXXCCCX",
+          " XXXXXXXXX "
+        ],
+        [
+          "  P     P  ",
+          "    BBB    ",
+          "P P XXX P P",
+          "    XXX    ",
+          " BXXXXXXXB ",
+          " BXXXXXXXB ",
+          " BXXXXXXXB ",
+          "    XXX    ",
+          "P P XXX P P",
+          "    BBB    ",
+          "  P     P  "
+        ],
+        [
+          "  L     L  ",
+          "           ",
+          "L G     G L",
+          "    BBB    ",
+          "   BXXXB   ",
+          "   BXXXB   ",
+          "   BXXXB   ",
+          "    BBB    ",
+          "L G     G L",
+          "           ",
+          "  L     L  "
+        ],
+        [
+          "  I     I  ",
+          "           ",
+          "I         I",
+          "           ",
+          "           ",
+          "     F     ",
+          "           ",
+          "           ",
+          "I         I",
+          "           ",
+          "  I     I  "
+        ]
+      ],
+      "mapping": {
+        "X": "pastel:polished_basalt",
+        "P": "pastel:polished_basalt_pillar[axis=y]",
+        "B": "pastel:polished_basalt_slab",
+        "L": "pastel:amethyst_basalt_light",
+        "G": "pastel:polished_amethyst_block",
+        "F": "pastel:enchanter",
+        "C": "pastel:liquid_crystal",
+        "I": "pastel:item_bowl_basalt",
+        "0": "pastel:polished_basalt"
+      },
+      "hero": true,
+      "ratio": 0.88
+    },
+    {
+      "id": "mats",
+      "type": "materials",
+      "scene": "shrine",
+      "scope": "cumulative",
+      "x": 6,
+      "y": 4,
+      "width": 90,
+      "height": 160
+    }
+  ],
+  "reflow": true,
+  "auto_height": true,
+  "hide_title": true
+}

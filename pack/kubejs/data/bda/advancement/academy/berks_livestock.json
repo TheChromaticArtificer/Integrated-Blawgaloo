@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:wheat"
+    },
+    "title": {
+      "translate": "advancements.bda.berks_livestock.title"
+    },
+    "description": {
+      "translate": "advancements.bda.berks_livestock.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "yak": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": {
+          "type": "bda:yak"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "yak"
+    ]
+  ],
+  "sends_telemetry_event": false,
+  "parent": "bda:academy/welcome_to_berk"
+}

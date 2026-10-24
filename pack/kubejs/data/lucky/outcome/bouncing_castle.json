@@ -1,0 +1,10 @@
+{
+  "type": "lucky:structure",
+  "structure": "lucky:bouncing_castle",
+  "pos": [
+    "{playerPosX}-2",
+    "{playerPosY}-1",
+    "{playerPosZ}-2"
+  ],
+  "chance": 1.0
+}

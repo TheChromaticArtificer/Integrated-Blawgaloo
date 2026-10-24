@@ -1,0 +1,17 @@
+{
+  "sender": "deadpool@antmail.com",
+  "sender_display": "Deadpool",
+  "sender_avatar_item": "marvel:deadpool_helmet",
+  "subject": "Dental appointment, round two",
+  "body": "holy shirt, you pulled a tooth out of a Kraken. Big Bertha's blade needs one and the Mysterious Locket wants one too for the Space Stone, so your going back for a second. That poor thing didnt even get a lollipop after the first one.\n\nP.S. ask if its been flossing. dentists love asking that while their whole arm is in your mouth",
+  "trigger": {
+    "type": "advancement",
+    "value": "integrated_boogaloo:deadpool/has_kraken_tooth",
+    "delay_minutes": 2
+  },
+  "conditions": {
+    "mail_read": [
+      "integrated_boogaloo:deadpool_intro"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "mts:mtsofficialpack.wheelhuge",
+    "mts:mtsofficialpack.wheellarge",
+    "mts:mtsofficialpack.wheellarge_chain",
+    "mts:mtsofficialpack.wheellarge_gold",
+    "mts:mtsofficialpack.wheellarge_goth",
+    "mts:mtsofficialpack.wheellarge_holering",
+    "mts:mtsofficialpack.wheellarge_holes",
+    "mts:mtsofficialpack.wheellarge_legacy",
+    "mts:mtsofficialpack.wheellarge_police",
+    "mts:mtsofficialpack.wheellarge_rusty",
+    "mts:mtsofficialpack.wheellarge_spokes",
+    "mts:mtsofficialpack.wheellarge_spokes2",
+    "mts:mtsofficialpack.wheellarge_spokescopper",
+    "mts:mtsofficialpack.wheellarge_whiterim",
+    "mts:mtsofficialpack.wheellarge_whitewall",
+    "mts:mtsofficialpack.wheelmedium",
+    "mts:mtsofficialpack.wheelmedium_legacy",
+    "mts:mtsofficialpack.wheelsmall",
+    "mts:mtsofficialpack.wheelsmall_legacy",
+    "mts:oamp.wheeloffroad_default",
+    "mts:oamp.wheelvintage_lightblue",
+    "mts:oamp.wheelvintage_mint",
+    "mts:oamp.wheelvintage_police",
+    "mts:oamp.wheelvintage_sinty"
+  ]
+}

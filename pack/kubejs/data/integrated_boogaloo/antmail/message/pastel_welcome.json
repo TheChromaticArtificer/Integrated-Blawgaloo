@@ -1,0 +1,11 @@
+{
+  "sender": "trayaurus@antmail.com",
+  "sender_avatar_item": "antarchy:diamond_minecart",
+  "subject": "That shard you found",
+  "body": "You found a gem shard in a geode, didn't you? There's a whole craft built around these, colors you can mix, and things you can build out of color.\n\nI've started a section of the book on it. Start with a Pedestal and I'll add pages as you go. This is what it looks like built. @archive:integrated_boogaloo:pastel_pedestal @display:integrated_boogaloo:guide/pedestal_build\n\nYour old friend,\nDr. T",
+  "trigger": {
+    "delay_minutes": 3,
+    "type": "advancement",
+    "value": "pastel:collect_any_basic_shard"
+  }
+}

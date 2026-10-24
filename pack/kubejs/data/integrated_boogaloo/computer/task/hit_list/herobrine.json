@@ -1,0 +1,76 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.hit_list_herobrine.title",
+  "description": "task.integrated_boogaloo.hit_list_herobrine.description",
+  "showcase": [
+    "@entity:boogaloo_core:herobrine"
+  ],
+  "icon_entity": "boogaloo_core:herobrine",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:hit_list_titans",
+  "sort_order": 240,
+  "position": {
+    "x": 4,
+    "y": 2
+  },
+  "shape": "diamond",
+  "size": 1.25,
+  "availability": "automatic",
+  "invisible_until_completed": true,
+  "objectives": [
+    {
+      "id": "defeat_him",
+      "type": "advancement",
+      "target": "boogaloo_core:watching/boss_defeated",
+      "description": "task.integrated_boogaloo.hit_list_herobrine.defeat_him",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "choice",
+      "options": [
+        {
+          "id": "coins",
+          "title": "task.integrated_boogaloo.reward.coins",
+          "rewards": [
+            {
+              "type": "antcoins",
+              "amount": 800
+            }
+          ]
+        },
+        {
+          "id": "crate",
+          "title": "task.integrated_boogaloo.reward.prestige",
+          "rewards": [
+            {
+              "type": "item_pool",
+              "pool": "integrated_boogaloo:prestige",
+              "mode": "random"
+            }
+          ]
+        },
+        {
+          "id": "lucky",
+          "title": "task.integrated_boogaloo.reward.lucky",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "lucky:lucky_block",
+              "count": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "experience_levels",
+      "levels": 20
+    },
+    {
+      "type": "archive",
+      "entry": "integrated_boogaloo:herobrine_solemn_falls"
+    }
+  ]
+}

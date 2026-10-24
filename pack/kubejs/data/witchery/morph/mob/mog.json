@@ -1,0 +1,30 @@
+{
+    "forEntity": "witchery:mog",
+    "attributeOverrides": {
+        "minecraft:generic.max_health": 120.0,
+        "minecraft:generic.attack_damage": 9.0
+    },
+    "traits": [
+        {
+            "type": "traitHostile"
+        },
+        {
+            "type": "traitWitcheryBrothers",
+            "partnerEntity": "witchery:gulg",
+            "radius": 16.0,
+            "damageMultiplier": 0.7
+        },
+        {
+            "type": "abilityWitcheryVolley",
+            "slot": 1,
+            "projectile": "arrow",
+            "count": 3,
+            "spreadDegrees": 8.0,
+            "velocity": 3.0,
+            "inaccuracy": 2.0,
+            "arrowDamage": 16.0,
+            "cooldown": 40,
+            "soundEventId": "minecraft:entity.skeleton.shoot"
+        }
+    ]
+}

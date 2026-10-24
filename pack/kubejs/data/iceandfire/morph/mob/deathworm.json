@@ -1,0 +1,31 @@
+{
+    "forEntity": "iceandfire:death_worm",
+    "traits": [
+        {
+            "type": "traitHostile"
+        },
+        {
+            "type": "traitFallNegate"
+        },
+        {
+            "type": "abilityIceAndFireDeathWormLunge",
+            "nativeClassName": "com.iafenvoy.iceandfire.entity.DeathWormEntity",
+            "animationFieldName": "ANIMATION_BITE",
+            "trueBooleanMethods": [
+                "attack",
+                "strike"
+            ],
+            "lineAttack": true,
+            "range": 8.0,
+            "radius": 1.8,
+            "damage": 12.0,
+            "knockback": 0.9,
+            "selfMotion": true,
+            "selfMotionForward": 1.4,
+            "selfMotionUp": 0.45,
+            "cooldown": 70,
+            "soundEventId": "iceandfire:deathworm_attack",
+            "slot": 1
+        }
+    ]
+}

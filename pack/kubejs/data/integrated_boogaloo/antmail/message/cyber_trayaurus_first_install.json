@@ -1,0 +1,11 @@
+{
+  "sender": "trayaurus@antmail.com",
+  "sender_avatar_item": "antarchy:diamond_minecart",
+  "subject": "You did WHAT?",
+  "body": "Melbot says you let someone cut you open and put a machine inside you. On purpose?? That's too far even for me. If you're going to keep doing it, at least read up first. @archive:integrated_boogaloo:cyber_intro\n\nYour old friend,\nDr. T",
+  "trigger": {
+    "delay_minutes": 3,
+    "type": "advancement",
+    "value": "createcybernetics:cyberware/first_ripperdoc_visit"
+  }
+}

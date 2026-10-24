@@ -1,0 +1,19 @@
+{
+  "type": "oritech:laser",
+  "ingredients": [
+    {
+      "item": "pastel:moonstone_cluster"
+    }
+  ],
+  "results": [
+    {
+      "count": 4,
+      "id": "pastel:moonstone_shard"
+    },
+    {
+      "count": 4,
+      "id": "pastel:moonstone_powder"
+    }
+  ],
+  "time": 1
+}

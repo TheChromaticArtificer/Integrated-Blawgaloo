@@ -1,0 +1,17 @@
+{
+  "sender": "deadpool@antmail.com",
+  "sender_display": "Deadpool",
+  "sender_avatar_item": "marvel:deadpool_helmet",
+  "subject": "Put the mask back on",
+  "body": "Ben Grimm is the only guy in Marvel with a worse face than mine, and he gets to be the lovable one. I get \"please put the mask back on.\" Your skin turns into orange cobblestone like a Cheeto that got sentenced to manual labor in the mines.",
+  "trigger": {
+    "type": "advancement",
+    "value": "integrated_boogaloo:deadpool/syringe_the_thing",
+    "delay_minutes": 2
+  },
+  "conditions": {
+    "mail_read": [
+      "integrated_boogaloo:deadpool_intro"
+    ]
+  }
+}

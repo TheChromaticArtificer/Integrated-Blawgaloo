@@ -1,0 +1,28 @@
+{
+    "forEntity": "alexscaves:nucleeper",
+    "traits": [
+        {
+            "type": "traitHostile"
+        },
+        {
+            "type": "traitImmunityExplosive"
+        },
+        {
+            "type": "abilityAlexsCavesNucleeperExplosion",
+            "nativeClassName": "com.github.alexmodguy.alexscaves.server.entity.living.NucleeperEntity",
+            "trueBooleanMethods": [
+                "setTriggered",
+                "setExploding",
+                "setCharged"
+            ],
+            "explode": true,
+            "explosionRadius": 4.0,
+            "radius": 5.0,
+            "damage": 12.0,
+            "knockback": 1.2,
+            "cooldown": 160,
+            "soundEventId": "alexscaves:nucleeper_explode",
+            "slot": 1
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.thoraxis_throat.title",
+  "description": "task.integrated_boogaloo.thoraxis_throat.description",
+  "showcase": [
+    "@item:antarchy:dream_sand",
+    "@recipe:antarchy:dream_sand"
+  ],
+  "icon": "antarchy:dream_sand",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:thoraxis",
+  "sort_order": 31,
+  "position": {
+    "x": 3,
+    "y": 6
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "antarchy:through_the_throat",
+      "description": "task.integrated_boogaloo.thoraxis_throat.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 60
+    }
+  ]
+}

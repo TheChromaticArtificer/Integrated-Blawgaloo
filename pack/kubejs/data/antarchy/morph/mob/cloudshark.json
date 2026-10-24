@@ -1,0 +1,37 @@
+{
+    "forEntity": "antarchy:stratoshark",
+    "traits": [
+        {
+            "type": "traitHostile"
+        },
+        {
+            "type": "traitFallNegate"
+        },
+        {
+            "type": "abilityFlightFlap",
+            "slowdownInWater": true
+        },
+        {
+            "type": "abilityFlight",
+            "slowdownInWater": true,
+            "upgradeFor": "abilityFlightFlap"
+        },
+        {
+            "type": "abilityAreaDamage",
+            "radius": 3.0,
+            "damage": 10.6,
+            "knockback": 1.0,
+            "cooldown": 25,
+            "soundEventId": "antarchy:cloud_shark_bite",
+            "slot": 1
+        },
+        {
+            "type": "abilityAntarchyStratosharkDive",
+            "range": 20.0,
+            "damage": 12.0,
+            "diveSpeed": 1.25,
+            "cooldown": 60,
+            "slot": 2
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "computer.integrated_boogaloo.product.pest_control.bug_spray.name",
+  "description": "computer.integrated_boogaloo.product.pest_control.bug_spray.description",
+  "category": "pest control",
+  "green_tint": false,
+  "quantity": 1,
+  "payments": [
+    {
+      "type": "antcoins",
+      "resource": "antcoins",
+      "amount": 90
+    }
+  ],
+  "thumbnail": {
+    "item": "antarchy:bug_spray"
+  },
+  "availability": {
+    "server_stock": 0,
+    "player_limit": 1,
+    "player_limit_reset": "minecraft_week"
+  },
+  "unlock_disks": [
+    "integrated_boogaloo:pest_control"
+  ],
+  "unlock_mode": "all",
+  "hidden_until_unlocked": true,
+  "rewards": [
+    {
+      "item": "antarchy:bug_spray",
+      "count": 1
+    }
+  ]
+}

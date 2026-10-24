@@ -1,0 +1,21 @@
+{
+  "type": "createcybernetics:engineering_deconstruct",
+  "inputs": [
+    {
+      "item": "createcybernetics:muscleupgrades_reinforcedtendons"
+    },
+    {
+      "item": "createcybernetics:scavenged_reinforcedtendons"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "antarchy:titanium_nugget",
+      "count": 12
+    },
+    {
+      "id": "oritech:carbon_fibre_strands",
+      "count": 2
+    }
+  ]
+}

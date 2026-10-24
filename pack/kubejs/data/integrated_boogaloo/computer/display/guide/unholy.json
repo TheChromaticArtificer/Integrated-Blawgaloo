@@ -1,0 +1,196 @@
+{
+  "version": 1,
+  "title": "literal:Unholy Intelligence",
+  "width": 250,
+  "height": 77,
+  "elements": [
+    {
+      "id": "catch",
+      "type": "scene",
+      "x": 2,
+      "y": 2,
+      "width": 110,
+      "height": 106,
+      "yaw": 200,
+      "pitch": 20,
+      "scale": 1.4,
+      "blocks": [
+        {
+          "pos": [
+            -1,
+            -1,
+            -1
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            -1,
+            0
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            -1,
+            1
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            -1
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            0
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            1
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            -1
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            0
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            1
+          ],
+          "state": "minecraft:grass_block",
+          "decorative": true
+        }
+      ],
+      "entities": [
+        {
+          "pos": [
+            0,
+            0.4,
+            0
+          ],
+          "id": "minecraft:allay",
+          "rotation": 200,
+          "until": "catch"
+        }
+      ],
+      "items": [
+        {
+          "pos": [
+            0,
+            0.6,
+            0
+          ],
+          "id": "oritech:unholy_intelligence",
+          "spin": true,
+          "from": "done"
+        }
+      ],
+      "steps": [
+        {
+          "id": "find",
+          "title": "literal:Find one",
+          "text": "literal:An Allay or a Vex."
+        },
+        {
+          "id": "catch",
+          "title": "literal:Catch it",
+          "text": "literal:Use the Dubious Container on it.",
+          "markers": [
+            {
+              "icon": "right_click",
+              "pos": [
+                0,
+                1,
+                0
+              ],
+              "item": "oritech:dubios_container"
+            }
+          ]
+        },
+        {
+          "id": "done",
+          "title": "literal:Caught",
+          "text": "literal:The container holds an Unholy Intelligence now."
+        }
+      ],
+      "hero": true,
+      "ratio": 0.82
+    },
+    {
+      "type": "slot",
+      "x": 6,
+      "y": 4,
+      "item": "oritech:dubios_container",
+      "role": "tool"
+    },
+    {
+      "type": "text",
+      "x": 28,
+      "y": 8,
+      "width": 108,
+      "text": "literal:plus an Allay or a Vex",
+      "color": "muted"
+    },
+    {
+      "type": "arrow",
+      "x": 6,
+      "y": 41,
+      "x2": 28,
+      "y2": 41
+    },
+    {
+      "type": "slot",
+      "x": 34,
+      "y": 32,
+      "item": "oritech:unholy_intelligence",
+      "role": "output"
+    },
+    {
+      "type": "text",
+      "x": 6,
+      "y": 54,
+      "width": 238,
+      "text": "literal:Forge it with a Super AI Chip and Adamantium for a Heisenberg Compensator.",
+      "color": "muted"
+    }
+  ],
+  "reflow": true,
+  "auto_height": true,
+  "hide_title": true
+}

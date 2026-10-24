@@ -1,0 +1,51 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.locked_down_tripwire.title",
+  "description": "task.integrated_boogaloo.locked_down_tripwire.description",
+  "showcase": [
+    "@item:securitycraft:laser_block",
+    "@recipe:securitycraft:laser_block"
+  ],
+  "icon": "securitycraft:laser_block",
+  "program": "integrated_boogaloo:locked_down",
+  "category": "integrated_boogaloo:locked_down",
+  "sort_order": 11,
+  "position": {
+    "x": 0,
+    "y": 3
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:locked_down/eyes_everywhere"
+  ],
+  "objectives": [
+    {
+      "id": "laser",
+      "type": "item",
+      "target": "securitycraft:laser_block",
+      "description": "task.integrated_boogaloo.locked_down_tripwire.laser",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "alarm",
+      "type": "item",
+      "target": "securitycraft:alarm",
+      "description": "task.integrated_boogaloo.locked_down_tripwire.alarm",
+      "count": 1,
+      "sticky": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 25
+    },
+    {
+      "type": "item",
+      "item": "securitycraft:laser_block",
+      "count": 2
+    }
+  ],
+  "line_axis": "vertical"
+}

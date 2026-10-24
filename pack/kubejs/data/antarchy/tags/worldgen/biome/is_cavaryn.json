@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "antarchy:cavaryn",
+    "antarchy:cavaryn_moleworm_caves",
+    "integrated_boogaloo:cavaryn_toxic_caves",
+    "integrated_boogaloo:cavaryn_forlorn_hollows",
+    "antarchy:brooding_tunnels"
+  ]
+}

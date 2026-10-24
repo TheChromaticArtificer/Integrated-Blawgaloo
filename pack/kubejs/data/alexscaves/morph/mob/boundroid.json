@@ -1,0 +1,29 @@
+{
+    "forEntity": "alexscaves:boundroid",
+    "tickMode": "client_strict",
+    "traits": [
+        {
+            "type": "traitHostile"
+        },
+        {
+            "type": "traitFallNegate"
+        },
+        {
+            "type": "traitEffectImmunity",
+            "effects": [
+                "alexscaves:magnetizing"
+            ]
+        },
+        {
+            "type": "abilityJumpSlam",
+            "jumpVelocityUp": 1.1,
+            "jumpVelocityForward": 0.2,
+            "slamRadius": 2.5,
+            "slamDamage": 12.0,
+            "slamKnockback": 0.8,
+            "landSoundEventId": "alexscaves:boundroid_slam",
+            "cooldown": 80,
+            "slot": 1
+        }
+    ]
+}

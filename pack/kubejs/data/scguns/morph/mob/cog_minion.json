@@ -1,0 +1,28 @@
+{
+    "forEntity": "scguns:cog_minion",
+    "tickMode": "client_strict",
+    "traits": [
+        {
+            "type": "traitHostile"
+        },
+        {
+            "type": "traitEffectImmunity",
+            "effects": [
+                "scguns:sulfur_poisoning",
+                "minecraft:poison",
+                "minecraft:wither",
+                "minecraft:slowness",
+                "minecraft:weakness"
+            ]
+        },
+        {
+            "type": "abilityMeleeSweep",
+            "range": 3.0,
+            "damage": 12.0,
+            "arcDegrees": 90.0,
+            "cooldown": 30,
+            "soundEventId": "minecraft:entity.iron_golem.attack",
+            "slot": 1
+        }
+    ]
+}

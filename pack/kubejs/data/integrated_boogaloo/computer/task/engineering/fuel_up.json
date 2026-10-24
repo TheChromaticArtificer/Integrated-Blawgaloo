@@ -1,0 +1,44 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.engineering_fuel_up.title",
+  "description": "task.integrated_boogaloo.engineering_fuel_up.description",
+  "showcase": [
+    "@recipe:mts:mts.fuelpump"
+  ],
+  "icon": "mts:mts.fuelpump",
+  "program": "integrated_boogaloo:engineering",
+  "category": "integrated_boogaloo:engineering",
+  "sort_order": 42,
+  "position": {
+    "x": 2,
+    "y": 6
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:engineering/vehicle_parts"
+  ],
+  "objectives": [
+    {
+      "id": "pump",
+      "type": "item",
+      "target": "mts:mts.fuelpump",
+      "description": "task.integrated_boogaloo.engineering_fuel_up.pump",
+      "count": 1
+    },
+    {
+      "id": "can",
+      "type": "item",
+      "target": "mts:mts.jerrycan",
+      "description": "task.integrated_boogaloo.engineering_fuel_up.can",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 20
+    }
+  ],
+  "line_axis": "horizontal"
+}

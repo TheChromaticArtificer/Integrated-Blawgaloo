@@ -1,0 +1,466 @@
+{
+  "type": "lucky:group",
+  "luck": 1,
+  "chance": 0.6,
+  "outcomes": [
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} times 5 50 15"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} subtitle {\"text\": \"The land just got a lot sweeter\", \"color\": \"white\"}"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} title {\"text\": \"Sugar Rush!\", \"color\": \"light_purple\", \"bold\": true}"
+    },
+    {
+      "type": "lucky:sound",
+      "sound_event": {
+        "sound_id": "minecraft:block.beacon.activate"
+      }
+    },
+    {
+      "type": "lucky:particle",
+      "particle": {
+        "type": "minecraft:portal"
+      },
+      "count": 120
+    },
+    {
+      "type": "lucky:command",
+      "command": "/fillbiome ~-15 ~-8 ~-15 ~15 ~22 ~15 alexscaves:candy_cavity",
+      "delay": 20
+    },
+    {
+      "type": "lucky:feature",
+      "feature": "alexscaves:lollipop",
+      "pos": {
+        "type": "lucky:heightmap",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "center": {
+          "type": "lucky:random_in_shape",
+          "center": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}"
+          ],
+          "shape": {
+            "type": "lucky:sphere",
+            "size": [
+              10,
+              1,
+              10
+            ]
+          }
+        }
+      },
+      "delay": 30
+    },
+    {
+      "type": "lucky:feature",
+      "feature": "alexscaves:lollipop",
+      "pos": {
+        "type": "lucky:heightmap",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "center": {
+          "type": "lucky:random_in_shape",
+          "center": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}"
+          ],
+          "shape": {
+            "type": "lucky:sphere",
+            "size": [
+              10,
+              1,
+              10
+            ]
+          }
+        }
+      },
+      "delay": 30
+    },
+    {
+      "type": "lucky:feature",
+      "feature": "alexscaves:lollipop",
+      "pos": {
+        "type": "lucky:heightmap",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "center": {
+          "type": "lucky:random_in_shape",
+          "center": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}"
+          ],
+          "shape": {
+            "type": "lucky:sphere",
+            "size": [
+              10,
+              1,
+              10
+            ]
+          }
+        }
+      },
+      "delay": 30
+    },
+    {
+      "type": "lucky:feature",
+      "feature": "alexscaves:candy_cane",
+      "pos": {
+        "type": "lucky:heightmap",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "center": {
+          "type": "lucky:random_in_shape",
+          "center": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}"
+          ],
+          "shape": {
+            "type": "lucky:sphere",
+            "size": [
+              10,
+              1,
+              10
+            ]
+          }
+        }
+      },
+      "delay": 30
+    },
+    {
+      "type": "lucky:feature",
+      "feature": "alexscaves:candy_cane",
+      "pos": {
+        "type": "lucky:heightmap",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "center": {
+          "type": "lucky:random_in_shape",
+          "center": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}"
+          ],
+          "shape": {
+            "type": "lucky:sphere",
+            "size": [
+              10,
+              1,
+              10
+            ]
+          }
+        }
+      },
+      "delay": 30
+    },
+    {
+      "type": "lucky:feature",
+      "feature": "alexscaves:candy_cane",
+      "pos": {
+        "type": "lucky:heightmap",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "center": {
+          "type": "lucky:random_in_shape",
+          "center": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}"
+          ],
+          "shape": {
+            "type": "lucky:sphere",
+            "size": [
+              10,
+              1,
+              10
+            ]
+          }
+        }
+      },
+      "delay": 30
+    },
+    {
+      "type": "lucky:feature",
+      "feature": "alexscaves:sweet_puff",
+      "pos": {
+        "type": "lucky:heightmap",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "center": {
+          "type": "lucky:random_in_shape",
+          "center": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}"
+          ],
+          "shape": {
+            "type": "lucky:sphere",
+            "size": [
+              10,
+              1,
+              10
+            ]
+          }
+        }
+      },
+      "delay": 30
+    },
+    {
+      "type": "lucky:feature",
+      "feature": "alexscaves:sweet_puff",
+      "pos": {
+        "type": "lucky:heightmap",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "center": {
+          "type": "lucky:random_in_shape",
+          "center": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}"
+          ],
+          "shape": {
+            "type": "lucky:sphere",
+            "size": [
+              10,
+              1,
+              10
+            ]
+          }
+        }
+      },
+      "delay": 30
+    },
+    {
+      "type": "lucky:feature",
+      "feature": "alexscaves:vanilla_ice_cream_scoop",
+      "pos": {
+        "type": "lucky:heightmap",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "center": {
+          "type": "lucky:random_in_shape",
+          "center": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}"
+          ],
+          "shape": {
+            "type": "lucky:sphere",
+            "size": [
+              10,
+              1,
+              10
+            ]
+          }
+        }
+      },
+      "delay": 30
+    },
+    {
+      "type": "lucky:feature",
+      "feature": "alexscaves:chocolate_ice_cream_scoop",
+      "pos": {
+        "type": "lucky:heightmap",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "center": {
+          "type": "lucky:random_in_shape",
+          "center": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}"
+          ],
+          "shape": {
+            "type": "lucky:sphere",
+            "size": [
+              10,
+              1,
+              10
+            ]
+          }
+        }
+      },
+      "delay": 30
+    },
+    {
+      "type": "lucky:feature",
+      "feature": "alexscaves:sprinkles_pile",
+      "pos": {
+        "type": "lucky:heightmap",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "center": {
+          "type": "lucky:random_in_shape",
+          "center": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}"
+          ],
+          "shape": {
+            "type": "lucky:sphere",
+            "size": [
+              10,
+              1,
+              10
+            ]
+          }
+        }
+      },
+      "delay": 30
+    },
+    {
+      "type": "lucky:feature",
+      "feature": "alexscaves:sprinkles_pile",
+      "pos": {
+        "type": "lucky:heightmap",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "center": {
+          "type": "lucky:random_in_shape",
+          "center": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}"
+          ],
+          "shape": {
+            "type": "lucky:sphere",
+            "size": [
+              10,
+              1,
+              10
+            ]
+          }
+        }
+      },
+      "delay": 30
+    },
+    {
+      "type": "lucky:random",
+      "outcomes": [
+        {
+          "type": "lucky:entity",
+          "entity_type": "alexscaves:gingerbread_man",
+          "reinit": true,
+          "count": 6,
+          "pos": {
+            "type": "lucky:heightmap",
+            "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+            "center": {
+              "type": "lucky:random_in_shape",
+              "center": [
+                "{blockPosX}",
+                "{blockPosY}",
+                "{blockPosZ}"
+              ],
+              "shape": {
+                "type": "lucky:sphere",
+                "size": [
+                  8,
+                  1,
+                  8
+                ]
+              }
+            }
+          },
+          "delay": 60,
+          "weight": 2
+        },
+        {
+          "type": "lucky:entity",
+          "entity_type": "alexscaves:candicorn",
+          "reinit": true,
+          "nbt": {
+            "Owner": "{playerUUID}",
+            "Tame": true,
+            "PersistenceRequired": true,
+            "Saddled": true
+          },
+          "pos": {
+            "type": "lucky:heightmap",
+            "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+            "center": {
+              "type": "lucky:random_in_shape",
+              "center": [
+                "{blockPosX}",
+                "{blockPosY}",
+                "{blockPosZ}"
+              ],
+              "shape": {
+                "type": "lucky:sphere",
+                "size": [
+                  4,
+                  1,
+                  4
+                ]
+              }
+            }
+          },
+          "weight": 2
+        },
+        {
+          "type": "lucky:entity",
+          "entity_type": "alexscaves:gummy_bear",
+          "reinit": true,
+          "count": 2,
+          "pos": {
+            "type": "lucky:heightmap",
+            "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+            "center": {
+              "type": "lucky:random_in_shape",
+              "center": [
+                "{blockPosX}",
+                "{blockPosY}",
+                "{blockPosZ}"
+              ],
+              "shape": {
+                "type": "lucky:sphere",
+                "size": [
+                  6,
+                  1,
+                  6
+                ]
+              }
+            }
+          },
+          "delay": 60,
+          "weight": 2
+        },
+        {
+          "type": "lucky:entity",
+          "entity_type": "alexscaves:caramel_cube",
+          "reinit": true,
+          "count": 2,
+          "pos": {
+            "type": "lucky:heightmap",
+            "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+            "center": {
+              "type": "lucky:random_in_shape",
+              "center": [
+                "{blockPosX}",
+                "{blockPosY}",
+                "{blockPosZ}"
+              ],
+              "shape": {
+                "type": "lucky:sphere",
+                "size": [
+                  6,
+                  1,
+                  6
+                ]
+              }
+            }
+          },
+          "delay": 60,
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "type": "lucky:effect",
+      "status_effect": {
+        "id": "alexscaves:sugar_rush",
+        "amplifier": 0,
+        "duration": 600
+      }
+    }
+  ]
+}

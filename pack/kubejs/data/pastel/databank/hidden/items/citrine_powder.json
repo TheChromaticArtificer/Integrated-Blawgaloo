@@ -1,0 +1,10 @@
+{
+  "type": {
+    "type": "databank:item",
+    "hidden_as": "minecraft:yellow_dye",
+    "original": "pastel:citrine_powder"
+  },
+  "condition": {
+    "type": "databank:always_true"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.start_here_randomium.title",
+  "description": "task.integrated_boogaloo.start_here_randomium.description",
+  "showcase": [
+    "@item:randomium:randomium_ore",
+    "@recipe:randomium:randomium_ore"
+  ],
+  "icon": "randomium:randomium_ore",
+  "program": "integrated_boogaloo:start_here",
+  "category": "integrated_boogaloo:start_here",
+  "sort_order": 4,
+  "position": {
+    "x": 0,
+    "y": -3
+  },
+  "shape": "diamond",
+  "availability": "automatic",
+  "invisible_until_completed": true,
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "integrated_boogaloo:boogaloo/randomium",
+      "description": "task.integrated_boogaloo.start_here_randomium.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 25
+    }
+  ],
+  "connects": [
+    "integrated_boogaloo:start_here/miners_dream"
+  ],
+  "line_axis": "vertical"
+}

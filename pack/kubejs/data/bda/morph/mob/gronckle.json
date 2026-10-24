@@ -1,0 +1,72 @@
+{
+    "forEntity": "bda:gronckle",
+    "tickMode": "client_strict",
+    "cameraDistanceMultiplier": 1.4,
+    "attributeOverrides": {
+        "minecraft:generic.max_health": 60.0,
+        "minecraft:generic.attack_damage": 7.0,
+        "minecraft:generic.attack_knockback": 1.65,
+        "minecraft:generic.knockback_resistance": 0.55
+    },
+    "variantNbtStrip": [
+        "Owner",
+        "Sitting",
+        "InLove",
+        "LoveCause",
+        "Leash",
+        "NaturalTamingAggressor",
+        "NaturalTamingFoodAnchor",
+        "EatingVisualItem",
+        "DragonLegacyDeathPending",
+        "GronckleTamer",
+        "GronckleSaddled",
+        "GronckleCommand",
+        "GronckleTrust",
+        "GronckleSuspicion",
+        "GronckleTamingSession",
+        "GronckleFeedCooldown",
+        "GronckleCanceledOfferingCount",
+        "GronckleCanceledOfferingRetry",
+        "GronckleIgnoredCanceledOffering",
+        "GronckleBoostRechargeDelay",
+        "GronckleFlightStamina",
+        "GronckleFlightStaminaMaximum",
+        "NaturalTamingInterruptionTicks"
+    ],
+    "traits": [
+        {
+            "type": "traitHostile"
+        },
+        {
+            "type": "traitImmunityFire"
+        },
+        {
+            "type": "traitFallNegate"
+        },
+        {
+            "type": "abilityFlightFlap",
+            "slowdownInWater": true,
+            "velocityAdded": 0.55
+        },
+        {
+            "type": "abilityFlight",
+            "slowdownInWater": true,
+            "flySpeed": 0.06,
+            "upgradeFor": "abilityFlightFlap"
+        },
+        {
+            "type": "abilityBdaGronckleLava",
+            "slot": 1,
+            "cooldown": 64,
+            "windupTicks": 10
+        },
+        {
+            "type": "abilityBdaDragonBite",
+            "slot": 2,
+            "cooldown": 28,
+            "damage": 25.0,
+            "range": 5.25,
+            "knockback": 1.0
+        }
+    ]
+}

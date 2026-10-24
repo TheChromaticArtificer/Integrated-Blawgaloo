@@ -1,0 +1,11 @@
+{
+  "sender": "trayaurus@antmail.com",
+  "sender_avatar_item": "antarchy:diamond_minecart",
+  "subject": "Witchcraft",
+  "body": "Belladonna! That's how it always starts.\n\nThere's real witchcraft in this world, and it begins with an oven. Cook a Rowan Sapling in a Witches Oven with a Jar beside it, and see what the Jar catches. Here's how it all goes together. @archive:integrated_boogaloo:witchery_oven @display:integrated_boogaloo:guide/oven I'll add pages to the book as you go.\n\nYour old friend,\nDr. T",
+  "trigger": {
+    "delay_minutes": 3,
+    "type": "advancement",
+    "value": "witchery:seeds"
+  }
+}

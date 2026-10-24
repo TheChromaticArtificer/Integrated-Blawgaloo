@@ -1,0 +1,36 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.locked_down_rights_by_keycard.title",
+  "description": "task.integrated_boogaloo.locked_down_rights_by_keycard.description",
+  "showcase": [
+    "@recipe:mffs:biometric_identifier"
+  ],
+  "icon": "mffs:biometric_identifier",
+  "program": "integrated_boogaloo:locked_down",
+  "category": "integrated_boogaloo:locked_down",
+  "sort_order": 28,
+  "position": {
+    "x": 8,
+    "y": 1
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:locked_down/keep_out"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "mffs:biometric_identifier",
+      "description": "task.integrated_boogaloo.locked_down_rights_by_keycard.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 40
+    }
+  ],
+  "line_axis": "horizontal"
+}

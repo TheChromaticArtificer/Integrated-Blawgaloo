@@ -1,0 +1,36 @@
+{
+  "green_tint": false,
+  "type": "article",
+  "category": "general",
+  "folder": "integrated_boogaloo:witchcraft",
+  "sort_order": 30,
+  "title": "guide.integrated_boogaloo.entry.witchery_altar.title",
+  "subtitle": "guide.integrated_boogaloo.entry.witchery_altar.subtitle",
+  "content": [
+    {
+      "text": "guide.integrated_boogaloo.entry.witchery_altar.body_1"
+    },
+    {
+      "display": "integrated_boogaloo:guide/altar"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.witchery_altar.body_2"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.witchery_altar.body_3"
+    }
+  ],
+  "cover_item": "witchery:deepslate_altar_block",
+  "gallery": [
+    {
+      "item": "witchery:chalice"
+    },
+    {
+      "item": "witchery:pentacle"
+    }
+  ],
+  "lookup": [
+    "witchery:altar",
+    "witchery:altar_component"
+  ]
+}

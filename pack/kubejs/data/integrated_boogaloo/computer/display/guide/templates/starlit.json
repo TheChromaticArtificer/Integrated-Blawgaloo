@@ -1,0 +1,263 @@
+{
+  "version": 1,
+  "width": 250,
+  "height": 137,
+  "variables": {
+    "title": {
+      "type": "string"
+    },
+    "core": {
+      "type": "object"
+    },
+    "extra_core": {
+      "type": "object"
+    },
+    "supporting_core": {
+      "type": "object"
+    },
+    "supporting_top": {
+      "type": "object"
+    },
+    "supporting_middle": {
+      "type": "object"
+    },
+    "supporting_bottom": {
+      "type": "object"
+    },
+    "inputs": {
+      "type": "array"
+    },
+    "outputs": {
+      "type": "array"
+    },
+    "duration": {
+      "type": "string",
+      "default": "literal:"
+    }
+  },
+  "title": "$title",
+  "elements": [
+    {
+      "id": "factory",
+      "type": "scene",
+      "x": 2,
+      "y": 2,
+      "width": 110,
+      "height": 116,
+      "yaw": 200,
+      "pitch": 22,
+      "scale": 1.5,
+      "blocks": [
+        {
+          "pos": [
+            -1,
+            -1,
+            -1
+          ],
+          "state": "minecraft:deepslate_tiles",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            -1,
+            0
+          ],
+          "state": "minecraft:deepslate_tiles",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            -1,
+            1
+          ],
+          "state": "minecraft:deepslate_tiles",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            -1
+          ],
+          "state": "minecraft:deepslate_tiles",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            0
+          ],
+          "state": "minecraft:deepslate_tiles",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            1
+          ],
+          "state": "minecraft:deepslate_tiles",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            -1
+          ],
+          "state": "minecraft:deepslate_tiles",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            0
+          ],
+          "state": "minecraft:deepslate_tiles",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            1
+          ],
+          "state": "minecraft:deepslate_tiles",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            0,
+            0
+          ],
+          "state": "celestisynth:starlit_factory[tri_part=middle]",
+          "id": "factory",
+          "highlight": true
+        }
+      ],
+      "effects": [
+        {
+          "kind": "spark",
+          "pos": [
+            0,
+            1,
+            0
+          ],
+          "count": 8,
+          "color": "#B46CF0"
+        }
+      ],
+      "hero": true,
+      "ratio": 0.9
+    },
+    {
+      "type": "text",
+      "x": 6,
+      "y": 4,
+      "width": 238,
+      "text": "literal:Top"
+    },
+    {
+      "type": "group",
+      "x": 6,
+      "y": 15,
+      "elements": [
+        {
+          "type": "group",
+          "x": 0,
+          "y": 0,
+          "elements": [
+            "$supporting_top"
+          ]
+        },
+        {
+          "type": "group",
+          "x": 0,
+          "y": 22,
+          "elements": [
+            "$supporting_middle"
+          ]
+        },
+        {
+          "type": "group",
+          "x": 0,
+          "y": 44,
+          "elements": [
+            "$supporting_bottom"
+          ]
+        },
+        {
+          "type": "group",
+          "x": 30,
+          "y": 22,
+          "elements": [
+            "$core"
+          ]
+        },
+        {
+          "type": "group",
+          "x": 52,
+          "y": 22,
+          "elements": [
+            "$extra_core"
+          ]
+        },
+        {
+          "type": "group",
+          "x": 30,
+          "y": 44,
+          "elements": [
+            "$supporting_core"
+          ]
+        },
+        {
+          "type": "arrow",
+          "x": 76,
+          "y": 31,
+          "x2": 92,
+          "y2": 31
+        },
+        {
+          "type": "group",
+          "x": 98,
+          "y": 22,
+          "layout": "grid",
+          "columns": 1,
+          "elements": "$outputs"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "x": 6,
+      "y": 85,
+      "width": 130,
+      "text": "literal:Supports on the left, the core in the middle.",
+      "color": "muted"
+    },
+    {
+      "type": "text",
+      "x": 6,
+      "y": 97,
+      "width": 130,
+      "text": "$duration",
+      "color": "muted"
+    },
+    {
+      "type": "text",
+      "x": 4,
+      "y": 111,
+      "width": 244,
+      "text": "literal:Hover a slot to see where it goes in the Factory.",
+      "color": "muted"
+    }
+  ],
+  "reflow": true,
+  "auto_height": true,
+  "hide_title": true
+}

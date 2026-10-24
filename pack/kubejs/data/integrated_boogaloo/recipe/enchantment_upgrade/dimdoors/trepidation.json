@@ -1,0 +1,30 @@
+{
+  "type": "pastel:enchantment_upgrade",
+  "enchantment": "dimdoors:trepidation",
+  "group": "dimdoors",
+  "bulk_item": {
+    "item": "pastel:light_gray_pigment"
+  },
+  "item_scaling": {
+    "type": "pastel:doubling",
+    "scaling_value": 8
+  },
+  "level_cap": 4,
+  "xp_scaling": {
+    "type": "pastel:indexed",
+    "indexes": [
+      200,
+      400,
+      1000
+    ]
+  },
+  "required_advancement": "integrated_boogaloo:unlocks/enchantments/dimdoors",
+  "neoforge:conditions": [
+    {
+      "type": "pastel:enchantments_exist",
+      "values": [
+        "dimdoors:trepidation"
+      ]
+    }
+  ]
+}

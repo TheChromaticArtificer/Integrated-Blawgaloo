@@ -1,0 +1,17 @@
+{
+  "type": "createcybernetics:engineering_deconstruct",
+  "inputs": [
+    {
+      "item": "createcybernetics:organsupgrades_adrenaline"
+    },
+    {
+      "item": "createcybernetics:scavenged_adrenaline"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "antarchy:titanium_nugget",
+      "count": 10
+    }
+  ]
+}

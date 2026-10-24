@@ -1,0 +1,72 @@
+{
+  "type": "witchery:cauldron_crafting",
+  "altarPower": 200,
+  "inputItems": [
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "minecraft:glass_bottle"
+      },
+      "order": 0
+    },
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "minecraft:glass_bottle"
+      },
+      "order": 1
+    },
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "pastel:sawblade_holly_berry"
+      },
+      "order": 2
+    },
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "pastel:sawblade_holly_berry"
+      },
+      "order": 3
+    },
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "minecraft:sugar"
+      },
+      "order": 4
+    }
+  ],
+  "outputItems": [
+    {
+      "id": "pastel:infused_beverage",
+      "count": 2,
+      "components": {
+        "pastel:infused_beverage": {
+          "color": 13723654,
+          "variant": "sawblade_holly_liquor"
+        },
+        "minecraft:potion_contents": {
+          "custom_effects": [
+            {
+              "id": "pastel:toughness",
+              "amplifier": 0,
+              "duration": 9600
+            }
+          ]
+        },
+        "pastel:beverage": {
+          "days_aged": 72,
+          "alcohol_percent": 17,
+          "thickness": 1.0
+        }
+      }
+    }
+  ]
+}

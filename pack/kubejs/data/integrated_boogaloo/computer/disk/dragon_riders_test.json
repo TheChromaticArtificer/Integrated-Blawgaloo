@@ -1,0 +1,8 @@
+{
+  "category": "integrated_boogaloo:programs",
+  "title": "guide.integrated_boogaloo.disk.dragon_riders_test.title",
+  "description": "guide.integrated_boogaloo.disk.dragon_riders_test.description",
+  "programs": [
+    "integrated_boogaloo:dragon_riders_test"
+  ]
+}

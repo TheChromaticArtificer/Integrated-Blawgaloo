@@ -1,0 +1,12 @@
+{
+  "sender": "gobber@berk.com",
+  "sender_display": "Gobber",
+  "sender_avatar_item": "bda:war_hammer",
+  "subject": "So ye bought the map",
+  "body": "So ye bought the map. I'll be honest, because nobody was with me. Every ship that sailed for that island came back empty or didn't come back. There's something in that mountain that makes a Nightmare look like a frolicking sheep. If ye go, take your best axe and leave me your second best. Not for me. For the Viking funeral.\n\nGobber",
+  "trigger": {
+    "delay_minutes": 3,
+    "type": "advancement",
+    "value": "bda:academy/helheims_gate"
+  }
+}

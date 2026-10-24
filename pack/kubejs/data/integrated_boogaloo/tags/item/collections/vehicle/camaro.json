@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "mts:oamp.camaro_white",
+    "mts:oamp.camaro_gray",
+    "mts:oamp.camaro_black",
+    "mts:oamp.camaro_red",
+    "mts:oamp.camaro_brown",
+    "mts:oamp.camaro_blue",
+    "mts:oamp.camaro_lime",
+    "mts:oamp.camaro_seagreen",
+    "mts:oamp.camaro_orange",
+    "mts:oamp.camaro_yellow",
+    "mts:oamp.camaro_extravagant",
+    "mts:oamp.camaro_maroon",
+    "mts:oamp.camaro_bluestriped",
+    "mts:oamp.camaro_skyblue"
+  ]
+}

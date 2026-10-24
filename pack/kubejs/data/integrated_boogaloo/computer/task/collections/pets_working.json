@@ -1,0 +1,180 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.collection.pets_working.title",
+  "description": "task.integrated_boogaloo.collection.pets_working.description",
+  "icon": "inventorypets:pet_anvil",
+  "program": "integrated_boogaloo:collections",
+  "category": "integrated_boogaloo:collections",
+  "sort_order": 600,
+  "position": {
+    "x": 0,
+    "y": 6
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "pet_anvil",
+      "type": "item",
+      "target": "inventorypets:pet_anvil",
+      "description": "task.integrated_boogaloo.collection.pets_working.pet_anvil",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pet_brewing_stand",
+      "type": "item",
+      "target": "inventorypets:pet_brewing_stand",
+      "description": "task.integrated_boogaloo.collection.pets_working.pet_brewing_stand",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pet_chest",
+      "type": "item",
+      "target": "inventorypets:pet_chest",
+      "description": "task.integrated_boogaloo.collection.pets_working.pet_chest",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pet_double_chest",
+      "type": "item",
+      "target": "inventorypets:pet_double_chest",
+      "description": "task.integrated_boogaloo.collection.pets_working.pet_double_chest",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pet_enchanting_table",
+      "type": "item",
+      "target": "inventorypets:pet_enchanting_table",
+      "description": "task.integrated_boogaloo.collection.pets_working.pet_enchanting_table",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pet_end_portal",
+      "type": "item",
+      "target": "inventorypets:pet_end_portal",
+      "description": "task.integrated_boogaloo.collection.pets_working.pet_end_portal",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pet_flying_saddle",
+      "type": "item",
+      "target": "inventorypets:pet_flying_saddle",
+      "description": "task.integrated_boogaloo.collection.pets_working.pet_flying_saddle",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pet_house",
+      "type": "item",
+      "target": "inventorypets:pet_house",
+      "description": "task.integrated_boogaloo.collection.pets_working.pet_house",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pet_jukebox",
+      "type": "item",
+      "target": "inventorypets:pet_jukebox",
+      "description": "task.integrated_boogaloo.collection.pets_working.pet_jukebox",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pet_lead",
+      "type": "item",
+      "target": "inventorypets:pet_lead",
+      "description": "task.integrated_boogaloo.collection.pets_working.pet_lead",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pet_quiver",
+      "type": "item",
+      "target": "inventorypets:pet_quiver",
+      "description": "task.integrated_boogaloo.collection.pets_working.pet_quiver",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pet_saddle",
+      "type": "item",
+      "target": "inventorypets:pet_saddle",
+      "description": "task.integrated_boogaloo.collection.pets_working.pet_saddle",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pet_sated_chest",
+      "type": "item",
+      "target": "inventorypets:pet_sated_chest",
+      "description": "task.integrated_boogaloo.collection.pets_working.pet_sated_chest",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pet_sated_double_chest",
+      "type": "item",
+      "target": "inventorypets:pet_sated_double_chest",
+      "description": "task.integrated_boogaloo.collection.pets_working.pet_sated_double_chest",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pet_shield",
+      "type": "item",
+      "target": "inventorypets:pet_shield",
+      "description": "task.integrated_boogaloo.collection.pets_working.pet_shield",
+      "count": 1,
+      "sticky": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 1000
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "id": "supplies",
+          "title": "task.integrated_boogaloo.reward.supplies",
+          "rewards": [
+            {
+              "type": "item_pool",
+              "pool": "integrated_boogaloo:supplies_common",
+              "mode": "random"
+            }
+          ]
+        },
+        {
+          "id": "lucky",
+          "title": "task.integrated_boogaloo.reward.lucky",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "lucky:lucky_block",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "id": "titanium",
+          "title": "task.integrated_boogaloo.reward.titanium",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "antarchy:titanium_nugget",
+              "count": 9
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

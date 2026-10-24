@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "values": [
+    "mts:oamp.cagouille_black",
+    "mts:oamp.cagouille_blue",
+    "mts:oamp.cagouille_brown",
+    "mts:oamp.cagouille_gray",
+    "mts:oamp.cagouille_joepeach",
+    "mts:oamp.cagouille_lightyellow",
+    "mts:oamp.cagouille_maroon",
+    "mts:oamp.cagouille_purple",
+    "mts:oamp.cagouille_jadegreen",
+    "mts:oamp.cagouille_mint",
+    "mts:oamp.cagouille_pink",
+    "mts:oamp.cagouille_red",
+    "mts:oamp.cagouille_salmon",
+    "mts:oamp.cagouille_seagreen",
+    "mts:oamp.cagouille_skyblue",
+    "mts:oamp.cagouille_white",
+    "mts:oamp.cagouille_yellow",
+    "mts:oamp.cagouille_pinkish",
+    "mts:oamp.cagouille_police"
+  ]
+}

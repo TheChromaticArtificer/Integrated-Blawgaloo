@@ -1,0 +1,58 @@
+{
+  "structures": [
+    {
+      "structure": "epic:medium_plains_dungeon",
+      "weight": 3
+    },
+    {
+      "structure": "epic:medium_ice_dungeon",
+      "weight": 3
+    },
+    {
+      "structure": "epic:medium_sand_dungeon",
+      "weight": 3
+    },
+    {
+      "structure": "ati_structures:underground_monument",
+      "weight": 2
+    },
+    {
+      "structure": "ati_structures:spider_nest",
+      "weight": 2
+    },
+    {
+      "structure": "ati_structures:wither_cavern",
+      "weight": 2
+    },
+    {
+      "structure": "integrated_boogaloo:alien_hive",
+      "weight": 1
+    },
+    {
+      "structure": "scguns:cog_chambers",
+      "weight": 2
+    },
+    {
+      "structure": "weeping_angels:catacombs",
+      "weight": 1
+    },
+    {
+      "structure": "iceandfire:fire_dragon_cave",
+      "weight": 2
+    },
+    {
+      "structure": "iceandfire:ice_dragon_cave",
+      "weight": 2
+    },
+    {
+      "structure": "iceandfire:lightning_dragon_cave",
+      "weight": 2
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 32,
+    "separation": 12,
+    "salt": 1640215810
+  }
+}

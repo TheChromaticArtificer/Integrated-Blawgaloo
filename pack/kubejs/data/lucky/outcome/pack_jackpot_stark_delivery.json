@@ -1,0 +1,102 @@
+{
+  "type": "lucky:group",
+  "luck": 2,
+  "chance": 0.06,
+  "outcomes": [
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} times 5 50 15"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} subtitle {\"text\": \"Mark V suitcase armor, signed T.S.\", \"color\": \"gold\"}"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} title {\"text\": \"Delivery from Stark Industries\", \"color\": \"red\", \"bold\": true}"
+    },
+    {
+      "type": "lucky:sound",
+      "sound_event": {
+        "sound_id": "marvel:suit.iron_man.repulsor_charge"
+      }
+    },
+    {
+      "type": "lucky:particle",
+      "particle": {
+        "type": "minecraft:end_rod"
+      },
+      "count": 80
+    },
+    {
+      "type": "lucky:item",
+      "item": "marvel:iron_man_mark_5_suitcase",
+      "pos": [
+        "{blockPosX}",
+        "{blockPosY}+12",
+        "{blockPosZ}"
+      ]
+    },
+    {
+      "type": "lucky:sound",
+      "sound_event": {
+        "sound_id": "minecraft:block.anvil.land"
+      },
+      "delay": 40
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "minecraft:firework_rocket",
+      "nbt": {
+        "LifeTime": 25,
+        "FireworksItem": {
+          "id": "minecraft:firework_rocket",
+          "count": 1,
+          "components": {
+            "minecraft:fireworks": {
+              "flight_duration": 1,
+              "explosions": [
+                {
+                  "shape": "large_ball",
+                  "colors": [
+                    16711680
+                  ],
+                  "has_trail": true,
+                  "has_twinkle": true
+                }
+              ]
+            }
+          }
+        }
+      },
+      "delay": 40
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "minecraft:firework_rocket",
+      "nbt": {
+        "LifeTime": 25,
+        "FireworksItem": {
+          "id": "minecraft:firework_rocket",
+          "count": 1,
+          "components": {
+            "minecraft:fireworks": {
+              "flight_duration": 1,
+              "explosions": [
+                {
+                  "shape": "large_ball",
+                  "colors": [
+                    16766720
+                  ],
+                  "has_trail": true,
+                  "has_twinkle": true
+                }
+              ]
+            }
+          }
+        }
+      },
+      "delay": 50
+    }
+  ]
+}

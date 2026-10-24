@@ -1,0 +1,24 @@
+{
+  "name": "scguns:boss_chamber",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 2,
+      "element": {
+        "location": "scguns:chambers/chamber_treasure",
+        "processors": "integrated_boogaloo:structures/scguns/cog_chambers",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "scguns:chambers/chamber_end",
+        "processors": "integrated_boogaloo:structures/scguns/cog_chambers",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

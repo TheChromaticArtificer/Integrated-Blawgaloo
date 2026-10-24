@@ -1,0 +1,131 @@
+{
+  "version": 1,
+  "width": 250,
+  "height": 122,
+  "variables": {
+    "title": {
+      "type": "string"
+    },
+    "pattern": {
+      "type": "array"
+    },
+    "mapping": {
+      "type": "object"
+    },
+    "inputs": {
+      "type": "array"
+    },
+    "outputs": {
+      "type": "array"
+    },
+    "power": {
+      "type": "string"
+    },
+    "center": {
+      "type": "string"
+    },
+    "conditions": {
+      "type": "array",
+      "default": []
+    },
+    "note": {
+      "type": "string",
+      "default": "literal:"
+    }
+  },
+  "title": "$title",
+  "elements": [
+    {
+      "id": "circle",
+      "type": "scene",
+      "x": 2,
+      "y": 2,
+      "width": 140,
+      "height": 168,
+      "yaw": 0,
+      "pitch": 75,
+      "pattern": "$pattern",
+      "mapping": "$mapping",
+      "material_rules": [
+        {
+          "state": "minecraft:grass_block",
+          "exclude": true
+        }
+      ],
+      "steps": [
+        {
+          "id": "circle",
+          "title": "literal:Draw",
+          "text": "literal:Draw the circle in chalk, Golden Chalk in the middle.",
+          "through_y": 1
+        },
+        {
+          "id": "start",
+          "title": "literal:Start",
+          "text": "literal:Drop the items inside, then right-click the Golden Chalk.",
+          "markers": [
+            {
+              "block": "$center",
+              "icon": "right_click",
+              "text": "literal:Right-click the Golden Chalk"
+            }
+          ]
+        }
+      ],
+      "hero": true,
+      "ratio": 0.95
+    },
+    {
+      "type": "text",
+      "x": 6,
+      "y": 4,
+      "width": 238,
+      "text": "literal:Lay these in the circle:"
+    },
+    {
+      "type": "group",
+      "x": 8,
+      "y": 15,
+      "layout": "grid",
+      "columns": 4,
+      "cell_width": 20,
+      "cell_height": 20,
+      "elements": "$inputs"
+    },
+    {
+      "type": "arrow",
+      "x": 46,
+      "y": 45,
+      "x2": 46,
+      "y2": 59
+    },
+    {
+      "type": "group",
+      "x": 28,
+      "y": 67,
+      "layout": "grid",
+      "columns": 2,
+      "cell_width": 20,
+      "cell_height": 20,
+      "elements": "$outputs"
+    },
+    {
+      "type": "text",
+      "x": 6,
+      "y": 93,
+      "width": 238,
+      "text": "$note",
+      "color": "muted"
+    },
+    {
+      "type": "conditions",
+      "x": 6,
+      "y": 104,
+      "width": 238,
+      "entries": "$conditions"
+    }
+  ],
+  "reflow": true,
+  "auto_height": true,
+  "hide_title": true
+}

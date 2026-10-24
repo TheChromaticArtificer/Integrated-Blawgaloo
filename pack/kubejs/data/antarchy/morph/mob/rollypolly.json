@@ -1,0 +1,22 @@
+{
+    "forEntity": "antarchy:rolly_polly",
+    "traits": [
+        {
+            "type": "abilityAntarchyRollyPollyRoll",
+            "nativeClassName": "com.craisinlord.antarchy.content.entity.RollyPollyEntity",
+            "noArgMethods": [
+                "startRollUp"
+            ],
+            "triggerControllerName": "main_controller",
+            "triggerAnimName": "roll_up",
+            "radius": 2.0,
+            "damage": 12.0,
+            "knockback": 1.5,
+            "selfMotion": true,
+            "selfMotionForward": 1.1,
+            "cooldown": 25,
+            "soundEventId": "antarchy:rolly_polly_roll",
+            "slot": 1
+        }
+    ]
+}

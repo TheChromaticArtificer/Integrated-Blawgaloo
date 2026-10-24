@@ -1,0 +1,34 @@
+{
+  "criteria": {
+    "has_pure_azurite": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "antarchy:bluestone_block"
+          }
+        ]
+      }
+    },
+    "has_pure_bloodstone": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "antarchy:blood_crystal_block"
+          }
+        ]
+      }
+    },
+    "has_pure_malachite": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "pastel:pure_malachite"
+          }
+        ]
+      }
+    }
+  }
+}

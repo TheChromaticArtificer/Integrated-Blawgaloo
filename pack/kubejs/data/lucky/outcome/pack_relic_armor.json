@@ -1,0 +1,73 @@
+{
+  "type": "lucky:group",
+  "luck": 1,
+  "chance": 1.75,
+  "outcomes": [
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} times 5 40 15"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} subtitle {\"text\": \"Check your pockets\", \"color\": \"white\"}"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} title {\"text\": \"Lucky Find\", \"color\": \"gold\", \"bold\": true}"
+    },
+    {
+      "type": "lucky:particle",
+      "particle": {
+        "type": "minecraft:end_rod"
+      },
+      "count": 60
+    },
+    {
+      "type": "lucky:sound",
+      "sound_event": {
+        "sound_id": "minecraft:block.amethyst_block.chime"
+      }
+    },
+    {
+      "type": "lucky:random",
+      "outcomes": [
+        {
+          "type": "lucky:command",
+          "command": "/boogaloo_core relic give {playerName} throne"
+        },
+        {
+          "type": "lucky:command",
+          "command": "/boogaloo_core relic give {playerName} do_not_cross"
+        },
+        {
+          "type": "lucky:command",
+          "command": "/boogaloo_core relic give {playerName} fishbowl"
+        },
+        {
+          "type": "lucky:command",
+          "command": "/boogaloo_core relic give {playerName} polymorph_hat"
+        },
+        {
+          "type": "lucky:command",
+          "command": "/boogaloo_core relic give {playerName} moonwalkers"
+        },
+        {
+          "type": "lucky:command",
+          "command": "/boogaloo_core relic give {playerName} edible_armor"
+        },
+        {
+          "type": "lucky:command",
+          "command": "/boogaloo_core relic give {playerName} the_last_cornbread"
+        },
+        {
+          "type": "lucky:command",
+          "command": "/boogaloo_core relic give {playerName} tax_collector"
+        },
+        {
+          "type": "lucky:command",
+          "command": "/boogaloo_core relic give {playerName} big_brain"
+        }
+      ]
+    }
+  ]
+}

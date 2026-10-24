@@ -1,0 +1,11 @@
+{
+  "sender": "trayaurus@antmail.com",
+  "sender_avatar_item": "antarchy:diamond_minecart",
+  "subject": "Is it edible?",
+  "body": "Grim says you found a cave made of candy. I don't believe him, but I've started a page anyway. @archive:integrated_boogaloo:cave_candy_cavity\n\nTry everything for me.\n\nYour old friend,\nDr. T",
+  "trigger": {
+    "delay_minutes": 3,
+    "type": "advancement",
+    "value": "alexscaves:alexscaves/discover_candy_cavity"
+  }
+}

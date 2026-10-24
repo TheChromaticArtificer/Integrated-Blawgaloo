@@ -1,0 +1,46 @@
+{
+  "name": "book.pastel.guidebook.boogaloo.pets.name",
+  "icon": {
+    "item": "inventorypets:pet_black_hole"
+  },
+  "condition": {
+    "type": "modonomicon:advancement",
+    "advancement_id": "pastel:build_basic_pedestal_structure"
+  },
+  "category": "pastel:general",
+  "hide_while_locked": true,
+  "parents": [
+    {
+      "entry": "pastel:general/pedestal_upgrade_onyx"
+    }
+  ],
+  "background_u_index": 0,
+  "background_v_index": 0,
+  "x": 7,
+  "y": 2,
+  "pages": [
+    {
+      "type": "modonomicon:text",
+      "title": "book.pastel.guidebook.boogaloo.pets.name",
+      "text": "book.pastel.guidebook.boogaloo.pets.page0"
+    },
+    {
+      "type": "modonomicon:spotlight",
+      "item": {
+        "item": "inventorypets:pet_anvil"
+      },
+      "text": "book.pastel.guidebook.boogaloo.pets.cmy"
+    },
+    {
+      "type": "modonomicon:spotlight",
+      "item": {
+        "item": "inventorypets:pet_black_hole"
+      },
+      "condition": {
+        "type": "modonomicon:advancement",
+        "advancement_id": "pastel:craft_onyx_pedestal"
+      },
+      "text": "book.pastel.guidebook.boogaloo.pets.onyx"
+    }
+  ]
+}

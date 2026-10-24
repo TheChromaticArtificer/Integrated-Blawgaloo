@@ -1,0 +1,39 @@
+{
+  "entries": [
+    {
+      "item": "pastel:topaz_shard",
+      "weight": 3,
+      "count": 8
+    },
+    {
+      "item": "pastel:citrine_shard",
+      "weight": 3,
+      "count": 8
+    },
+    {
+      "item": "minecraft:amethyst_shard",
+      "weight": 3,
+      "count": 8
+    },
+    {
+      "item": "antarchy:tigers_eye",
+      "weight": 2,
+      "count": 4
+    },
+    {
+      "item": "pastel:onyx_shard",
+      "weight": 2,
+      "count": 2
+    },
+    {
+      "item": "pastel:onyx_powder",
+      "weight": 2,
+      "count": 8
+    },
+    {
+      "pool": "integrated_boogaloo:supplies_common",
+      "weight": 3,
+      "count": 1
+    }
+  ]
+}

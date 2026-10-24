@@ -1,0 +1,267 @@
+{
+  "name": "epic:large_ice_rooms",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_ice_dungeon",
+        "location": "epic:epic_dungeon/ice_dungeon/large_ice_rooms/large_ice_room1"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_ice_dungeon",
+        "location": "epic:epic_dungeon/ice_dungeon/large_ice_rooms/large_ice_room2"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_ice_dungeon",
+        "location": "epic:epic_dungeon/ice_dungeon/large_ice_rooms/large_ice_room3"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_ice_dungeon",
+        "location": "epic:epic_dungeon/ice_dungeon/large_ice_rooms/large_ice_room4"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_ice_dungeon",
+        "location": "epic:epic_dungeon/ice_dungeon/large_ice_rooms/large_ice_room5"
+      },
+      "weight": 3
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_ice_dungeon",
+        "location": "epic:epic_dungeon/ice_dungeon/large_ice_rooms/large_ice_room6"
+      },
+      "weight": 7
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_ice_dungeon",
+        "location": "epic:epic_dungeon/ice_dungeon/large_ice_rooms/large_ice_room7"
+      },
+      "weight": 7
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_ice_dungeon",
+        "location": "epic:epic_dungeon/ice_dungeon/large_ice_rooms/large_ice_room8"
+      },
+      "weight": 5
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_ice_dungeon",
+        "location": "epic:epic_dungeon/ice_dungeon/large_ice_rooms/large_ice_room9"
+      },
+      "weight": 6
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_ice_dungeon",
+        "location": "epic:epic_dungeon/ice_dungeon/large_ice_rooms/large_ice_room10"
+      },
+      "weight": 6
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_ice_dungeon",
+        "location": "epic:epic_dungeon/ice_dungeon/large_ice_rooms/large_ice_room11"
+      },
+      "weight": 5
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_ice_dungeon",
+        "location": "epic:epic_dungeon/ice_dungeon/large_ice_rooms/large_ice_room12"
+      },
+      "weight": 5
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_ice_dungeon",
+        "location": "epic:epic_dungeon/ice_dungeon/large_ice_rooms/large_ice_room13"
+      },
+      "weight": 7
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_ice_dungeon",
+        "location": "epic:epic_dungeon/ice_dungeon/large_ice_rooms/large_ice_room14"
+      },
+      "weight": 6
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_ice_dungeon",
+        "location": "epic:epic_dungeon/ice_dungeon/large_ice_rooms/large_ice_room15"
+      },
+      "weight": 6
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_ice_dungeon",
+        "location": "epic:epic_dungeon/ice_dungeon/large_ice_rooms/large_ice_room16"
+      },
+      "weight": 5
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_ice_dungeon",
+        "location": "epic:epic_dungeon/ice_dungeon/large_ice_rooms/large_ice_room17"
+      },
+      "weight": 6
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_ice_dungeon",
+        "location": "epic:epic_dungeon/ice_dungeon/large_ice_rooms/large_ice_room18"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_ice_dungeon",
+        "location": "epic:epic_dungeon/ice_dungeon/large_ice_rooms/large_ice_room20"
+      },
+      "weight": 5
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_ice_dungeon",
+        "location": "epic:epic_dungeon/ice_dungeon/large_ice_rooms/large_ice_room21"
+      },
+      "weight": 5
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_ice_dungeon",
+        "location": "epic:epic_dungeon/ice_dungeon/large_ice_rooms/large_ice_room22"
+      },
+      "weight": 3
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_ice_dungeon",
+        "location": "epic:epic_dungeon/ice_dungeon/large_ice_rooms/large_ice_room23"
+      },
+      "weight": 8
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_ice_dungeon",
+        "location": "epic:epic_dungeon/ice_dungeon/large_ice_rooms/large_ice_room24"
+      },
+      "weight": 3
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_ice_dungeon",
+        "location": "epic:epic_dungeon/ice_dungeon/large_ice_rooms/large_ice_room25"
+      },
+      "weight": 5
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_ice_dungeon",
+        "location": "epic:epic_dungeon/ice_dungeon/large_ice_rooms/large_ice_room26"
+      },
+      "weight": 6
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_ice_dungeon",
+        "location": "epic:epic_dungeon/ice_dungeon/large_ice_rooms/large_ice_room27"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_ice_dungeon",
+        "location": "epic:epic_dungeon/ice_dungeon/large_ice_rooms/large_ice_room28"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_ice_dungeon",
+        "location": "epic:epic_dungeon/ice_dungeon/large_ice_rooms/large_ice_room29"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_ice_dungeon",
+        "location": "epic:epic_dungeon/ice_dungeon/large_ice_rooms/large_ice_room30"
+      },
+      "weight": 30
+    }
+  ]
+}

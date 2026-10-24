@@ -1,0 +1,41 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.cavaryn_jerry.title",
+  "description": "task.integrated_boogaloo.cavaryn_jerry.description",
+  "showcase": [
+    "@entity:antarchy:jerry"
+  ],
+  "icon": "antarchy:jerry_nucleus",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:cavaryn",
+  "sort_order": 17,
+  "position": {
+    "x": 2,
+    "y": 3
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "stat",
+      "target": "antarchy:jerry",
+      "stat_type": "entity_killed",
+      "description": "task.integrated_boogaloo.cavaryn_jerry.goal",
+      "count": 1
+    },
+    {
+      "id": "nucleus",
+      "type": "item",
+      "target": "antarchy:jerry_nucleus",
+      "description": "task.integrated_boogaloo.cavaryn_jerry.nucleus",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 30
+    }
+  ]
+}

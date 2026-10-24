@@ -1,0 +1,11 @@
+{
+  "sender": "trayaurus@antmail.com",
+  "sender_avatar_item": "antarchy:diamond_minecart",
+  "subject": "Viltrumite blood!!",
+  "body": "You actually got Viltrumite blood! Someone who can fly faster than sound bled on you, and you're not dead.\n\nI've heard rumors about them. Bad rumors. A Viltrumite turns up over some planet, and a few days later that planet belongs to the Viltrum Empire...\n\nHere's the part you really need to know. Culture it and it turns into poison for the Viltrumites it came from. Keep that in mind, just in case.\n\nYour old friend,\nDr. T",
+  "trigger": {
+    "delay_minutes": 3,
+    "type": "advancement",
+    "value": "integrated_boogaloo:viltrumite/first_blood"
+  }
+}

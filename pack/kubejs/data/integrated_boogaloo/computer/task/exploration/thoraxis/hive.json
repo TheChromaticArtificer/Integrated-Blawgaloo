@@ -1,0 +1,41 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.thoraxis_hive.title",
+  "description": "task.integrated_boogaloo.thoraxis_hive.description",
+  "showcase": [
+    "@entity:gigeresque:alien"
+  ],
+  "icon": "gigeresque:nest_resin_block",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:thoraxis",
+  "sort_order": 14,
+  "position": {
+    "x": 2,
+    "y": 2
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "biome_visited",
+      "target": "integrated_boogaloo:xenomorph_hive",
+      "description": "task.integrated_boogaloo.thoraxis_hive.goal",
+      "count": 1
+    },
+    {
+      "id": "alien",
+      "type": "stat",
+      "target": "gigeresque:alien",
+      "stat_type": "entity_killed",
+      "description": "task.integrated_boogaloo.thoraxis_hive.alien",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 40
+    }
+  ]
+}

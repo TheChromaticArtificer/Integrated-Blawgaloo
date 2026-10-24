@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "mts:oamp.highwayman_lightblue",
+    "mts:oamp.highwayman_red",
+    "mts:oamp.highwayman_purple",
+    "mts:oamp.highwayman_white",
+    "mts:oamp.highwayman_blue",
+    "mts:oamp.highwayman_pink",
+    "mts:oamp.highwayman_jadegreen",
+    "mts:oamp.highwayman_seagreen",
+    "mts:oamp.highwayman_salmon"
+  ]
+}

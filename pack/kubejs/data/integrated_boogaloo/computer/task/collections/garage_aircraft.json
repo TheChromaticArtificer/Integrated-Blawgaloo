@@ -1,0 +1,150 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.collection.garage_aircraft.title",
+  "description": "task.integrated_boogaloo.collection.garage_aircraft.description",
+  "icon": "mts:mtsofficialpack.bell206_blue",
+  "program": "integrated_boogaloo:collections",
+  "category": "integrated_boogaloo:collections",
+  "sort_order": 802,
+  "position": {
+    "x": 2,
+    "y": 8
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "bell_206",
+      "type": "item_tag",
+      "target": "integrated_boogaloo:collections/vehicle/bell_206",
+      "tag_mode": "any",
+      "description": "task.integrated_boogaloo.collection.garage_aircraft.bell_206",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "bell_47g",
+      "type": "item_tag",
+      "target": "integrated_boogaloo:collections/vehicle/bell_47g",
+      "tag_mode": "any",
+      "description": "task.integrated_boogaloo.collection.garage_aircraft.bell_47g",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "comanche",
+      "type": "item_tag",
+      "target": "integrated_boogaloo:collections/vehicle/comanche",
+      "tag_mode": "any",
+      "description": "task.integrated_boogaloo.collection.garage_aircraft.comanche",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "eclipse_500",
+      "type": "item_tag",
+      "target": "integrated_boogaloo:collections/vehicle/eclipse_500",
+      "tag_mode": "any",
+      "description": "task.integrated_boogaloo.collection.garage_aircraft.eclipse_500",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "mc_172",
+      "type": "item_tag",
+      "target": "integrated_boogaloo:collections/vehicle/mc_172",
+      "tag_mode": "any",
+      "description": "task.integrated_boogaloo.collection.garage_aircraft.mc_172",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pzl_37_los",
+      "type": "item_tag",
+      "target": "integrated_boogaloo:collections/vehicle/pzl_37_los",
+      "tag_mode": "any",
+      "description": "task.integrated_boogaloo.collection.garage_aircraft.pzl_37_los",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "pzl_p11",
+      "type": "item_tag",
+      "target": "integrated_boogaloo:collections/vehicle/pzl_p11",
+      "tag_mode": "any",
+      "description": "task.integrated_boogaloo.collection.garage_aircraft.pzl_p11",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "skyhawk",
+      "type": "item_tag",
+      "target": "integrated_boogaloo:collections/vehicle/skyhawk",
+      "tag_mode": "any",
+      "description": "task.integrated_boogaloo.collection.garage_aircraft.skyhawk",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "ford_trimotor",
+      "type": "item_tag",
+      "target": "integrated_boogaloo:collections/vehicle/ford_trimotor",
+      "tag_mode": "any",
+      "description": "task.integrated_boogaloo.collection.garage_aircraft.ford_trimotor",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "vulcanair",
+      "type": "item_tag",
+      "target": "integrated_boogaloo:collections/vehicle/vulcanair",
+      "tag_mode": "any",
+      "description": "task.integrated_boogaloo.collection.garage_aircraft.vulcanair",
+      "count": 1,
+      "sticky": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 4000
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "id": "rare",
+          "title": "task.integrated_boogaloo.reward.rare",
+          "rewards": [
+            {
+              "type": "item_pool",
+              "pool": "integrated_boogaloo:supplies_rare",
+              "mode": "random"
+            }
+          ]
+        },
+        {
+          "id": "lucky",
+          "title": "task.integrated_boogaloo.reward.lucky",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "lucky:lucky_block",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "id": "uranium",
+          "title": "task.integrated_boogaloo.reward.uranium",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "antarchy:uranium_ingot",
+              "count": 4
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

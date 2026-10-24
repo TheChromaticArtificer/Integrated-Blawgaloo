@@ -1,0 +1,39 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.pastel_midnight_chips.title",
+  "description": "task.integrated_boogaloo.pastel_midnight_chips.description",
+  "showcase": [
+    "@recipe:pastel:midnight_chip"
+  ],
+  "icon": "pastel:midnight_chip",
+  "program": "integrated_boogaloo:world_of_color",
+  "category": "integrated_boogaloo:world_of_color",
+  "sort_order": 18,
+  "position": {
+    "x": 6,
+    "y": 2
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:pastel_basics/perfect_compound"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "pastel:midgame/collect_midnight_chip",
+      "description": "task.integrated_boogaloo.pastel_midnight_chips.goal",
+      "count": 1
+    }
+  ],
+  "archive_entries": [
+    "integrated_boogaloo:pastel_midnight"
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 45
+    }
+  ],
+  "line_axis": "horizontal"
+}

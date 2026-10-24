@@ -1,0 +1,41 @@
+{
+  "parent": "pastel:midgame/collect_stratine",
+  "display": {
+    "icon": {
+      "id": "pastel:lesser_potion_pendant",
+      "components": {
+        "minecraft:potion_contents": {
+          "custom_color": 14981690,
+          "custom_effects": [
+            {
+              "id": "minecraft:absorption",
+              "amplifier": 0,
+              "duration": 3600
+            }
+          ]
+        }
+      }
+    },
+    "title": {
+      "translate": "advancements.pastel.fill_potion_pendant.title"
+    },
+    "description": {
+      "translate": "advancements.pastel.fill_potion_pendant.description"
+    }
+  },
+  "criteria": {
+    "pendant": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "pastel:lesser_potion_pendant",
+              "pastel:greater_potion_pendant"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

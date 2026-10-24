@@ -1,0 +1,90 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.witchery_first_chalk.title",
+  "description": "task.integrated_boogaloo.witchery_first_chalk.description",
+  "showcase": [
+    "@item:witchery:ritual_chalk",
+    "@recipe:witchery:ritual_chalk"
+  ],
+  "icon": "witchery:ritual_chalk",
+  "program": "integrated_boogaloo:witchcraft",
+  "category": "integrated_boogaloo:witchcraft",
+  "sort_order": 8,
+  "position": {
+    "x": 5,
+    "y": 1
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:witchery_basics/distillery"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "witchery:chalk",
+      "description": "task.integrated_boogaloo.witchery_first_chalk.goal",
+      "count": 1
+    },
+    {
+      "id": "gypsum",
+      "type": "item",
+      "target": "witchery:gypsum",
+      "description": "task.integrated_boogaloo.witchery_first_chalk.gypsum",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "tear",
+      "type": "item",
+      "target": "witchery:tear_of_the_goddess",
+      "description": "task.integrated_boogaloo.witchery_first_chalk.tear",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "choice",
+      "options": [
+        {
+          "id": "coins",
+          "title": "task.integrated_boogaloo.reward.coins",
+          "rewards": [
+            {
+              "type": "antcoins",
+              "amount": 60
+            }
+          ]
+        },
+        {
+          "id": "witch",
+          "title": "task.integrated_boogaloo.reward.witch",
+          "rewards": [
+            {
+              "type": "item_pool",
+              "pool": "integrated_boogaloo:witch_cupboard",
+              "mode": "random"
+            }
+          ]
+        },
+        {
+          "id": "lucky",
+          "title": "task.integrated_boogaloo.reward.lucky",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "lucky:lucky_block",
+              "count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "archive",
+      "entry": "integrated_boogaloo:witchery_rituals"
+    }
+  ],
+  "line_axis": "horizontal"
+}

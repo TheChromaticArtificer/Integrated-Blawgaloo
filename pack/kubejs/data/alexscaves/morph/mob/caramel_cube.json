@@ -1,0 +1,23 @@
+{
+    "forEntity": "alexscaves:caramel_cube",
+    "tickMode": "client_strict",
+    "traits": [
+        {
+            "type": "traitHostile"
+        },
+        {
+            "type": "traitFallNegate"
+        },
+        {
+            "type": "abilityJumpSlam",
+            "jumpVelocityUp": 0.8,
+            "jumpVelocityForward": 0.4,
+            "slamRadius": 2.0,
+            "slamDamage": 12.0,
+            "slamKnockback": 0.4,
+            "landSoundEventId": "alexscaves:caramel_cube_attack",
+            "cooldown": 40,
+            "slot": 1
+        }
+    ]
+}

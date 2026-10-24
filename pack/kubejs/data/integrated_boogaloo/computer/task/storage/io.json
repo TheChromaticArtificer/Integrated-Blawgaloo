@@ -1,0 +1,49 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.storage_io.title",
+  "description": "task.integrated_boogaloo.storage_io.description",
+  "showcase": [
+    "@item:refinedstorage:importer",
+    "@recipe:refinedstorage:importer"
+  ],
+  "icon": "refinedstorage:importer",
+  "program": "integrated_boogaloo:storage",
+  "category": "integrated_boogaloo:storage",
+  "sort_order": 10,
+  "position": {
+    "x": 2,
+    "y": -1
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:storage/grid"
+  ],
+  "objectives": [
+    {
+      "id": "importer",
+      "type": "item",
+      "target": "refinedstorage:importer",
+      "description": "task.integrated_boogaloo.storage_io.importer",
+      "count": 1
+    },
+    {
+      "id": "exporter",
+      "type": "item",
+      "target": "refinedstorage:exporter",
+      "description": "task.integrated_boogaloo.storage_io.exporter",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 75
+    },
+    {
+      "type": "item",
+      "item": "refinedstorage:speed_upgrade",
+      "count": 2
+    }
+  ],
+  "line_axis": "horizontal"
+}

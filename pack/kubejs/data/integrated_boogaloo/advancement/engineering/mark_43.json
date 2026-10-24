@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "has": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "marvel:iron_man_mark_43_helmet",
+              "marvel:iron_man_mark_43_chestplate",
+              "marvel:iron_man_mark_43_leggings",
+              "marvel:iron_man_mark_43_boots"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has"
+    ]
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "green_tint": false,
+  "type": "entity",
+  "category": "bestiary_wild",
+  "folder": "integrated_boogaloo:bestiary",
+  "sort_order": 90,
+  "entity": "iceandfire:deathworm",
+  "cover_entity": "iceandfire:deathworm",
+  "rotation": 45,
+  "title": "guide.integrated_boogaloo.entry.iaf_deathworm.title",
+  "subtitle": "guide.integrated_boogaloo.entry.iaf_deathworm.subtitle",
+  "description": [
+    "guide.integrated_boogaloo.entry.iaf_deathworm.body_1",
+    "guide.integrated_boogaloo.entry.iaf_deathworm.body_2",
+    "guide.integrated_boogaloo.entry.iaf_deathworm.body_3"
+  ],
+  "gallery_title": "guide.integrated_boogaloo.entry.iaf_deathworm.gallery_title",
+  "gallery": [
+    {
+      "item": "iceandfire:deathworm_chitin_red"
+    },
+    {
+      "item": "iceandfire:deathworm_chitin_white"
+    },
+    {
+      "item": "iceandfire:deathworm_chitin_yellow"
+    },
+    {
+      "item": "iceandfire:deathworm_tounge"
+    },
+    {
+      "item": "iceandfire:deathworm_egg"
+    }
+  ],
+  "lookup": [
+    "iceandfire:deathworm_egg_giant",
+    "iceandfire:deathworm_gauntlet_red",
+    "iceandfire:deathworm_gauntlet_white",
+    "iceandfire:deathworm_gauntlet_yellow",
+    "iceandfire:deathworm_red_boots",
+    "iceandfire:deathworm_red_chestplate",
+    "iceandfire:deathworm_red_helmet",
+    "iceandfire:deathworm_red_leggings",
+    "iceandfire:deathworm_white_boots",
+    "iceandfire:deathworm_white_chestplate",
+    "iceandfire:deathworm_white_helmet",
+    "iceandfire:deathworm_white_leggings",
+    "iceandfire:deathworm_yellow_boots",
+    "iceandfire:deathworm_yellow_chestplate",
+    "iceandfire:deathworm_yellow_helmet",
+    "iceandfire:deathworm_yellow_leggings"
+  ]
+}

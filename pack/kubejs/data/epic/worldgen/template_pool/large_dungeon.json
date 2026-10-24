@@ -1,0 +1,15 @@
+{
+  "name": "epic:epic:epic_dungeon/large_dungeon",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_dungeon/mossify_20_percent",
+        "location": "epic:epic_dungeon/large_dungeon"
+      },
+      "weight": 1
+    }
+  ]
+}

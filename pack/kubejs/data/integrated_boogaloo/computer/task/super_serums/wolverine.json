@@ -1,0 +1,35 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.super_serums_wolverine.title",
+  "description": "task.integrated_boogaloo.super_serums_wolverine.description",
+  "showcase": [
+    "@recipe:marvellegacy:syringe_weapon_x_logan"
+  ],
+  "icon": "marvellegacy:syringe_weapon_x_logan",
+  "program": "integrated_boogaloo:super_serums",
+  "category": "integrated_boogaloo:super_serums",
+  "sort_order": 38,
+  "position": {
+    "x": 10,
+    "y": 1
+  },
+  "availability": "automatic",
+  "archive_entries": [
+    "integrated_boogaloo:serum_wolverine"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "integrated_boogaloo:deadpool/syringe_logan",
+      "description": "task.integrated_boogaloo.super_serums_wolverine.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 100
+    }
+  ]
+}

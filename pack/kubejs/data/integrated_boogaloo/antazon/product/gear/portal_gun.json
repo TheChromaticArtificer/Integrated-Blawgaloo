@@ -1,0 +1,26 @@
+{
+  "name": "Portal Gun: {item}",
+  "description": "Choose a Portal Gun model. Please read the safety manual before opening a portal.",
+  "category": "gear",
+  "green_tint": false,
+  "quantity": 1,
+  "payments": [
+    {
+      "type": "antcoins",
+      "resource": "antcoins",
+      "amount": 3000
+    }
+  ],
+  "thumbnail": {
+    "item": "antarchy:portal_gun"
+  },
+  "availability": {
+    "server_stock": 0,
+    "player_limit": 1,
+    "player_limit_reset": "minecraft_week"
+  },
+  "variants": {
+    "tag": "integrated_boogaloo:antazon_portal_guns",
+    "mode": "choose"
+  }
+}

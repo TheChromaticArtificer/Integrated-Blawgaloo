@@ -1,0 +1,42 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:mod_loaded",
+        "modid": "create"
+      }
+    }
+  ],
+  "type": "createcybernetics:engineering_table",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "antarchy:titanium_nugget"
+    },
+    "C": {
+      "item": "minecraft:iron_nugget"
+    },
+    "M": {
+      "item": "antarchy:titanium_bars"
+    },
+    "D": {
+      "item": "antarchy:bluestone_repeater"
+    },
+    "W": {
+      "item": "oritech:magnetic_coil"
+    }
+  },
+  "pattern": [
+    " MWM ",
+    "MDCDM",
+    "WDPDW",
+    "MDCDM",
+    " MWM "
+  ],
+  "result": {
+    "count": 1,
+    "id": "createcybernetics:skinupgrades_arterialturbine"
+  }
+}

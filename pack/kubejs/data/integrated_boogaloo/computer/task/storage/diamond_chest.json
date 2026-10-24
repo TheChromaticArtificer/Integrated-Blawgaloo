@@ -1,0 +1,37 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.storage_diamond_chest.title",
+  "description": "task.integrated_boogaloo.storage_diamond_chest.description",
+  "showcase": [
+    "@item:ironchest:diamond_chest",
+    "@recipe:ironchest:diamond_chest"
+  ],
+  "icon": "ironchest:diamond_chest",
+  "program": "integrated_boogaloo:storage",
+  "category": "integrated_boogaloo:storage",
+  "sort_order": 203,
+  "position": {
+    "x": 3,
+    "y": 4
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:storage/gold_chest"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "ironchest:diamond_chest",
+      "description": "task.integrated_boogaloo.storage_diamond_chest.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 15
+    }
+  ],
+  "line_axis": "horizontal"
+}

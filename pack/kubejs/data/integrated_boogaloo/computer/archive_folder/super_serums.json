@@ -1,0 +1,7 @@
+{
+  "title": "guide.integrated_boogaloo.archive_folder.super_serums",
+  "icon_item": "marvellegacy:syringe_empty",
+  "parent": "integrated_boogaloo:heroes",
+  "sort_order": 20,
+  "green_tint": false
+}

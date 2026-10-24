@@ -1,0 +1,15 @@
+{
+  "type": "oritech:pulverizer",
+  "ingredients": [
+    {
+      "item": "pastel:moonstone_shard"
+    }
+  ],
+  "results": [
+    {
+      "count": 3,
+      "id": "pastel:moonstone_powder"
+    }
+  ],
+  "time": 100
+}

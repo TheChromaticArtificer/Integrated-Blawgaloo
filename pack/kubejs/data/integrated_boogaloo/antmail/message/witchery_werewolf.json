@@ -1,0 +1,11 @@
+{
+  "sender": "trayaurus@antmail.com",
+  "sender_avatar_item": "antarchy:diamond_minecart",
+  "subject": "About the moon",
+  "body": "Grim growled at your name on my AntOS computer.\n\nI think you know why. There's a page in the book now. @archive:integrated_boogaloo:witchery_lycanthropy Please stay away from the lab during a full moon.\n\nYour old friend,\nDr. T",
+  "trigger": {
+    "delay_minutes": 3,
+    "type": "advancement",
+    "value": "witchery:werewolf/1"
+  }
+}

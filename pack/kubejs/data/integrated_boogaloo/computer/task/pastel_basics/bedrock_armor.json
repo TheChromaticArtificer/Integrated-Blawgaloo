@@ -1,0 +1,48 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.pastel_bedrock_armor.title",
+  "description": "task.integrated_boogaloo.pastel_bedrock_armor.description",
+  "showcase": [
+    "@recipe:pastel:bedrock_chestplate"
+  ],
+  "icon": "pastel:bedrock_chestplate",
+  "program": "integrated_boogaloo:world_of_color",
+  "category": "integrated_boogaloo:world_of_color",
+  "sort_order": 20,
+  "position": {
+    "x": 5,
+    "y": 3
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:pastel_basics/ruin"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "pastel:midgame/wear_complete_set_of_bedrock_armor",
+      "description": "task.integrated_boogaloo.pastel_bedrock_armor.goal",
+      "count": 1
+    },
+    {
+      "id": "dust",
+      "type": "item",
+      "target": "pastel:bedrock_dust",
+      "description": "task.integrated_boogaloo.pastel_bedrock_armor.dust",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "archive_entries": [
+    "integrated_boogaloo:pastel_bottles"
+  ],
+  "rewards": [
+    {
+      "type": "item_pool",
+      "pool": "integrated_boogaloo:supplies_rare",
+      "mode": "random"
+    }
+  ],
+  "line_axis": "vertical"
+}

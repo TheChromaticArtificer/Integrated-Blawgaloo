@@ -1,0 +1,47 @@
+{
+  "type": "lucky:group",
+  "luck": -1,
+  "chance": 1.25,
+  "outcomes": [
+    {
+      "type": "lucky:message",
+      "message": {
+        "text": "Slimes all the way down.",
+        "color": "green",
+        "bold": true
+      },
+      "overlay": true
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "minecraft:slime",
+      "nbt": {
+        "Size": 3,
+        "Passengers": [
+          {
+            "id": "minecraft:slime",
+            "nbt": {
+              "Size": 1,
+              "Passengers": [
+                {
+                  "id": "minecraft:slime",
+                  "nbt": {
+                    "Size": 0,
+                    "Passengers": [
+                      {
+                        "id": "minecraft:magma_cube",
+                        "nbt": {
+                          "Size": 0
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

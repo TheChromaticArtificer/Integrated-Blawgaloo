@@ -1,0 +1,35 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.super_serums_daredevil.title",
+  "description": "task.integrated_boogaloo.super_serums_daredevil.description",
+  "showcase": [
+    "@recipe:integrated_superheroes:syringe_radar_sense_matt_murdock"
+  ],
+  "icon": "integrated_superheroes:syringe_radar_sense_matt_murdock",
+  "program": "integrated_boogaloo:super_serums",
+  "category": "integrated_boogaloo:super_serums",
+  "sort_order": 13,
+  "position": {
+    "x": 5,
+    "y": 0
+  },
+  "availability": "automatic",
+  "archive_entries": [
+    "integrated_boogaloo:serum_daredevil"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "integrated_boogaloo:deadpool/syringe_daredevil",
+      "description": "task.integrated_boogaloo.super_serums_daredevil.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 50
+    }
+  ]
+}

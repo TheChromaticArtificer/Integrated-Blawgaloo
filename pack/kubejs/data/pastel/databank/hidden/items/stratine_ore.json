@@ -1,0 +1,10 @@
+{
+  "type": {
+    "type": "databank:item",
+    "hidden_as": "minecraft:netherrack",
+    "original": "pastel:stratine_ore"
+  },
+  "condition": {
+    "type": "databank:always_true"
+  }
+}

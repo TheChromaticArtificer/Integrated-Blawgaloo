@@ -1,0 +1,32 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.elythia_butterfly_fields.title",
+  "description": "task.integrated_boogaloo.elythia_butterfly_fields.description",
+  "showcase": [
+    "@entity:antarchy:butterfly"
+  ],
+  "icon": "antarchy:butterfly_spawn_egg",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:elythia",
+  "sort_order": 10,
+  "position": {
+    "x": 2,
+    "y": 2
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "biome_visited",
+      "target": "antarchy:butterfly_fields",
+      "description": "task.integrated_boogaloo.elythia_butterfly_fields.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 15
+    }
+  ]
+}

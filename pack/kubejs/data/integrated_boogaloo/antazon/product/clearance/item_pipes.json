@@ -1,0 +1,33 @@
+{
+  "name": "computer.integrated_boogaloo.product.clearance.item_pipes.name",
+  "description": "computer.integrated_boogaloo.product.clearance.item_pipes.description",
+  "category": "clearance",
+  "green_tint": false,
+  "quantity": 1,
+  "payments": [
+    {
+      "type": "antcoins",
+      "resource": "antcoins",
+      "amount": 35
+    }
+  ],
+  "thumbnail": {
+    "item": "oritech:item_pipe"
+  },
+  "availability": {
+    "server_stock": 0,
+    "player_limit": 4,
+    "player_limit_reset": "minecraft_day"
+  },
+  "unlock_disks": [
+    "integrated_boogaloo:workshop_clearance"
+  ],
+  "unlock_mode": "all",
+  "hidden_until_unlocked": true,
+  "rewards": [
+    {
+      "item": "oritech:item_pipe",
+      "count": 32
+    }
+  ]
+}

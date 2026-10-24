@@ -1,0 +1,11 @@
+{
+  "sender": "trayaurus@antmail.com",
+  "sender_avatar_item": "antarchy:diamond_minecart",
+  "subject": "Are you feeling all right?",
+  "body": "Something's wrong. Your body is rejecting the metal, and it gets worse if you keep going.\n\nTake some Neuropozyne and stop adding parts for a while. Please. I'd like you to still be you when you get back to the lab.\n\nYour old friend,\nDr. T",
+  "trigger": {
+    "delay_minutes": 3,
+    "type": "advancement",
+    "value": "createcybernetics:cyberware/cyberpsychosis"
+  }
+}

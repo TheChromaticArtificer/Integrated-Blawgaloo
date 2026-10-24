@@ -1,0 +1,17 @@
+{
+  "sender": "deadpool@antmail.com",
+  "sender_display": "Deadpool",
+  "sender_avatar_item": "marvel:deadpool_helmet",
+  "subject": "Captain Marvel number seven",
+  "body": "Do you know how many people have been Captain Marvel? Like six. Carol had to be Ms. Marvel for thirty years before they gave her the name, and DC had their own Captain Marvel the whole time until he got renamed Shazam because Marvel owned the trademark. Superhero names are a timeshare. Congrats, you're number seven. Dont get too attached, nobody keeps it for long.",
+  "trigger": {
+    "type": "advancement",
+    "value": "integrated_boogaloo:deadpool/syringe_binary",
+    "delay_minutes": 3
+  },
+  "conditions": {
+    "mail_read": [
+      "integrated_boogaloo:deadpool_intro"
+    ]
+  }
+}

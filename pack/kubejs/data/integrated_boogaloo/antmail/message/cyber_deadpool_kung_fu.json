@@ -1,0 +1,17 @@
+{
+  "sender": "deadpool@antmail.com",
+  "sender_display": "Deadpool",
+  "sender_avatar_item": "marvel:deadpool_helmet",
+  "subject": "Show me",
+  "body": "You downloaded kung fu off a data shard. Neo needed a dentist chair and a spike in the back of his skull for that. Now do the thing where you hold up one hand and wave me over. Do it. DO IT.",
+  "trigger": {
+    "type": "advancement",
+    "value": "createcybernetics:cyberware/kung_fu",
+    "delay_minutes": 3
+  },
+  "conditions": {
+    "mail_read": [
+      "integrated_boogaloo:deadpool_intro"
+    ]
+  }
+}

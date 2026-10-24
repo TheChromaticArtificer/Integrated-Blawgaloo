@@ -1,0 +1,76 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.pastel_ruin.title",
+  "description": "task.integrated_boogaloo.pastel_ruin.description",
+  "showcase": [
+    "@recipe:pastel:bottle_of_ruin"
+  ],
+  "icon": "pastel:bottle_of_ruin",
+  "program": "integrated_boogaloo:world_of_color",
+  "category": "integrated_boogaloo:world_of_color",
+  "sort_order": 19,
+  "position": {
+    "x": 5,
+    "y": 2
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:pastel_basics/midnight_chips"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "pastel:midgame/break_decayed_bedrock",
+      "description": "task.integrated_boogaloo.pastel_ruin.goal",
+      "count": 1
+    },
+    {
+      "id": "bluestone",
+      "type": "item",
+      "target": "antarchy:bluestone",
+      "description": "task.integrated_boogaloo.pastel_ruin.bluestone",
+      "count": 2,
+      "optional": true
+    },
+    {
+      "id": "chips",
+      "type": "item",
+      "target": "pastel:midnight_chip",
+      "description": "task.integrated_boogaloo.pastel_ruin.chips",
+      "count": 2,
+      "optional": true
+    },
+    {
+      "id": "breath",
+      "type": "item",
+      "target": "minecraft:dragon_breath",
+      "description": "task.integrated_boogaloo.pastel_ruin.breath",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "bottle",
+      "type": "item",
+      "target": "pastel:bottle_of_ruin",
+      "description": "task.integrated_boogaloo.pastel_ruin.bottle",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "archive_entries": [
+    "integrated_boogaloo:pastel_bottles"
+  ],
+  "rewards": [
+    {
+      "type": "item",
+      "item": "pastel:bottle_of_decay_away",
+      "count": 1
+    },
+    {
+      "type": "antcoins",
+      "amount": 25
+    }
+  ],
+  "line_axis": "horizontal"
+}

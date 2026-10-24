@@ -1,0 +1,16 @@
+{
+  "green_tint": false,
+  "type": "structure",
+  "category": "surveys",
+  "folder": "integrated_boogaloo:overworld",
+  "sort_order": 270,
+  "cover_item": "minecraft:filled_map",
+  "title": "guide.integrated_boogaloo.entry.survey_cog_chambers.title",
+  "subtitle": "guide.integrated_boogaloo.entry.survey_cog_chambers.subtitle",
+  "description": [
+    "guide.integrated_boogaloo.entry.survey_cog_chambers.body"
+  ],
+  "structure": "scguns:cog_chambers",
+  "dimension": "minecraft:overworld",
+  "search_radius": 100
+}

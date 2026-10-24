@@ -1,0 +1,33 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.thoraxis_nightmare_wastes.title",
+  "description": "task.integrated_boogaloo.thoraxis_nightmare_wastes.description",
+  "showcase": [
+    "@item:antarchy:nyxite_spike",
+    "@recipe:antarchy:nyxite_spike"
+  ],
+  "icon": "antarchy:nyxite_spike",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:thoraxis",
+  "sort_order": 11,
+  "position": {
+    "x": 5,
+    "y": 1
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "biome_visited",
+      "target": "antarchy:nightmare_wastes",
+      "description": "task.integrated_boogaloo.thoraxis_nightmare_wastes.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 25
+    }
+  ]
+}

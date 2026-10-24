@@ -1,0 +1,13 @@
+{
+  "item": "pastel:midnight_chip",
+  "value": 8,
+  "limit": 64,
+  "limit_reset": "minecraft_day",
+  "green_tint": false,
+  "unlock_tasks": [
+    "integrated_boogaloo:pastel_basics/midnight_chips"
+  ],
+  "unlock_mode": "all",
+  "hidden_until_unlocked": false,
+  "notify_on_unlock": true
+}

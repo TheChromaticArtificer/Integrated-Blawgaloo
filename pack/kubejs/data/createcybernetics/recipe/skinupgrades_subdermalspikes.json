@@ -1,0 +1,27 @@
+{
+  "type": "createcybernetics:engineering_table",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "antarchy:titanium_nugget"
+    },
+    "T": {
+      "item": "antarchy:chitin_spike"
+    },
+    "S": {
+      "item": "createcybernetics:skinupgrades_synthskin"
+    }
+  },
+  "pattern": [
+    "     ",
+    "S S S",
+    "TSTST",
+    "PPPPP",
+    "     "
+  ],
+  "result": {
+    "count": 1,
+    "id": "createcybernetics:skinupgrades_subdermalspikes"
+  }
+}

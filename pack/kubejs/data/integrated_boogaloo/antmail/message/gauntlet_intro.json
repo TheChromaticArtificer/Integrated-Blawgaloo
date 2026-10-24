@@ -1,0 +1,11 @@
+{
+  "sender": "trayaurus@antmail.com",
+  "sender_avatar_item": "antarchy:diamond_minecart",
+  "subject": "The Infinity Gauntlet",
+  "body": "I said I'd explain so here it is... The Infinity Gauntlet is a glove that holds six Infinity Stones, Time, Mind, Space, Soul, Reality and Power. Each Stone wields immense power over the fabric of the universe. All six together is a weapon this universe has never seen. You could do so much good with that power. Right?\n\nThe Stones are out there somewhere. I've been collecting rumors about where, and I'll send them along as I sort them out.\n\nYour old friend,\nDr. T",
+  "trigger": {
+    "delay_minutes": 3,
+    "type": "advancement",
+    "value": "minecraft:story/smelt_iron"
+  }
+}

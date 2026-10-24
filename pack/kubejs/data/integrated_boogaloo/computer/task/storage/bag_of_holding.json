@@ -1,0 +1,37 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.storage_bag_of_holding.title",
+  "description": "task.integrated_boogaloo.storage_bag_of_holding.description",
+  "showcase": [
+    "@item:pastel:bag_of_holding",
+    "@recipe:pastel:bag_of_holding"
+  ],
+  "icon": "pastel:bag_of_holding",
+  "program": "integrated_boogaloo:storage",
+  "category": "integrated_boogaloo:storage",
+  "sort_order": 307,
+  "position": {
+    "x": 1,
+    "y": 8
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:storage/compacting_chest"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "pastel:bag_of_holding",
+      "description": "task.integrated_boogaloo.storage_bag_of_holding.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 25
+    }
+  ],
+  "line_axis": "horizontal"
+}

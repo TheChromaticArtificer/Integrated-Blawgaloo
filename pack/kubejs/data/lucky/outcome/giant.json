@@ -1,0 +1,11 @@
+{
+  "type": "lucky:group",
+  "luck": -2,
+  "outcomes": [
+    {
+      "type": "lucky:entity",
+      "entity_type": "minecraft:giant"
+    }
+  ],
+  "chance": 1.0
+}

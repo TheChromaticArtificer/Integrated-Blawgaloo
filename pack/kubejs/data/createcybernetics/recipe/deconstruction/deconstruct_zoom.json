@@ -1,0 +1,21 @@
+{
+  "type": "createcybernetics:engineering_deconstruct",
+  "inputs": [
+    {
+      "item": "createcybernetics:eyeupgrades_zoom"
+    },
+    {
+      "item": "createcybernetics:scavenged_zoom"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "antarchy:bluestone",
+      "count": 4
+    },
+    {
+      "id": "oritech:silicon",
+      "count": 3
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.collection.starlit_arsenal.title",
+  "description": "task.integrated_boogaloo.collection.starlit_arsenal.description",
+  "icon": "celestisynth:solaris",
+  "program": "integrated_boogaloo:collections",
+  "category": "integrated_boogaloo:collections",
+  "sort_order": 200,
+  "position": {
+    "x": 0,
+    "y": 2
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "solaris",
+      "type": "item",
+      "target": "celestisynth:solaris",
+      "description": "task.integrated_boogaloo.collection.starlit_arsenal.solaris",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "frostbound",
+      "type": "item",
+      "target": "celestisynth:frostbound",
+      "description": "task.integrated_boogaloo.collection.starlit_arsenal.frostbound",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "crescentia",
+      "type": "item",
+      "target": "celestisynth:crescentia",
+      "description": "task.integrated_boogaloo.collection.starlit_arsenal.crescentia",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "breezebreaker",
+      "type": "item",
+      "target": "celestisynth:breezebreaker",
+      "description": "task.integrated_boogaloo.collection.starlit_arsenal.breezebreaker",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "poltergeist",
+      "type": "item",
+      "target": "celestisynth:poltergeist",
+      "description": "task.integrated_boogaloo.collection.starlit_arsenal.poltergeist",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "keres",
+      "type": "item",
+      "target": "celestisynth:keres",
+      "description": "task.integrated_boogaloo.collection.starlit_arsenal.keres",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "aquaflora",
+      "type": "item",
+      "target": "celestisynth:aquaflora",
+      "description": "task.integrated_boogaloo.collection.starlit_arsenal.aquaflora",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "rainfall_serenity",
+      "type": "item",
+      "target": "celestisynth:rainfall_serenity",
+      "description": "task.integrated_boogaloo.collection.starlit_arsenal.rainfall_serenity",
+      "count": 1,
+      "sticky": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 4000
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "id": "rare",
+          "title": "task.integrated_boogaloo.reward.rare",
+          "rewards": [
+            {
+              "type": "item_pool",
+              "pool": "integrated_boogaloo:supplies_rare",
+              "mode": "random"
+            }
+          ]
+        },
+        {
+          "id": "lucky",
+          "title": "task.integrated_boogaloo.reward.lucky",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "lucky:lucky_block",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "id": "uranium",
+          "title": "task.integrated_boogaloo.reward.uranium",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "antarchy:uranium_ingot",
+              "count": 4
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "scguns:waters",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 10,
+      "element": {
+        "location": "scguns:spawners/water/drowned",
+        "processors": "integrated_boogaloo:structures/scguns/cog_chambers",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "scguns:spawners/water/guardian",
+        "processors": "integrated_boogaloo:structures/scguns/cog_chambers",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

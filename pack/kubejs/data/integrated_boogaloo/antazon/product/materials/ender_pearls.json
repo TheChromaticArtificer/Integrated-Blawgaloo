@@ -1,0 +1,33 @@
+{
+  "name": "computer.integrated_boogaloo.product.materials.ender_pearls.name",
+  "description": "computer.integrated_boogaloo.product.materials.ender_pearls.description",
+  "category": "materials",
+  "green_tint": false,
+  "quantity": 1,
+  "payments": [
+    {
+      "type": "antcoins",
+      "resource": "antcoins",
+      "amount": 50
+    }
+  ],
+  "thumbnail": {
+    "item": "minecraft:ender_pearl"
+  },
+  "rewards": [
+    {
+      "item": "minecraft:ender_pearl",
+      "count": 4
+    }
+  ],
+  "reviews": [
+    {
+      "id": "enderman",
+      "author": "An Enderman",
+      "title": "computer.integrated_boogaloo.product.materials.ender_pearls.review.enderman.title",
+      "body": "computer.integrated_boogaloo.product.materials.ender_pearls.review.enderman.body",
+      "rating": 1,
+      "badge": ""
+    }
+  ]
+}

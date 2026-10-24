@@ -1,0 +1,517 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.collection.eggs_elythia.title",
+  "description": "task.integrated_boogaloo.collection.eggs_elythia.description",
+  "icon": "antarchy:glimmer_spawn_egg",
+  "program": "integrated_boogaloo:collections",
+  "category": "integrated_boogaloo:collections",
+  "sort_order": 403,
+  "position": {
+    "x": 3,
+    "y": 4
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "spawn_egg_atlatitan",
+      "type": "item",
+      "target": "alexscaves:spawn_egg_atlatitan",
+      "description": "item.alexscaves.spawn_egg_atlatitan",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spawn_egg_candicorn",
+      "type": "item",
+      "target": "alexscaves:spawn_egg_candicorn",
+      "description": "item.alexscaves.spawn_egg_candicorn",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spawn_egg_caniac",
+      "type": "item",
+      "target": "alexscaves:spawn_egg_caniac",
+      "description": "item.alexscaves.spawn_egg_caniac",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spawn_egg_caramel_cube",
+      "type": "item",
+      "target": "alexscaves:spawn_egg_caramel_cube",
+      "description": "item.alexscaves.spawn_egg_caramel_cube",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spawn_egg_gingerbread_man",
+      "type": "item",
+      "target": "alexscaves:spawn_egg_gingerbread_man",
+      "description": "item.alexscaves.spawn_egg_gingerbread_man",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spawn_egg_grottoceratops",
+      "type": "item",
+      "target": "alexscaves:spawn_egg_grottoceratops",
+      "description": "item.alexscaves.spawn_egg_grottoceratops",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spawn_egg_gum_worm",
+      "type": "item",
+      "target": "alexscaves:spawn_egg_gum_worm",
+      "description": "item.alexscaves.spawn_egg_gum_worm",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spawn_egg_gumbeeper",
+      "type": "item",
+      "target": "alexscaves:spawn_egg_gumbeeper",
+      "description": "item.alexscaves.spawn_egg_gumbeeper",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spawn_egg_gummy_bear",
+      "type": "item",
+      "target": "alexscaves:spawn_egg_gummy_bear",
+      "description": "item.alexscaves.spawn_egg_gummy_bear",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spawn_egg_licowitch",
+      "type": "item",
+      "target": "alexscaves:spawn_egg_licowitch",
+      "description": "item.alexscaves.spawn_egg_licowitch",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spawn_egg_luxtructosaurus",
+      "type": "item",
+      "target": "alexscaves:spawn_egg_luxtructosaurus",
+      "description": "item.alexscaves.spawn_egg_luxtructosaurus",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spawn_egg_relicheirus",
+      "type": "item",
+      "target": "alexscaves:spawn_egg_relicheirus",
+      "description": "item.alexscaves.spawn_egg_relicheirus",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spawn_egg_subterranodon",
+      "type": "item",
+      "target": "alexscaves:spawn_egg_subterranodon",
+      "description": "item.alexscaves.spawn_egg_subterranodon",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spawn_egg_sweetish_fish",
+      "type": "item",
+      "target": "alexscaves:spawn_egg_sweetish_fish",
+      "description": "item.alexscaves.spawn_egg_sweetish_fish",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spawn_egg_tremorsaurus",
+      "type": "item",
+      "target": "alexscaves:spawn_egg_tremorsaurus",
+      "description": "item.alexscaves.spawn_egg_tremorsaurus",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spawn_egg_trilocaris",
+      "type": "item",
+      "target": "alexscaves:spawn_egg_trilocaris",
+      "description": "item.alexscaves.spawn_egg_trilocaris",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spawn_egg_vallumraptor",
+      "type": "item",
+      "target": "alexscaves:spawn_egg_vallumraptor",
+      "description": "item.alexscaves.spawn_egg_vallumraptor",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "alpha_mantis_spawn_egg",
+      "type": "item",
+      "target": "antarchy:alpha_mantis_spawn_egg",
+      "description": "item.antarchy.alpha_mantis_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "apple_cow_spawn_egg",
+      "type": "item",
+      "target": "antarchy:apple_cow_spawn_egg",
+      "description": "item.antarchy.apple_cow_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "basilisk_spawn_egg",
+      "type": "item",
+      "target": "antarchy:basilisk_spawn_egg",
+      "description": "item.antarchy.basilisk_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "bomber_spawn_egg",
+      "type": "item",
+      "target": "antarchy:bomber_spawn_egg",
+      "description": "item.antarchy.bomber_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "brutalfly_spawn_egg",
+      "type": "item",
+      "target": "antarchy:brutalfly_spawn_egg",
+      "description": "item.antarchy.brutalfly_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "butterfly_spawn_egg",
+      "type": "item",
+      "target": "antarchy:butterfly_spawn_egg",
+      "description": "item.antarchy.butterfly_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "caterpillar_spawn_egg",
+      "type": "item",
+      "target": "antarchy:caterpillar_spawn_egg",
+      "description": "item.antarchy.caterpillar_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "cheep_spawn_egg",
+      "type": "item",
+      "target": "antarchy:cheep_spawn_egg",
+      "description": "item.antarchy.cheep_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "dorrie_spawn_egg",
+      "type": "item",
+      "target": "antarchy:dorrie_spawn_egg",
+      "description": "item.antarchy.dorrie_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "elka_spawn_egg",
+      "type": "item",
+      "target": "antarchy:elka_spawn_egg",
+      "description": "item.antarchy.elka_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "enchanted_golden_apple_cow_spawn_egg",
+      "type": "item",
+      "target": "antarchy:enchanted_golden_apple_cow_spawn_egg",
+      "description": "item.antarchy.enchanted_golden_apple_cow_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "flying_squirrel_spawn_egg",
+      "type": "item",
+      "target": "antarchy:flying_squirrel_spawn_egg",
+      "description": "item.antarchy.flying_squirrel_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "flytrap_spawn_egg",
+      "type": "item",
+      "target": "antarchy:flytrap_spawn_egg",
+      "description": "item.antarchy.flytrap_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "glimmer_spawn_egg",
+      "type": "item",
+      "target": "antarchy:glimmer_spawn_egg",
+      "description": "item.antarchy.glimmer_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "golden_apple_cow_spawn_egg",
+      "type": "item",
+      "target": "antarchy:golden_apple_cow_spawn_egg",
+      "description": "item.antarchy.golden_apple_cow_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "king_spawn_egg",
+      "type": "item",
+      "target": "antarchy:king_spawn_egg",
+      "description": "item.antarchy.king_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "mantis_spawn_egg",
+      "type": "item",
+      "target": "antarchy:mantis_spawn_egg",
+      "description": "item.antarchy.mantis_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "missile_squid_spawn_egg",
+      "type": "item",
+      "target": "antarchy:missile_squid_spawn_egg",
+      "description": "item.antarchy.missile_squid_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "octopus_bomb_spawn_egg",
+      "type": "item",
+      "target": "antarchy:octopus_bomb_spawn_egg",
+      "description": "item.antarchy.octopus_bomb_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "ouranwood_deer_spawn_egg",
+      "type": "item",
+      "target": "antarchy:ouranwood_deer_spawn_egg",
+      "description": "item.antarchy.ouranwood_deer_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "prince_spawn_egg",
+      "type": "item",
+      "target": "antarchy:prince_spawn_egg",
+      "description": "item.antarchy.prince_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "stratoshark_spawn_egg",
+      "type": "item",
+      "target": "antarchy:stratoshark_spawn_egg",
+      "description": "item.antarchy.stratoshark_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "toreterror_spawn_egg",
+      "type": "item",
+      "target": "antarchy:toreterror_spawn_egg",
+      "description": "item.antarchy.toreterror_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "wasp_spawn_egg",
+      "type": "item",
+      "target": "antarchy:wasp_spawn_egg",
+      "description": "item.antarchy.wasp_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spawn_egg_amphithere",
+      "type": "item",
+      "target": "iceandfire:spawn_egg_amphithere",
+      "description": "item.iceandfire.spawn_egg_amphithere",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spawn_egg_cyclops",
+      "type": "item",
+      "target": "iceandfire:spawn_egg_cyclops",
+      "description": "item.iceandfire.spawn_egg_cyclops",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spawn_egg_hippocampus",
+      "type": "item",
+      "target": "iceandfire:spawn_egg_hippocampus",
+      "description": "item.iceandfire.spawn_egg_hippocampus",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spawn_egg_hippogryph",
+      "type": "item",
+      "target": "iceandfire:spawn_egg_hippogryph",
+      "description": "item.iceandfire.spawn_egg_hippogryph",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spawn_egg_pixie",
+      "type": "item",
+      "target": "iceandfire:spawn_egg_pixie",
+      "description": "item.iceandfire.spawn_egg_pixie",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "spawn_egg_sea_serpent",
+      "type": "item",
+      "target": "iceandfire:spawn_egg_sea_serpent",
+      "description": "item.iceandfire.spawn_egg_sea_serpent",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "egg_laying_wooly_pig_spawn_egg",
+      "type": "item",
+      "target": "pastel:egg_laying_wooly_pig_spawn_egg",
+      "description": "item.pastel.egg_laying_wooly_pig_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "charger_spawn_egg",
+      "type": "item",
+      "target": "wan_ancient_beasts:charger_spawn_egg",
+      "description": "item.wan_ancient_beasts.charger_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "crusher_spawn_egg",
+      "type": "item",
+      "target": "wan_ancient_beasts:crusher_spawn_egg",
+      "description": "item.wan_ancient_beasts.crusher_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "eater_spawn_egg",
+      "type": "item",
+      "target": "wan_ancient_beasts:eater_spawn_egg",
+      "description": "item.wan_ancient_beasts.eater_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "glider_spawn_egg",
+      "type": "item",
+      "target": "wan_ancient_beasts:glider_spawn_egg",
+      "description": "item.wan_ancient_beasts.glider_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "snatcher_spawn_egg",
+      "type": "item",
+      "target": "wan_ancient_beasts:snatcher_spawn_egg",
+      "description": "item.wan_ancient_beasts.snatcher_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "soarer_spawn_egg",
+      "type": "item",
+      "target": "wan_ancient_beasts:soarer_spawn_egg",
+      "description": "item.wan_ancient_beasts.soarer_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "surfer_spawn_egg",
+      "type": "item",
+      "target": "wan_ancient_beasts:surfer_spawn_egg",
+      "description": "item.wan_ancient_beasts.surfer_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "toxlacanth_spawn_egg",
+      "type": "item",
+      "target": "wan_ancient_beasts:toxlacanth_spawn_egg",
+      "description": "item.wan_ancient_beasts.toxlacanth_spawn_egg",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "walker_spawn_egg",
+      "type": "item",
+      "target": "wan_ancient_beasts:walker_spawn_egg",
+      "description": "item.wan_ancient_beasts.walker_spawn_egg",
+      "count": 1,
+      "sticky": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 5000
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "id": "rare",
+          "title": "task.integrated_boogaloo.reward.rare",
+          "rewards": [
+            {
+              "type": "item_pool",
+              "pool": "integrated_boogaloo:supplies_rare",
+              "mode": "random"
+            }
+          ]
+        },
+        {
+          "id": "lucky",
+          "title": "task.integrated_boogaloo.reward.lucky",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "lucky:lucky_block",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "id": "uranium",
+          "title": "task.integrated_boogaloo.reward.uranium",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "antarchy:uranium_ingot",
+              "count": 4
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "render_mob_from_spawn_egg": false
+}

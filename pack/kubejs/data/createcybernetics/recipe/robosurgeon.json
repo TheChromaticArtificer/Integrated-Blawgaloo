@@ -1,0 +1,48 @@
+{
+  "type": "createcybernetics:engineering_table",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "oritech:super_ai_chip"
+    },
+    "R": {
+      "item": "minecraft:redstone_block"
+    },
+    "V": {
+      "tag": "c:glass_panes"
+    },
+    "T": {
+      "item": "antarchy:titanium_nugget"
+    },
+    "Q": {
+      "item": "createcybernetics:netherite_qpu"
+    },
+    "G": {
+      "item": "oritech:advanced_computing_engine"
+    },
+    "S": {
+      "item": "oritech:processing_unit"
+    },
+    "F": {
+      "item": "oritech:small_tank_block"
+    },
+    "W": {
+      "item": "oritech:magnetic_coil"
+    },
+    "M": {
+      "item": "antarchy:bluestone_repeater"
+    }
+  },
+  "pattern": [
+    "TTTTT",
+    "TMFMT",
+    "TGQST",
+    "TWVWT",
+    "TRDRT"
+  ],
+  "result": {
+    "count": 1,
+    "id": "createcybernetics:robosurgeon"
+  }
+}

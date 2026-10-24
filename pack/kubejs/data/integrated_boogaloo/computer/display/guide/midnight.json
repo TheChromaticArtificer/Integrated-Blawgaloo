@@ -1,0 +1,666 @@
+{
+  "version": 1,
+  "title": "literal:Midnight Solution",
+  "width": 250,
+  "height": 133,
+  "elements": [
+    {
+      "id": "pool",
+      "type": "scene",
+      "x": 2,
+      "y": 2,
+      "width": 130,
+      "height": 126,
+      "yaw": 30,
+      "pitch": 35,
+      "scale": 1.1,
+      "blocks": [
+        {
+          "pos": [
+            -2,
+            -1,
+            -2
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -2,
+            -1,
+            -1
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -2,
+            -1,
+            0
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -2,
+            -1,
+            1
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -2,
+            -1,
+            2
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            -1,
+            -2
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            -1,
+            -1
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            -1,
+            0
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            -1,
+            1
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            -1,
+            2
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            -2
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            -1
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            0
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            1
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            2
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            -2
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            -1
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            0
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            1
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            2
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            2,
+            -1,
+            -2
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            2,
+            -1,
+            -1
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            2,
+            -1,
+            0
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            2,
+            -1,
+            1
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            2,
+            -1,
+            2
+          ],
+          "state": "minecraft:stone",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            0,
+            -1
+          ],
+          "state": "pastel:midnight_solution",
+          "id": "m-1-1",
+          "groups": [
+            "pool"
+          ]
+        },
+        {
+          "pos": [
+            -1,
+            0,
+            0
+          ],
+          "state": "pastel:midnight_solution",
+          "id": "m-10",
+          "groups": [
+            "pool"
+          ]
+        },
+        {
+          "pos": [
+            -1,
+            0,
+            1
+          ],
+          "state": "pastel:midnight_solution",
+          "id": "m-11",
+          "groups": [
+            "pool"
+          ]
+        },
+        {
+          "pos": [
+            0,
+            0,
+            -1
+          ],
+          "state": "pastel:midnight_solution",
+          "id": "m0-1",
+          "groups": [
+            "pool"
+          ]
+        },
+        {
+          "pos": [
+            0,
+            0,
+            0
+          ],
+          "state": "pastel:midnight_solution",
+          "id": "m00",
+          "groups": [
+            "pool"
+          ]
+        },
+        {
+          "pos": [
+            0,
+            0,
+            1
+          ],
+          "state": "pastel:midnight_solution",
+          "id": "m01",
+          "groups": [
+            "pool"
+          ]
+        },
+        {
+          "pos": [
+            1,
+            0,
+            -1
+          ],
+          "state": "pastel:midnight_solution",
+          "id": "m1-1",
+          "groups": [
+            "pool"
+          ]
+        },
+        {
+          "pos": [
+            1,
+            0,
+            0
+          ],
+          "state": "pastel:midnight_solution",
+          "id": "m10",
+          "groups": [
+            "pool"
+          ]
+        },
+        {
+          "pos": [
+            1,
+            0,
+            1
+          ],
+          "state": "pastel:midnight_solution",
+          "id": "m11",
+          "groups": [
+            "pool"
+          ]
+        }
+      ],
+      "entities": [
+        {
+          "pos": [
+            0,
+            0,
+            0
+          ],
+          "id": "minecraft:zombie",
+          "rotation": 30,
+          "until": "hurt"
+        }
+      ],
+      "items": [
+        {
+          "pos": [
+            0,
+            0.1,
+            0
+          ],
+          "id": "pastel:midnight_chip",
+          "from": "chips",
+          "spin": true
+        },
+        {
+          "pos": [
+            1,
+            0.3,
+            1
+          ],
+          "id": "minecraft:enchanted_book",
+          "steps": [
+            "books"
+          ]
+        },
+        {
+          "pos": [
+            1,
+            0.3,
+            1
+          ],
+          "id": "minecraft:book",
+          "steps": [
+            "plain"
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "id": "spill",
+          "title": "literal:The spill",
+          "text": "literal:A Midnight Aberration fusion spills Solution around the Shrine.",
+          "groups": [
+            "pool"
+          ]
+        },
+        {
+          "id": "hurt",
+          "title": "literal:It hurts",
+          "text": "literal:Anything standing in it takes damage."
+        },
+        {
+          "id": "chips",
+          "title": "literal:Midnight Chips",
+          "text": "literal:Creatures it kills drop Midnight Chips."
+        },
+        {
+          "id": "books",
+          "title": "literal:Disenchanting",
+          "text": "literal:Throw in enchanted things..."
+        },
+        {
+          "id": "plain",
+          "title": "literal:Plain again",
+          "text": "literal:...and they come out plain, with experience back."
+        }
+      ],
+      "effects": [
+        {
+          "kind": "particles",
+          "pos": [
+            0,
+            0,
+            0
+          ],
+          "color": "#2A1F3D",
+          "count": 6,
+          "steps": [
+            "hurt"
+          ]
+        }
+      ],
+      "hero": true,
+      "ratio": 0.82
+    },
+    {
+      "type": "text",
+      "x": 6,
+      "y": 4,
+      "width": 238,
+      "text": "literal:More Solution: Ichor, a Midnight Chip and black pigment in a witch's cauldron."
+    },
+    {
+      "type": "recipe_list",
+      "id": "rows",
+      "x": 2,
+      "y": 25,
+      "width": 246,
+      "height": 102,
+      "title_width": 110,
+      "rows": [
+        {
+          "title": "literal:Blackstone",
+          "inputs": [
+            {
+              "item": "minecraft:stone"
+            }
+          ],
+          "outputs": [
+            "minecraft:blackstone"
+          ]
+        },
+        {
+          "title": "literal:Crimson Fungus",
+          "inputs": [
+            {
+              "item": "minecraft:red_mushroom"
+            }
+          ],
+          "outputs": [
+            "minecraft:crimson_fungus"
+          ]
+        },
+        {
+          "title": "literal:Crying Obsidian",
+          "inputs": [
+            {
+              "item": "minecraft:obsidian"
+            }
+          ],
+          "outputs": [
+            "minecraft:crying_obsidian"
+          ]
+        },
+        {
+          "title": "literal:Flint",
+          "inputs": [
+            {
+              "item": "minecraft:gravel"
+            }
+          ],
+          "outputs": [
+            "minecraft:flint"
+          ]
+        },
+        {
+          "title": "literal:Book",
+          "inputs": [
+            {
+              "item": "pastel:gilded_book"
+            }
+          ],
+          "outputs": [
+            "minecraft:book"
+          ]
+        },
+        {
+          "title": "literal:Gunpowder",
+          "inputs": [
+            {
+              "item": "minecraft:glowstone_dust"
+            }
+          ],
+          "outputs": [
+            "minecraft:gunpowder"
+          ]
+        },
+        {
+          "title": "literal:Golden Apple",
+          "inputs": [
+            {
+              "item": "minecraft:enchanted_golden_apple"
+            }
+          ],
+          "outputs": [
+            "minecraft:golden_apple"
+          ]
+        },
+        {
+          "title": "literal:Golden Carrot",
+          "inputs": [
+            {
+              "item": "pastel:enchanted_golden_carrot"
+            }
+          ],
+          "outputs": [
+            "minecraft:golden_carrot"
+          ]
+        },
+        {
+          "title": "literal:Music Disc 11",
+          "inputs": [
+            {
+              "tag": "c:music_discs"
+            }
+          ],
+          "outputs": [
+            "minecraft:music_disc_11"
+          ]
+        },
+        {
+          "title": "literal:Nether Gold Ore",
+          "inputs": [
+            {
+              "item": "minecraft:gold_ore"
+            }
+          ],
+          "outputs": [
+            "minecraft:nether_gold_ore"
+          ]
+        },
+        {
+          "title": "literal:Netherrack",
+          "inputs": [
+            {
+              "item": "minecraft:cobblestone"
+            }
+          ],
+          "outputs": [
+            "minecraft:netherrack"
+          ]
+        },
+        {
+          "title": "literal:Slime Ball",
+          "inputs": [
+            {
+              "item": "minecraft:clay_ball"
+            }
+          ],
+          "outputs": [
+            "minecraft:slime_ball"
+          ]
+        },
+        {
+          "title": "literal:Slime Ball",
+          "inputs": [
+            {
+              "item": "minecraft:dried_kelp_block"
+            }
+          ],
+          "outputs": [
+            "minecraft:slime_ball"
+          ]
+        },
+        {
+          "title": "literal:Soul Campfire",
+          "inputs": [
+            {
+              "item": "minecraft:campfire"
+            }
+          ],
+          "outputs": [
+            "minecraft:soul_campfire"
+          ]
+        },
+        {
+          "title": "literal:Soul Sand",
+          "inputs": [
+            {
+              "tag": "minecraft:sand"
+            }
+          ],
+          "outputs": [
+            "minecraft:soul_sand"
+          ]
+        },
+        {
+          "title": "literal:Soul Soil",
+          "inputs": [
+            {
+              "tag": "minecraft:dirt"
+            }
+          ],
+          "outputs": [
+            "minecraft:soul_soil"
+          ]
+        },
+        {
+          "title": "literal:Warped Fungus",
+          "inputs": [
+            {
+              "item": "minecraft:brown_mushroom"
+            }
+          ],
+          "outputs": [
+            "minecraft:warped_fungus"
+          ]
+        },
+        {
+          "title": "literal:Wither Rose",
+          "inputs": [
+            {
+              "tag": "minecraft:flowers"
+            }
+          ],
+          "outputs": [
+            "minecraft:wither_rose"
+          ]
+        }
+      ]
+    }
+  ],
+  "reflow": true,
+  "auto_height": true,
+  "hide_title": true
+}

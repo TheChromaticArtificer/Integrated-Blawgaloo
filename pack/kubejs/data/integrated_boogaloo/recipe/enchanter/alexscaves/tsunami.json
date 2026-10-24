@@ -1,0 +1,52 @@
+{
+  "type": "pastel:enchanter",
+  "group": "alexscaves",
+  "time": 1000,
+  "required_experience": 1000,
+  "ingredients": [
+    {
+      "item": "minecraft:book"
+    },
+    {
+      "item": "pastel:blue_pigment"
+    },
+    {
+      "item": "pastel:blue_pigment"
+    },
+    {
+      "item": "alexscaves:magic_conch"
+    },
+    {
+      "item": "iceandfire:sea_serpent_fang"
+    },
+    {
+      "item": "pastel:blue_pigment"
+    },
+    {
+      "item": "pastel:blue_pigment"
+    },
+    {
+      "item": "alexscaves:magic_conch"
+    },
+    {
+      "item": "iceandfire:sea_serpent_fang"
+    }
+  ],
+  "result": {
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "stored_enchantments": {
+        "alexscaves:tsunami": 1
+      }
+    }
+  },
+  "required_advancement": "integrated_boogaloo:unlocks/enchantments/alexscaves",
+  "neoforge:conditions": [
+    {
+      "type": "pastel:enchantments_exist",
+      "values": [
+        "alexscaves:tsunami"
+      ]
+    }
+  ]
+}

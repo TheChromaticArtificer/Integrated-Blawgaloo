@@ -1,0 +1,26 @@
+{
+    "forEntity": "iceandfire:cockatrice",
+    "traits": [
+        {
+            "type": "traitHostile"
+        },
+        {
+            "type": "abilityIceAndFireCockatriceStare",
+            "nativeClassName": "com.iafenvoy.iceandfire.entity.CockatriceEntity",
+            "animationFieldName": "ANIMATION_WATTLESHAKE",
+            "trueBooleanMethods": [
+                "setStaring"
+            ],
+            "lineAttack": true,
+            "range": 12.0,
+            "radius": 1.6,
+            "damage": 12.0,
+            "effectId": "minecraft:slowness",
+            "effectDuration": 100,
+            "effectAmplifier": 1,
+            "cooldown": 80,
+            "soundEventId": "iceandfire:cockatrice_cry",
+            "slot": 1
+        }
+    ]
+}

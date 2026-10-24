@@ -1,0 +1,39 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.dragon_academy_dragon_rider.title",
+  "description": "task.integrated_boogaloo.dragon_academy_dragon_rider.description",
+  "showcase": [
+    "@item:bda:dragon_saddle"
+  ],
+  "icon": "bda:dragon_saddle",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:dragon_academy",
+  "sort_order": 402,
+  "position": {
+    "x": 2,
+    "y": 0
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:dragon_academy/forbidden_friendship"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "bda:academy/dragon_rider",
+      "description": "task.integrated_boogaloo.dragon_academy_dragon_rider.goal",
+      "count": 1
+    }
+  ],
+  "archive_entries": [
+    "integrated_boogaloo:bda_dragon_training"
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 250
+    }
+  ],
+  "line_axis": "horizontal"
+}

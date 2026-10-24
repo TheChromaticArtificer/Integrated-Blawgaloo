@@ -1,0 +1,21 @@
+{
+  "type": "createcybernetics:engineering_deconstruct",
+  "inputs": [
+    {
+      "item": "createcybernetics:armupgrades_mantisblade_iron"
+    },
+    {
+      "item": "createcybernetics:scavenged_mantisblade_iron"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "minecraft:iron_ingot",
+      "count": 3
+    },
+    {
+      "id": "antarchy:titanium_nugget",
+      "count": 21
+    }
+  ]
+}

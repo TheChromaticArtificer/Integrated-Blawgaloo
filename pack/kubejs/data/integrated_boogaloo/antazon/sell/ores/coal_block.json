@@ -1,0 +1,7 @@
+{
+  "item": "minecraft:coal_block",
+  "value": 9,
+  "limit": 64,
+  "limit_reset": "minecraft_day",
+  "green_tint": false
+}

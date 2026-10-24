@@ -1,0 +1,28 @@
+{
+  "type": "lucky:random",
+  "chance": 0.1,
+  "outcomes": [
+    {
+      "type": "lucky:group",
+      "luck": 2,
+      "outcomes": [
+        {
+          "type": "lucky:item",
+          "item": "antarchy:ultimate_helmet"
+        },
+        {
+          "type": "lucky:item",
+          "item": "antarchy:ultimate_chestplate"
+        },
+        {
+          "type": "lucky:item",
+          "item": "antarchy:ultimate_leggings"
+        },
+        {
+          "type": "lucky:item",
+          "item": "antarchy:ultimate_boots"
+        }
+      ]
+    }
+  ]
+}

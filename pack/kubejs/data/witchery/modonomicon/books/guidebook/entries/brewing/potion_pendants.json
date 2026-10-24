@@ -1,0 +1,100 @@
+{
+  "background_u_index": 0,
+  "background_v_index": 0,
+  "category": "brewing",
+  "condition": {
+    "type": "modonomicon:and",
+    "children": [
+      {
+        "type": "modonomicon:entry_read",
+        "entry_id": "brewing/cauldron"
+      }
+    ]
+  },
+  "description": "book.witchery.guidebook.brewing.potion_pendants.description",
+  "hide_while_locked": false,
+  "icon": {
+    "item": "pastel:lesser_potion_pendant"
+  },
+  "name": "book.witchery.guidebook.brewing.potion_pendants.name",
+  "pages": [
+    {
+      "type": "modonomicon:text",
+      "anchor": "",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "show_title_separator": true,
+      "text": "brewing.potion_pendants.page.1",
+      "title": "brewing.potion_pendants.title.1",
+      "use_markdown_in_title": false
+    },
+    {
+      "type": "witchery:cauldron_crafting_recipe",
+      "anchor": "",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "recipe_id_1": "integrated_boogaloo:cauldron_crafting/lesser_potion_pendant",
+      "text": "",
+      "title1": "",
+      "title2": ""
+    },
+    {
+      "type": "witchery:cauldron_crafting_recipe",
+      "anchor": "",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "recipe_id_1": "integrated_boogaloo:cauldron_crafting/greater_potion_pendant",
+      "text": "",
+      "title1": "",
+      "title2": ""
+    },
+    {
+      "type": "modonomicon:text",
+      "anchor": "",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "show_title_separator": true,
+      "text": "brewing.potion_pendants.page.2",
+      "title": "brewing.potion_pendants.title.2",
+      "use_markdown_in_title": false
+    },
+    {
+      "type": "witchery:ritual_recipe",
+      "anchor": "",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "recipe_id_1": "integrated_boogaloo:ritual/potion_pendant/lesser_speed",
+      "text": "brewing.potion_pendants.page.3",
+      "title1": "integrated_boogaloo:ritual/potion_pendant/lesser_speed",
+      "title2": ""
+    },
+    {
+      "type": "witchery:ritual_recipe",
+      "anchor": "",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "recipe_id_1": "integrated_boogaloo:ritual/potion_pendant/greater_miner",
+      "text": "",
+      "title1": "integrated_boogaloo:ritual/potion_pendant/greater_miner",
+      "title2": ""
+    }
+  ],
+  "parents": [
+    {
+      "draw_arrow": true,
+      "entry": "brewing/cauldron",
+      "line_enabled": true,
+      "line_reversed": false
+    }
+  ],
+  "show_when_any_parent_unlocked": false,
+  "sort_number": 35,
+  "x": 1,
+  "y": -3
+}

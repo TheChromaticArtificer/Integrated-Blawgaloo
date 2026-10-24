@@ -1,0 +1,38 @@
+{
+  "name": "computer.integrated_boogaloo.product.materials.rainbow_sugar.name",
+  "description": "computer.integrated_boogaloo.product.materials.rainbow_sugar.description",
+  "category": "materials",
+  "green_tint": false,
+  "quantity": 1,
+  "payments": [
+    {
+      "type": "antcoins",
+      "resource": "antcoins",
+      "amount": 2000
+    }
+  ],
+  "thumbnail": {
+    "item": "antarchy:rainbow_sugar"
+  },
+  "availability": {
+    "server_stock": 0,
+    "player_limit": 5,
+    "player_limit_reset": "minecraft_day"
+  },
+  "rewards": [
+    {
+      "item": "antarchy:rainbow_sugar",
+      "count": 1
+    }
+  ],
+  "reviews": [
+    {
+      "id": "deadpool",
+      "author": "Deadpool",
+      "title": "computer.integrated_boogaloo.product.materials.rainbow_sugar.review.deadpool.title",
+      "body": "computer.integrated_boogaloo.product.materials.rainbow_sugar.review.deadpool.body",
+      "rating": 5,
+      "badge": "VERIFIED MERC"
+    }
+  ]
+}

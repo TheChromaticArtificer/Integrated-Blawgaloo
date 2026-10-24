@@ -1,0 +1,7 @@
+{
+  "item": "oritech:processing_unit",
+  "value": 30,
+  "limit": 32,
+  "limit_reset": "minecraft_day",
+  "green_tint": false
+}

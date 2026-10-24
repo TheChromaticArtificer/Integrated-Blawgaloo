@@ -1,0 +1,26 @@
+{
+  "type": "lucky:group",
+  "outcomes": [
+    {
+      "type": "lucky:message",
+      "message": {
+        "text": "Trapped!",
+        "color": "red",
+        "bold": true
+      },
+      "overlay": true
+    },
+    {
+      "type": "lucky:explosion",
+      "explosion": {
+        "power": 2
+      },
+      "delay": 30
+    },
+    {
+      "type": "lucky:command",
+      "command": "/setblock ~ ~ ~ minecraft:cobweb",
+      "delay": 40
+    }
+  ]
+}

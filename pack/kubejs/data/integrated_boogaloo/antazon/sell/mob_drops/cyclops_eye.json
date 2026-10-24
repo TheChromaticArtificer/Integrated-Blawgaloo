@@ -1,0 +1,11 @@
+{
+  "item": "iceandfire:cyclops_eye",
+  "value": 60,
+  "limit": 32,
+  "limit_reset": "minecraft_day",
+  "green_tint": false,
+  "unlock_tasks": [
+    "integrated_boogaloo:exploration/elythia/cyclops"
+  ],
+  "unlock_mode": "any"
+}

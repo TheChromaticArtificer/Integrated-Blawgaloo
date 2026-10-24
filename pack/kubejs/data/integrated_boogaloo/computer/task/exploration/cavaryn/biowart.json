@@ -1,0 +1,33 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.cavaryn_biowart.title",
+  "description": "task.integrated_boogaloo.cavaryn_biowart.description",
+  "showcase": [
+    "@item:antarchy:biowart",
+    "@recipe:antarchy:biowart"
+  ],
+  "icon": "antarchy:biowart",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:cavaryn",
+  "sort_order": 6,
+  "position": {
+    "x": 2,
+    "y": 1
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "biome_visited",
+      "target": "antarchy:biowart_caves",
+      "description": "task.integrated_boogaloo.cavaryn_biowart.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 20
+    }
+  ]
+}

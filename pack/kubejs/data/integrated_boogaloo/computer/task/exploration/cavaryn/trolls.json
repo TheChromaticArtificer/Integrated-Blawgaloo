@@ -1,0 +1,47 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.cavaryn_trolls.title",
+  "description": "task.integrated_boogaloo.cavaryn_trolls.description",
+  "showcase": [
+    "@entity:iceandfire:troll"
+  ],
+  "icon": "iceandfire:troll_tusk",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:cavaryn",
+  "sort_order": 19,
+  "position": {
+    "x": 4,
+    "y": 3
+  },
+  "shape": "octagon",
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "stat",
+      "target": "iceandfire:troll",
+      "stat_type": "entity_killed",
+      "description": "task.integrated_boogaloo.cavaryn_trolls.goal",
+      "count": 1
+    },
+    {
+      "id": "tusk",
+      "type": "item",
+      "target": "iceandfire:troll_tusk",
+      "description": "task.integrated_boogaloo.cavaryn_trolls.tusk",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "item",
+      "item": "antarchy:uranium_nugget",
+      "count": 6
+    },
+    {
+      "type": "archive",
+      "entry": "integrated_boogaloo:iaf_troll"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "green_tint": false,
+  "type": "article",
+  "category": "general",
+  "folder": "integrated_boogaloo:world_of_color",
+  "sort_order": 130,
+  "title": "guide.integrated_boogaloo.entry.pastel_locket.title",
+  "subtitle": "guide.integrated_boogaloo.entry.pastel_locket.subtitle",
+  "cover_item": "pastel:mysterious_locket",
+  "gallery": [
+    {
+      "item": "pastel:mysterious_locket"
+    },
+    {
+      "item": "pastel:moonstone_core"
+    },
+    {
+      "item": "antarchy:kraken_tooth"
+    },
+    {
+      "item": "pastel:mysterious_compass"
+    }
+  ],
+  "content": [
+    {
+      "text": "guide.integrated_boogaloo.entry.pastel_locket.body_1"
+    },
+    {
+      "display": "integrated_boogaloo:guide/locket"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.pastel_locket.body_2"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.pastel_locket.body_3"
+    }
+  ]
+}

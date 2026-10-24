@@ -1,0 +1,17 @@
+{
+  "sender": "deadpool@antmail.com",
+  "sender_display": "Deadpool",
+  "sender_avatar_item": "marvel:deadpool_helmet",
+  "subject": "this is a documentary now",
+  "body": "they made SIX Sharknado movies and the last one had time travel in it, same as my second movie. don't think that's significant just wanted to point that out. did you know sharknado is the highest grossest movie franchise of all time? crazy right? you just lived through the pilot for number seven. SHARKNADO: THE MINECRAFT MOVIE. big storms suck up Stratosharks and throw them at people, this time in a block game played by millions of children.\n\nKill them anyway. The sharks. not the kids\n\n-W",
+  "trigger": {
+    "type": "advancement",
+    "value": "integrated_boogaloo:deadpool/storm_shark",
+    "delay_minutes": 3
+  },
+  "conditions": {
+    "mail_read": [
+      "integrated_boogaloo:deadpool_intro"
+    ]
+  }
+}

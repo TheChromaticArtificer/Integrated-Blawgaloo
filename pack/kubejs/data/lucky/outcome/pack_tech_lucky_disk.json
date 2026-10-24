@@ -1,0 +1,22 @@
+{
+  "type": "lucky:random",
+  "luck": 1,
+  "chance": 1.25,
+  "outcomes": [
+    {
+      "type": "lucky:item",
+      "item": "refinedstorage:4k_storage_disk",
+      "weight": 4
+    },
+    {
+      "type": "lucky:item",
+      "item": "refinedstorage:16k_storage_disk",
+      "weight": 2
+    },
+    {
+      "type": "lucky:item",
+      "item": "extradisks:256k_item_storage_disk",
+      "weight": 1
+    }
+  ]
+}

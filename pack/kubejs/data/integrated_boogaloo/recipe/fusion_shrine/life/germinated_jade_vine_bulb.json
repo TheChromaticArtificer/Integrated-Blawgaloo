@@ -1,0 +1,22 @@
+{
+  "type": "pastel:fusion_shrine",
+  "time": 600,
+  "experience": 20.0,
+  "fluid": {
+    "fluid": "pastel:liquid_crystal"
+  },
+  "ingredients": [
+    "pastel:hibernating_jade_vine_bulb",
+    {
+      "item": "pastel:vegetal",
+      "count": 16
+    }
+  ],
+  "result": {
+    "id": "pastel:germinated_jade_vine_bulb"
+  },
+  "start_crafting_effect": "nothing",
+  "during_crafting_effects": [],
+  "finish_crafting_effect": "single_visual_explosion_on_shrine",
+  "required_advancement": "pastel:hidden/collect_hibernating_jade_vine_bulb"
+}

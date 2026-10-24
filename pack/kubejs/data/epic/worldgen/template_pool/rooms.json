@@ -1,0 +1,186 @@
+{
+  "name": "epic:rooms",
+  "fallback": "epic:rooms",
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_dungeon/mossify_20_percent",
+        "location": "epic:epic_dungeon/rooms/room1"
+      },
+      "weight": 7
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_dungeon/mossify_20_percent",
+        "location": "epic:epic_dungeon/rooms/room2"
+      },
+      "weight": 5
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_dungeon/mossify_20_percent",
+        "location": "epic:epic_dungeon/rooms/room3"
+      },
+      "weight": 4
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_dungeon/mossify_20_percent",
+        "location": "epic:epic_dungeon/rooms/room4"
+      },
+      "weight": 3
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_dungeon/mossify_20_percent",
+        "location": "epic:epic_dungeon/rooms/room5"
+      },
+      "weight": 4
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_dungeon/mossify_20_percent",
+        "location": "epic:epic_dungeon/rooms/room6"
+      },
+      "weight": 4
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_dungeon/mossify_20_percent",
+        "location": "epic:epic_dungeon/rooms/room7"
+      },
+      "weight": 4
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_dungeon/mossify_20_percent",
+        "location": "epic:epic_dungeon/rooms/room8"
+      },
+      "weight": 3
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_dungeon/mossify_20_percent",
+        "location": "epic:epic_dungeon/rooms/room9"
+      },
+      "weight": 4
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_dungeon/mossify_20_percent",
+        "location": "epic:epic_dungeon/rooms/room10"
+      },
+      "weight": 4
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_dungeon/mossify_20_percent",
+        "location": "epic:epic_dungeon/rooms/room11"
+      },
+      "weight": 5
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_dungeon/mossify_20_percent",
+        "location": "epic:epic_dungeon/rooms/room12"
+      },
+      "weight": 5
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_dungeon/mossify_20_percent",
+        "location": "epic:epic_dungeon/rooms/room13"
+      },
+      "weight": 5
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_dungeon/mossify_20_percent",
+        "location": "epic:epic_dungeon/rooms/room14"
+      },
+      "weight": 4
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_dungeon/mossify_20_percent",
+        "location": "epic:epic_dungeon/rooms/room15"
+      },
+      "weight": 6
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_dungeon/mossify_20_percent",
+        "location": "epic:epic_dungeon/rooms/room16"
+      },
+      "weight": 4
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_dungeon/mossify_20_percent",
+        "location": "epic:epic_dungeon/rooms/room17"
+      },
+      "weight": 6
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_dungeon/mossify_20_percent",
+        "location": "epic:epic_dungeon/rooms/room18"
+      },
+      "weight": 5
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_dungeon/mossify_20_percent",
+        "location": "epic:epic_dungeon/rooms/room19"
+      },
+      "weight": 6
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/epic/large_dungeon/mossify_20_percent",
+        "location": "epic:epic_dungeon/rooms/room21"
+      },
+      "weight": 7
+    }
+  ]
+}

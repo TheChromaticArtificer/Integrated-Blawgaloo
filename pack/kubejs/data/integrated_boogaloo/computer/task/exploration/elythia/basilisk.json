@@ -1,0 +1,46 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.elythia_basilisk.title",
+  "description": "task.integrated_boogaloo.elythia_basilisk.description",
+  "showcase": [
+    "@entity:antarchy:basilisk"
+  ],
+  "icon": "antarchy:basilisk_fang",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:elythia",
+  "sort_order": 22,
+  "position": {
+    "x": 4,
+    "y": 4
+  },
+  "shape": "octagon",
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "antarchy:stone_cold",
+      "description": "task.integrated_boogaloo.elythia_basilisk.goal",
+      "count": 1
+    },
+    {
+      "id": "fang",
+      "type": "item",
+      "target": "antarchy:basilisk_fang",
+      "description": "task.integrated_boogaloo.elythia_basilisk.fang",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "item_pool",
+      "pool": "integrated_boogaloo:supplies_common",
+      "mode": "random"
+    },
+    {
+      "type": "antcoins",
+      "amount": 40
+    }
+  ]
+}

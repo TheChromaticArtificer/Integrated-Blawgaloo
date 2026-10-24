@@ -1,0 +1,11 @@
+{
+  "sender": "trayaurus@antmail.com",
+  "sender_avatar_item": "antarchy:diamond_minecart",
+  "subject": "I need to tell you something",
+  "body": "You went to Cavaryn. On purpose. Through a termite.\n\nI haven't been honest with you. I'm not busy, and the door isn't stuck. I'm scared of ants. Properly scared. Elythia is nice and all, but yeah I'm stuck. I just woke up here, and it's full of ants. I haven't been outside since I got here. Grim goes out for me.\n\nSo that's why it's been you out there instead of me. Sorry! :)\n\nYour old friend,\nDr. T",
+  "trigger": {
+    "delay_minutes": 3,
+    "type": "advancement",
+    "value": "antarchy:visit_cavaryn"
+  }
+}

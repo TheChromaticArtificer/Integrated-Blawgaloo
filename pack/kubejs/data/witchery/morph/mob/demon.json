@@ -1,0 +1,64 @@
+{
+    "forEntity": "witchery:demon",
+    "attributeOverrides": {
+        "minecraft:generic.max_health": 60.0,
+        "minecraft:generic.attack_damage": 6.0,
+        "minecraft:generic.knockback_resistance": 0.6
+    },
+    "variantNbtStrip": [
+        "Enraged"
+    ],
+    "traits": [
+        {
+            "type": "traitHostile"
+        },
+        {
+            "type": "traitImmunityFire"
+        },
+        {
+            "type": "traitWitcheryHellfireTouch",
+            "igniteSeconds": 5.0
+        },
+        {
+            "type": "abilityWitcheryHellfireBreath",
+            "slot": 1,
+            "range": 8.0,
+            "angle": 30.0,
+            "damage": 5.0,
+            "enragedDamage": 7.0,
+            "fireTicks": 100,
+            "particleId": "minecraft:flame",
+            "particleCount": 8,
+            "soundEventId": "minecraft:entity.blaze.shoot",
+            "soundInterval": 10,
+            "tickInterval": 5,
+            "maxDuration": 80,
+            "cooldown": 100
+        },
+        {
+            "type": "abilityWitcheryDemonLeap",
+            "slot": 2,
+            "forward": 1.5,
+            "up": 0.7,
+            "particleId": "minecraft:lava",
+            "particleCount": 15,
+            "cooldown": 80,
+            "soundEventId": "minecraft:entity.blaze.shoot",
+            "soundPitch": 0.6
+        },
+        {
+            "type": "abilityWitcheryEnrage",
+            "slot": 3,
+            "durationTicks": 300,
+            "selfEffects": [
+                {
+                    "id": "minecraft:strength",
+                    "duration": 300,
+                    "amplifier": 0
+                }
+            ],
+            "cooldown": 900,
+            "soundEventId": "minecraft:entity.ravager.roar"
+        }
+    ]
+}

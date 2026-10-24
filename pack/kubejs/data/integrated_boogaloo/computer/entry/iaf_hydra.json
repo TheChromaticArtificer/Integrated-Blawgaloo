@@ -1,0 +1,23 @@
+{
+  "green_tint": false,
+  "type": "entity",
+  "category": "bestiary_wild",
+  "folder": "integrated_boogaloo:bestiary",
+  "sort_order": 40,
+  "entity": "iceandfire:hydra",
+  "cover_entity": "iceandfire:hydra",
+  "rotation": 45,
+  "render_scale": 0.7,
+  "title": "guide.integrated_boogaloo.entry.iaf_hydra.title",
+  "subtitle": "guide.integrated_boogaloo.entry.iaf_hydra.subtitle",
+  "description": [
+    "guide.integrated_boogaloo.entry.iaf_hydra.body_1",
+    "guide.integrated_boogaloo.entry.iaf_hydra.body_2",
+    "guide.integrated_boogaloo.entry.iaf_hydra.body_3"
+  ],
+  "lookup": [
+    "iceandfire:hydra_fang",
+    "iceandfire:hydra_heart",
+    "iceandfire:hydra_arrow"
+  ]
+}

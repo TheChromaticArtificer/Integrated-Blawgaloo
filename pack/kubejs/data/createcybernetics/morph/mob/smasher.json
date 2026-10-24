@@ -1,0 +1,59 @@
+{
+    "forEntity": "createcybernetics:smasher",
+    "tickMode": "client_strict",
+    "cameraDistanceMultiplier": 1.4,
+    "attributeOverrides": {
+        "minecraft:generic.max_health": 60.0,
+        "minecraft:generic.attack_damage": 7.0,
+        "minecraft:generic.knockback_resistance": 1.0,
+        "minecraft:generic.attack_knockback": 2.0
+    },
+    "traits": [
+        {
+            "type": "traitHostile"
+        },
+        {
+            "type": "traitIntimidate",
+            "classToIntimidate": "net.minecraft.world.entity.npc.AbstractVillager",
+            "distance": 10.0,
+            "farRunSpeed": 0.5,
+            "nearRunSpeed": 0.5
+        },
+        {
+            "type": "traitFallNegate"
+        },
+        {
+            "type": "traitProjectileImmunity"
+        },
+        {
+            "type": "traitStepHeight",
+            "amount": 1.0
+        },
+        {
+            "type": "abilityCyberneticsSmasherAttack",
+            "slot": 1,
+            "cooldown": 40,
+            "reach": 3.5,
+            "damage": 21.4,
+            "slamDamage": 25.0,
+            "knockbackStrength": 1.25,
+            "kickStrength": 1.75,
+            "grabPlayers": true
+        },
+        {
+            "type": "abilityCyberneticsSandevistan",
+            "slot": 2,
+            "cooldown": 180,
+            "durationTicks": 80,
+            "amplifier": 0,
+            "trail": true
+        },
+        {
+            "type": "abilityCyberneticsPneumaticLeap",
+            "slot": 3,
+            "cooldown": 20,
+            "forwardBoost": 0.5,
+            "verticalBoost": 0.85
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.dragon_academy_broad_wing.title",
+  "description": "task.integrated_boogaloo.dragon_academy_broad_wing.description",
+  "showcase": [
+    "@item:bda:night_fury_egg"
+  ],
+  "icon": "bda:night_fury_egg",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:dragon_academy",
+  "sort_order": 405,
+  "position": {
+    "x": 5,
+    "y": 0
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:dragon_academy/tiny_tooth"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "bda:academy/broad_wing",
+      "description": "task.integrated_boogaloo.dragon_academy_broad_wing.goal",
+      "count": 1
+    }
+  ],
+  "archive_entries": [
+    "integrated_boogaloo:bda_dragon_training"
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 300
+    }
+  ],
+  "line_axis": "horizontal"
+}

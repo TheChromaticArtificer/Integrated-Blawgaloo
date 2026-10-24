@@ -1,0 +1,30 @@
+{
+  "trades": [
+    {
+      "buy": {
+        "item": "integrated_superheroes:infinity_gauntlet",
+        "components": {
+          "minecraft:rarity": "epic"
+        }
+      },
+      "sell": {
+        "item": "boogaloo_core:infinity_corndog"
+      },
+      "max_uses": 1,
+      "villager_xp": 1
+    },
+    {
+      "buy": {
+        "item": "integrated_superheroes:nano_gauntlet",
+        "components": {
+          "minecraft:rarity": "epic"
+        }
+      },
+      "sell": {
+        "item": "boogaloo_core:infinity_corndog"
+      },
+      "max_uses": 1,
+      "villager_xp": 1
+    }
+  ]
+}

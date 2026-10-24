@@ -1,0 +1,49 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.pastel_first_pedestal.title",
+  "description": "task.integrated_boogaloo.pastel_first_pedestal.description",
+  "showcase": [
+    "@item:pastel:pedestal_basic_topaz",
+    "@recipe:pastel:pedestal_basic_topaz"
+  ],
+  "icon": "pastel:pedestal_basic_topaz",
+  "program": "integrated_boogaloo:world_of_color",
+  "category": "integrated_boogaloo:world_of_color",
+  "sort_order": 2,
+  "position": {
+    "x": 1,
+    "y": 0
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:pastel_basics/first_geode"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "pastel:place_pedestal",
+      "description": "task.integrated_boogaloo.pastel_first_pedestal.goal",
+      "count": 1
+    },
+    {
+      "id": "brush",
+      "type": "item",
+      "target": "pastel:paintbrush",
+      "description": "task.integrated_boogaloo.pastel_first_pedestal.brush",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 15
+    },
+    {
+      "type": "archive",
+      "entry": "integrated_boogaloo:pastel_pedestal"
+    }
+  ],
+  "line_axis": "horizontal"
+}

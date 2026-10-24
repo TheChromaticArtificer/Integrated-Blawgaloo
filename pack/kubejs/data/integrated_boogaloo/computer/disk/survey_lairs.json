@@ -1,0 +1,12 @@
+{
+  "category": "integrated_boogaloo:surveys",
+  "title": "guide.integrated_boogaloo.disk.survey_lairs.title",
+  "description": "guide.integrated_boogaloo.disk.survey_lairs.description",
+  "entries": [
+    "integrated_boogaloo:survey_dragon_roosts",
+    "integrated_boogaloo:survey_hydra_cave",
+    "integrated_boogaloo:survey_cyclops_cave",
+    "integrated_boogaloo:survey_alien_hive",
+    "integrated_boogaloo:survey_arachnid_dwelling"
+  ]
+}

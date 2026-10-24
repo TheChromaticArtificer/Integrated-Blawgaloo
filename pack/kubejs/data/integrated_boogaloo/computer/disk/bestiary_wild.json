@@ -1,0 +1,17 @@
+{
+  "category": "integrated_boogaloo:bestiary",
+  "title": "guide.integrated_boogaloo.disk.bestiary_wild.title",
+  "entries": [
+    "integrated_boogaloo:iaf_hydra",
+    "integrated_boogaloo:iaf_gorgon",
+    "integrated_boogaloo:iaf_hippogryph",
+    "integrated_boogaloo:iaf_cyclops",
+    "integrated_boogaloo:iaf_hippocampus",
+    "integrated_boogaloo:iaf_deathworm",
+    "integrated_boogaloo:iaf_cockatrice",
+    "integrated_boogaloo:iaf_stymphalian_bird",
+    "integrated_boogaloo:iaf_amphithere",
+    "integrated_boogaloo:iaf_sea_serpent",
+    "integrated_boogaloo:iaf_troll"
+  ]
+}

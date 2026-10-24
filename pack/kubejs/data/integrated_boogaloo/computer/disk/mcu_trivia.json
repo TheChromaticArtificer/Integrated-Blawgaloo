@@ -1,0 +1,8 @@
+{
+  "category": "integrated_boogaloo:programs",
+  "title": "guide.integrated_boogaloo.disk.mcu_trivia.title",
+  "description": "guide.integrated_boogaloo.disk.mcu_trivia.description",
+  "programs": [
+    "integrated_boogaloo:mcu_trivia"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+    "forEntity": "antarchy:skulking_fright",
+    "traits": [
+        {
+            "type": "traitHostile"
+        },
+        {
+            "type": "traitFallNegate"
+        },
+        {
+            "type": "abilityAreaDamage",
+            "radius": 2.5,
+            "damage": 12.0,
+            "knockback": 0.5,
+            "cooldown": 20,
+            "soundEventId": "antarchy:lurking_terror_bite",
+            "slot": 1
+        }
+    ]
+}

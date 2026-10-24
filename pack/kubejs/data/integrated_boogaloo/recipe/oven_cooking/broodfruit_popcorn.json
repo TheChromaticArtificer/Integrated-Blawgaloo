@@ -1,0 +1,19 @@
+{
+  "type": "witchery:oven",
+  "cookingTime": 85,
+  "experience": 0.1,
+  "extraIngredient": {
+    "item": "witchery:jar"
+  },
+  "extraOutput": {
+    "id": "witchery:exhale_of_the_horned_one"
+  },
+  "extraOutputChance": 0.5,
+  "ingredient": {
+    "item": "antarchy:broodfruit"
+  },
+  "result": {
+    "id": "pastel:mermaids_popcorn",
+    "count": 1
+  }
+}

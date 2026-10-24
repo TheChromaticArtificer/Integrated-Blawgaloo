@@ -1,0 +1,40 @@
+{
+  "type": "lucky:group",
+  "luck": 1,
+  "chance": 2.0,
+  "outcomes": [
+    {
+      "type": "lucky:message",
+      "message": {
+        "text": "Pixie dust party!",
+        "color": "light_purple",
+        "bold": true
+      },
+      "overlay": true
+    },
+    {
+      "type": "lucky:item",
+      "item": "iceandfire:pixie_dust",
+      "count": 4
+    },
+    {
+      "type": "lucky:item",
+      "item": "iceandfire:pixie_dust_milky_tea"
+    },
+    {
+      "type": "lucky:effect",
+      "status_effect": {
+        "id": "minecraft:levitation",
+        "amplifier": 0,
+        "duration": 60
+      }
+    },
+    {
+      "type": "lucky:particle",
+      "particle": {
+        "type": "minecraft:end_rod"
+      },
+      "count": 60
+    }
+  ]
+}

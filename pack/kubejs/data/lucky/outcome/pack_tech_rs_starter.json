@@ -1,0 +1,29 @@
+{
+  "type": "lucky:group",
+  "luck": 1,
+  "chance": 0.6,
+  "outcomes": [
+    {
+      "type": "lucky:item",
+      "item": "refinedstorage:controller"
+    },
+    {
+      "type": "lucky:item",
+      "item": "refinedstorage:disk_drive"
+    },
+    {
+      "type": "lucky:item",
+      "item": "refinedstorage:grid"
+    },
+    {
+      "type": "lucky:item",
+      "item": "refinedstorage:cable",
+      "count": 16
+    },
+    {
+      "type": "lucky:item",
+      "item": "refinedstorage:1k_storage_disk",
+      "count": 2
+    }
+  ]
+}

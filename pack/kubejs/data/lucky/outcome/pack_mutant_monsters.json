@@ -1,0 +1,41 @@
+{
+  "type": "lucky:group",
+  "luck": -2,
+  "chance": 0.6,
+  "outcomes": [
+    {
+      "type": "lucky:message",
+      "message": {
+        "text": "The mutants are loose!",
+        "color": "dark_red",
+        "bold": true
+      },
+      "overlay": true
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "mutantmonsters:mutant_creeper",
+      "reinit": true
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "mutantmonsters:mutant_enderman",
+      "reinit": true
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "mutantmonsters:mutant_skeleton",
+      "reinit": true
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "mutantmonsters:mutant_snow_golem",
+      "reinit": true
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "mutantmonsters:mutant_zombie",
+      "reinit": true
+    }
+  ]
+}

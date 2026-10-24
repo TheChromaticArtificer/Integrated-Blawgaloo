@@ -1,0 +1,21 @@
+{
+  "type": "createcybernetics:engineering_deconstruct",
+  "inputs": [
+    {
+      "item": "createcybernetics:organsupgrades_liverfilter"
+    },
+    {
+      "item": "createcybernetics:scavenged_liverfilter"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "antarchy:titanium_nugget",
+      "count": 18
+    },
+    {
+      "id": "createcybernetics:component_synthnerves",
+      "count": 2
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "computer.integrated_boogaloo.product.ammo.iron_gun_frame.name",
+  "description": "computer.integrated_boogaloo.product.ammo.iron_gun_frame.description",
+  "category": "ammo",
+  "green_tint": false,
+  "quantity": 1,
+  "payments": [
+    {
+      "type": "antcoins",
+      "resource": "antcoins",
+      "amount": 60
+    }
+  ],
+  "thumbnail": {
+    "item": "scguns:iron_gun_frame"
+  },
+  "unlock_tasks": [
+    "integrated_boogaloo:armory/arming_up"
+  ],
+  "unlock_mode": "all",
+  "rewards": [
+    {
+      "item": "scguns:iron_gun_frame",
+      "count": 1
+    }
+  ]
+}

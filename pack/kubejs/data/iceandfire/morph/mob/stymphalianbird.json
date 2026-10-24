@@ -1,0 +1,27 @@
+{
+    "forEntity": "iceandfire:stymphalian_bird",
+    "traits": [
+        {
+            "type": "traitHostile"
+        },
+        {
+            "type": "traitFallNegate"
+        },
+        {
+            "type": "abilityFlightFlap",
+            "slowdownInWater": true
+        },
+        {
+            "type": "abilityFlight",
+            "slowdownInWater": true,
+            "upgradeFor": "abilityFlightFlap"
+        },
+        {
+            "type": "abilityIceAndFireStymphalianFeathers",
+            "cooldown": 70,
+            "count": 6,
+            "velocity": 1.6,
+            "slot": 1
+        }
+    ]
+}

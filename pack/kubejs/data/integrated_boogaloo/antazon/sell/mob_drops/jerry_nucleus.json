@@ -1,0 +1,11 @@
+{
+  "item": "antarchy:jerry_nucleus",
+  "value": 4,
+  "limit": 64,
+  "limit_reset": "minecraft_day",
+  "green_tint": false,
+  "unlock_tasks": [
+    "integrated_boogaloo:exploration/cavaryn/jerry"
+  ],
+  "unlock_mode": "any"
+}

@@ -1,0 +1,10 @@
+{
+  "category": "integrated_boogaloo:vikings",
+  "title": "guide.integrated_boogaloo.disk.viking_helheims_gate.title",
+  "description": "guide.integrated_boogaloo.disk.viking_helheims_gate.description",
+  "entries": [
+    "integrated_boogaloo:survey_dragon_island",
+    "integrated_boogaloo:bda_red_death"
+  ],
+  "wallpaper": "integrated_boogaloo:dragon_red_death"
+}

@@ -1,0 +1,52 @@
+{
+  "type": "pastel:enchanter",
+  "group": "antarchy",
+  "time": 1200,
+  "required_experience": 500,
+  "ingredients": [
+    {
+      "item": "minecraft:book"
+    },
+    {
+      "item": "pastel:light_blue_pigment"
+    },
+    {
+      "item": "pastel:light_blue_pigment"
+    },
+    {
+      "item": "antarchy:stratoshark_fin"
+    },
+    {
+      "item": "iceandfire:amphithere_feather"
+    },
+    {
+      "item": "pastel:light_blue_pigment"
+    },
+    {
+      "item": "pastel:light_blue_pigment"
+    },
+    {
+      "item": "antarchy:stratoshark_fin"
+    },
+    {
+      "item": "iceandfire:amphithere_feather"
+    }
+  ],
+  "result": {
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "stored_enchantments": {
+        "antarchy:feather_rising": 1
+      }
+    }
+  },
+  "required_advancement": "integrated_boogaloo:unlocks/enchantments/antarchy",
+  "neoforge:conditions": [
+    {
+      "type": "pastel:enchantments_exist",
+      "values": [
+        "antarchy:feather_rising"
+      ]
+    }
+  ]
+}

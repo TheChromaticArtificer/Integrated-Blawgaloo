@@ -1,0 +1,54 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.thoraxis_dread_barrens.title",
+  "description": "task.integrated_boogaloo.thoraxis_dread_barrens.description",
+  "showcase": [
+    "@entity:iceandfire:dread_lich"
+  ],
+  "icon": "iceandfire:dreadwood_log",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:thoraxis",
+  "sort_order": 12,
+  "position": {
+    "x": 0,
+    "y": 2
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "biome_visited",
+      "target": "integrated_boogaloo:dread_barrens",
+      "description": "task.integrated_boogaloo.thoraxis_dread_barrens.goal",
+      "count": 1
+    },
+    {
+      "id": "lich",
+      "type": "stat",
+      "target": "iceandfire:dread_lich",
+      "stat_type": "entity_killed",
+      "description": "task.integrated_boogaloo.thoraxis_dread_barrens.lich",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "knight",
+      "type": "stat",
+      "target": "iceandfire:dread_knight",
+      "stat_type": "entity_killed",
+      "description": "task.integrated_boogaloo.thoraxis_dread_barrens.knight",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 30
+    },
+    {
+      "type": "archive",
+      "entry": "integrated_boogaloo:iaf_dread_mobs"
+    }
+  ]
+}

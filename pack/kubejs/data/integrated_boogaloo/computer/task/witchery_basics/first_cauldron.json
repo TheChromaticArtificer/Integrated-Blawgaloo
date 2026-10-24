@@ -1,0 +1,46 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.witchery_first_cauldron.title",
+  "description": "task.integrated_boogaloo.witchery_first_cauldron.description",
+  "showcase": [
+    "@item:witchery:cauldron",
+    "@recipe:witchery:cauldron"
+  ],
+  "icon": "witchery:cauldron",
+  "program": "integrated_boogaloo:witchcraft",
+  "category": "integrated_boogaloo:witchcraft",
+  "sort_order": 9,
+  "position": {
+    "x": 3,
+    "y": 2
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:witchery_basics/altar"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "integrated_boogaloo:witchcraft/any_cauldron",
+      "description": "task.integrated_boogaloo.witchery_first_cauldron.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "item",
+      "item": "minecraft:egg",
+      "count": 4
+    },
+    {
+      "type": "antcoins",
+      "amount": 10
+    },
+    {
+      "type": "archive",
+      "entry": "integrated_boogaloo:witchery_cauldron"
+    }
+  ],
+  "line_axis": "vertical"
+}

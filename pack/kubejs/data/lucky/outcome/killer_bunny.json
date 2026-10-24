@@ -1,0 +1,14 @@
+{
+  "type": "lucky:group",
+  "luck": -1,
+  "outcomes": [
+    {
+      "type": "lucky:entity",
+      "entity_type": "minecraft:rabbit",
+      "nbt": {
+        "RabbitType": 99
+      }
+    }
+  ],
+  "chance": 1.0
+}

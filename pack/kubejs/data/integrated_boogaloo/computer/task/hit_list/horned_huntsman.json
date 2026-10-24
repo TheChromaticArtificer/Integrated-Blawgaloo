@@ -1,0 +1,71 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.hit_list_horned_huntsman.title",
+  "description": "task.integrated_boogaloo.hit_list_horned_huntsman.description",
+  "showcase": [
+    "@entity:witchery:horned_huntsman"
+  ],
+  "icon_entity": "witchery:horned_huntsman",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:hit_list_monsters",
+  "sort_order": 730,
+  "position": {
+    "x": 3,
+    "y": 7
+  },
+  "shape": "octagon",
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "kill",
+      "type": "stat",
+      "stat_type": "entity_killed",
+      "target": "witchery:horned_huntsman",
+      "description": "task.integrated_boogaloo.hit_list_horned_huntsman.kill",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "choice",
+      "options": [
+        {
+          "id": "coins",
+          "title": "task.integrated_boogaloo.reward.coins",
+          "rewards": [
+            {
+              "type": "antcoins",
+              "amount": 300
+            }
+          ]
+        },
+        {
+          "id": "crate",
+          "title": "task.integrated_boogaloo.reward.rare",
+          "rewards": [
+            {
+              "type": "item_pool",
+              "pool": "integrated_boogaloo:supplies_rare",
+              "mode": "random"
+            }
+          ]
+        },
+        {
+          "id": "lucky",
+          "title": "task.integrated_boogaloo.reward.lucky",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "lucky:lucky_block",
+              "count": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "experience_levels",
+      "levels": 10
+    }
+  ]
+}

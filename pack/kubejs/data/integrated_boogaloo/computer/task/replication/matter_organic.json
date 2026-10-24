@@ -1,0 +1,34 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.replication_matter_organic.title",
+  "description": "task.integrated_boogaloo.replication_matter_organic.description",
+  "icon": "minecraft:oak_log",
+  "program": "integrated_boogaloo:replication",
+  "category": "integrated_boogaloo:replication",
+  "sort_order": 10,
+  "position": {
+    "x": 0,
+    "y": -2
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:replication/disintegrator"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item_tag",
+      "target": "minecraft:logs",
+      "description": "task.integrated_boogaloo.replication_matter_organic.goal",
+      "count": 1,
+      "sticky": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 10
+    }
+  ],
+  "line_axis": "horizontal"
+}

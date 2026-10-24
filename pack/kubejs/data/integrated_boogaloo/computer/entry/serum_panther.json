@@ -1,0 +1,21 @@
+{
+  "green_tint": false,
+  "type": "item",
+  "category": "general",
+  "folder": "integrated_boogaloo:super_serums",
+  "sort_order": 0,
+  "item": "integrated_superheroes:syringe_heart_shaped_herb_tchalla",
+  "title": "guide.integrated_boogaloo.entry.serum_panther.title",
+  "subtitle": "guide.integrated_boogaloo.entry.serum_panther.subtitle",
+  "content": [
+    {
+      "text": "guide.integrated_boogaloo.entry.serum_panther.body_1"
+    },
+    {
+      "display": "integrated_boogaloo:guide/serum_panther"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.serum_panther.body_2"
+    }
+  ]
+}

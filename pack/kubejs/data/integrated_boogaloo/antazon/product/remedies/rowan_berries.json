@@ -1,0 +1,33 @@
+{
+  "name": "computer.integrated_boogaloo.product.remedies.rowan_berries.name",
+  "description": "computer.integrated_boogaloo.product.remedies.rowan_berries.description",
+  "category": "remedies",
+  "green_tint": false,
+  "quantity": 1,
+  "payments": [
+    {
+      "type": "antcoins",
+      "resource": "antcoins",
+      "amount": 20
+    }
+  ],
+  "thumbnail": {
+    "item": "witchery:rowan_berries"
+  },
+  "availability": {
+    "server_stock": 0,
+    "player_limit": 4,
+    "player_limit_reset": "minecraft_day"
+  },
+  "unlock_disks": [
+    "integrated_boogaloo:hedgerow_remedies"
+  ],
+  "unlock_mode": "all",
+  "hidden_until_unlocked": true,
+  "rewards": [
+    {
+      "item": "witchery:rowan_berries",
+      "count": 8
+    }
+  ]
+}

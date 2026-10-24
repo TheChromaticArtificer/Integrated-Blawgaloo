@@ -1,0 +1,71 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.hit_list_baphomorph.title",
+  "description": "task.integrated_boogaloo.hit_list_baphomorph.description",
+  "showcase": [
+    "@entity:gigeresque:baphomorph"
+  ],
+  "icon_entity": "gigeresque:baphomorph",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:hit_list_monsters",
+  "sort_order": 720,
+  "position": {
+    "x": 2,
+    "y": 7
+  },
+  "shape": "octagon",
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "kill_baphomorph",
+      "type": "stat",
+      "stat_type": "entity_killed",
+      "target": "gigeresque:baphomorph",
+      "description": "task.integrated_boogaloo.hit_list_baphomorph.kill_baphomorph",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "choice",
+      "options": [
+        {
+          "id": "coins",
+          "title": "task.integrated_boogaloo.reward.coins",
+          "rewards": [
+            {
+              "type": "antcoins",
+              "amount": 300
+            }
+          ]
+        },
+        {
+          "id": "crate",
+          "title": "task.integrated_boogaloo.reward.rare",
+          "rewards": [
+            {
+              "type": "item_pool",
+              "pool": "integrated_boogaloo:supplies_rare",
+              "mode": "random"
+            }
+          ]
+        },
+        {
+          "id": "lucky",
+          "title": "task.integrated_boogaloo.reward.lucky",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "lucky:lucky_block",
+              "count": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "experience_levels",
+      "levels": 10
+    }
+  ]
+}

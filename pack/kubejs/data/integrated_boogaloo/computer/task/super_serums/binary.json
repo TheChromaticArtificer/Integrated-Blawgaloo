@@ -1,0 +1,37 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.super_serums_binary.title",
+  "description": "task.integrated_boogaloo.super_serums_binary.description",
+  "showcase": [
+    "@recipe:integrated_superheroes:syringe_binary_carol_danvers"
+  ],
+  "icon": "integrated_superheroes:syringe_binary_carol_danvers",
+  "program": "integrated_boogaloo:super_serums",
+  "category": "integrated_boogaloo:super_serums",
+  "sort_order": 70,
+  "position": {
+    "x": 2,
+    "y": 3
+  },
+  "shape": "pentagon",
+  "size": 1.5,
+  "availability": "automatic",
+  "archive_entries": [
+    "integrated_boogaloo:serum_binary"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "integrated_boogaloo:deadpool/syringe_binary",
+      "description": "task.integrated_boogaloo.super_serums_binary.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 150
+    }
+  ]
+}

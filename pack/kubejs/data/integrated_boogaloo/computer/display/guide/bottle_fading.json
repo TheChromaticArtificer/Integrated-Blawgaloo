@@ -1,0 +1,273 @@
+{
+  "version": 1,
+  "title": "literal:Bottle of Fading",
+  "width": 250,
+  "height": 39,
+  "elements": [
+    {
+      "id": "bottle",
+      "type": "scene",
+      "x": 2,
+      "y": 2,
+      "width": 140,
+      "height": 126,
+      "yaw": 40,
+      "pitch": 35,
+      "scale": 1.2,
+      "blocks": [
+        {
+          "pos": [
+            0,
+            0,
+            0
+          ],
+          "state": "minecraft:oak_leaves",
+          "id": "b00"
+        },
+        {
+          "pos": [
+            1,
+            0,
+            0
+          ],
+          "state": "minecraft:oak_leaves",
+          "id": "b10"
+        },
+        {
+          "pos": [
+            2,
+            0,
+            0
+          ],
+          "state": "minecraft:oak_leaves",
+          "id": "b20"
+        },
+        {
+          "pos": [
+            0,
+            0,
+            1
+          ],
+          "state": "minecraft:oak_leaves",
+          "id": "b01"
+        },
+        {
+          "pos": [
+            1,
+            0,
+            1
+          ],
+          "state": "minecraft:oak_leaves",
+          "id": "b11"
+        },
+        {
+          "pos": [
+            2,
+            0,
+            1
+          ],
+          "state": "minecraft:oak_leaves",
+          "id": "b21"
+        },
+        {
+          "pos": [
+            0,
+            0,
+            2
+          ],
+          "state": "minecraft:oak_leaves",
+          "id": "b02"
+        },
+        {
+          "pos": [
+            1,
+            0,
+            2
+          ],
+          "state": "minecraft:oak_leaves",
+          "id": "b12"
+        },
+        {
+          "pos": [
+            2,
+            0,
+            2
+          ],
+          "state": "minecraft:oak_leaves",
+          "id": "b22"
+        }
+      ],
+      "steps": [
+        {
+          "id": "food",
+          "title": "literal:Its food",
+          "text": "literal:Find a patch of what it eats, like oak leaves."
+        },
+        {
+          "id": "place",
+          "title": "literal:Place the bottle",
+          "text": "literal:Use the bottle on it.",
+          "states": {
+            "b00": "pastel:fading"
+          },
+          "markers": [
+            {
+              "icon": "right_click",
+              "block": "b00",
+              "item": "pastel:bottle_of_fading",
+              "text": "literal:Use the bottle here"
+            }
+          ]
+        },
+        {
+          "id": "spread1",
+          "title": "literal:It spreads",
+          "text": "literal:It eats its way through, block by block.",
+          "states": {
+            "b00": "pastel:fading",
+            "b10": "pastel:fading",
+            "b20": "pastel:fading",
+            "b01": "pastel:fading"
+          }
+        },
+        {
+          "id": "spread2",
+          "title": "literal:It spreads",
+          "text": "literal:It eats its way through, block by block.",
+          "states": {
+            "b00": "pastel:fading",
+            "b10": "pastel:fading",
+            "b20": "pastel:fading",
+            "b01": "pastel:fading",
+            "b11": "pastel:fading",
+            "b21": "pastel:fading",
+            "b02": "pastel:fading",
+            "b12": "pastel:fading",
+            "b22": "pastel:fading"
+          }
+        },
+        {
+          "id": "break",
+          "title": "literal:Break it",
+          "text": "literal:Break what's left for Vegetal.",
+          "states": {
+            "b00": "minecraft:air",
+            "b10": "minecraft:air",
+            "b20": "minecraft:air",
+            "b01": "minecraft:air",
+            "b11": "minecraft:air",
+            "b21": "minecraft:air",
+            "b02": "minecraft:air",
+            "b12": "minecraft:air",
+            "b22": "minecraft:air"
+          },
+          "markers": [
+            {
+              "icon": "left_click",
+              "pos": [
+                1,
+                0,
+                1
+              ],
+              "text": "literal:Break the leftovers"
+            }
+          ]
+        }
+      ],
+      "autoplay": true,
+      "moves": [
+        {
+          "item": "pastel:vegetal",
+          "from": [
+            1,
+            0.2,
+            1
+          ],
+          "to": [
+            1.6,
+            0.6,
+            1.2
+          ],
+          "arc": 0.8,
+          "duration": 0.8,
+          "steps": [
+            "break"
+          ],
+          "loop": false
+        },
+        {
+          "item": "pastel:vegetal",
+          "from": [
+            1,
+            0.2,
+            1
+          ],
+          "to": [
+            0.5,
+            0.6,
+            1.4
+          ],
+          "arc": 0.8,
+          "duration": 0.8,
+          "steps": [
+            "break"
+          ],
+          "loop": false
+        },
+        {
+          "item": "pastel:vegetal",
+          "from": [
+            1,
+            0.2,
+            1
+          ],
+          "to": [
+            1.1,
+            0.6,
+            0.4
+          ],
+          "arc": 0.8,
+          "duration": 0.8,
+          "steps": [
+            "break"
+          ],
+          "loop": false
+        }
+      ],
+      "hero": true,
+      "ratio": 0.77
+    },
+    {
+      "type": "slot",
+      "x": 6,
+      "y": 4,
+      "item": "pastel:bottle_of_fading",
+      "role": "input"
+    },
+    {
+      "type": "arrow",
+      "x": 28,
+      "y": 13,
+      "x2": 44,
+      "y2": 13
+    },
+    {
+      "type": "slot",
+      "x": 48,
+      "y": 4,
+      "item": "pastel:vegetal",
+      "role": "output"
+    },
+    {
+      "type": "text",
+      "x": 6,
+      "y": 26,
+      "width": 238,
+      "text": "literal:Eats oak leaves and similar blocks.",
+      "color": "muted"
+    }
+  ],
+  "reflow": true,
+  "auto_height": true,
+  "hide_title": true
+}

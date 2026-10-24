@@ -1,0 +1,25 @@
+{
+  "type": "createcybernetics:engineering_deconstruct",
+  "inputs": [
+    {
+      "item": "createcybernetics:muscleupgrades_ballisticgel"
+    },
+    {
+      "item": "createcybernetics:scavenged_ballisticgel"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "oritech:carbon_fibre_strands",
+      "count": 9
+    },
+    {
+      "id": "minecraft:slime_ball",
+      "count": 8
+    },
+    {
+      "id": "minecraft:bone_meal",
+      "count": 8
+    }
+  ]
+}

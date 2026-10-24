@@ -1,0 +1,73 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.witchery_spirit_world.title",
+  "description": "task.integrated_boogaloo.witchery_spirit_world.description",
+  "showcase": [
+    "@recipe:witchery:brew_of_sleeping"
+  ],
+  "icon": "witchery:brew_of_sleeping",
+  "program": "integrated_boogaloo:witchcraft",
+  "category": "integrated_boogaloo:witchcraft",
+  "sort_order": 21,
+  "position": {
+    "x": 5,
+    "y": 3
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:witchery_basics/brew_of_sleeping"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "witchery:spirit_world",
+      "description": "task.integrated_boogaloo.witchery_spirit_world.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "choice",
+      "options": [
+        {
+          "id": "coins",
+          "title": "task.integrated_boogaloo.reward.coins",
+          "rewards": [
+            {
+              "type": "antcoins",
+              "amount": 75
+            }
+          ]
+        },
+        {
+          "id": "witch",
+          "title": "task.integrated_boogaloo.reward.witch",
+          "rewards": [
+            {
+              "type": "item_pool",
+              "pool": "integrated_boogaloo:witch_cupboard",
+              "mode": "random"
+            }
+          ]
+        },
+        {
+          "id": "titanium",
+          "title": "task.integrated_boogaloo.reward.titanium",
+          "rewards": [
+            {
+              "type": "item",
+              "item": "antarchy:titanium_nugget",
+              "count": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "archive",
+      "entry": "integrated_boogaloo:witchery_spirit_world"
+    }
+  ],
+  "line_axis": "horizontal"
+}

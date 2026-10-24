@@ -1,0 +1,10 @@
+{
+  "category": "integrated_boogaloo:bestiary",
+  "title": "guide.integrated_boogaloo.disk.bestiary_draconic.title",
+  "entries": [
+    "integrated_boogaloo:iaf_dragons",
+    "integrated_boogaloo:iaf_dragon_gear",
+    "integrated_boogaloo:iaf_tamed_dragons",
+    "integrated_boogaloo:iaf_scribes"
+  ]
+}

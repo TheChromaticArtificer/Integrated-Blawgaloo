@@ -1,0 +1,13 @@
+{
+  "sender": "freightgeist@antmail.com",
+  "sender_display": "Freightgeist",
+  "sender_avatar_item": "hats:halo",
+  "subject": "Darkest Material.",
+  "body": "You created something beautiful. Yet it fell apart.\n\nWhat remains is darker than black. Poisonous to life.\n\nI will open more of my stock to you as your research progresses, Artist. Use it well.\n\nP.S. The failed material can refine scrap at a highly efficient rate if you know how to use it.",
+  "trigger": {
+    "delay_minutes": 3,
+    "type": "advancement",
+    "value": "pastel:midgame/crumble_midnight_aberration"
+  },
+  "once": true
+}

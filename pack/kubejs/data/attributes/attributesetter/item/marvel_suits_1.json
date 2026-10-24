@@ -1,0 +1,472 @@
+{
+  "marvel:iron_man_mark_1_helmet": [
+    {
+      "attribute": "minecraft:generic.burning_time",
+      "value": -0.125,
+      "operation": "MULTIPLY_TOTAL"
+    },
+    {
+      "attribute": "minecraft:generic.knockback_resistance",
+      "value": 0.05,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:iron_man_mark_1_chestplate": [
+    {
+      "attribute": "minecraft:generic.burning_time",
+      "value": -0.125,
+      "operation": "MULTIPLY_TOTAL"
+    },
+    {
+      "attribute": "minecraft:generic.knockback_resistance",
+      "value": 0.05,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:iron_man_mark_1_leggings": [
+    {
+      "attribute": "minecraft:generic.burning_time",
+      "value": -0.125,
+      "operation": "MULTIPLY_TOTAL"
+    },
+    {
+      "attribute": "minecraft:generic.knockback_resistance",
+      "value": 0.05,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:iron_man_mark_1_boots": [
+    {
+      "attribute": "minecraft:generic.burning_time",
+      "value": -0.125,
+      "operation": "MULTIPLY_TOTAL"
+    },
+    {
+      "attribute": "minecraft:generic.knockback_resistance",
+      "value": 0.05,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:iron_man_mark_2_helmet": [
+    {
+      "attribute": "sinew:air_speed",
+      "value": 0.005,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:iron_man_mark_2_chestplate": [
+    {
+      "attribute": "sinew:air_speed",
+      "value": 0.005,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:iron_man_mark_2_leggings": [
+    {
+      "attribute": "sinew:air_speed",
+      "value": 0.005,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:iron_man_mark_2_boots": [
+    {
+      "attribute": "sinew:air_speed",
+      "value": 0.005,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:iron_man_mark_3_helmet": [
+    {
+      "attribute": "apothic_attributes:crit_damage",
+      "value": 0.05,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "apothic_attributes:crit_chance",
+      "value": 0.03,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:iron_man_mark_3_chestplate": [
+    {
+      "attribute": "apothic_attributes:crit_damage",
+      "value": 0.05,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:iron_man_mark_3_leggings": [
+    {
+      "attribute": "apothic_attributes:crit_damage",
+      "value": 0.05,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:iron_man_mark_3_boots": [
+    {
+      "attribute": "apothic_attributes:crit_damage",
+      "value": 0.05,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:iron_man_mark_5_helmet": [
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "value": 0.025,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "value": 0.0125,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "apothic_attributes:crit_chance",
+      "value": 0.03,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:iron_man_mark_5_chestplate": [
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "value": 0.025,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "value": 0.0125,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "marvel:iron_man_mark_5_leggings": [
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "value": 0.025,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "value": 0.0125,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "marvel:iron_man_mark_5_boots": [
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "value": 0.025,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "value": 0.0125,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "marvel:iron_man_mark_6_helmet": [
+    {
+      "attribute": "apothic_attributes:armor_pierce",
+      "value": 2.5,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "apothic_attributes:crit_chance",
+      "value": 0.03,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:iron_man_mark_6_chestplate": [
+    {
+      "attribute": "apothic_attributes:armor_pierce",
+      "value": 2.5,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:iron_man_mark_6_leggings": [
+    {
+      "attribute": "apothic_attributes:armor_pierce",
+      "value": 2.5,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:iron_man_mark_6_boots": [
+    {
+      "attribute": "apothic_attributes:armor_pierce",
+      "value": 2.5,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:iron_man_mark_7_helmet": [
+    {
+      "attribute": "minecraft:generic.max_absorption",
+      "value": 2.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "apothic_attributes:crit_damage",
+      "value": 0.05,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "apothic_attributes:crit_chance",
+      "value": 0.03,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:iron_man_mark_7_chestplate": [
+    {
+      "attribute": "minecraft:generic.max_absorption",
+      "value": 2.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "apothic_attributes:crit_damage",
+      "value": 0.05,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:iron_man_mark_7_leggings": [
+    {
+      "attribute": "minecraft:generic.max_absorption",
+      "value": 2.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "apothic_attributes:crit_damage",
+      "value": 0.05,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:iron_man_mark_7_boots": [
+    {
+      "attribute": "minecraft:generic.max_absorption",
+      "value": 2.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "apothic_attributes:crit_damage",
+      "value": 0.05,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:iron_man_mark_11_helmet": [
+    {
+      "attribute": "apothic_attributes:crit_damage",
+      "value": 0.0625,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.max_absorption",
+      "value": 1.0,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "apothic_attributes:crit_chance",
+      "value": 0.03,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:iron_man_mark_11_chestplate": [
+    {
+      "attribute": "apothic_attributes:crit_damage",
+      "value": 0.0625,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.max_absorption",
+      "value": 1.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:iron_man_mark_11_leggings": [
+    {
+      "attribute": "apothic_attributes:crit_damage",
+      "value": 0.0625,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.max_absorption",
+      "value": 1.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:iron_man_mark_11_boots": [
+    {
+      "attribute": "apothic_attributes:crit_damage",
+      "value": 0.0625,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.max_absorption",
+      "value": 1.0,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:iron_man_mark_15_helmet": [
+    {
+      "attribute": "apothic_attributes:crit_damage",
+      "value": 0.125,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "apothic_attributes:crit_chance",
+      "value": 0.03,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:iron_man_mark_15_chestplate": [
+    {
+      "attribute": "apothic_attributes:crit_damage",
+      "value": 0.125,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:iron_man_mark_15_leggings": [
+    {
+      "attribute": "apothic_attributes:crit_damage",
+      "value": 0.125,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:iron_man_mark_15_boots": [
+    {
+      "attribute": "apothic_attributes:crit_damage",
+      "value": 0.125,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:iron_man_mark_17_helmet": [
+    {
+      "attribute": "apothic_attributes:armor_shred",
+      "value": 0.0375,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "apothic_attributes:crit_chance",
+      "value": 0.03,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:iron_man_mark_17_chestplate": [
+    {
+      "attribute": "apothic_attributes:armor_shred",
+      "value": 0.0375,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:iron_man_mark_17_leggings": [
+    {
+      "attribute": "apothic_attributes:armor_shred",
+      "value": 0.0375,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:iron_man_mark_17_boots": [
+    {
+      "attribute": "apothic_attributes:armor_shred",
+      "value": 0.0375,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:iron_man_mark_19_helmet": [
+    {
+      "attribute": "sinew:air_speed",
+      "value": 0.0075,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.gravity",
+      "value": -0.025,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "apothic_attributes:crit_chance",
+      "value": 0.03,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:iron_man_mark_19_chestplate": [
+    {
+      "attribute": "sinew:air_speed",
+      "value": 0.0075,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.gravity",
+      "value": -0.025,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "marvel:iron_man_mark_19_leggings": [
+    {
+      "attribute": "sinew:air_speed",
+      "value": 0.0075,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.gravity",
+      "value": -0.025,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "marvel:iron_man_mark_19_boots": [
+    {
+      "attribute": "sinew:air_speed",
+      "value": 0.0075,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "minecraft:generic.gravity",
+      "value": -0.025,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "marvel:iron_man_mark_20_helmet": [
+    {
+      "attribute": "apothic_attributes:projectile_damage",
+      "value": 0.05,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "apothic_attributes:crit_chance",
+      "value": 0.03,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:iron_man_mark_20_chestplate": [
+    {
+      "attribute": "apothic_attributes:projectile_damage",
+      "value": 0.05,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:iron_man_mark_20_leggings": [
+    {
+      "attribute": "apothic_attributes:projectile_damage",
+      "value": 0.05,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:iron_man_mark_20_boots": [
+    {
+      "attribute": "apothic_attributes:projectile_damage",
+      "value": 0.05,
+      "operation": "ADDITION"
+    }
+  ],
+  "marvel:iron_man_mark_21_helmet": [
+    {
+      "attribute": "minecraft:generic.luck",
+      "value": 0.5,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "apothic_attributes:experience_gained",
+      "value": 0.0625,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "apothic_attributes:crit_chance",
+      "value": 0.03,
+      "operation": "ADDITION"
+    }
+  ]
+}

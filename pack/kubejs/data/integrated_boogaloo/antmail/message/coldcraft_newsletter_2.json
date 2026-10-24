@@ -1,0 +1,11 @@
+{
+  "sender": "coldcraft@antmail.com",
+  "sender_display": "ColdCraft City",
+  "sender_avatar_item": "minecraft:clock",
+  "subject": "Ferris wheel update",
+  "body": "The Ferris wheel has completed its millionth rotation. Nobody has been allowed off.\n\nVisit soon.\nColdCraft City",
+  "trigger": {
+    "type": "random",
+    "pool": "integrated_boogaloo:coldcraft_newsletter"
+  }
+}

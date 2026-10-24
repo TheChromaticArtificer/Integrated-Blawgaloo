@@ -1,0 +1,30 @@
+{
+  "type": "createcybernetics:engineering_table",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "W": {
+      "item": "oritech:magnetic_coil"
+    },
+    "T": {
+      "item": "antarchy:titanium_nugget"
+    },
+    "G": {
+      "item": "oritech:electrum_ingot"
+    },
+    "R": {
+      "item": "oritech:basic_battery"
+    }
+  },
+  "pattern": [
+    "GTGTG",
+    "TWWWT",
+    "TWRWT",
+    "TWWWT",
+    "GTGTG"
+  ],
+  "result": {
+    "count": 1,
+    "id": "createcybernetics:charging_block"
+  }
+}

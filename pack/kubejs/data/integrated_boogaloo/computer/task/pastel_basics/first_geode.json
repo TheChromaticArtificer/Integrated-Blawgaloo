@@ -1,0 +1,69 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.pastel_first_geode.title",
+  "description": "task.integrated_boogaloo.pastel_first_geode.description",
+  "icon": "pastel:topaz_shard",
+  "program": "integrated_boogaloo:world_of_color",
+  "category": "integrated_boogaloo:world_of_color",
+  "sort_order": 1,
+  "position": {
+    "x": 0,
+    "y": 0
+  },
+  "shape": "hexagon",
+  "size": 1.25,
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "pastel:break_gemstone_ore",
+      "description": "task.integrated_boogaloo.pastel_first_geode.goal",
+      "count": 1
+    },
+    {
+      "id": "topaz",
+      "type": "item",
+      "target": "pastel:topaz_shard",
+      "description": "task.integrated_boogaloo.pastel_first_geode.topaz",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "amethyst",
+      "type": "item",
+      "target": "minecraft:amethyst_shard",
+      "description": "task.integrated_boogaloo.pastel_first_geode.amethyst",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "citrine",
+      "type": "item",
+      "target": "pastel:citrine_shard",
+      "description": "task.integrated_boogaloo.pastel_first_geode.citrine",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "item",
+      "item": "pastel:guidebook",
+      "count": 1
+    },
+    {
+      "type": "antcoins",
+      "amount": 10
+    },
+    {
+      "type": "archive",
+      "entry": "integrated_boogaloo:pastel_color_mixing"
+    },
+    {
+      "type": "archive",
+      "entry": "integrated_boogaloo:pastel_geodes"
+    }
+  ],
+  "showcase": []
+}

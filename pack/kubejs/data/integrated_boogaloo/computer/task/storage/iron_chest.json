@@ -1,0 +1,37 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.storage_iron_chest.title",
+  "description": "task.integrated_boogaloo.storage_iron_chest.description",
+  "showcase": [
+    "@item:ironchest:iron_chest",
+    "@recipe:ironchest:iron_chest"
+  ],
+  "icon": "ironchest:iron_chest",
+  "program": "integrated_boogaloo:storage",
+  "category": "integrated_boogaloo:storage",
+  "sort_order": 201,
+  "position": {
+    "x": 1,
+    "y": 4
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:storage/copper_chest"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "ironchest:iron_chest",
+      "description": "task.integrated_boogaloo.storage_iron_chest.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 10
+    }
+  ],
+  "line_axis": "horizontal"
+}

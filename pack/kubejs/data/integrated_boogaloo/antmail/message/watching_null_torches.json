@@ -1,0 +1,10 @@
+{
+  "sender": "null@antmail.com",
+  "subject": "your torches",
+  "body": "you left the torches on.\n\ni fixed them. red is better.",
+  "trigger": {
+    "type": "advancement",
+    "value": "boogaloo_core:watching/crimson_curse",
+    "delay": 1
+  }
+}

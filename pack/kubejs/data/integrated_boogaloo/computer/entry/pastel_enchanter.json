@@ -1,0 +1,32 @@
+{
+  "green_tint": false,
+  "type": "article",
+  "category": "general",
+  "folder": "integrated_boogaloo:world_of_color",
+  "sort_order": 100,
+  "title": "guide.integrated_boogaloo.entry.pastel_enchanter.title",
+  "subtitle": "guide.integrated_boogaloo.entry.pastel_enchanter.subtitle",
+  "content": [
+    {
+      "text": "guide.integrated_boogaloo.entry.pastel_enchanter.body_1"
+    },
+    {
+      "display": "integrated_boogaloo:guide/enchanter"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.pastel_enchanter.body_2"
+    }
+  ],
+  "cover_item": "pastel:enchanter",
+  "lookup": [
+    "pastel:item_bowl_basalt",
+    "pastel:item_bowl_calcite",
+    "pastel:item_bowl_enlightenment",
+    "pastel:knowledge_gem",
+    "pastel:enchanter_structure_placer"
+  ],
+  "lookup_recipes": [
+    "pastel:enchanter",
+    "pastel:enchantment_upgrade"
+  ]
+}

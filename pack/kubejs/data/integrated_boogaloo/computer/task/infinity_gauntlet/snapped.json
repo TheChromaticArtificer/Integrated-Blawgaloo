@@ -1,0 +1,36 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.gauntlet_snapped.title",
+  "description": "task.integrated_boogaloo.gauntlet_snapped.description",
+  "icon": "minecraft:wither_skeleton_skull",
+  "program": "integrated_boogaloo:big_boogaloo",
+  "category": "integrated_boogaloo:big_boogaloo",
+  "sort_order": 41,
+  "position": {
+    "x": 9,
+    "y": 1
+  },
+  "shape": "pentagon",
+  "size": 1.25,
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:infinity_gauntlet/complete"
+  ],
+  "hide_until_dependencies_complete": true,
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "integrated_boogaloo:gauntlet/snapped",
+      "description": "task.integrated_boogaloo.gauntlet_snapped.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "experience_levels",
+      "levels": 5
+    }
+  ],
+  "line_axis": "horizontal"
+}

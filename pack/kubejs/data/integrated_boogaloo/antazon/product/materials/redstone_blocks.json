@@ -1,0 +1,38 @@
+{
+  "name": "computer.integrated_boogaloo.product.materials.redstone_blocks.name",
+  "description": "computer.integrated_boogaloo.product.materials.redstone_blocks.description",
+  "category": "clearance",
+  "green_tint": false,
+  "quantity": 1,
+  "payments": [
+    {
+      "type": "antcoins",
+      "resource": "antcoins",
+      "amount": 80
+    }
+  ],
+  "thumbnail": {
+    "item": "minecraft:redstone_block"
+  },
+  "rewards": [
+    {
+      "item": "minecraft:redstone_block",
+      "count": 8
+    }
+  ],
+  "reviews": [
+    {
+      "id": "mumbo",
+      "author": "Mumbo Jumbo",
+      "title": "computer.integrated_boogaloo.product.materials.redstone_blocks.review.mumbo.title",
+      "body": "computer.integrated_boogaloo.product.materials.redstone_blocks.review.mumbo.body",
+      "rating": 5,
+      "badge": "REDSTONE"
+    }
+  ],
+  "unlock_disks": [
+    "integrated_boogaloo:workshop_clearance"
+  ],
+  "unlock_mode": "all",
+  "hidden_until_unlocked": true
+}

@@ -1,0 +1,35 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.super_serums_super_soldier.title",
+  "description": "task.integrated_boogaloo.super_serums_super_soldier.description",
+  "showcase": [
+    "@recipe:integrated_superheroes:syringe_super_soldier_steve_rogers"
+  ],
+  "icon": "integrated_superheroes:syringe_super_soldier_steve_rogers",
+  "program": "integrated_boogaloo:super_serums",
+  "category": "integrated_boogaloo:super_serums",
+  "sort_order": 11,
+  "position": {
+    "x": 3,
+    "y": 0
+  },
+  "availability": "automatic",
+  "archive_entries": [
+    "integrated_boogaloo:serum_super_soldier"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "integrated_boogaloo:deadpool/syringe_super_soldier",
+      "description": "task.integrated_boogaloo.super_serums_super_soldier.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 50
+    }
+  ]
+}

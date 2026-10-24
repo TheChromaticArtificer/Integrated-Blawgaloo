@@ -1,0 +1,41 @@
+{
+  "title": "literal:Summoning rites",
+  "variants": [
+    {
+      "id": "hydra",
+      "title": "literal:Hydra",
+      "template": "integrated_boogaloo:guide/templates/rite",
+      "recipe_binding": {
+        "recipe": "integrated_boogaloo:ritual/summon_hydra",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Hydra"
+      }
+    },
+    {
+      "id": "gorgon",
+      "title": "literal:Gorgon",
+      "template": "integrated_boogaloo:guide/templates/rite",
+      "recipe_binding": {
+        "recipe": "integrated_boogaloo:ritual/summon_gorgon",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Gorgon"
+      }
+    },
+    {
+      "id": "kraken",
+      "title": "literal:Kraken",
+      "template": "integrated_boogaloo:guide/templates/rite",
+      "recipe_binding": {
+        "recipe": "integrated_boogaloo:ritual/summon_kraken",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Kraken"
+      }
+    }
+  ]
+}

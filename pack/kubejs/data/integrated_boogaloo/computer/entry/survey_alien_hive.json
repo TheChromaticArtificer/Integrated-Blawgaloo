@@ -1,0 +1,16 @@
+{
+  "green_tint": false,
+  "type": "structure",
+  "category": "surveys",
+  "folder": "integrated_boogaloo:overworld",
+  "sort_order": 220,
+  "cover_item": "minecraft:filled_map",
+  "title": "guide.integrated_boogaloo.entry.survey_alien_hive.title",
+  "subtitle": "guide.integrated_boogaloo.entry.survey_alien_hive.subtitle",
+  "description": [
+    "guide.integrated_boogaloo.entry.survey_alien_hive.body"
+  ],
+  "structure": "integrated_boogaloo:alien_hive",
+  "dimension": "minecraft:overworld",
+  "search_radius": 100
+}

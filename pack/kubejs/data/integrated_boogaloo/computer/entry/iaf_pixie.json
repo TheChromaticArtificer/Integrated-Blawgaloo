@@ -1,0 +1,51 @@
+{
+  "green_tint": false,
+  "type": "entity",
+  "category": "bestiary_uncanny",
+  "folder": "integrated_boogaloo:bestiary",
+  "sort_order": 150,
+  "entity": "iceandfire:pixie",
+  "cover_entity": "iceandfire:pixie",
+  "rotation": 45,
+  "title": "guide.integrated_boogaloo.entry.iaf_pixie.title",
+  "subtitle": "guide.integrated_boogaloo.entry.iaf_pixie.subtitle",
+  "gallery_title": "guide.integrated_boogaloo.entry.iaf_pixie.gallery_title",
+  "gallery": [
+    {
+      "item": "iceandfire:pixie_jar_0"
+    },
+    {
+      "item": "iceandfire:pixie_jar_1"
+    },
+    {
+      "item": "iceandfire:pixie_jar_2"
+    },
+    {
+      "item": "iceandfire:pixie_jar_3"
+    },
+    {
+      "item": "iceandfire:pixie_jar_4"
+    }
+  ],
+  "lookup": [
+    "iceandfire:pixie_dust",
+    "iceandfire:pixie_wings",
+    "iceandfire:pixie_wand",
+    "iceandfire:pixie_jar_empty",
+    "iceandfire:pixie_jar_5"
+  ],
+  "content": [
+    {
+      "text": "guide.integrated_boogaloo.entry.iaf_pixie.body_1"
+    },
+    {
+      "display": "integrated_boogaloo:guide/pixie_jar"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.iaf_pixie.body_2"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.iaf_pixie.body_3"
+    }
+  ]
+}

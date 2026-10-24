@@ -1,0 +1,33 @@
+{
+  "name": "computer.integrated_boogaloo.product.seance.candle_stands.name",
+  "description": "computer.integrated_boogaloo.product.seance.candle_stands.description",
+  "category": "séance",
+  "green_tint": false,
+  "quantity": 1,
+  "payments": [
+    {
+      "type": "antcoins",
+      "resource": "antcoins",
+      "amount": 25
+    }
+  ],
+  "thumbnail": {
+    "item": "abyssal_decor:candle_stand"
+  },
+  "availability": {
+    "server_stock": 0,
+    "player_limit": 4,
+    "player_limit_reset": "minecraft_day"
+  },
+  "unlock_disks": [
+    "integrated_boogaloo:seance_supplies"
+  ],
+  "unlock_mode": "all",
+  "hidden_until_unlocked": true,
+  "rewards": [
+    {
+      "item": "abyssal_decor:candle_stand",
+      "count": 4
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.thoraxis_queen.title",
+  "description": "task.integrated_boogaloo.thoraxis_queen.description",
+  "showcase": [
+    "@entity:antarchy:queen"
+  ],
+  "icon": "antarchy:queen_spawn_egg",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:thoraxis",
+  "sort_order": 33,
+  "position": {
+    "x": 4,
+    "y": 6
+  },
+  "shape": "octagon",
+  "size": 1.5,
+  "availability": "automatic",
+  "hide_until_dependencies_complete": true,
+  "requires": [
+    "integrated_boogaloo:exploration/thoraxis/throat"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "antarchy:down_with_the_queen",
+      "description": "task.integrated_boogaloo.thoraxis_queen.goal",
+      "count": 1
+    }
+  ],
+  "archive_entries": [
+    "integrated_boogaloo:stone_time"
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 800
+    },
+    {
+      "type": "item_pool",
+      "pool": "integrated_boogaloo:prestige",
+      "mode": "choice"
+    }
+  ],
+  "line_axis": "horizontal"
+}

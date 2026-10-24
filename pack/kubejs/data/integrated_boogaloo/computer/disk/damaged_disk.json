@@ -1,0 +1,16 @@
+{
+  "category": "integrated_boogaloo:recovered",
+  "title": "guide.integrated_boogaloo.disk.damaged_disk.title",
+  "description": "guide.integrated_boogaloo.disk.damaged_disk.description",
+  "hidden": true,
+  "encryption": {
+    "password": "bottom",
+    "hint": "guide.integrated_boogaloo.disk.damaged_disk.hint"
+  },
+  "files": [
+    {
+      "path": "readme.txt",
+      "source": "integrated_boogaloo:damaged_disk/readme.txt"
+    }
+  ]
+}

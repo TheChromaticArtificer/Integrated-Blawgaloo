@@ -1,0 +1,17 @@
+{
+  "sender": "deadpool@antmail.com",
+  "sender_display": "Deadpool",
+  "sender_avatar_item": "marvel:deadpool_helmet",
+  "subject": "Mall rat",
+  "body": "Jubilee is a teenager who shoots fireworks out of her hands and somehow Im the one banned from the mall. Spin the Palette wheel to pick your colors. If you fly an elytra her boost rockets last half again as long, and Light Show lights up the cave around you as you walk, which saves a LOT of torches.",
+  "trigger": {
+    "type": "advancement",
+    "value": "integrated_boogaloo:deadpool/syringe_jubilee",
+    "delay_minutes": 2
+  },
+  "conditions": {
+    "mail_read": [
+      "integrated_boogaloo:deadpool_intro"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "book.pastel.guidebook.boogaloo.remembrance.name",
+  "icon": {
+    "item": "witchery:golden_ritual_chalk"
+  },
+  "condition": {
+    "type": "modonomicon:advancement",
+    "advancement_id": "pastel:unlocks/blocks/spirit_instiller"
+  },
+  "category": "pastel:creating_life",
+  "hide_while_locked": true,
+  "parents": [],
+  "background_u_index": 0,
+  "background_v_index": 0,
+  "x": 0,
+  "y": 0,
+  "pages": [
+    {
+      "type": "modonomicon:text",
+      "text": "book.pastel.guidebook.boogaloo.remembrance.page0",
+      "title": "book.pastel.guidebook.boogaloo.remembrance.name"
+    },
+    {
+      "type": "modonomicon:text",
+      "text": "book.pastel.guidebook.boogaloo.remembrance.page1",
+      "title": "book.pastel.guidebook.boogaloo.remembrance.page1.title"
+    }
+  ]
+}

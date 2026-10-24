@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "mts:mtsofficialpack.spraycan_black",
+    "mts:mtsofficialpack.spraycan_blue",
+    "mts:mtsofficialpack.spraycan_glow",
+    "mts:mtsofficialpack.spraycan_red",
+    "mts:mtsofficialpack.spraycan_yellow"
+  ]
+}

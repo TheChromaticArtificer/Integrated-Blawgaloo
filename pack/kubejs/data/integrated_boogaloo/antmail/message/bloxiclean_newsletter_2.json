@@ -1,0 +1,11 @@
+{
+  "sender": "bloxiclean@antmail.com",
+  "sender_display": "Bloxiclean",
+  "sender_avatar_item": "minecraft:sponge",
+  "subject": "A note from our technicians",
+  "body": "Please stop leaving cobwebs out for us. We know it's you.\n\nBloxiclean",
+  "trigger": {
+    "type": "random",
+    "pool": "integrated_boogaloo:bloxiclean_newsletter"
+  }
+}

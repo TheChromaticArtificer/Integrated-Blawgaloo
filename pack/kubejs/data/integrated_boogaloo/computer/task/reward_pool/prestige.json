@@ -1,0 +1,34 @@
+{
+  "entries": [
+    {
+      "item": "antarchy:rainbow_sugar",
+      "weight": 1,
+      "count": 2
+    },
+    {
+      "item": "lucky:lucky_block",
+      "weight": 1,
+      "count": 16
+    },
+    {
+      "item": "marvel:gold_titanium_ingot",
+      "weight": 1,
+      "count": 4
+    },
+    {
+      "item": "antarchy:titanium_ingot",
+      "weight": 1,
+      "count": 16
+    },
+    {
+      "item": "antarchy:uranium_ingot",
+      "weight": 1,
+      "count": 16
+    },
+    {
+      "item": "minecraft:diamond",
+      "weight": 1,
+      "count": 8
+    }
+  ]
+}

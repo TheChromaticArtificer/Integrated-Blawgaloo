@@ -1,0 +1,38 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.engineering_extractor.title",
+  "description": "task.integrated_boogaloo.engineering_extractor.description",
+  "showcase": [
+    "@item:oritech:deep_drill_block",
+    "@recipe:oritech:deep_drill_block"
+  ],
+  "icon": "oritech:deep_drill_block",
+  "program": "integrated_boogaloo:engineering",
+  "category": "integrated_boogaloo:engineering",
+  "sort_order": 26,
+  "position": {
+    "x": 11,
+    "y": 2
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:engineering/compensator"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "integrated_boogaloo:engineering/extractor",
+      "description": "task.integrated_boogaloo.engineering_extractor.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "item",
+      "item": "antarchy:uranium_ingot",
+      "count": 4
+    }
+  ],
+  "line_axis": "vertical"
+}

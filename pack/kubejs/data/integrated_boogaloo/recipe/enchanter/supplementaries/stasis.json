@@ -1,0 +1,52 @@
+{
+  "type": "pastel:enchanter",
+  "group": "supplementaries",
+  "time": 1200,
+  "required_experience": 500,
+  "ingredients": [
+    {
+      "item": "minecraft:book"
+    },
+    {
+      "item": "pastel:light_gray_pigment"
+    },
+    {
+      "item": "pastel:light_gray_pigment"
+    },
+    {
+      "item": "supplementaries:hourglass"
+    },
+    {
+      "item": "antarchy:antimetal"
+    },
+    {
+      "item": "pastel:light_gray_pigment"
+    },
+    {
+      "item": "pastel:light_gray_pigment"
+    },
+    {
+      "item": "supplementaries:hourglass"
+    },
+    {
+      "item": "antarchy:antimetal"
+    }
+  ],
+  "result": {
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "stored_enchantments": {
+        "supplementaries:stasis": 1
+      }
+    }
+  },
+  "required_advancement": "integrated_boogaloo:unlocks/enchantments/supplementaries",
+  "neoforge:conditions": [
+    {
+      "type": "pastel:enchantments_exist",
+      "values": [
+        "supplementaries:stasis"
+      ]
+    }
+  ]
+}

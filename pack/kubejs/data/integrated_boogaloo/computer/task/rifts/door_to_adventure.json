@@ -1,0 +1,36 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.rifts_door_to_adventure.title",
+  "description": "task.integrated_boogaloo.rifts_door_to_adventure.description",
+  "showcase": [
+    "@recipe:dimdoors:item_ag_dim_dimdoors_stone_door"
+  ],
+  "icon": "dimdoors:item_ag_dim_dimdoors_stone_door",
+  "program": "integrated_boogaloo:big_boogaloo",
+  "category": "integrated_boogaloo:big_boogaloo",
+  "sort_order": 67,
+  "position": {
+    "x": 3,
+    "y": 4
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:rifts/through_the_door"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "dimdoors:dimdoors/door_to_adventure",
+      "description": "task.integrated_boogaloo.rifts_door_to_adventure.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 75
+    }
+  ],
+  "line_axis": "horizontal"
+}

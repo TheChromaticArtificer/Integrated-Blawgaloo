@@ -1,0 +1,36 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.gauntlet_mark_43.title",
+  "description": "task.integrated_boogaloo.gauntlet_mark_43.description",
+  "showcase": [
+    "@recipe:marvel:iron_man_mark_43_chestplate"
+  ],
+  "icon": "marvel:iron_man_mark_43_chestplate",
+  "program": "integrated_boogaloo:big_boogaloo",
+  "category": "integrated_boogaloo:big_boogaloo",
+  "sort_order": 12,
+  "position": {
+    "x": 6,
+    "y": 1
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:big_bertha/big_bertha"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "marvel:iron_man_mark_43_chestplate",
+      "description": "task.integrated_boogaloo.gauntlet_mark_43.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "experience_levels",
+      "levels": 5
+    }
+  ],
+  "line_axis": "horizontal"
+}

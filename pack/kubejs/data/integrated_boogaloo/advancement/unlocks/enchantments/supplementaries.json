@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "built_enchanting_structure": {
+      "trigger": "databank:has_advancement",
+      "conditions": {
+        "advancement": "pastel:midgame/build_enchanting_structure"
+      }
+    },
+    "has_supplementaries_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "supplementaries:slingshot",
+              "supplementaries:bubble_blower",
+              "supplementaries:hourglass"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

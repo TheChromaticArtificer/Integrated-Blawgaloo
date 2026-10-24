@@ -1,0 +1,9 @@
+{
+  "category": "integrated_boogaloo:vikings",
+  "title": "guide.integrated_boogaloo.disk.viking_skrill.title",
+  "description": "guide.integrated_boogaloo.disk.viking_skrill.description",
+  "entries": [
+    "integrated_boogaloo:bda_skrill",
+    "integrated_boogaloo:iaf_dragons"
+  ]
+}

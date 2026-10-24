@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "flytrap_goo": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "antarchy:flytrap_goo"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "flytrap_goo"
+    ]
+  ]
+}

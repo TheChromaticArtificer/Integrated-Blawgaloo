@@ -1,0 +1,37 @@
+{
+  "name": "item.pastel.milky_resin",
+  "condition": {
+    "type": "modonomicon:advancement",
+    "advancement_id": "pastel:hidden/collect_milky_resin"
+  },
+  "icon": {
+    "item": "pastel:milky_resin"
+  },
+  "category": "pastel:cuisine",
+  "hide_while_locked": true,
+  "parents": [],
+  "background_u_index": 0,
+  "background_v_index": 0,
+  "x": 5,
+  "y": 4,
+  "pages": [
+    {
+      "type": "modonomicon:spotlight",
+      "item": {
+        "item": "pastel:milky_resin"
+      },
+      "text": "book.pastel.guidebook.milky_resin.page0.text"
+    },
+    {
+      "type": "witchery:cauldron_crafting_recipe",
+      "anchor": "",
+      "condition": {
+        "type": "modonomicon:none"
+      },
+      "recipe_id_1": "integrated_boogaloo:cauldron_crafting/fermenting/clotted_cream_resin",
+      "title1": "book.pastel.guidebook.milky_resin.page1.title",
+      "title2": "",
+      "text": "book.pastel.guidebook.milky_resin.page1.text"
+    }
+  ]
+}

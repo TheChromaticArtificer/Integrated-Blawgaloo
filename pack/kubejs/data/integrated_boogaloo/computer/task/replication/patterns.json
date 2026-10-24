@@ -1,0 +1,51 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.replication_patterns.title",
+  "description": "task.integrated_boogaloo.replication_patterns.description",
+  "showcase": [
+    "@item:replication:identification_chamber",
+    "@recipe:replication:identification_chamber"
+  ],
+  "icon": "replication:identification_chamber",
+  "program": "integrated_boogaloo:replication",
+  "category": "integrated_boogaloo:replication",
+  "sort_order": 4,
+  "position": {
+    "x": 2,
+    "y": 0
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:replication/network"
+  ],
+  "objectives": [
+    {
+      "id": "chamber",
+      "type": "item",
+      "target": "replication:identification_chamber",
+      "description": "task.integrated_boogaloo.replication_patterns.chamber",
+      "count": 1
+    },
+    {
+      "id": "storage",
+      "type": "item",
+      "target": "replication:chip_storage",
+      "description": "task.integrated_boogaloo.replication_patterns.storage",
+      "count": 1
+    },
+    {
+      "id": "chip",
+      "type": "item",
+      "target": "replication:memory_chip",
+      "description": "task.integrated_boogaloo.replication_patterns.chip",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 30
+    }
+  ],
+  "line_axis": "horizontal"
+}

@@ -1,0 +1,7 @@
+{
+  "item": "minecraft:emerald",
+  "value": 15,
+  "limit": 64,
+  "limit_reset": "minecraft_day",
+  "green_tint": false
+}

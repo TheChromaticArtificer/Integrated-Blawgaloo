@@ -1,0 +1,52 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.gauntlet_complete.title",
+  "description": "task.integrated_boogaloo.gauntlet_complete.description",
+  "showcase": [
+    "@recipe:integrated_superheroes:infinity_gauntlet"
+  ],
+  "icon": "integrated_superheroes:infinity_gauntlet",
+  "program": "integrated_boogaloo:big_boogaloo",
+  "category": "integrated_boogaloo:big_boogaloo",
+  "sort_order": 30,
+  "position": {
+    "x": 8,
+    "y": 0
+  },
+  "shape": "pentagon",
+  "size": 1.5,
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:infinity_gauntlet/mind_stone",
+    "integrated_boogaloo:infinity_gauntlet/time_stone",
+    "integrated_boogaloo:infinity_gauntlet/space_stone",
+    "integrated_boogaloo:infinity_gauntlet/power_stone",
+    "integrated_boogaloo:infinity_gauntlet/soul_stone",
+    "integrated_boogaloo:infinity_gauntlet/reality_stone"
+  ],
+  "requires_any": [
+    "integrated_boogaloo:infinity_gauntlet/gauntlet",
+    "integrated_boogaloo:infinity_gauntlet/nano_gauntlet"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "integrated_boogaloo:gauntlet/complete",
+      "description": "task.integrated_boogaloo.gauntlet_complete.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "experience_levels",
+      "levels": 30
+    },
+    {
+      "type": "item",
+      "item": "infinity_gauntlet:milano_music",
+      "count": 1
+    }
+  ],
+  "line_axis": "horizontal"
+}

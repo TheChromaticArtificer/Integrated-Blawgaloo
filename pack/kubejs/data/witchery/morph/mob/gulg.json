@@ -1,0 +1,33 @@
+{
+    "forEntity": "witchery:gulg",
+    "attributeOverrides": {
+        "minecraft:generic.max_health": 120.0,
+        "minecraft:generic.attack_damage": 9.0,
+        "minecraft:generic.knockback_resistance": 0.8
+    },
+    "traits": [
+        {
+            "type": "traitHostile"
+        },
+        {
+            "type": "traitWitcheryBrothers",
+            "partnerEntity": "witchery:mog",
+            "radius": 16.0,
+            "damageMultiplier": 0.7
+        },
+        {
+            "type": "abilityWitcheryUppercut",
+            "slot": 1,
+            "range": 4.5,
+            "damage": 15.3,
+            "damageMax": 40.0,
+            "knockback": 0.4,
+            "launch": 1.0,
+            "fakeCall": "setPunchAnimTicks",
+            "fakeCallArg": 8,
+            "fakeCountdown": true,
+            "cooldown": 40,
+            "soundEventId": "minecraft:entity.iron_golem.attack"
+        }
+    ]
+}

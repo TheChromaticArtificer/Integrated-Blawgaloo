@@ -1,0 +1,38 @@
+{
+    "forEntity": "wan_ancient_beasts:crusher",
+    "tickMode": "client_strict",
+    "attributeOverrides": {
+        "minecraft:generic.max_health": 60.0,
+        "minecraft:generic.attack_damage": 7.0,
+        "minecraft:generic.knockback_resistance": 0.5
+    },
+    "traits": [
+        {
+            "type": "traitProjectileImmunity"
+        },
+        {
+            "type": "traitWanAncientBeastsSpikes",
+            "damage": 5.0,
+            "range": 3.0
+        },
+        {
+            "type": "abilityWanAncientBeastsMelee",
+            "slot": 1,
+            "move": "crusher_maul",
+            "cooldown": 20
+        },
+        {
+            "type": "abilityWanAncientBeastsMelee",
+            "slot": 2,
+            "move": "crusher_tail",
+            "cooldown": 40
+        },
+        {
+            "type": "abilityWanAncientBeastsMelee",
+            "slot": 3,
+            "move": "crusher_scroll",
+            "cooldown": 160,
+            "damageMultiplier": 3.57
+        }
+    ]
+}

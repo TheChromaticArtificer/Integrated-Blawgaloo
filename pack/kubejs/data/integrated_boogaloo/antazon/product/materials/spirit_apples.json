@@ -1,0 +1,32 @@
+{
+  "name": "computer.integrated_boogaloo.product.materials.spirit_apples.name",
+  "description": "computer.integrated_boogaloo.product.materials.spirit_apples.description",
+  "category": "materials",
+  "green_tint": false,
+  "quantity": 1,
+  "payments": [
+    {
+      "type": "antcoins",
+      "resource": "antcoins",
+      "amount": 60
+    }
+  ],
+  "thumbnail": {
+    "item": "antarchy:spirit_apple"
+  },
+  "unlock_tasks": [
+    "integrated_boogaloo:exploration/elythia/glimmers"
+  ],
+  "unlock_mode": "all",
+  "availability": {
+    "server_stock": 0,
+    "player_limit": 2,
+    "player_limit_reset": "minecraft_week"
+  },
+  "rewards": [
+    {
+      "item": "antarchy:spirit_apple",
+      "count": 4
+    }
+  ]
+}

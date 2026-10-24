@@ -1,0 +1,50 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.armory_shell_game.title",
+  "description": "task.integrated_boogaloo.armory_shell_game.description",
+  "showcase": [
+    "@recipe:scguns:combat_shotgun"
+  ],
+  "icon": "scguns:combat_shotgun",
+  "program": "integrated_boogaloo:armory",
+  "category": "integrated_boogaloo:armory",
+  "sort_order": 6,
+  "position": {
+    "x": 4,
+    "y": 1
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:armory/iron_frame"
+  ],
+  "objectives": [
+    {
+      "id": "shotgun",
+      "type": "item",
+      "target": "scguns:combat_shotgun",
+      "description": "task.integrated_boogaloo.armory_shell_game.shotgun",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "shells",
+      "type": "item",
+      "target": "scguns:shotgun_shell",
+      "description": "task.integrated_boogaloo.armory_shell_game.shells",
+      "count": 8,
+      "sticky": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 30
+    },
+    {
+      "type": "item",
+      "item": "scguns:shotgun_shell",
+      "count": 16
+    }
+  ],
+  "line_axis": "horizontal"
+}

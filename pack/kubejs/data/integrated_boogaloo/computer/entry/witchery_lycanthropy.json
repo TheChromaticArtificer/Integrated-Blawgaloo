@@ -1,0 +1,27 @@
+{
+  "green_tint": false,
+  "type": "article",
+  "category": "general",
+  "folder": "integrated_boogaloo:witchcraft",
+  "sort_order": 150,
+  "title": "guide.integrated_boogaloo.entry.witchery_lycanthropy.title",
+  "subtitle": "guide.integrated_boogaloo.entry.witchery_lycanthropy.subtitle",
+  "cover_item": "witchery:moon_charm",
+  "content": [
+    {
+      "text": "guide.integrated_boogaloo.entry.witchery_lycanthropy.body_1"
+    },
+    {
+      "display": "integrated_boogaloo:guide/werewolf_altar"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.witchery_lycanthropy.body_2"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.witchery_lycanthropy.body_3"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.witchery_lycanthropy.body_4"
+    }
+  ]
+}

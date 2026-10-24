@@ -1,0 +1,10 @@
+{
+  "type": {
+    "type": "databank:item",
+    "hidden_as": "minecraft:lime_dye",
+    "original": "pastel:germinated_jade_vine_bulb"
+  },
+  "condition": {
+    "type": "databank:always_true"
+  }
+}

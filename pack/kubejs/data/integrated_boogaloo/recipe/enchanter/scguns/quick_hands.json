@@ -1,0 +1,52 @@
+{
+  "type": "pastel:enchanter",
+  "group": "scguns",
+  "time": 300,
+  "required_experience": 100,
+  "ingredients": [
+    {
+      "item": "minecraft:book"
+    },
+    {
+      "item": "pastel:yellow_pigment"
+    },
+    {
+      "item": "pastel:yellow_pigment"
+    },
+    {
+      "item": "scguns:gun_magazine"
+    },
+    {
+      "item": "oritech:nickel_ingot"
+    },
+    {
+      "item": "pastel:yellow_pigment"
+    },
+    {
+      "item": "pastel:yellow_pigment"
+    },
+    {
+      "item": "scguns:gun_magazine"
+    },
+    {
+      "item": "oritech:nickel_ingot"
+    }
+  ],
+  "result": {
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "stored_enchantments": {
+        "scguns:quick_hands": 1
+      }
+    }
+  },
+  "required_advancement": "integrated_boogaloo:unlocks/enchantments/scguns",
+  "neoforge:conditions": [
+    {
+      "type": "pastel:enchantments_exist",
+      "values": [
+        "scguns:quick_hands"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.cavaryn_amber.title",
+  "description": "task.integrated_boogaloo.cavaryn_amber.description",
+  "showcase": [
+    "@item:antarchy:amber_moss_block",
+    "@recipe:antarchy:amber_moss_block"
+  ],
+  "icon": "antarchy:amber_moss_block",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:cavaryn",
+  "sort_order": 14,
+  "position": {
+    "x": 3,
+    "y": 2
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "integrated_boogaloo:dimension/amber_or_broodfruit",
+      "description": "task.integrated_boogaloo.cavaryn_amber.goal",
+      "count": 1
+    },
+    {
+      "id": "moss",
+      "type": "item",
+      "target": "antarchy:amber_moss_block",
+      "description": "task.integrated_boogaloo.cavaryn_amber.moss",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "fruit",
+      "type": "item",
+      "target": "antarchy:broodfruit",
+      "description": "task.integrated_boogaloo.cavaryn_amber.fruit",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "archive_entries": [
+    "integrated_boogaloo:pastel_ant_worlds"
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 20
+    }
+  ]
+}

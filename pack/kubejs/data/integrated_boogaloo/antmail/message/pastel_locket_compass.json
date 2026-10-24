@@ -1,0 +1,11 @@
+{
+  "sender": "locket@antmail.com",
+  "sender_avatar_item": "pastel:mysterious_locket",
+  "subject": "The needle",
+  "body": "The needle remembers the way.\n\nFollow it down, past every color you have learned, to where the last of the light was kept.",
+  "trigger": {
+    "delay_minutes": 3,
+    "type": "advancement",
+    "value": "pastel:endgame/open_mysterious_compass"
+  }
+}

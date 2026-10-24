@@ -1,0 +1,46 @@
+{
+    "forEntity": "witchery:ent",
+    "attributeOverrides": {
+        "minecraft:generic.knockback_resistance": 1.0
+    },
+    "traits": [
+        {
+            "type": "traitHostile"
+        },
+        {
+            "type": "traitWitcheryPhotosynthesis",
+            "condition": "sunlight",
+            "refreshInterval": 60,
+            "effects": [
+                {
+                    "id": "minecraft:regeneration",
+                    "duration": 80,
+                    "amplifier": 0
+                }
+            ]
+        },
+        {
+            "type": "traitWitcheryPassiveEffect",
+            "effects": [
+                {
+                    "id": "minecraft:slowness",
+                    "amplifier": 0
+                }
+            ]
+        },
+        {
+            "type": "abilityWitcheryUprootSlam",
+            "slot": 1,
+            "range": 4.0,
+            "arcDegrees": 120.0,
+            "damage": 8.0,
+            "damageMax": 12.0,
+            "knockback": 0.5,
+            "launch": 0.6,
+            "fakeEntityEvent": 4,
+            "particleId": "minecraft:composter",
+            "cooldown": 50,
+            "soundEventId": "minecraft:entity.iron_golem.attack"
+        }
+    ]
+}

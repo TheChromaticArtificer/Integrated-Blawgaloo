@@ -1,0 +1,11 @@
+{
+  "sender": "chronosphere@antmail.com",
+  "sender_display": "Chronosphere",
+  "sender_avatar_item": "minecraft:clock",
+  "subject": "Claim approved",
+  "body": "Your claim from tomorrow has been approved. Please don't file it.\n\nChronosphere",
+  "trigger": {
+    "type": "random",
+    "pool": "integrated_boogaloo:chronosphere_newsletter"
+  }
+}

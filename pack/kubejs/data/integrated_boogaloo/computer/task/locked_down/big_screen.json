@@ -1,0 +1,38 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.locked_down_big_screen.title",
+  "description": "task.integrated_boogaloo.locked_down_big_screen.description",
+  "showcase": [
+    "@item:vista:television",
+    "@recipe:vista:television"
+  ],
+  "icon": "vista:television",
+  "program": "integrated_boogaloo:locked_down",
+  "category": "integrated_boogaloo:locked_down",
+  "sort_order": 15,
+  "position": {
+    "x": -2,
+    "y": 2
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:locked_down/closed_circuit"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "vista:television",
+      "description": "task.integrated_boogaloo.locked_down_big_screen.goal",
+      "count": 9,
+      "sticky": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 25
+    }
+  ],
+  "line_axis": "horizontal"
+}

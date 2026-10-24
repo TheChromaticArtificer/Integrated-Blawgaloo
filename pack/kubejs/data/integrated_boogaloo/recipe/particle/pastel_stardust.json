@@ -1,0 +1,18 @@
+{
+  "type": "oritech:particle_collision",
+  "ingredients": [
+    {
+      "item": "pastel:moonstone_powder"
+    },
+    {
+      "item": "minecraft:glowstone_dust"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "id": "pastel:stardust"
+    }
+  ],
+  "time": 2500
+}

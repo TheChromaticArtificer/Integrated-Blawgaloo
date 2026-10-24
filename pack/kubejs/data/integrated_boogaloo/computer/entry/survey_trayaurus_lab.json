@@ -1,0 +1,16 @@
+{
+  "green_tint": false,
+  "type": "structure",
+  "category": "surveys",
+  "folder": "antarchy:elythia",
+  "sort_order": 200,
+  "cover_item": "minecraft:filled_map",
+  "title": "guide.integrated_boogaloo.entry.survey_trayaurus_lab.title",
+  "subtitle": "guide.integrated_boogaloo.entry.survey_trayaurus_lab.subtitle",
+  "description": [
+    "guide.integrated_boogaloo.entry.survey_trayaurus_lab.body"
+  ],
+  "structure": "antarchy:trayaurus_lab",
+  "dimension": "antarchy:elythia",
+  "search_radius": 100
+}

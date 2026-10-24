@@ -1,0 +1,257 @@
+{
+  "type": "lucky:group",
+  "luck": -1,
+  "chance": 0.6,
+  "outcomes": [
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} times 5 50 15"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} subtitle {\"text\": \"Do not lick anything\", \"color\": \"white\"}"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} title {\"text\": \"RADIATION LEAK\", \"color\": \"green\", \"bold\": true}"
+    },
+    {
+      "type": "lucky:sound",
+      "sound_event": {
+        "sound_id": "minecraft:block.beacon.activate"
+      }
+    },
+    {
+      "type": "lucky:particle",
+      "particle": {
+        "type": "minecraft:portal"
+      },
+      "count": 120
+    },
+    {
+      "type": "lucky:command",
+      "command": "/fillbiome ~-15 ~-8 ~-15 ~15 ~22 ~15 alexscaves:toxic_caves",
+      "delay": 20
+    },
+    {
+      "type": "lucky:feature",
+      "feature": "alexscaves:acid_lake",
+      "pos": {
+        "type": "lucky:heightmap",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "center": {
+          "type": "lucky:random_in_shape",
+          "center": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}"
+          ],
+          "shape": {
+            "type": "lucky:sphere",
+            "size": [
+              10,
+              1,
+              10
+            ]
+          }
+        }
+      },
+      "delay": 30
+    },
+    {
+      "type": "lucky:feature",
+      "feature": "alexscaves:radrock_uranium_ore",
+      "pos": {
+        "type": "lucky:heightmap",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "center": {
+          "type": "lucky:random_in_shape",
+          "center": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}"
+          ],
+          "shape": {
+            "type": "lucky:sphere",
+            "size": [
+              10,
+              1,
+              10
+            ]
+          }
+        }
+      },
+      "delay": 30
+    },
+    {
+      "type": "lucky:feature",
+      "feature": "alexscaves:radrock_uranium_ore",
+      "pos": {
+        "type": "lucky:heightmap",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "center": {
+          "type": "lucky:random_in_shape",
+          "center": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}"
+          ],
+          "shape": {
+            "type": "lucky:sphere",
+            "size": [
+              10,
+              1,
+              10
+            ]
+          }
+        }
+      },
+      "delay": 30
+    },
+    {
+      "type": "lucky:feature",
+      "feature": "alexscaves:sulfur_stack",
+      "pos": {
+        "type": "lucky:heightmap",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "center": {
+          "type": "lucky:random_in_shape",
+          "center": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}"
+          ],
+          "shape": {
+            "type": "lucky:sphere",
+            "size": [
+              10,
+              1,
+              10
+            ]
+          }
+        }
+      },
+      "delay": 30
+    },
+    {
+      "type": "lucky:feature",
+      "feature": "alexscaves:sulfur_stack",
+      "pos": {
+        "type": "lucky:heightmap",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "center": {
+          "type": "lucky:random_in_shape",
+          "center": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}"
+          ],
+          "shape": {
+            "type": "lucky:sphere",
+            "size": [
+              10,
+              1,
+              10
+            ]
+          }
+        }
+      },
+      "delay": 30
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "alexscaves:nucleeper",
+      "reinit": true,
+      "count": 2,
+      "pos": {
+        "type": "lucky:heightmap",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "center": {
+          "type": "lucky:random_in_shape",
+          "center": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}"
+          ],
+          "shape": {
+            "type": "lucky:sphere",
+            "size": [
+              8,
+              1,
+              8
+            ]
+          }
+        }
+      },
+      "delay": 60
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "alexscaves:gammaroach",
+      "reinit": true,
+      "count": 6,
+      "pos": {
+        "type": "lucky:heightmap",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "center": {
+          "type": "lucky:random_in_shape",
+          "center": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}"
+          ],
+          "shape": {
+            "type": "lucky:sphere",
+            "size": [
+              8,
+              1,
+              8
+            ]
+          }
+        }
+      },
+      "delay": 60
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "alexscaves:raycat",
+      "reinit": true,
+      "pos": {
+        "type": "lucky:heightmap",
+        "heightmap": "MOTION_BLOCKING_NO_LEAVES",
+        "center": {
+          "type": "lucky:random_in_shape",
+          "center": [
+            "{blockPosX}",
+            "{blockPosY}",
+            "{blockPosZ}"
+          ],
+          "shape": {
+            "type": "lucky:sphere",
+            "size": [
+              5,
+              1,
+              5
+            ]
+          }
+        }
+      },
+      "delay": 80
+    },
+    {
+      "type": "lucky:effect",
+      "status_effect": {
+        "id": "alexscaves:irradiated",
+        "amplifier": 0,
+        "duration": 300
+      }
+    },
+    {
+      "type": "lucky:sound",
+      "sound_event": {
+        "sound_id": "alexscaves:nuclear_siren"
+      },
+      "delay": 0
+    }
+  ]
+}

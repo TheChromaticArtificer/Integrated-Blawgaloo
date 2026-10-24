@@ -1,0 +1,56 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.marvel_engineering_power_source.title",
+  "description": "task.integrated_boogaloo.marvel_engineering_power_source.description",
+  "showcase": [
+    "@recipe:marvel:palladium_arc_reactor"
+  ],
+  "icon": "marvel:palladium_arc_reactor",
+  "program": "integrated_boogaloo:engineering",
+  "category": "integrated_boogaloo:engineering",
+  "sort_order": 29,
+  "position": {
+    "x": 3,
+    "y": 3
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:engineering/centrifuge",
+    "integrated_boogaloo:exploration/cavaryn/toxic"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "integrated_boogaloo:engineering/arc_reactor",
+      "description": "task.integrated_boogaloo.marvel_engineering_power_source.goal",
+      "count": 1
+    },
+    {
+      "id": "lamp",
+      "type": "item",
+      "target": "alexscaves:radon_lamp_cyan",
+      "description": "task.integrated_boogaloo.marvel_engineering_power_source.lamp",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "gem",
+      "type": "item",
+      "target": "oritech:copper_gem",
+      "description": "task.integrated_boogaloo.marvel_engineering_power_source.gem",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "archive_entries": [
+    "integrated_boogaloo:suit_arc_reactors"
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 60
+    }
+  ],
+  "line_axis": "vertical"
+}

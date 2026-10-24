@@ -1,0 +1,47 @@
+{
+  "name": "computer.integrated_boogaloo.product.hats.hat_of_the_day.name",
+  "description": "computer.integrated_boogaloo.product.hats.hat_of_the_day.description",
+  "category": "hats",
+  "green_tint": false,
+  "quantity": 1,
+  "payments": [
+    {
+      "type": "antcoins",
+      "resource": "antcoins",
+      "amount": 100
+    }
+  ],
+  "availability": {
+    "server_stock": 0,
+    "player_limit": 1,
+    "player_limit_reset": "minecraft_day"
+  },
+  "item_pool": {
+    "tag": "integrated_boogaloo:antazon_hats",
+    "count": 1,
+    "mode": "rotate",
+    "rotation": {
+      "picks": 1,
+      "every_minecraft_days": 1,
+      "order": "shuffled"
+    }
+  },
+  "reviews": [
+    {
+      "id": "grim",
+      "author": "Grim",
+      "title": "computer.integrated_boogaloo.product.hats.hat_of_the_day.review.grim.title",
+      "body": "computer.integrated_boogaloo.product.hats.hat_of_the_day.review.grim.body",
+      "rating": 5,
+      "badge": "GOOD DOG"
+    },
+    {
+      "id": "deadpool",
+      "author": "Deadpool",
+      "title": "computer.integrated_boogaloo.product.hats.hat_of_the_day.review.deadpool.title",
+      "body": "computer.integrated_boogaloo.product.hats.hat_of_the_day.review.deadpool.body",
+      "rating": 5,
+      "badge": "VERIFIED MERC"
+    }
+  ]
+}

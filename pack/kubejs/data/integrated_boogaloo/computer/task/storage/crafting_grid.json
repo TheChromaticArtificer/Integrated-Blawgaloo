@@ -1,0 +1,38 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.storage_crafting_grid.title",
+  "description": "task.integrated_boogaloo.storage_crafting_grid.description",
+  "showcase": [
+    "@item:refinedstorage:crafting_grid",
+    "@recipe:refinedstorage:crafting_grid"
+  ],
+  "icon": "refinedstorage:crafting_grid",
+  "program": "integrated_boogaloo:storage",
+  "category": "integrated_boogaloo:storage",
+  "sort_order": 14,
+  "position": {
+    "x": 1,
+    "y": 1
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:storage/grid"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "refinedstorage:crafting_grid",
+      "description": "task.integrated_boogaloo.storage_crafting_grid.goal",
+      "count": 1,
+      "sticky": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 75
+    }
+  ],
+  "line_axis": "vertical"
+}

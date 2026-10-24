@@ -1,0 +1,39 @@
+{
+  "type": "createcybernetics:engineering_table",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "L": {
+      "item": "minecraft:lightning_rod"
+    },
+    "O": {
+      "item": "minecraft:observer"
+    },
+    "R": {
+      "item": "minecraft:redstone_torch"
+    },
+    "W": {
+      "item": "oritech:magnetic_coil"
+    },
+    "P": {
+      "item": "antarchy:titanium_nugget"
+    },
+    "N": {
+      "item": "createcybernetics:component_synthnerves"
+    },
+    "a": {
+      "item": "iceandfire:lightning_dragon_heart"
+    }
+  },
+  "pattern": [
+    "N N  ",
+    "PPPPP",
+    "PRORP",
+    "PaWLP",
+    " PPP "
+  ],
+  "result": {
+    "count": 1,
+    "id": "createcybernetics:heartupgrades_defibrillator"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "item": "oritech:advanced_computing_engine",
+  "value": 110,
+  "limit": 4,
+  "limit_reset": "minecraft_day",
+  "green_tint": false
+}

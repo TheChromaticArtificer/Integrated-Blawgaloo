@@ -1,0 +1,23 @@
+{
+  "display": {
+    "background": "infinity_gauntlet:textures/screens/seamless_space_0.png",
+    "icon": {
+      "id": "infinity_gauntlet:uru_ore"
+    },
+    "title": {
+      "translate": "advancements.a_join.title"
+    },
+    "description": {
+      "translate": "advancements.a_join.descr"
+    },
+    "frame": "goal",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "a_join_0": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

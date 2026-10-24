@@ -1,0 +1,11 @@
+{
+  "tag": "minecraft:decorated_pot_sherds",
+  "value": 8,
+  "limit": 16,
+  "limit_reset": "minecraft_day",
+  "green_tint": false,
+  "unlock_disks": [
+    "integrated_boogaloo:relic_broker"
+  ],
+  "unlock_mode": "all"
+}

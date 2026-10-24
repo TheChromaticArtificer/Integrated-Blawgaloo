@@ -1,0 +1,35 @@
+{
+    "forEntity": "createcybernetics:pigstrom",
+    "tickMode": "client_strict",
+    "attributeOverrides": {
+        "minecraft:generic.max_health": 45.0,
+        "minecraft:generic.attack_damage": 7.0,
+        "minecraft:generic.knockback_resistance": 0.15
+    },
+    "traits": [
+        {
+            "type": "traitHostile"
+        },
+        {
+            "type": "traitCyberneticsFirestarter",
+            "chance": 0.5,
+            "igniteSeconds": 4.0,
+            "requireEmptyHand": true
+        },
+        {
+            "type": "abilityCyberneticsSandevistan",
+            "slot": 1,
+            "cooldown": 180,
+            "durationTicks": 80,
+            "amplifier": 0,
+            "trail": true
+        },
+        {
+            "type": "abilityCyberneticsPneumaticLeap",
+            "slot": 2,
+            "cooldown": 20,
+            "forwardBoost": 0.5,
+            "verticalBoost": 0.85
+        }
+    ]
+}

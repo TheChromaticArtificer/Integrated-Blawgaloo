@@ -1,0 +1,17 @@
+{
+  "sender": "deadpool@antmail.com",
+  "sender_display": "Deadpool",
+  "sender_avatar_item": "marvel:deadpool_helmet",
+  "subject": "THINK MARK",
+  "body": "THINK, MARK!\n\nSorry. Every new Viltrumite has to get that yelled at them. J.K. Simmons said it I should at least be able to say it once.\n\nHouse rules from your step uncle Wade. If a guy with a big mustache flies you above the clouds to explain how you'll outlive everybody you love, that isnt a dad moment, its a fascist army recruitment. And if you ever look down at a town and catch yourself thinking \"look what they need to mimic a fraction of our power\", go touch grass.\n\n-step uncle wade",
+  "trigger": {
+    "type": "advancement",
+    "value": "integrated_boogaloo:deadpool/syringe_viltrumite",
+    "delay_minutes": 3
+  },
+  "conditions": {
+    "mail_read": [
+      "integrated_boogaloo:deadpool_intro"
+    ]
+  }
+}

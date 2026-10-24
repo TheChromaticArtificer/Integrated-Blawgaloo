@@ -1,0 +1,50 @@
+{
+  "type": "lucky:group",
+  "luck": 1,
+  "chance": 0.6,
+  "outcomes": [
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} times 5 50 15"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} subtitle {\"text\": \"Fizzy delivery\", \"color\": \"white\"}"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} title {\"text\": \"Soda Pop!\", \"color\": \"aqua\", \"bold\": true}"
+    },
+    {
+      "type": "lucky:sound",
+      "sound_event": {
+        "sound_id": "minecraft:block.bubble_column.upwards_inside"
+      }
+    },
+    {
+      "type": "lucky:structure",
+      "structure": "alexscaves:soda_bottle",
+      "pos": [
+        "{blockPosX}-5",
+        "{blockPosY}-1",
+        "{blockPosZ}-5"
+      ],
+      "delay": 10
+    },
+    {
+      "type": "lucky:item",
+      "item": "alexscaves:caramel",
+      "count": {
+        "type": "minecraft:uniform",
+        "min_inclusive": 2,
+        "max_inclusive": 4
+      },
+      "pos": [
+        "{blockPosX}",
+        "{blockPosY}+1",
+        "{blockPosZ}+7"
+      ],
+      "delay": 20
+    }
+  ]
+}

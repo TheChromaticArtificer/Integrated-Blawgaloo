@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "attuned_topaz": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "kubejs:attuned_topaz"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "attuned_topaz"
+    ]
+  ]
+}

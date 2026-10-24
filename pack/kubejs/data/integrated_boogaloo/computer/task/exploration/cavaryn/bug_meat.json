@@ -1,0 +1,32 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.cavaryn_bug_meat.title",
+  "description": "task.integrated_boogaloo.cavaryn_bug_meat.description",
+  "showcase": [
+    "@recipe:antarchy:cooked_bug_meat"
+  ],
+  "icon": "antarchy:cooked_bug_meat",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:cavaryn",
+  "sort_order": 15,
+  "position": {
+    "x": 0,
+    "y": 3
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "antarchy:bug_apetit",
+      "description": "task.integrated_boogaloo.cavaryn_bug_meat.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 15
+    }
+  ]
+}

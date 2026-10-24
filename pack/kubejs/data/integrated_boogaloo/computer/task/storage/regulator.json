@@ -1,0 +1,37 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.storage_regulator.title",
+  "description": "task.integrated_boogaloo.storage_regulator.description",
+  "showcase": [
+    "@recipe:refinedstorage:regulator_upgrade"
+  ],
+  "icon": "refinedstorage:regulator_upgrade",
+  "program": "integrated_boogaloo:storage",
+  "category": "integrated_boogaloo:storage",
+  "sort_order": 20,
+  "position": {
+    "x": 4,
+    "y": -1
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:storage/upgrades"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "refinedstorage:regulator_upgrade",
+      "description": "task.integrated_boogaloo.storage_regulator.goal",
+      "count": 1,
+      "sticky": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 75
+    }
+  ],
+  "line_axis": "horizontal"
+}

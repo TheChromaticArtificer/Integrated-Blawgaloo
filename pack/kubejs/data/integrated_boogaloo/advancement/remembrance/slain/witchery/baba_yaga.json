@@ -1,0 +1,12 @@
+{
+  "criteria": {
+    "killed": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "witchery:baba_yaga"
+        }
+      }
+    }
+  }
+}

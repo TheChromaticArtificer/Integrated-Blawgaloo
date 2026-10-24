@@ -1,0 +1,54 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.witchery_back_again.title",
+  "description": "task.integrated_boogaloo.witchery_back_again.description",
+  "showcase": [
+    "@item:pastel:memory",
+    "@recipe:integrated_boogaloo:ritual/remembrance/fox",
+    "@recipe:integrated_boogaloo:ritual/remembrance/fox_concealed"
+  ],
+  "icon": "pastel:memory",
+  "program": "integrated_boogaloo:witchcraft",
+  "category": "integrated_boogaloo:witchcraft",
+  "sort_order": 29,
+  "position": {
+    "x": 7,
+    "y": 2
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:witchery_basics/first_rite"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "pastel:midgame/manifest_memory",
+      "description": "task.integrated_boogaloo.witchery_back_again.goal",
+      "count": 1
+    },
+    {
+      "id": "memory",
+      "type": "item",
+      "target": "pastel:memory",
+      "description": "task.integrated_boogaloo.witchery_back_again.memory",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "neolith",
+      "type": "item",
+      "target": "pastel:neolith",
+      "description": "task.integrated_boogaloo.witchery_back_again.neolith",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 25
+    }
+  ],
+  "line_axis": "vertical"
+}

@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "#c:music_discs",
+    {
+      "id": "alexscaves:music_disc_fusion",
+      "required": false
+    },
+    {
+      "id": "alexscaves:music_disc_tasty",
+      "required": false
+    },
+    {
+      "id": "vista:music_disc_sojourn",
+      "required": false
+    }
+  ]
+}

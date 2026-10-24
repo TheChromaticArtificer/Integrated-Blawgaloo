@@ -1,0 +1,11 @@
+{
+  "sender": "bloxiclean@antmail.com",
+  "sender_display": "Bloxiclean",
+  "sender_avatar_item": "minecraft:sponge",
+  "subject": "Spring cleaning is here",
+  "body": "New this season: we can get slime out of carpet. Ask about our ash removal package.\n\nBloxiclean",
+  "trigger": {
+    "type": "random",
+    "pool": "integrated_boogaloo:bloxiclean_newsletter"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.cybernetics_scrap.title",
+  "description": "task.integrated_boogaloo.cybernetics_scrap.description",
+  "icon": "createcybernetics:scavenged_cybereyes",
+  "program": "integrated_boogaloo:cybernetics",
+  "category": "integrated_boogaloo:cybernetics",
+  "sort_order": 1,
+  "position": {
+    "x": 0,
+    "y": 1
+  },
+  "availability": "automatic",
+  "shape": "hexagon",
+  "requires": [],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "createcybernetics:cyberware/first_scavenged_cyberware",
+      "description": "task.integrated_boogaloo.cybernetics_scrap.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "archive",
+      "entry": "integrated_boogaloo:cyber_intro"
+    },
+    {
+      "type": "archive",
+      "entry": "integrated_boogaloo:cyber_bestiary"
+    },
+    {
+      "type": "antcoins",
+      "amount": 25
+    }
+  ],
+  "line_axis": "horizontal"
+}

@@ -1,0 +1,100 @@
+{
+  "type": "witchery:ritual",
+  "altar_power": 6000,
+  "block_mapping": {
+    "G": "witchery:golden_ritual_chalk",
+    "S": "witchery:ritual_chalk",
+    "I": "witchery:infernal_chalk"
+  },
+  "pattern": [
+    "___SSSSS___",
+    "__S_____S__",
+    "_S__III__S_",
+    "S__I___I__S",
+    "S_I_____I_S",
+    "S_I__G__I_S",
+    "S_I_____I_S",
+    "S__I___I__S",
+    "_S__III__S_",
+    "__S_____S__",
+    "___SSSSS___"
+  ],
+  "ritual_events": [
+    {
+      "type": "witchery:consume_items",
+      "items": [
+        {
+          "item": {
+            "item": "antarchy:hercules_horn"
+          },
+          "count": 2
+        },
+        {
+          "item": {
+            "item": "antarchy:peach"
+          }
+        },
+        {
+          "item": {
+            "item": "pastel:vegetal"
+          }
+        },
+        {
+          "item": {
+            "item": "iceandfire:ectoplasm"
+          }
+        }
+      ]
+    },
+    {
+      "type": "witchery:particle_sphere_inward",
+      "particle": {
+        "type": "minecraft:dust",
+        "color": [
+          0.6,
+          1.0,
+          0.7
+        ],
+        "scale": 1.0
+      },
+      "time": 100
+    },
+    {
+      "type": "witchery:play_sound",
+      "pitch": 0.8,
+      "sound": "minecraft:block.respawn_anchor.charge"
+    },
+    {
+      "type": "witchery:run_command",
+      "command": "execute in {dimension} as {owner} if entity @s[advancements={pastel:milestones/unlock_remembering_boss_memories=true,integrated_boogaloo:remembrance/slain/antarchy/hercules_beetle=true}] run summon minecraft:item {chalkPos} {Item:{id:\"pastel:memory\",count:1,components:{\"minecraft:entity_data\":{id:\"antarchy:hercules_beetle\"},\"pastel:memory\":{ticks_to_manifest:32,spawn_as_adult:true}}}}"
+    },
+    {
+      "type": "witchery:run_command",
+      "command": "execute in {dimension} as {owner} if entity @s[advancements={pastel:milestones/unlock_remembering_boss_memories=true,integrated_boogaloo:remembrance/slain/antarchy/hercules_beetle=true}] run advancement grant @s only pastel:midgame/craft_blacklisted_memory_success succeed_crafting_boss_memory"
+    },
+    {
+      "type": "witchery:run_command",
+      "command": "execute in {dimension} as {owner} unless entity @s[advancements={pastel:milestones/unlock_remembering_boss_memories=true,integrated_boogaloo:remembrance/slain/antarchy/hercules_beetle=true}] run summon minecraft:item {chalkPos} {Item:{id:\"antarchy:hercules_horn\",count:2}}"
+    },
+    {
+      "type": "witchery:run_command",
+      "command": "execute in {dimension} as {owner} unless entity @s[advancements={pastel:milestones/unlock_remembering_boss_memories=true,integrated_boogaloo:remembrance/slain/antarchy/hercules_beetle=true}] run summon minecraft:item {chalkPos} {Item:{id:\"antarchy:peach\",count:1}}"
+    },
+    {
+      "type": "witchery:run_command",
+      "command": "execute in {dimension} as {owner} unless entity @s[advancements={pastel:milestones/unlock_remembering_boss_memories=true,integrated_boogaloo:remembrance/slain/antarchy/hercules_beetle=true}] run summon minecraft:item {chalkPos} {Item:{id:\"pastel:vegetal\",count:1}}"
+    },
+    {
+      "type": "witchery:run_command",
+      "command": "execute in {dimension} as {owner} unless entity @s[advancements={pastel:milestones/unlock_remembering_boss_memories=true,integrated_boogaloo:remembrance/slain/antarchy/hercules_beetle=true}] run summon minecraft:item {chalkPos} {Item:{id:\"iceandfire:ectoplasm\",count:1}}"
+    },
+    {
+      "type": "witchery:run_command",
+      "command": "execute in {dimension} as {owner} unless entity @s[advancements={pastel:milestones/unlock_remembering_boss_memories=true,integrated_boogaloo:remembrance/slain/antarchy/hercules_beetle=true}] run playsound pastel:fusion_shrine_crafting_aborted block @a {chalkPos}"
+    },
+    {
+      "type": "witchery:run_command",
+      "command": "execute in {dimension} as {owner} unless entity @s[advancements={pastel:milestones/unlock_remembering_boss_memories=true}] run advancement grant @s only pastel:midgame/craft_blacklisted_memory_fail fail_to_craft_boss_memory"
+    }
+  ]
+}

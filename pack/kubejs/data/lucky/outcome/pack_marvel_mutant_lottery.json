@@ -1,0 +1,35 @@
+{
+  "type": "lucky:group",
+  "luck": 1,
+  "chance": 0.6,
+  "outcomes": [
+    {
+      "type": "lucky:message",
+      "message": {
+        "text": "Mutant lottery! Do you have the X-Gene?",
+        "color": "yellow",
+        "bold": true
+      },
+      "overlay": true
+    },
+    {
+      "type": "lucky:random",
+      "outcomes": [
+        {
+          "type": "lucky:item",
+          "item": "marvel:villager_blood_sample",
+          "weight": 3
+        },
+        {
+          "type": "lucky:item",
+          "item": "marvel:x_genes",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "type": "lucky:item",
+      "item": "marvellegacy:syringe_empty"
+    }
+  ]
+}

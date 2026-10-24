@@ -1,0 +1,37 @@
+{
+  "type": "createcybernetics:engineering_deconstruct",
+  "inputs": [
+    {
+      "item": "createcybernetics:organsupgrade_densebattery"
+    },
+    {
+      "item": "createcybernetics:scavenged_densebattery"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "antarchy:titanium_nugget",
+      "count": 18
+    },
+    {
+      "id": "minecraft:copper_ingot",
+      "count": 4
+    },
+    {
+      "id": "minecraft:iron_ingot",
+      "count": 1
+    },
+    {
+      "id": "antarchy:bluestone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:redstone",
+      "count": 6
+    },
+    {
+      "id": "minecraft:blaze_powder",
+      "count": 6
+    }
+  ]
+}

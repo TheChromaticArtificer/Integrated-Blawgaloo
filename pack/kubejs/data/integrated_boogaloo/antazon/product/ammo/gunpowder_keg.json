@@ -1,0 +1,46 @@
+{
+  "name": "computer.integrated_boogaloo.product.ammo.gunpowder_keg.name",
+  "description": "computer.integrated_boogaloo.product.ammo.gunpowder_keg.description",
+  "category": "surplus",
+  "green_tint": false,
+  "quantity": 1,
+  "payments": [
+    {
+      "type": "antcoins",
+      "resource": "antcoins",
+      "amount": 50
+    }
+  ],
+  "thumbnail": {
+    "item": "minecraft:gunpowder"
+  },
+  "rewards": [
+    {
+      "item": "minecraft:gunpowder",
+      "count": 16
+    }
+  ],
+  "reviews": [
+    {
+      "id": "craig",
+      "author": "Craig the Mailman",
+      "title": "computer.integrated_boogaloo.product.ammo.gunpowder_keg.review.craig.title",
+      "body": "computer.integrated_boogaloo.product.ammo.gunpowder_keg.review.craig.body",
+      "rating": 4,
+      "badge": "COURIER"
+    },
+    {
+      "id": "captainsparklez",
+      "author": "CaptainSparklez",
+      "title": "computer.integrated_boogaloo.product.ammo.gunpowder_keg.review.captainsparklez.title",
+      "body": "computer.integrated_boogaloo.product.ammo.gunpowder_keg.review.captainsparklez.body",
+      "rating": 5,
+      "badge": "VERIFIED"
+    }
+  ],
+  "unlock_disks": [
+    "integrated_boogaloo:military_surplus"
+  ],
+  "unlock_mode": "all",
+  "hidden_until_unlocked": true
+}

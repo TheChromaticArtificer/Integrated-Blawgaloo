@@ -1,0 +1,17 @@
+{
+  "sender": "deadpool@antmail.com",
+  "sender_display": "Deadpool",
+  "sender_avatar_item": "marvel:deadpool_helmet",
+  "subject": "Deadpool Corps dress code",
+  "body": "You made my suit?? awww a fan. I love fans but you'll never live up to this Canadian love machine. 206 bones most days. 207 when Gossip Girl's on. You can copy the red and black, but that last bit isn't in JEI.\n\nxoxo",
+  "trigger": {
+    "type": "advancement",
+    "value": "integrated_boogaloo:deadpool/deadpool_suit",
+    "delay_minutes": 3
+  },
+  "conditions": {
+    "mail_read": [
+      "integrated_boogaloo:deadpool_intro"
+    ]
+  }
+}

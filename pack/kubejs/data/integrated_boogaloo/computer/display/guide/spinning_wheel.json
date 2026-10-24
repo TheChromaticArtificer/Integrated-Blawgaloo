@@ -1,0 +1,131 @@
+{
+  "title": "literal:Spinning Wheel",
+  "variants": [
+    {
+      "id": "dream_weaver_of_fasting",
+      "title": "literal:Dream Weaver Of Fasting",
+      "template": "integrated_boogaloo:guide/templates/station",
+      "recipe_binding": {
+        "recipe": "witchery:spinning/dream_weaver_of_fasting",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Spinning Wheel",
+        "station": "witchery:spinning_wheel",
+        "hint": "literal:Put the fibre in first, then the rest."
+      }
+    },
+    {
+      "id": "dream_weaver_of_fleet_foot",
+      "title": "literal:Dream Weaver Of Fleet Foot",
+      "template": "integrated_boogaloo:guide/templates/station",
+      "recipe_binding": {
+        "recipe": "witchery:spinning/dream_weaver_of_fleet_foot",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Spinning Wheel",
+        "station": "witchery:spinning_wheel",
+        "hint": "literal:Put the fibre in first, then the rest."
+      }
+    },
+    {
+      "id": "dream_weaver_of_iron_arm",
+      "title": "literal:Dream Weaver Of Iron Arm",
+      "template": "integrated_boogaloo:guide/templates/station",
+      "recipe_binding": {
+        "recipe": "witchery:spinning/dream_weaver_of_iron_arm",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Spinning Wheel",
+        "station": "witchery:spinning_wheel",
+        "hint": "literal:Put the fibre in first, then the rest."
+      }
+    },
+    {
+      "id": "dream_weaver_of_nightmares",
+      "title": "literal:Dream Weaver Of Nightmares",
+      "template": "integrated_boogaloo:guide/templates/station",
+      "recipe_binding": {
+        "recipe": "witchery:spinning/dream_weaver_of_nightmares",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Spinning Wheel",
+        "station": "witchery:spinning_wheel",
+        "hint": "literal:Put the fibre in first, then the rest."
+      }
+    },
+    {
+      "id": "fanciful_thread",
+      "title": "literal:Fanciful Thread",
+      "template": "integrated_boogaloo:guide/templates/station",
+      "recipe_binding": {
+        "recipe": "witchery:spinning/fanciful_thread",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Spinning Wheel",
+        "station": "witchery:spinning_wheel",
+        "hint": "literal:Put the fibre in first, then the rest."
+      }
+    },
+    {
+      "id": "fibre_leather",
+      "title": "literal:Leather",
+      "template": "integrated_boogaloo:guide/templates/station",
+      "recipe_binding": {
+        "recipe": "witchery:spinning/fibre_leather",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Spinning Wheel",
+        "station": "witchery:spinning_wheel",
+        "hint": "literal:Put the fibre in first, then the rest."
+      }
+    },
+    {
+      "id": "golden_thread",
+      "title": "literal:Golden Thread",
+      "template": "integrated_boogaloo:guide/templates/station",
+      "recipe_binding": {
+        "recipe": "witchery:spinning/golden_thread",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Spinning Wheel",
+        "station": "witchery:spinning_wheel",
+        "hint": "literal:Put the fibre in first, then the rest."
+      }
+    },
+    {
+      "id": "impregnated_fabric",
+      "title": "literal:Impregnated Fabric",
+      "template": "integrated_boogaloo:guide/templates/station",
+      "recipe_binding": {
+        "recipe": "witchery:spinning/impregnated_fabric",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Spinning Wheel",
+        "station": "witchery:spinning_wheel",
+        "hint": "literal:Put the fibre in first, then the rest."
+      }
+    },
+    {
+      "id": "tormented_twine",
+      "title": "literal:Tormented Twine",
+      "template": "integrated_boogaloo:guide/templates/station",
+      "recipe_binding": {
+        "recipe": "witchery:spinning/tormented_twine",
+        "adapter": "boogaloo_core:witchery"
+      },
+      "values": {
+        "title": "literal:Spinning Wheel",
+        "station": "witchery:spinning_wheel",
+        "hint": "literal:Put the fibre in first, then the rest."
+      }
+    }
+  ]
+}

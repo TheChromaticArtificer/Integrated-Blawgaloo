@@ -1,0 +1,26 @@
+{
+  "type": "celestisynth:starlit_factory",
+  "core_material": {
+    "item": "antarchy:nightmare_scale"
+  },
+  "extra_core_material": {
+    "item": "marvel:vibranium_ingot"
+  },
+  "supporting_core_material": {
+    "item": "minecraft:bow"
+  },
+  "supporting_material_top": {
+    "item": "antarchy:stratoshark_fin"
+  },
+  "supporting_material_middle": {
+    "item": "iceandfire:siren_tear"
+  },
+  "supporting_material_bottom": {
+    "item": "pastel:glistering_shooting_star"
+  },
+  "forging_time": 700,
+  "result": {
+    "count": 1,
+    "id": "celestisynth:rainfall_serenity"
+  }
+}

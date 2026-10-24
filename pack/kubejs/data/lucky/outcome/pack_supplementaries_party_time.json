@@ -1,0 +1,38 @@
+{
+  "type": "lucky:group",
+  "luck": 1,
+  "chance": 1.25,
+  "outcomes": [
+    {
+      "type": "lucky:message",
+      "message": {
+        "text": "Party time!",
+        "color": "light_purple",
+        "bold": true
+      },
+      "overlay": true
+    },
+    {
+      "type": "lucky:item",
+      "item": "supplementaries:confetti_popper",
+      "count": 4
+    },
+    {
+      "type": "lucky:item",
+      "item": "supplementaries:bubble_blower"
+    },
+    {
+      "type": "lucky:item",
+      "item": "supplementaries:flute"
+    },
+    {
+      "type": "lucky:item",
+      "item": "supplementaries:candy",
+      "count": 6
+    },
+    {
+      "type": "lucky:item",
+      "item": "hats:partyhat"
+    }
+  ]
+}

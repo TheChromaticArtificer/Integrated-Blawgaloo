@@ -1,0 +1,11 @@
+{
+  "sender": "trayaurus@antmail.com",
+  "sender_avatar_item": "antarchy:diamond_minecart",
+  "subject": "Did you see that?",
+  "body": "You saw something today, didn't you? A figure at the edge of the trees, standing very still, and gone when you looked back.\n\nI've seen it too, from the lab window. I've added a page about it to the Archive. If you see it again, don't walk toward it.\n\nI have a theory.\n\nYour old friend,\nDr. T",
+  "trigger": {
+    "type": "advancement",
+    "value": "boogaloo_core:watching/first_sighting",
+    "delay": 1
+  }
+}

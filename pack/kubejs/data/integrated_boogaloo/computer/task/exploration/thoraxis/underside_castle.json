@@ -1,0 +1,47 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.thoraxis_underside_castle.title",
+  "description": "task.integrated_boogaloo.thoraxis_underside_castle.description",
+  "showcase": [
+    "@item:antarchy:nyxite_bricks",
+    "@recipe:antarchy:nyxite_bricks"
+  ],
+  "icon": "antarchy:nyxite_bricks",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:thoraxis",
+  "sort_order": 32,
+  "position": {
+    "x": 4,
+    "y": 5
+  },
+  "availability": "automatic",
+  "hide_until_dependencies_complete": true,
+  "requires": [
+    "integrated_boogaloo:exploration/thoraxis/throat"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "antarchy:underside_castle",
+      "description": "task.integrated_boogaloo.thoraxis_underside_castle.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "item_pool",
+      "pool": "integrated_boogaloo:supplies_rare",
+      "mode": "random"
+    },
+    {
+      "type": "antcoins",
+      "amount": 40
+    },
+    {
+      "type": "archive",
+      "entry": "antarchy:queen"
+    }
+  ],
+  "line_axis": "horizontal"
+}

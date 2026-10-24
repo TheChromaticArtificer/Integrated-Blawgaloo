@@ -1,0 +1,33 @@
+{
+  "type": "lucky:group",
+  "luck": 1,
+  "chance": 1.25,
+  "outcomes": [
+    {
+      "type": "lucky:message",
+      "message": {
+        "text": "Spy gadgets!",
+        "color": "dark_aqua",
+        "bold": true
+      },
+      "overlay": true
+    },
+    {
+      "type": "lucky:item",
+      "item": "securitycraft:security_camera",
+      "count": 2
+    },
+    {
+      "type": "lucky:item",
+      "item": "securitycraft:camera_monitor"
+    },
+    {
+      "type": "lucky:item",
+      "item": "securitycraft:portable_radar"
+    },
+    {
+      "type": "lucky:item",
+      "item": "securitycraft:taser"
+    }
+  ]
+}

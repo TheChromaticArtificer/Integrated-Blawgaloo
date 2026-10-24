@@ -1,0 +1,14 @@
+{
+  "template": "integrated_boogaloo:guide/templates/core_machine",
+  "recipe_binding": {
+    "recipe": "oritech:assembler/motor",
+    "adapter": "boogaloo_core:oritech"
+  },
+  "values": {
+    "title": "literal:Assembler",
+    "machine_placed": "oritech:assembler_block[facing=north]",
+    "machine_assembled": "oritech:assembler_block[facing=north,machine_assembled=true]",
+    "example": "literal:Example: motor",
+    "energy": "literal:Power: 128 RF/t"
+  }
+}

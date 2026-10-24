@@ -1,0 +1,69 @@
+{
+  "type": "witchery:ritual",
+  "altar_power": 6000,
+  "block_mapping": {
+    "G": "witchery:golden_ritual_chalk",
+    "L": "witchery:infernal_chalk",
+    "M": "witchery:otherwhere_chalk"
+  },
+  "celestial_conditions": [
+    "night"
+  ],
+  "pattern": [
+    "_____LLLLL_____",
+    "___LL_____LL___",
+    "__L__MMMMM__L__",
+    "_L__M_____M__L_",
+    "_L_M_______M_L_",
+    "L_M_________M_L",
+    "L_M_________M_L",
+    "L_M____G____M_L",
+    "L_M_________M_L",
+    "L_M_________M_L",
+    "_L_M_______M_L_",
+    "_L__M_____M__L_",
+    "__L__MMMMM__L__",
+    "___LL_____LL___",
+    "_____LLLLL_____"
+  ],
+  "ritual_events": [
+    {
+      "type": "witchery:consume_items",
+      "items": [
+        {
+          "item": {
+            "item": "minecraft:nether_star"
+          }
+        },
+        {
+          "item": {
+            "item": "witchery:demon_heart"
+          }
+        },
+        {
+          "item": {
+            "item": "witchery:soul_of_the_world"
+          }
+        },
+        {
+          "item": {
+            "item": "witchery:attuned_stone"
+          }
+        }
+      ]
+    },
+    {
+      "type": "witchery:run_command",
+      "command": "execute positioned {chalkPos} if dimension minecraft:overworld run viltrumite event start conquest 30",
+      "delay": 20
+    },
+    {
+      "type": "witchery:run_command",
+      "command": "execute unless dimension minecraft:overworld run tellraw {owner} {\"text\":\"Nothing answers. The signal only reaches them from the Overworld.\",\"color\":\"gray\",\"italic\":true}",
+      "delay": 20
+    }
+  ],
+  "require_cat": false,
+  "weather": [],
+  "coven_count": 0
+}

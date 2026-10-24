@@ -1,0 +1,34 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.thoraxis_arrival.title",
+  "description": "task.integrated_boogaloo.thoraxis_arrival.description",
+  "showcase": [
+    "@entity:antarchy:red_ant"
+  ],
+  "icon": "antarchy:red_ant_spawn_egg",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:thoraxis",
+  "sort_order": 1,
+  "position": {
+    "x": 0,
+    "y": 0
+  },
+  "shape": "hexagon",
+  "size": 1.25,
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "antarchy:visit_thoraxis",
+      "description": "task.integrated_boogaloo.thoraxis_arrival.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 40
+    }
+  ]
+}

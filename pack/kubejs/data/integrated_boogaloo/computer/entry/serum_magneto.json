@@ -1,0 +1,21 @@
+{
+  "green_tint": false,
+  "type": "item",
+  "category": "general",
+  "folder": "integrated_boogaloo:super_serums",
+  "sort_order": 0,
+  "item": "integrated_superheroes:syringe_magnetism_erik_lehnsherr",
+  "title": "guide.integrated_boogaloo.entry.serum_magneto.title",
+  "subtitle": "guide.integrated_boogaloo.entry.serum_magneto.subtitle",
+  "content": [
+    {
+      "text": "guide.integrated_boogaloo.entry.serum_magneto.body_1"
+    },
+    {
+      "display": "integrated_boogaloo:guide/serum_magneto"
+    },
+    {
+      "text": "guide.integrated_boogaloo.entry.serum_magneto.body_2"
+    }
+  ]
+}

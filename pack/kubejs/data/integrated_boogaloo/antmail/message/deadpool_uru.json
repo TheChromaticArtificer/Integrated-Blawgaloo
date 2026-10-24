@@ -1,0 +1,17 @@
+{
+  "sender": "deadpool@antmail.com",
+  "sender_display": "Deadpool",
+  "sender_avatar_item": "marvel:deadpool_helmet",
+  "subject": "Dont lick the Uru",
+  "body": "Hang onto that Uru, you'll want five of them for the Gauntlet later along with a Bedrock Dust Block. Thor's hammer got forged in the heart of a dying star and yours came out of a factory appliance.\n\nP.S. dont lick it. I licked it. My face already looks like an avocado had relations with an older, more disgusting avocado so whats the worst that could happen.",
+  "trigger": {
+    "type": "advancement",
+    "value": "integrated_boogaloo:deadpool/has_uru_ingot",
+    "delay_minutes": 2
+  },
+  "conditions": {
+    "mail_read": [
+      "integrated_boogaloo:deadpool_intro"
+    ]
+  }
+}

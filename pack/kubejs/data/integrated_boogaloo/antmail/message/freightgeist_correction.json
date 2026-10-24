@@ -1,0 +1,13 @@
+{
+  "sender": "freightgeist@antmail.com",
+  "sender_display": "Freightgeist",
+  "sender_avatar_item": "hats:halo",
+  "subject": "A correction.",
+  "body": "Your doctor is concerned about his research.\n\nI have read it. I have not damaged it. There are things missing from his notes that may be useful to you.\n\nContinue your work, Artist. I will be keeping track.",
+  "trigger": {
+    "type": "mail_read",
+    "value": "integrated_boogaloo:trayaurus_freightgeist_warning",
+    "delay": 1
+  },
+  "once": true
+}

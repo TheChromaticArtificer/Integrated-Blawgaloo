@@ -1,0 +1,20 @@
+{
+  "type": "lucky:group",
+  "luck": -1,
+  "chance": 1.25,
+  "outcomes": [
+    {
+      "type": "lucky:message",
+      "message": {
+        "text": "Is that a lit powder keg?!",
+        "color": "red",
+        "bold": true
+      },
+      "overlay": true
+    },
+    {
+      "type": "lucky:entity",
+      "entity_type": "scguns:primed_powder_keg"
+    }
+  ]
+}

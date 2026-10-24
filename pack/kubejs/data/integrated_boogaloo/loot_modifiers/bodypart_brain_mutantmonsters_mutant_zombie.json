@@ -1,0 +1,14 @@
+{
+  "type": "createcybernetics:add_item",
+  "conditions": [
+    {
+      "condition": "neoforge:loot_table_id",
+      "loot_table_id": "mutantmonsters:entities/mutant_zombie"
+    },
+    {
+      "chance": 0.5,
+      "condition": "minecraft:random_chance"
+    }
+  ],
+  "item": "createcybernetics:bodypart_brain"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "ati_structures:sculk_deposit",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "integrated_boogaloo:structures/ati_structures/sculk_deposit",
+        "location": "ati_structures:sculk_deposit"
+      },
+      "weight": 1
+    }
+  ]
+}

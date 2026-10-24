@@ -1,0 +1,36 @@
+{
+  "type": "lucky:group",
+  "luck": 1,
+  "chance": 1.25,
+  "outcomes": [
+    {
+      "type": "lucky:message",
+      "message": {
+        "text": "Grenade crate!",
+        "color": "red",
+        "bold": true
+      },
+      "overlay": true
+    },
+    {
+      "type": "lucky:item",
+      "item": "scguns:grenade",
+      "count": 4
+    },
+    {
+      "type": "lucky:item",
+      "item": "scguns:stun_grenade",
+      "count": 4
+    },
+    {
+      "type": "lucky:item",
+      "item": "scguns:molotov_cocktail",
+      "count": 4
+    },
+    {
+      "type": "lucky:item",
+      "item": "scguns:nail_bomb",
+      "count": 4
+    }
+  ]
+}

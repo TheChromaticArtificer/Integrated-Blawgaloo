@@ -1,0 +1,16 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "antarchy:nightmare_wastes",
+    "antarchy:umbral_hills",
+    "integrated_boogaloo:neomorph_blight",
+    "integrated_boogaloo:resinous_barrens",
+    "integrated_boogaloo:xenomorph_hive"
+  ],
+  "spawners": {
+    "type": "witchery:parasitic_louse",
+    "weight": 2,
+    "minCount": 1,
+    "maxCount": 2
+  }
+}

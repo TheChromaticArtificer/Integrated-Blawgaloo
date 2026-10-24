@@ -1,0 +1,46 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.locked_down_closed_circuit.title",
+  "description": "task.integrated_boogaloo.locked_down_closed_circuit.description",
+  "showcase": [
+    "@item:vista:viewfinder",
+    "@recipe:vista:viewfinder"
+  ],
+  "icon": "vista:viewfinder",
+  "program": "integrated_boogaloo:locked_down",
+  "category": "integrated_boogaloo:locked_down",
+  "sort_order": 13,
+  "position": {
+    "x": -1,
+    "y": 2
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:locked_down/eyes_everywhere"
+  ],
+  "objectives": [
+    {
+      "id": "viewfinder",
+      "type": "item",
+      "target": "vista:viewfinder",
+      "description": "task.integrated_boogaloo.locked_down_closed_circuit.viewfinder",
+      "count": 1,
+      "sticky": true
+    },
+    {
+      "id": "tv",
+      "type": "item",
+      "target": "vista:television",
+      "description": "task.integrated_boogaloo.locked_down_closed_circuit.tv",
+      "count": 1,
+      "sticky": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 20
+    }
+  ],
+  "line_axis": "horizontal"
+}

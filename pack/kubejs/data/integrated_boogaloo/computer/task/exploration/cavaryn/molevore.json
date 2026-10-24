@@ -1,0 +1,46 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.cavaryn_molevore.title",
+  "description": "task.integrated_boogaloo.cavaryn_molevore.description",
+  "showcase": [
+    "@recipe:antarchy:molevore_nose"
+  ],
+  "icon": "antarchy:molevore_nose",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:cavaryn",
+  "sort_order": 20,
+  "position": {
+    "x": 5,
+    "y": 3
+  },
+  "shape": "octagon",
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "antarchy:moley_poley",
+      "description": "task.integrated_boogaloo.cavaryn_molevore.goal",
+      "count": 1
+    },
+    {
+      "id": "nose",
+      "type": "item",
+      "target": "antarchy:molevore_nose",
+      "description": "task.integrated_boogaloo.cavaryn_molevore.nose",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "item_pool",
+      "pool": "integrated_boogaloo:supplies_common",
+      "mode": "random"
+    },
+    {
+      "type": "antcoins",
+      "amount": 50
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "antarchy:butterfly_fields",
+    "antarchy:elythia_lush_caves",
+    "antarchy:elythia_meadow",
+    "antarchy:elythia_river",
+    "antarchy:moleworm_caves",
+    "antarchy:ouranwood_forest",
+    "antarchy:peach_forest",
+    "antarchy:glimmering_pools",
+    "antarchy:sparse_ouranwood_forest",
+    "antarchy:elythia_ocean",
+    "antarchy:elythia_coral_spikes",
+    "antarchy:fungal_ouranwood_forest",
+    "alexscaves:primordial_caves",
+    "alexscaves:candy_cavity",
+    "integrated_boogaloo:elythia_primordial_surface",
+    "integrated_boogaloo:elythia_candy_surface",
+    "integrated_boogaloo:elythia_ginkgo_grove"
+  ]
+}

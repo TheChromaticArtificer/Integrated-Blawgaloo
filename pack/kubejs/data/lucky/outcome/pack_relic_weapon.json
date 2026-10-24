@@ -1,0 +1,93 @@
+{
+  "type": "lucky:group",
+  "luck": 1,
+  "chance": 2.0,
+  "outcomes": [
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} times 5 40 15"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} subtitle {\"text\": \"Check your pockets\", \"color\": \"white\"}"
+    },
+    {
+      "type": "lucky:command",
+      "command": "/title {playerName} title {\"text\": \"Lucky Find\", \"color\": \"gold\", \"bold\": true}"
+    },
+    {
+      "type": "lucky:particle",
+      "particle": {
+        "type": "minecraft:end_rod"
+      },
+      "count": 60
+    },
+    {
+      "type": "lucky:sound",
+      "sound_event": {
+        "sound_id": "minecraft:block.amethyst_block.chime"
+      }
+    },
+    {
+      "type": "lucky:random",
+      "outcomes": [
+        {
+          "type": "lucky:command",
+          "command": "/boogaloo_core relic give {playerName} home_run_pan"
+        },
+        {
+          "type": "lucky:command",
+          "command": "/boogaloo_core relic give {playerName} duplicator"
+        },
+        {
+          "type": "lucky:command",
+          "command": "/boogaloo_core relic give {playerName} bonk_stick"
+        },
+        {
+          "type": "lucky:command",
+          "command": "/boogaloo_core relic give {playerName} second_round"
+        },
+        {
+          "type": "lucky:command",
+          "command": "/boogaloo_core relic give {playerName} sugar_rush_staff"
+        },
+        {
+          "type": "lucky:command",
+          "command": "/boogaloo_core relic give {playerName} yoink_whip"
+        },
+        {
+          "type": "lucky:command",
+          "command": "/boogaloo_core relic give {playerName} fish_slapper"
+        },
+        {
+          "type": "lucky:command",
+          "command": "/boogaloo_core relic give {playerName} clockwork_mace"
+        },
+        {
+          "type": "lucky:command",
+          "command": "/boogaloo_core relic give {playerName} thundercrack"
+        },
+        {
+          "type": "lucky:command",
+          "command": "/boogaloo_core relic give {playerName} pixie_pointer"
+        },
+        {
+          "type": "lucky:command",
+          "command": "/boogaloo_core relic give {playerName} chicken_cannon"
+        },
+        {
+          "type": "lucky:command",
+          "command": "/boogaloo_core relic give {playerName} backstabber"
+        },
+        {
+          "type": "lucky:command",
+          "command": "/boogaloo_core relic give {playerName} flipper"
+        },
+        {
+          "type": "lucky:command",
+          "command": "/boogaloo_core relic give {playerName} midas_blade"
+        }
+      ]
+    }
+  ]
+}

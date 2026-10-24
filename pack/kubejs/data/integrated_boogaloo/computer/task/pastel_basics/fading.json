@@ -1,0 +1,56 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.pastel_fading.title",
+  "description": "task.integrated_boogaloo.pastel_fading.description",
+  "showcase": [
+    "@recipe:pastel:bottle_of_fading"
+  ],
+  "icon": "pastel:bottle_of_fading",
+  "program": "integrated_boogaloo:world_of_color",
+  "category": "integrated_boogaloo:world_of_color",
+  "sort_order": 4,
+  "position": {
+    "x": 3,
+    "y": 0
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:pastel_basics/tigers_eye"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "pastel:collect_vegetal",
+      "description": "task.integrated_boogaloo.pastel_fading.goal",
+      "count": 1
+    },
+    {
+      "id": "bottle",
+      "type": "item",
+      "target": "pastel:bottle_of_fading",
+      "description": "task.integrated_boogaloo.pastel_fading.bottle",
+      "count": 1,
+      "optional": true
+    },
+    {
+      "id": "gem",
+      "type": "item",
+      "target": "antarchy:tigers_eye",
+      "description": "task.integrated_boogaloo.pastel_fading.gem",
+      "count": 2,
+      "optional": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 20
+    },
+    {
+      "type": "archive",
+      "entry": "integrated_boogaloo:pastel_bottles"
+    }
+  ],
+  "line_axis": "horizontal"
+}

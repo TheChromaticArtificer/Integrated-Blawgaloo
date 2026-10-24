@@ -1,0 +1,54 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.big_bertha_big_bertha.title",
+  "description": "task.integrated_boogaloo.big_bertha_big_bertha.description",
+  "showcase": [
+    "@recipe:antarchy:big_bertha"
+  ],
+  "icon": "antarchy:big_bertha",
+  "program": "integrated_boogaloo:big_boogaloo",
+  "category": "integrated_boogaloo:big_boogaloo",
+  "sort_order": 53,
+  "position": {
+    "x": 5,
+    "y": 0
+  },
+  "shape": "pentagon",
+  "size": 1.5,
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:big_bertha/blade",
+    "integrated_boogaloo:big_bertha/hilt",
+    "integrated_boogaloo:big_bertha/handle"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "item",
+      "target": "antarchy:big_bertha",
+      "description": "task.integrated_boogaloo.big_bertha_big_bertha.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 5000
+    },
+    {
+      "type": "experience_levels",
+      "levels": 30
+    },
+    {
+      "type": "item_pool",
+      "pool": "integrated_boogaloo:prestige",
+      "mode": "choice"
+    },
+    {
+      "type": "item_pool",
+      "pool": "integrated_boogaloo:supplies_rare",
+      "mode": "random"
+    }
+  ],
+  "line_axis": "horizontal"
+}

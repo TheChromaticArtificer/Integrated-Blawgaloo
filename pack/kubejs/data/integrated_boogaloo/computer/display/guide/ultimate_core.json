@@ -1,0 +1,11 @@
+{
+  "preset": "crafting",
+  "title": "literal:Ultimate Machine Core",
+  "recipe_binding": {
+    "recipe": "kubejs:oritech/crafting/core7",
+    "adapter": "antos:crafting"
+  },
+  "values": {
+    "heading": "literal:Ultimate Machine Core"
+  }
+}

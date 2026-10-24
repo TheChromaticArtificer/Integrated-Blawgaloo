@@ -1,0 +1,39 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.engineering_tardis_dimensions.title",
+  "description": "task.integrated_boogaloo.engineering_tardis_dimensions.description",
+  "showcase": [
+    "@recipe:timevortex:dimensional_stabiliser"
+  ],
+  "icon": "timevortex:dimensional_stabiliser",
+  "program": "integrated_boogaloo:engineering",
+  "category": "integrated_boogaloo:engineering",
+  "sort_order": 64,
+  "position": {
+    "x": 10,
+    "y": -3
+  },
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:engineering/tardis_course"
+  ],
+  "objectives": [
+    {
+      "id": "stabiliser",
+      "type": "item",
+      "target": "timevortex:dimensional_stabiliser",
+      "description": "task.integrated_boogaloo.engineering_tardis_dimensions.stabiliser",
+      "count": 1
+    }
+  ],
+  "archive_entries": [
+    "integrated_boogaloo:tardis"
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 40
+    }
+  ],
+  "line_axis": "horizontal"
+}

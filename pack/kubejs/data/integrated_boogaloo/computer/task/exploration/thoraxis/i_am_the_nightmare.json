@@ -1,0 +1,45 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.thoraxis_i_am_the_nightmare.title",
+  "description": "task.integrated_boogaloo.thoraxis_i_am_the_nightmare.description",
+  "showcase": [
+    "@recipe:antarchy:nightmare_chestplate"
+  ],
+  "icon": "antarchy:nightmare_chestplate",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:thoraxis",
+  "sort_order": 27,
+  "position": {
+    "x": 6,
+    "y": 4
+  },
+  "shape": "pentagon",
+  "size": 1.5,
+  "availability": "automatic",
+  "requires": [
+    "integrated_boogaloo:exploration/thoraxis/lucid",
+    "integrated_boogaloo:exploration/thoraxis/nightmare",
+    "integrated_boogaloo:exploration/thoraxis/emperor_scorpion"
+  ],
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "advancement",
+      "target": "antarchy:i_am_the_nightmare",
+      "description": "task.integrated_boogaloo.thoraxis_i_am_the_nightmare.goal",
+      "count": 1
+    }
+  ],
+  "rewards": [
+    {
+      "type": "item_pool",
+      "pool": "integrated_boogaloo:supplies_rare",
+      "mode": "choice"
+    },
+    {
+      "type": "antcoins",
+      "amount": 150
+    }
+  ],
+  "line_axis": "horizontal"
+}

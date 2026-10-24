@@ -1,0 +1,8 @@
+{
+  "category": "integrated_boogaloo:programs",
+  "title": "guide.integrated_boogaloo.disk.ant_facts.title",
+  "description": "guide.integrated_boogaloo.disk.ant_facts.description",
+  "programs": [
+    "integrated_boogaloo:ant_facts"
+  ]
+}

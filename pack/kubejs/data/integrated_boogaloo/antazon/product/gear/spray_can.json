@@ -1,0 +1,26 @@
+{
+  "name": "Spray Can: {item}",
+  "description": "Choose a color for your next vehicle makeover.",
+  "category": "gear",
+  "green_tint": false,
+  "quantity": 1,
+  "payments": [
+    {
+      "type": "antcoins",
+      "resource": "antcoins",
+      "amount": 15
+    }
+  ],
+  "thumbnail": {
+    "item": "mts:mtsofficialpack.spraycan_blue"
+  },
+  "availability": {
+    "server_stock": 0,
+    "player_limit": 16,
+    "player_limit_reset": "minecraft_week"
+  },
+  "variants": {
+    "tag": "integrated_boogaloo:antazon_spray_cans",
+    "mode": "choose"
+  }
+}

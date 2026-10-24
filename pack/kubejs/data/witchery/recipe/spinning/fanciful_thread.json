@@ -1,0 +1,27 @@
+{
+  "type": "witchery:spinning_wheel",
+  "altar_power": 5,
+  "cooking_time": 100,
+  "input_items": [
+    {
+      "count": 1,
+      "id": "witchery:wispy_cotton"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:string"
+    },
+    {
+      "count": 1,
+      "id": "alexscaves:sugar_glass"
+    },
+    {
+      "count": 1,
+      "id": "witchery:odor_of_purity"
+    }
+  ] ,
+  "output_item": {
+    "count": 8,
+    "id": "witchery:fanciful_thread"
+  }
+}

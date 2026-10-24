@@ -1,0 +1,52 @@
+{
+  "type": "witchery:cauldron_crafting",
+  "altarPower": 200,
+  "inputItems": [
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "minecraft:glass_bottle"
+      },
+      "order": 0
+    },
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "minecraft:glass_bottle"
+      },
+      "order": 1
+    },
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "pastel:milky_resin"
+      },
+      "order": 2
+    },
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "pastel:nightdew_sprout"
+      },
+      "order": 3
+    },
+    {
+      "color": -1,
+      "itemStack": {
+        "count": 1,
+        "id": "minecraft:beetroot_seeds"
+      },
+      "order": 4
+    }
+  ],
+  "outputItems": [
+    {
+      "count": 2,
+      "id": "pastel:karak_chai"
+    }
+  ]
+}

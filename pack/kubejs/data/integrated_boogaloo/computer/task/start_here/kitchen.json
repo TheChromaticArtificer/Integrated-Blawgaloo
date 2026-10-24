@@ -1,0 +1,46 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.start_here_kitchen.title",
+  "description": "task.integrated_boogaloo.start_here_kitchen.description",
+  "showcase": [
+    "@item:refurbished_furniture:oak_cutting_board",
+    "@item:refurbished_furniture:frying_pan"
+  ],
+  "icon": "refurbished_furniture:oak_cutting_board",
+  "program": "integrated_boogaloo:start_here",
+  "category": "integrated_boogaloo:start_here",
+  "sort_order": 16,
+  "position": {
+    "x": 0,
+    "y": 3
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "board",
+      "type": "item_tag",
+      "target": "integrated_boogaloo:cutting_boards",
+      "tag_mode": "any",
+      "description": "task.integrated_boogaloo.start_here_kitchen.board",
+      "count": 1
+    },
+    {
+      "id": "pan",
+      "type": "item",
+      "target": "refurbished_furniture:frying_pan",
+      "description": "task.integrated_boogaloo.start_here_kitchen.pan",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 15
+    }
+  ],
+  "connects": [
+    "integrated_boogaloo:start_here/morph"
+  ],
+  "line_axis": "vertical"
+}

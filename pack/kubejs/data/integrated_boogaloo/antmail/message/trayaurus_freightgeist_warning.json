@@ -1,0 +1,12 @@
+{
+  "sender": "trayaurus@antmail.com",
+  "sender_avatar_item": "antarchy:diamond_minecart",
+  "subject": "That wasn't me",
+  "body": "If you've received a message from someone calling themselves Freightgeist, I didn't send it. I haven't given anyone access to my notes either.\n\nI don't know how much they've seen. Be careful what you tell them. I don't want them finding out about the GLOVE, if you know what I mean.\n\nYour old friend,\nDr. T",
+  "trigger": {
+    "type": "mail_read",
+    "value": "integrated_boogaloo:freightgeist_intro",
+    "delay": 1
+  },
+  "once": true
+}

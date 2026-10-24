@@ -1,0 +1,355 @@
+{
+  "version": 1,
+  "title": "literal:Robosurgeon",
+  "width": 250,
+  "height": 53,
+  "elements": [
+    {
+      "id": "surgery",
+      "type": "scene",
+      "x": 2,
+      "y": 2,
+      "width": 130,
+      "height": 146,
+      "yaw": 200,
+      "pitch": 25,
+      "scale": 1.1,
+      "blocks": [
+        {
+          "pos": [
+            -2,
+            -1,
+            -2
+          ],
+          "state": "minecraft:white_concrete",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -2,
+            -1,
+            -1
+          ],
+          "state": "minecraft:white_concrete",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -2,
+            -1,
+            0
+          ],
+          "state": "minecraft:white_concrete",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -2,
+            -1,
+            1
+          ],
+          "state": "minecraft:white_concrete",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -2,
+            -1,
+            2
+          ],
+          "state": "minecraft:white_concrete",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            -1,
+            -2
+          ],
+          "state": "minecraft:white_concrete",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            -1,
+            -1
+          ],
+          "state": "minecraft:white_concrete",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            -1,
+            0
+          ],
+          "state": "minecraft:white_concrete",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            -1,
+            1
+          ],
+          "state": "minecraft:white_concrete",
+          "decorative": true
+        },
+        {
+          "pos": [
+            -1,
+            -1,
+            2
+          ],
+          "state": "minecraft:white_concrete",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            -2
+          ],
+          "state": "minecraft:white_concrete",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            -1
+          ],
+          "state": "minecraft:white_concrete",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            0
+          ],
+          "state": "minecraft:white_concrete",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            1
+          ],
+          "state": "minecraft:white_concrete",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            -1,
+            2
+          ],
+          "state": "minecraft:white_concrete",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            -2
+          ],
+          "state": "minecraft:white_concrete",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            -1
+          ],
+          "state": "minecraft:white_concrete",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            0
+          ],
+          "state": "minecraft:white_concrete",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            1
+          ],
+          "state": "minecraft:white_concrete",
+          "decorative": true
+        },
+        {
+          "pos": [
+            1,
+            -1,
+            2
+          ],
+          "state": "minecraft:white_concrete",
+          "decorative": true
+        },
+        {
+          "pos": [
+            2,
+            -1,
+            -2
+          ],
+          "state": "minecraft:white_concrete",
+          "decorative": true
+        },
+        {
+          "pos": [
+            2,
+            -1,
+            -1
+          ],
+          "state": "minecraft:white_concrete",
+          "decorative": true
+        },
+        {
+          "pos": [
+            2,
+            -1,
+            0
+          ],
+          "state": "minecraft:white_concrete",
+          "decorative": true
+        },
+        {
+          "pos": [
+            2,
+            -1,
+            1
+          ],
+          "state": "minecraft:white_concrete",
+          "decorative": true
+        },
+        {
+          "pos": [
+            2,
+            -1,
+            2
+          ],
+          "state": "minecraft:white_concrete",
+          "decorative": true
+        },
+        {
+          "pos": [
+            0,
+            0,
+            0
+          ],
+          "state": "createcybernetics:surgery_chamber[facing=north,opened=false,slave=false,surgery_done=false]",
+          "id": "chamber",
+          "highlight": true,
+          "groups": [
+            "chamber"
+          ]
+        },
+        {
+          "pos": [
+            0,
+            1,
+            0
+          ],
+          "state": "createcybernetics:surgery_chamber_top[facing=north,opened=false,slave=true,connected=true]",
+          "id": "top",
+          "groups": [
+            "chamber"
+          ]
+        },
+        {
+          "pos": [
+            0,
+            2,
+            0
+          ],
+          "state": "createcybernetics:robosurgeon",
+          "id": "robo",
+          "highlight": true,
+          "groups": [
+            "robo"
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "id": "chamber",
+          "title": "literal:Surgery Chamber",
+          "text": "literal:Place the chamber. You stand inside it.",
+          "groups": [
+            "chamber"
+          ]
+        },
+        {
+          "id": "robo",
+          "title": "literal:Robosurgeon above",
+          "text": "literal:The Robosurgeon hangs right over it.",
+          "groups": [
+            "robo"
+          ]
+        },
+        {
+          "id": "install",
+          "title": "literal:Install",
+          "text": "literal:Step in and pick what goes where.",
+          "markers": [
+            {
+              "icon": "right_click",
+              "block": "chamber",
+              "text": "literal:Step in"
+            }
+          ]
+        }
+      ],
+      "hero": true,
+      "ratio": 0.95
+    },
+    {
+      "type": "text",
+      "x": 6,
+      "y": 4,
+      "width": 238,
+      "text": "literal:Every implant takes some of your humanity. Neuropozyne keeps rejection away."
+    },
+    {
+      "type": "group",
+      "x": 6,
+      "y": 25,
+      "layout": "grid",
+      "columns": 3,
+      "cell_width": 20,
+      "cell_height": 20,
+      "elements": [
+        {
+          "type": "slot",
+          "x": 0,
+          "y": 0,
+          "item": "createcybernetics:surgery_chamber"
+        },
+        {
+          "type": "slot",
+          "x": 0,
+          "y": 0,
+          "item": "createcybernetics:robosurgeon"
+        },
+        {
+          "type": "slot",
+          "x": 0,
+          "y": 0,
+          "item": "createcybernetics:basecyberware_cybereyes"
+        }
+      ]
+    }
+  ],
+  "reflow": true,
+  "auto_height": true,
+  "hide_title": true
+}

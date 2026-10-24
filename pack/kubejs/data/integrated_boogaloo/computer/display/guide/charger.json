@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "title": "literal:Equipment Charger",
+  "width": 236,
+  "height": 96,
+  "elements": [
+    {
+      "type": "slot",
+      "x": 6,
+      "y": 24,
+      "item": "oritech:charger_block",
+      "size": 30,
+      "role": "catalyst",
+      "consumption": "literal:The charger isn't used up."
+    },
+    {
+      "type": "slot",
+      "x": 48,
+      "y": 8,
+      "item": "oritech:hand_drill",
+      "role": "input"
+    },
+    {
+      "type": "bar",
+      "x": 70,
+      "y": 14,
+      "width": 40,
+      "height": 6,
+      "value": 0.15,
+      "color": "#D9534F"
+    },
+    {
+      "type": "arrow",
+      "x": 116,
+      "y": 17,
+      "x2": 140,
+      "y2": 17
+    },
+    {
+      "type": "slot",
+      "x": 148,
+      "y": 8,
+      "item": "oritech:hand_drill",
+      "role": "output"
+    },
+    {
+      "type": "bar",
+      "x": 170,
+      "y": 14,
+      "width": 40,
+      "height": 6,
+      "value": 1.0,
+      "color": "#5CB85C",
+      "animate": 3
+    },
+    {
+      "type": "slot",
+      "x": 48,
+      "y": 40,
+      "item": "oritech:exo_jetpack",
+      "role": "input"
+    },
+    {
+      "type": "slot",
+      "x": 68,
+      "y": 40,
+      "item": "oritech:still_fuel_bucket",
+      "role": "input",
+      "tooltip": "literal:Fuel goes in the charger's tank"
+    },
+    {
+      "type": "arrow",
+      "x": 116,
+      "y": 49,
+      "x2": 140,
+      "y2": 49
+    },
+    {
+      "type": "slot",
+      "x": 148,
+      "y": 40,
+      "item": "oritech:exo_jetpack",
+      "role": "output"
+    },
+    {
+      "type": "fluid",
+      "x": 170,
+      "y": 40,
+      "width": 40,
+      "height": 18,
+      "fluid": "oritech:still_fuel",
+      "name": "literal:Fuel",
+      "amount": 12000,
+      "capacity": 16000,
+      "direction": "right"
+    },
+    {
+      "type": "text",
+      "x": 6,
+      "y": 68,
+      "width": 226,
+      "text": "literal:Takes up to 10,000 RF/t. Holds 16 buckets of jetpack fuel.",
+      "color": "muted"
+    }
+  ],
+  "reflow": true,
+  "auto_height": true
+}

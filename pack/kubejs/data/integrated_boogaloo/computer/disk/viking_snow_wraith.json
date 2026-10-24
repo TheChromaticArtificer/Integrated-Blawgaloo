@@ -1,0 +1,9 @@
+{
+  "category": "integrated_boogaloo:vikings",
+  "title": "guide.integrated_boogaloo.disk.viking_snow_wraith.title",
+  "description": "guide.integrated_boogaloo.disk.viking_snow_wraith.description",
+  "entries": [
+    "integrated_boogaloo:bda_snow_wraith",
+    "integrated_boogaloo:iaf_dragons"
+  ]
+}

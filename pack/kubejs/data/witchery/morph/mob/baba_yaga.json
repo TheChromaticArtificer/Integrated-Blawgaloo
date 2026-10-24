@@ -1,0 +1,50 @@
+{
+    "forEntity": "witchery:baba_yaga",
+    "attributeOverrides": {
+        "minecraft:generic.max_health": 60.0
+    },
+    "traits": [
+        {
+            "type": "traitHostile"
+        },
+        {
+            "type": "abilityThrowPotion",
+            "slot": 1,
+            "potions": [
+                "minecraft:harming",
+                "minecraft:slowness",
+                "minecraft:poison",
+                "minecraft:weakness"
+            ],
+            "velocity": 0.75,
+            "cooldown": 50,
+            "soundEventId": "minecraft:entity.witch.throw"
+        },
+        {
+            "type": "abilityWitcheryDraught",
+            "slot": 2,
+            "radius": 0.0,
+            "selfEffects": [
+                {
+                    "id": "minecraft:regeneration",
+                    "duration": 200,
+                    "amplifier": 1
+                },
+                {
+                    "id": "minecraft:speed",
+                    "duration": 300,
+                    "amplifier": 0
+                },
+                {
+                    "id": "minecraft:fire_resistance",
+                    "duration": 600,
+                    "amplifier": 0
+                }
+            ],
+            "randomSelfEffect": true,
+            "particleId": "minecraft:witch",
+            "cooldown": 300,
+            "soundEventId": "minecraft:entity.witch.drink"
+        }
+    ]
+}

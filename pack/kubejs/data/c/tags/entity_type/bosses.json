@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "boogaloo_core:herobrine",
+    "antarchy:king",
+    "antarchy:queen",
+    "dog:devourer_head",
+    "dog:devourer_segment",
+    "dog:devourer_tail"
+  ]
+}

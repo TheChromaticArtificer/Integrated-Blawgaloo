@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "dream_weaver": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "witchery:dream_weaver"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "dream_weaver"
+    ]
+  ]
+}

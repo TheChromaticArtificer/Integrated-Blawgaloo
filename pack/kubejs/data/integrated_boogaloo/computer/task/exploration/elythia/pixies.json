@@ -1,0 +1,44 @@
+{
+  "green_tint": false,
+  "title": "task.integrated_boogaloo.elythia_pixies.title",
+  "description": "task.integrated_boogaloo.elythia_pixies.description",
+  "showcase": [
+    "@entity:iceandfire:pixie"
+  ],
+  "icon": "iceandfire:pixie_dust",
+  "program": "integrated_boogaloo:adventures",
+  "category": "integrated_boogaloo:elythia",
+  "sort_order": 17,
+  "position": {
+    "x": 2,
+    "y": 3
+  },
+  "availability": "automatic",
+  "objectives": [
+    {
+      "id": "goal",
+      "type": "structure_entered",
+      "target": "iceandfire:pixie_village",
+      "description": "task.integrated_boogaloo.elythia_pixies.goal",
+      "count": 1
+    },
+    {
+      "id": "dust",
+      "type": "item",
+      "target": "iceandfire:pixie_dust",
+      "description": "task.integrated_boogaloo.elythia_pixies.dust",
+      "count": 1,
+      "optional": true
+    }
+  ],
+  "rewards": [
+    {
+      "type": "antcoins",
+      "amount": 25
+    },
+    {
+      "type": "archive",
+      "entry": "integrated_boogaloo:iaf_pixie"
+    }
+  ]
+}

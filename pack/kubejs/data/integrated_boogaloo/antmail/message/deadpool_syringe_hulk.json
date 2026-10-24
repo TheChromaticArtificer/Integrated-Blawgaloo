@@ -1,0 +1,17 @@
+{
+  "sender": "deadpool@antmail.com",
+  "sender_display": "Deadpool",
+  "sender_avatar_item": "marvel:deadpool_helmet",
+  "subject": "Do the pants come with it",
+  "body": "Bruce Banner is a Russian nesting doll where the smallest doll is a nerd in a cardigan and the biggest one is a nine foot avocado with abs who eats cars. Heads up, if you'd die you Hulk out instead, so now you cant even die properly. Sounds fun but trust me it gets old. Real question though, do the pants come with it?? Bruce's purple pants have survived more shirt than I have.",
+  "trigger": {
+    "type": "advancement",
+    "value": "integrated_boogaloo:deadpool/syringe_hulk",
+    "delay_minutes": 2
+  },
+  "conditions": {
+    "mail_read": [
+      "integrated_boogaloo:deadpool_intro"
+    ]
+  }
+}

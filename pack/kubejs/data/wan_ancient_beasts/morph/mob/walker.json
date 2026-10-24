@@ -1,0 +1,30 @@
+{
+    "forEntity": "wan_ancient_beasts:walker",
+    "tickMode": "client_strict",
+    "attributeOverrides": {
+        "minecraft:generic.max_health": 60.0,
+        "minecraft:generic.knockback_resistance": 1.0,
+        "minecraft:player.entity_interaction_range": 6.0,
+        "minecraft:player.block_interaction_range": 6.0
+    },
+    "traits": [
+        {
+            "type": "traitStepHeight",
+            "amount": 1.5
+        },
+        {
+            "type": "traitWanAncientBeastsTrample",
+            "damage": 2.0,
+            "intervalTicks": 10,
+            "rangeX": 3.7,
+            "rangeY": 1.0,
+            "rangeZ": 3.7,
+            "bulldoze": true
+        },
+        {
+            "type": "abilityWanAncientBeastsCarry",
+            "slot": 1,
+            "maxPassengers": 4
+        }
+    ]
+}
