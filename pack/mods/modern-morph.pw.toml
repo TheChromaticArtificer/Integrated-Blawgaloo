@@ -1,13 +1,13 @@
 name = "Modern Morph"
-filename = "morph-neoforge-1.21.1-1.3.3.jar"
+filename = "morph-neoforge-1.21.1-1.3.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "69149708733d4843f99800a922dde15f0639f092"
+hash = "ea64b31c105dc7431833583e59782727b0338453"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9284398
+file-id = 9300445
 project-id = 1645713

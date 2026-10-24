@@ -1,13 +1,13 @@
 name = "MalisisDoors Reborn"
-filename = "malisisdoorsreborn-neoforge-1.21.1-1.0.15.jar"
+filename = "malisisdoorsreborn-neoforge-1.21.1-1.0.16.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ff51a03ba9a05de21f475f62460caeb26124b852"
+hash = "6cc81e0f357ec7466922ef708650039ea95d2b72"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8975622
+file-id = 9300243
 project-id = 1541149

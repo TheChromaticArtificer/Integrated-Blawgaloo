@@ -1,13 +1,13 @@
 name = "Antarchy"
-filename = "antarchy-2.2.7+1.21.1-neoforge.jar"
+filename = "antarchy-2.2.8+1.21.1-neoforge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "84a453e792146aa2ca824702056037f1ed2f76bf"
+hash = "bd46cd5000615c5931f09d6579fa107e6a8a6dc4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9283268
+file-id = 9300766
 project-id = 1504802
