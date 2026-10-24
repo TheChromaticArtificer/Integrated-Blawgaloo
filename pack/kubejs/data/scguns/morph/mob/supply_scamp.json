@@ -1,0 +1,5 @@
+{
+    "forEntity": "scguns:supply_scamp",
+    "tickMode": "client_strict",
+    "traits": []
+}

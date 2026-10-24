@@ -4,10 +4,6 @@
   "chance": 1.0,
   "outcomes": [
     {
-      "type": "lucky:difficulty",
-      "difficulty": "hard"
-    },
-    {
       "type": "lucky:entity",
       "entity_type": "minecraft:ghast"
     }

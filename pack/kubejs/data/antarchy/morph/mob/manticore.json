@@ -23,7 +23,7 @@
         {
             "type": "abilityAntarchyManticoreSting",
             "range": 4.5,
-            "damage": 7.0,
+            "damage": 12.0,
             "knockback": 0.65,
             "poisonDurationTicks": 100,
             "cooldown": 28,

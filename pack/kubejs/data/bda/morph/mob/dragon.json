@@ -3,10 +3,8 @@
     "tickMode": "client_strict",
     "cameraDistanceMultiplier": 1.6,
     "attributeOverrides": {
-        "minecraft:generic.max_health": 80.0,
-        "minecraft:generic.armor": 8.0,
-        "minecraft:generic.armor_toughness": 4.0,
-        "minecraft:generic.attack_damage": 18.0,
+        "minecraft:generic.max_health": 60.0,
+        "minecraft:generic.attack_damage": 7.0,
         "minecraft:generic.attack_knockback": 1.5
     },
     "variantNbtStrip": [
@@ -72,7 +70,7 @@
             "type": "abilityBdaDragonBite",
             "slot": 2,
             "cooldown": 20,
-            "damage": 18.0,
+            "damage": 25.0,
             "range": 5.0,
             "knockback": 0.8
         }

@@ -1,0 +1,57 @@
+{
+    "forEntity": "antarchy:kraken",
+    "cameraDistanceMultiplier": 4.5,
+    "traits": [
+        {
+            "type": "traitHostile"
+        },
+        {
+            "type": "traitWaterBreather"
+        },
+        {
+            "type": "traitSwimmer",
+            "swimMultiplier": 2.0,
+            "landMultiplier": 0.35,
+            "doNotAffectFog": true
+        },
+        {
+            "type": "abilityAntarchyKrakenGrasp",
+            "nativeClassName": "com.craisinlord.antarchy.content.entity.kraken.KrakenEntity",
+            "intMethods": {
+                "setAnimationState": 2
+            },
+            "triggerControllerName": "attack_controller",
+            "triggerAnimName": "grab",
+            "lineAttack": true,
+            "range": 16.0,
+            "radius": 2.0,
+            "damage": 42.0,
+            "pullStrength": 1.2,
+            "cooldown": 80,
+            "soundEventId": "antarchy:kraken_grab",
+            "slot": 1
+        },
+        {
+            "type": "abilityAntarchyKrakenGrasp",
+            "nativeClassName": "com.craisinlord.antarchy.content.entity.kraken.KrakenEntity",
+            "intMethods": {
+                "setAnimationState": 5
+            },
+            "triggerControllerName": "attack_controller",
+            "triggerAnimName": "attack",
+            "radius": 7.0,
+            "damage": 60.0,
+            "knockback": 1.4,
+            "cooldown": 100,
+            "soundEventId": "antarchy:kraken_slam",
+            "slot": 2
+        }
+    ],
+    "attributeOverrides": {
+        "minecraft:generic.max_health": 180.0,
+        "minecraft:generic.attack_damage": 12.0,
+        "minecraft:player.entity_interaction_range": 10.0,
+        "minecraft:player.block_interaction_range": 10.0
+    },
+    "tickMode": "client_strict"
+}

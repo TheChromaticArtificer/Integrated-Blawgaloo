@@ -161,6 +161,38 @@
     {
       "id": "wan_ancient_beasts:soarer",
       "required": false
+    },
+    {
+      "id": "alexscaves:teletor",
+      "required": false
+    },
+    {
+      "id": "alexscaves:ferrouslime",
+      "required": false
+    },
+    {
+      "id": "alexscaves:notor",
+      "required": false
+    },
+    {
+      "id": "alexscaves:vesper",
+      "required": false
+    },
+    {
+      "id": "alexscaves:gloomoth",
+      "required": false
+    },
+    {
+      "id": "scguns:sky_carrier",
+      "required": false
+    },
+    {
+      "id": "scguns:swarm",
+      "required": false
+    },
+    {
+      "id": "scguns:mother_ghast",
+      "required": false
     }
   ]
 }

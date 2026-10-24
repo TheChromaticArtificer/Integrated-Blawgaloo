@@ -17,184 +17,15 @@
       "blocks": [
         {
           "pos": [
-            -5,
+            -3,
             0,
             -5
           ],
-          "state": "oritech:accelerator_ring",
-          "id": "r-5_-5",
-          "highlight": false,
-          "groups": [
-            "ring"
-          ]
-        },
-        {
-          "pos": [
-            -5,
-            0,
-            -4
-          ],
-          "state": "oritech:accelerator_ring",
-          "id": "r-5_-4",
-          "highlight": false,
-          "groups": [
-            "ring"
-          ]
-        },
-        {
-          "pos": [
-            -5,
-            0,
-            -3
-          ],
-          "state": "oritech:accelerator_ring",
-          "id": "r-5_-3",
-          "highlight": false,
-          "groups": [
-            "ring"
-          ]
-        },
-        {
-          "pos": [
-            -5,
-            0,
-            -2
-          ],
-          "state": "oritech:accelerator_ring",
-          "id": "r-5_-2",
-          "highlight": false,
-          "groups": [
-            "ring"
-          ]
-        },
-        {
-          "pos": [
-            -5,
-            0,
-            -1
-          ],
-          "state": "oritech:accelerator_ring",
-          "id": "r-5_-1",
-          "highlight": false,
-          "groups": [
-            "ring"
-          ]
-        },
-        {
-          "pos": [
-            -5,
-            0,
-            0
-          ],
-          "state": "oritech:accelerator_motor",
-          "id": "motor-5",
+          "state": "oritech:accelerator_motor[facing=north]",
+          "id": "motor-3_-5",
           "highlight": true,
           "groups": [
-            "ring"
-          ]
-        },
-        {
-          "pos": [
-            -5,
-            0,
-            1
-          ],
-          "state": "oritech:accelerator_ring",
-          "id": "r-5_1",
-          "highlight": false,
-          "groups": [
-            "ring"
-          ]
-        },
-        {
-          "pos": [
-            -5,
-            0,
-            2
-          ],
-          "state": "oritech:accelerator_ring",
-          "id": "r-5_2",
-          "highlight": false,
-          "groups": [
-            "ring"
-          ]
-        },
-        {
-          "pos": [
-            -5,
-            0,
-            3
-          ],
-          "state": "oritech:accelerator_ring",
-          "id": "r-5_3",
-          "highlight": false,
-          "groups": [
-            "ring"
-          ]
-        },
-        {
-          "pos": [
-            -5,
-            0,
-            4
-          ],
-          "state": "oritech:accelerator_ring",
-          "id": "r-5_4",
-          "highlight": false,
-          "groups": [
-            "ring"
-          ]
-        },
-        {
-          "pos": [
-            -5,
-            0,
-            5
-          ],
-          "state": "oritech:accelerator_ring",
-          "id": "r-5_5",
-          "highlight": false,
-          "groups": [
-            "ring"
-          ]
-        },
-        {
-          "pos": [
-            -4,
-            0,
-            -5
-          ],
-          "state": "oritech:accelerator_ring",
-          "id": "r-4_-5",
-          "highlight": false,
-          "groups": [
-            "ring"
-          ]
-        },
-        {
-          "pos": [
-            -4,
-            0,
-            5
-          ],
-          "state": "oritech:accelerator_ring",
-          "id": "r-4_5",
-          "highlight": false,
-          "groups": [
-            "ring"
-          ]
-        },
-        {
-          "pos": [
-            -3,
-            0,
-            -5
-          ],
-          "state": "oritech:accelerator_ring",
-          "id": "r-3_-5",
-          "highlight": false,
-          "groups": [
-            "ring"
+            "parts"
           ]
         },
         {
@@ -203,11 +34,11 @@
             0,
             5
           ],
-          "state": "oritech:accelerator_ring",
-          "id": "r-3_5",
-          "highlight": false,
+          "state": "oritech:accelerator_motor[facing=north]",
+          "id": "motor-3_5",
+          "highlight": true,
           "groups": [
-            "ring"
+            "parts"
           ]
         },
         {
@@ -216,7 +47,7 @@
             0,
             -5
           ],
-          "state": "oritech:accelerator_ring",
+          "state": "oritech:accelerator_ring[facing=east,bent=0,redstone_state=3]",
           "id": "r-2_-5",
           "highlight": false,
           "groups": [
@@ -229,7 +60,7 @@
             0,
             5
           ],
-          "state": "oritech:accelerator_ring",
+          "state": "oritech:accelerator_ring[facing=east,bent=0,redstone_state=3]",
           "id": "r-2_5",
           "highlight": false,
           "groups": [
@@ -242,7 +73,7 @@
             0,
             -5
           ],
-          "state": "oritech:accelerator_ring",
+          "state": "oritech:accelerator_ring[facing=east,bent=0,redstone_state=3]",
           "id": "r-1_-5",
           "highlight": false,
           "groups": [
@@ -255,7 +86,7 @@
             0,
             5
           ],
-          "state": "oritech:accelerator_ring",
+          "state": "oritech:accelerator_ring[facing=east,bent=0,redstone_state=3]",
           "id": "r-1_5",
           "highlight": false,
           "groups": [
@@ -268,9 +99,9 @@
             0,
             -5
           ],
-          "state": "oritech:accelerator_controller",
-          "id": "controller",
-          "highlight": true,
+          "state": "oritech:accelerator_ring[facing=east,bent=0,redstone_state=3]",
+          "id": "r0_-5",
+          "highlight": false,
           "groups": [
             "ring"
           ]
@@ -281,9 +112,9 @@
             0,
             5
           ],
-          "state": "oritech:accelerator_sensor",
-          "id": "sensor",
-          "highlight": true,
+          "state": "oritech:accelerator_ring[facing=east,bent=0,redstone_state=3]",
+          "id": "r0_5",
+          "highlight": false,
           "groups": [
             "ring"
           ]
@@ -294,7 +125,7 @@
             0,
             -5
           ],
-          "state": "oritech:accelerator_ring",
+          "state": "oritech:accelerator_ring[facing=east,bent=0,redstone_state=3]",
           "id": "r1_-5",
           "highlight": false,
           "groups": [
@@ -307,7 +138,7 @@
             0,
             5
           ],
-          "state": "oritech:accelerator_ring",
+          "state": "oritech:accelerator_ring[facing=east,bent=0,redstone_state=3]",
           "id": "r1_5",
           "highlight": false,
           "groups": [
@@ -320,7 +151,7 @@
             0,
             -5
           ],
-          "state": "oritech:accelerator_ring",
+          "state": "oritech:accelerator_ring[facing=east,bent=0,redstone_state=3]",
           "id": "r2_-5",
           "highlight": false,
           "groups": [
@@ -333,7 +164,7 @@
             0,
             5
           ],
-          "state": "oritech:accelerator_ring",
+          "state": "oritech:accelerator_ring[facing=east,bent=0,redstone_state=3]",
           "id": "r2_5",
           "highlight": false,
           "groups": [
@@ -346,11 +177,11 @@
             0,
             -5
           ],
-          "state": "oritech:accelerator_ring",
-          "id": "r3_-5",
-          "highlight": false,
+          "state": "oritech:accelerator_motor[facing=north]",
+          "id": "motor3_-5",
+          "highlight": true,
           "groups": [
-            "ring"
+            "parts"
           ]
         },
         {
@@ -359,60 +190,21 @@
             0,
             5
           ],
-          "state": "oritech:accelerator_ring",
-          "id": "r3_5",
-          "highlight": false,
+          "state": "oritech:accelerator_motor[facing=north]",
+          "id": "motor3_5",
+          "highlight": true,
           "groups": [
-            "ring"
+            "parts"
           ]
         },
         {
           "pos": [
-            4,
+            -5,
             0,
-            -5
+            -3
           ],
-          "state": "oritech:accelerator_ring",
-          "id": "r4_-5",
-          "highlight": false,
-          "groups": [
-            "ring"
-          ]
-        },
-        {
-          "pos": [
-            4,
-            0,
-            5
-          ],
-          "state": "oritech:accelerator_ring",
-          "id": "r4_5",
-          "highlight": false,
-          "groups": [
-            "ring"
-          ]
-        },
-        {
-          "pos": [
-            5,
-            0,
-            -5
-          ],
-          "state": "oritech:accelerator_ring",
-          "id": "r5_-5",
-          "highlight": false,
-          "groups": [
-            "ring"
-          ]
-        },
-        {
-          "pos": [
-            5,
-            0,
-            -4
-          ],
-          "state": "oritech:accelerator_ring",
-          "id": "r5_-4",
+          "state": "oritech:accelerator_ring[facing=north,bent=0,redstone_state=3]",
+          "id": "r-5_-3",
           "highlight": false,
           "groups": [
             "ring"
@@ -424,8 +216,21 @@
             0,
             -3
           ],
-          "state": "oritech:accelerator_ring",
+          "state": "oritech:accelerator_ring[facing=north,bent=0,redstone_state=3]",
           "id": "r5_-3",
+          "highlight": false,
+          "groups": [
+            "ring"
+          ]
+        },
+        {
+          "pos": [
+            -5,
+            0,
+            -2
+          ],
+          "state": "oritech:accelerator_ring[facing=north,bent=0,redstone_state=3]",
+          "id": "r-5_-2",
           "highlight": false,
           "groups": [
             "ring"
@@ -437,8 +242,21 @@
             0,
             -2
           ],
-          "state": "oritech:accelerator_ring",
+          "state": "oritech:accelerator_ring[facing=north,bent=0,redstone_state=3]",
           "id": "r5_-2",
+          "highlight": false,
+          "groups": [
+            "ring"
+          ]
+        },
+        {
+          "pos": [
+            -5,
+            0,
+            -1
+          ],
+          "state": "oritech:accelerator_ring[facing=north,bent=0,redstone_state=3]",
+          "id": "r-5_-1",
           "highlight": false,
           "groups": [
             "ring"
@@ -450,8 +268,21 @@
             0,
             -1
           ],
-          "state": "oritech:accelerator_ring",
+          "state": "oritech:accelerator_ring[facing=north,bent=0,redstone_state=3]",
           "id": "r5_-1",
+          "highlight": false,
+          "groups": [
+            "ring"
+          ]
+        },
+        {
+          "pos": [
+            -5,
+            0,
+            0
+          ],
+          "state": "oritech:accelerator_ring[facing=north,bent=0,redstone_state=3]",
+          "id": "r-5_0",
           "highlight": false,
           "groups": [
             "ring"
@@ -463,9 +294,22 @@
             0,
             0
           ],
-          "state": "oritech:accelerator_motor",
-          "id": "motor5",
+          "state": "oritech:accelerator_sensor[facing=east]",
+          "id": "sensor",
           "highlight": true,
+          "groups": [
+            "parts"
+          ]
+        },
+        {
+          "pos": [
+            -5,
+            0,
+            1
+          ],
+          "state": "oritech:accelerator_ring[facing=north,bent=0,redstone_state=3]",
+          "id": "r-5_1",
+          "highlight": false,
           "groups": [
             "ring"
           ]
@@ -476,8 +320,21 @@
             0,
             1
           ],
-          "state": "oritech:accelerator_ring",
+          "state": "oritech:accelerator_ring[facing=north,bent=0,redstone_state=3]",
           "id": "r5_1",
+          "highlight": false,
+          "groups": [
+            "ring"
+          ]
+        },
+        {
+          "pos": [
+            -5,
+            0,
+            2
+          ],
+          "state": "oritech:accelerator_ring[facing=north,bent=0,redstone_state=3]",
+          "id": "r-5_2",
           "highlight": false,
           "groups": [
             "ring"
@@ -489,8 +346,21 @@
             0,
             2
           ],
-          "state": "oritech:accelerator_ring",
+          "state": "oritech:accelerator_ring[facing=north,bent=0,redstone_state=3]",
           "id": "r5_2",
+          "highlight": false,
+          "groups": [
+            "ring"
+          ]
+        },
+        {
+          "pos": [
+            -5,
+            0,
+            3
+          ],
+          "state": "oritech:accelerator_ring[facing=north,bent=0,redstone_state=3]",
+          "id": "r-5_3",
           "highlight": false,
           "groups": [
             "ring"
@@ -502,9 +372,35 @@
             0,
             3
           ],
-          "state": "oritech:accelerator_ring",
+          "state": "oritech:accelerator_ring[facing=north,bent=0,redstone_state=3]",
           "id": "r5_3",
           "highlight": false,
+          "groups": [
+            "ring"
+          ]
+        },
+        {
+          "pos": [
+            4,
+            0,
+            -5
+          ],
+          "state": "oritech:accelerator_ring[facing=east,bent=1,redstone_state=3]",
+          "id": "bend4_-5",
+          "highlight": true,
+          "groups": [
+            "ring"
+          ]
+        },
+        {
+          "pos": [
+            5,
+            0,
+            -4
+          ],
+          "state": "oritech:accelerator_ring[facing=north,bent=2,redstone_state=3]",
+          "id": "bend5_-4",
+          "highlight": true,
           "groups": [
             "ring"
           ]
@@ -515,24 +411,115 @@
             0,
             4
           ],
-          "state": "oritech:accelerator_ring",
-          "id": "r5_4",
-          "highlight": false,
+          "state": "oritech:accelerator_ring[facing=south,bent=1,redstone_state=3]",
+          "id": "bend5_4",
+          "highlight": true,
           "groups": [
             "ring"
           ]
         },
         {
           "pos": [
-            5,
+            4,
             0,
             5
           ],
-          "state": "oritech:accelerator_ring",
-          "id": "r5_5",
-          "highlight": false,
+          "state": "oritech:accelerator_ring[facing=east,bent=2,redstone_state=3]",
+          "id": "bend4_5",
+          "highlight": true,
           "groups": [
             "ring"
+          ]
+        },
+        {
+          "pos": [
+            -4,
+            0,
+            5
+          ],
+          "state": "oritech:accelerator_ring[facing=west,bent=1,redstone_state=3]",
+          "id": "bend-4_5",
+          "highlight": true,
+          "groups": [
+            "ring"
+          ]
+        },
+        {
+          "pos": [
+            -5,
+            0,
+            4
+          ],
+          "state": "oritech:accelerator_ring[facing=south,bent=2,redstone_state=3]",
+          "id": "bend-5_4",
+          "highlight": true,
+          "groups": [
+            "ring"
+          ]
+        },
+        {
+          "pos": [
+            -5,
+            0,
+            -4
+          ],
+          "state": "oritech:accelerator_ring[facing=north,bent=1,redstone_state=3]",
+          "id": "bend-5_-4",
+          "highlight": true,
+          "groups": [
+            "ring"
+          ]
+        },
+        {
+          "pos": [
+            -4,
+            0,
+            -5
+          ],
+          "state": "oritech:accelerator_ring[facing=west,bent=2,redstone_state=3]",
+          "id": "bend-4_-5",
+          "highlight": true,
+          "groups": [
+            "ring"
+          ]
+        },
+        {
+          "pos": [
+            0,
+            0,
+            -6
+          ],
+          "state": "oritech:accelerator_controller[facing=north]",
+          "id": "controller_a",
+          "highlight": true,
+          "groups": [
+            "controllers"
+          ]
+        },
+        {
+          "pos": [
+            0,
+            0,
+            6
+          ],
+          "state": "oritech:accelerator_controller[facing=south]",
+          "id": "controller_b",
+          "highlight": true,
+          "groups": [
+            "controllers"
+          ]
+        },
+        {
+          "pos": [
+            6,
+            0,
+            0
+          ],
+          "state": "minecraft:comparator[facing=west]",
+          "id": "comparator",
+          "highlight": false,
+          "groups": [
+            "parts"
           ]
         }
       ],
@@ -546,22 +533,42 @@
               -5
             ],
             [
-              5,
+              -4,
               0,
               -5
             ],
             [
+              -5,
+              0,
+              -4
+            ],
+            [
+              -5,
+              0,
+              4
+            ],
+            [
+              -4,
+              0,
+              5
+            ],
+            [
+              4,
+              0,
+              5
+            ],
+            [
               5,
               0,
-              5
+              4
             ],
             [
-              -5,
+              5,
               0,
-              5
+              -4
             ],
             [
-              -5,
+              4,
               0,
               -5
             ],
@@ -574,43 +581,136 @@
           "offset": 0.5,
           "speed": 4,
           "steps": [
-            "run",
-            "collide"
+            "run"
           ]
+        },
+        {
+          "kind": "beam",
+          "points": [
+            [
+              0,
+              0,
+              -5
+            ],
+            [
+              -4,
+              0,
+              -5
+            ],
+            [
+              -5,
+              0,
+              -4
+            ],
+            [
+              -5,
+              0,
+              4
+            ],
+            [
+              -4,
+              0,
+              5
+            ],
+            [
+              4,
+              0,
+              5
+            ],
+            [
+              5,
+              0,
+              4
+            ],
+            [
+              5,
+              0,
+              -4
+            ],
+            [
+              4,
+              0,
+              -5
+            ],
+            [
+              0,
+              0,
+              -5
+            ]
+          ],
+          "offset": 0.5,
+          "speed": 8,
+          "steps": [
+            "collide"
+          ],
+          "final": true
         }
       ],
       "effects": [
         {
           "kind": "spark",
           "pos": [
-            0,
+            1,
             0,
             5
           ],
           "count": 12,
           "steps": [
             "collide"
-          ]
+          ],
+          "final": true
         }
       ],
       "steps": [
         {
           "id": "ring",
           "title": "literal:Build the loop",
-          "text": "literal:A closed loop of Accelerator Rings, with the controller in it.",
           "groups": [
             "ring"
-          ]
+          ],
+          "text": "literal:Guide rings in a loop. Each corner is two rings set diagonally, both right-clicked to bend toward each other."
+        },
+        {
+          "id": "parts",
+          "title": "literal:Motors and a sensor",
+          "groups": [
+            "parts"
+          ],
+          "text": "literal:Motors and sensors work as straight track. A comparator on the sensor shows the speed."
+        },
+        {
+          "id": "controllers",
+          "title": "literal:Two controllers",
+          "groups": [
+            "controllers"
+          ],
+          "text": "literal:Each controller sits outside the loop with its back against a straight ring."
         },
         {
           "id": "run",
-          "title": "literal:Feed it",
-          "text": "literal:Put particles in the controller. Motors speed them up as they go round."
+          "title": "literal:Speed it up",
+          "text": "literal:Put one item in a controller. It gains speed each time it passes a powered motor.",
+          "markers": [
+            {
+              "block": "controller_a",
+              "icon": "right_click",
+              "item": "oritech:coal_dust",
+              "text": "literal:First item"
+            }
+          ]
         },
         {
           "id": "collide",
           "title": "literal:Collide",
-          "text": "literal:A sensor where they meet. Faster collisions make rarer results."
+          "text": "literal:Once it's fast enough, put the second item in the other controller. The result lands in an output slot.",
+          "markers": [
+            {
+              "block": "controller_b",
+              "icon": "right_click",
+              "item": "oritech:coal_dust",
+              "text": "literal:Second item"
+            }
+          ]
         }
       ],
       "hero": true,
@@ -621,7 +721,7 @@
       "x": 6,
       "y": 4,
       "width": 238,
-      "text": "literal:Corners are fine. Bigger loops reach higher speeds."
+      "text": "literal:A particle too fast for its next corner flies off and the item is lost. Faster particles need longer sides: this 11-wide loop holds about 500, 15 wide about 1,000, 22 wide 2,500, 30 wide 5,000 and 42 wide 10,000. A collision that's too slow, or a pair with no result, wastes both items."
     },
     {
       "type": "conditions",

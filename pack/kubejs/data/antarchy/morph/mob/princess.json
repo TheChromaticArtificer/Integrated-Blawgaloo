@@ -21,7 +21,7 @@
             "animName": "shoot",
             "range": 28.0,
             "radius": 1.5,
-            "damage": 10.0,
+            "damage": 40.0,
             "cooldown": 90,
             "slot": 1
         },
@@ -32,7 +32,7 @@
             "animName": "bite",
             "range": 5.0,
             "radius": 1.0,
-            "damage": 7.0,
+            "damage": 28.0,
             "force": 0.35,
             "cooldown": 28,
             "slot": 2
@@ -46,5 +46,9 @@
             "cooldown": 240,
             "slot": 3
         }
-    ]
+    ],
+    "attributeOverrides": {
+        "minecraft:generic.max_health": 120.0,
+        "minecraft:generic.attack_damage": 9.0
+    }
 }

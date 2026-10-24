@@ -1,0 +1,57 @@
+{
+    "forEntity": "boogaloo_core:herobrine",
+    "tickMode": "base_only",
+    "attributeOverrides": {
+        "minecraft:generic.max_health": 180.0,
+        "minecraft:generic.attack_damage": 12.0,
+        "minecraft:generic.movement_speed": 0.13,
+        "minecraft:generic.knockback_resistance": 1.0
+    },
+    "traits": [
+        {
+            "type": "traitHostile"
+        },
+        {
+            "type": "traitImmunityFire"
+        },
+        {
+            "type": "traitFallNegate"
+        },
+        {
+            "type": "traitImmunityDamageSource",
+            "damageType": "minecraft:lightning_bolt"
+        },
+        {
+            "type": "traitHerobrineGaze"
+        },
+        {
+            "type": "traitHerobrineLooming"
+        },
+        {
+            "type": "abilityHerobrineBehindYou",
+            "slot": 1,
+            "cooldown": 100
+        },
+        {
+            "type": "abilityHerobrineRealityRewrite",
+            "slot": 2,
+            "cooldown": 240
+        },
+        {
+            "type": "abilityHerobrineWhosReal",
+            "slot": 3,
+            "cooldown": 600
+        },
+        {
+            "type": "abilityHerobrineWrath",
+            "slot": 4,
+            "cooldown": 160
+        },
+        {
+            "type": "abilityHerobrineLightsOut",
+            "slot": 5,
+            "cooldown": 900,
+            "holdCooldown": 400
+        }
+    ]
+}

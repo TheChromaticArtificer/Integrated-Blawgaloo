@@ -49,7 +49,7 @@
             "lineAttack": true,
             "range": 8.0,
             "radius": 2.0,
-            "damage": 12.0,
+            "damage": 40.0,
             "knockback": 2.0,
             "selfMotion": true,
             "selfMotionForward": 1.8,
@@ -58,5 +58,9 @@
             "soundEventId": "antarchy:hercules_beetle_charge_start",
             "slot": 2
         }
-    ]
+    ],
+    "attributeOverrides": {
+        "minecraft:generic.max_health": 120.0,
+        "minecraft:generic.attack_damage": 9.0
+    }
 }

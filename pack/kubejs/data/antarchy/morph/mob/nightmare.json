@@ -4,7 +4,7 @@
         {
             "type": "abilityAntarchyNightmareBite",
             "range": 5,
-            "damage": 7,
+            "damage": 21.9,
             "dreadTicks": 160,
             "weaknessTicks": 100,
             "cooldown": 34,
@@ -42,7 +42,7 @@
             "exitBackOffset": 15.0,
             "exitSideOffset": 4.5,
             "travelTicks": 36,
-            "damage": 8.0,
+            "damage": 25.0,
             "damageRadius": 2.6,
             "cooldown": 300,
             "animControllerName": "special_controller",
@@ -71,5 +71,8 @@
             "setPhaseTwoTexture": false,
             "setPhaseTransitioning": false
         }
+    },
+    "attributeOverrides": {
+        "minecraft:generic.max_health": 60.0
     }
 }

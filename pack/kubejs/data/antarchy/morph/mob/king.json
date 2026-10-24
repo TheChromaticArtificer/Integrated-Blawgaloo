@@ -23,7 +23,7 @@
             "actionId": "king_fireball",
             "range": 40,
             "radius": 1.5,
-            "damage": 12,
+            "damage": 80,
             "force": 0.8,
             "cooldown": 80,
             "slot": 1
@@ -33,7 +33,7 @@
             "actionId": "king_iceball",
             "range": 40,
             "radius": 1.5,
-            "damage": 10,
+            "damage": 45,
             "force": 0.7,
             "cooldown": 120,
             "slot": 2
@@ -43,7 +43,7 @@
             "actionId": "king_fire_beam",
             "range": 36,
             "radius": 1.5,
-            "damage": 12,
+            "damage": 85,
             "force": 0.0,
             "cooldown": 80,
             "slot": 3
@@ -53,7 +53,7 @@
             "actionId": "king_lightning_beam",
             "range": 36,
             "radius": 1.5,
-            "damage": 10,
+            "damage": 85,
             "force": 0.0,
             "cooldown": 100,
             "slot": 4
@@ -63,7 +63,7 @@
             "actionId": "king_ice_beam",
             "range": 36,
             "radius": 1.5,
-            "damage": 10,
+            "damage": 85,
             "force": 0.0,
             "cooldown": 100,
             "slot": 5
@@ -73,7 +73,7 @@
             "actionId": "king_ice_spikes",
             "range": 32,
             "radius": 2.0,
-            "damage": 10,
+            "damage": 45,
             "force": 0.0,
             "cooldown": 160,
             "slot": 6
@@ -83,7 +83,7 @@
             "actionId": "king_charge",
             "range": 24,
             "radius": 2.0,
-            "damage": 9,
+            "damage": 50,
             "force": 1.2,
             "cooldown": 100,
             "slot": 7
@@ -93,7 +93,7 @@
             "actionId": "king_stomp",
             "range": 12,
             "radius": 7.0,
-            "damage": 12,
+            "damage": 60,
             "force": 1.4,
             "cooldown": 140,
             "slot": 8
@@ -103,7 +103,7 @@
             "actionId": "king_wing_gust",
             "range": 12,
             "radius": 8.0,
-            "damage": 8,
+            "damage": 40,
             "force": 1.8,
             "cooldown": 120,
             "slot": 9
@@ -113,10 +113,16 @@
             "actionId": "king_decree",
             "range": 32,
             "radius": 8.0,
-            "damage": 0,
+            "damage": 0.0,
             "force": 0.0,
             "cooldown": 160,
             "slot": 10
         }
-    ]
+    ],
+    "attributeOverrides": {
+        "minecraft:generic.max_health": 250.0,
+        "minecraft:generic.attack_damage": 16.0,
+        "minecraft:player.entity_interaction_range": 12.0,
+        "minecraft:player.block_interaction_range": 12.0
+    }
 }

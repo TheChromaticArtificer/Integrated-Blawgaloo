@@ -1,0 +1,22 @@
+{
+    "forEntity": "antarchy:springbug",
+    "traits": [
+        {
+            "type": "traitHostile"
+        },
+        {
+            "type": "traitFallNegate"
+        },
+        {
+            "type": "abilityClimb"
+        },
+        {
+            "type": "abilityAntarchySpringbugPounce",
+            "range": 12.0,
+            "damage": 12.0,
+            "jumpStrength": 0.9,
+            "cooldown": 80,
+            "slot": 1
+        }
+    ]
+}

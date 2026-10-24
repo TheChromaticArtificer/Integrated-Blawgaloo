@@ -1,0 +1,12 @@
+{
+    "forEntity": "scguns:the_merchant",
+    "tickMode": "client_strict",
+    "traits": [
+        {
+            "type": "abilityTeleport",
+            "distance": 16.0,
+            "cooldown": 200,
+            "slot": 1
+        }
+    ]
+}

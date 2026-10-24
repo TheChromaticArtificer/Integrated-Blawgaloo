@@ -28,7 +28,7 @@
             "triggerControllerName": "attack_controller",
             "triggerAnimName": "attack",
             "radius": 3.0,
-            "damage": 6.0,
+            "damage": 40.0,
             "knockback": 0.6,
             "cooldown": 15,
             "soundEventId": "antarchy:mantis_attack",
@@ -44,5 +44,9 @@
             "soundEventId": "antarchy:mantis_ambient",
             "slot": 2
         }
-    ]
+    ],
+    "attributeOverrides": {
+        "minecraft:generic.max_health": 120.0,
+        "minecraft:generic.attack_damage": 9.0
+    }
 }

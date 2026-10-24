@@ -371,16 +371,6 @@
               }
             }
           ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "pastel:knotted_sword",
-          "weight": 2
-        },
-        {
-          "type": "minecraft:item",
-          "name": "pastel:nightfalls_blade",
-          "weight": 1
         }
       ]
     },

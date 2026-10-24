@@ -5,12 +5,14 @@
 	biomassValue = 0.3
 
 [morphMode]
+	#Traits that stay inactive until the player has an advancement. Format: <trait type>=<advancement ID>, e.g. "traitHostile=dog:slayer_of_god". A single trait in mob data can also set "requiresAdvancement".
+	traitUnlockAdvancements = ["traitImmunityFire=antarchy:down_with_the_king", "traitWaterBreather=antarchy:down_with_the_king", "traitRegen=antarchy:down_with_the_king", "traitHostile=antarchy:down_with_the_queen", "traitProjectileImmunity=dog:slayer_of_god", "traitUndying=dog:slayer_of_god"]
+	#Upgrades traits to the highest upgrade available for the morph. This, for example, will convert the bat's flapping flight ability to creative-mode flight ability.
+	classicUpgradeTraits = false
 	#Advancement ID that unlocks trait upgrades for a player (for example creative flight replacing flapping flight). Leave empty to only use the setting above.
 	classicUpgradeTraitsAdvancement = "antarchy:davy_jones_locker"
 	#Allows the selector to be used in COMMAND_ONLY mode. This lets the player morph freely from morphs that have been given to them.
 	commandAllowSelector = false
-	#Upgrades traits to the highest upgrade available for the morph. This, for example, will convert the bat's flapping flight ability to creative-mode flight ability.
-	classicUpgradeTraits = false
 
 [playerFilter]
 	#Name of players in the filter list.
@@ -30,13 +32,13 @@
 	#Set the morph entity instance to silent, this disables ambient noise and any sound the morph makes.
 	silentMorphs = false
 	#ID of traits you want to disable.
-	disabledTraits = ["traitHostile"]
+	disabledTraits = []
 	#Minimum seconds between morph idle sounds. Longer natural mob intervals are preserved. Default: 30 seconds.
 	morphAmbientSoundInterval = 30
 	#The highest attack damage a morph can give you. Set to 0 for no cap.
-	maxMorphAttackDamage = 10.0
+	maxMorphAttackDamage = 6.0
 	#How much of a morph's armor you get. Weaker morphs still lower your armor in full.
-	armorMultiplier = 0.3
+	armorMultiplier = 0.0
 	#The highest armor a morph can give you. Set to 0 for no cap.
 	maxMorphArmor = 6.0
 	#Which attributes are supported by more, and how are values better. Format: <Resource Name of Attribute>;<more/less>;[cap]. EG: "minecraft:generic.attack_damage;more" or "minecraft:generic.max_health;more;20".
@@ -49,6 +51,8 @@
 	healthScale = true
 	#How much of a morph's extra attack damage you get. Weaker morphs still lower your damage in full.
 	attackDamageMultiplier = 0.5
+	#Where a morph's stats are read from when it's acquired. LIVE: the killed mob as it was (includes buffs and spawn scaling). FRESH: a new, unspawned copy of the mob. TYPE_DEFAULT: the entity type's registered default attributes.
+	attributeSource = "FRESH"
 	#Scales how far attribute overrides move your stats from your normal values. 1.0 = the exact override value, 0.5 = halfway, 0 = no change.
 	attributeOverrideMultiplier = 1.0
 	#Volume multiplier for morph idle sounds, capped before scaling so loud mobs cannot overwhelm you. Set to 0 to mute idle sounds. Default: 0.2.
@@ -60,7 +64,9 @@
 	#Morph normally only recalculates size when it has to. This makes Morph recalculate the player size every tick whilst morphed.
 	aggressiveSizeRecalculation = false
 	#The highest max health a morph can give you (20 = 10 hearts). Set to 0 for no cap.
-	maxMorphHealth = 60.0
+	maxMorphHealth = 40.0
+	#If off, a morph never changes your attack damage. Abilities that scale with attack damage still use the morph's own value.
+	morphsAffectAttackDamage = false
 
 [gameplay]
 	#If Witchery is installed, a player morphed as a Werewolf infects other players with lycanthropy when their Bite ability hits.

@@ -1,0 +1,27 @@
+{
+    "forEntity": "alexscaves:magnetron",
+    "traits": [
+        {
+            "type": "traitHostile"
+        },
+        {
+            "type": "traitFallNegate"
+        },
+        {
+            "type": "abilityAlexsCavesMagnetronPull",
+            "nativeClassName": "com.github.alexmodguy.alexscaves.server.entity.living.MagnetronEntity",
+            "trueBooleanMethods": [
+                "setFormed"
+            ],
+            "radius": 12.0,
+            "damage": 12.0,
+            "pullStrength": 1.4,
+            "effectId": "minecraft:slowness",
+            "effectDuration": 80,
+            "effectAmplifier": 1,
+            "cooldown": 90,
+            "soundEventId": "alexscaves:magnetron_attack",
+            "slot": 1
+        }
+    ]
+}

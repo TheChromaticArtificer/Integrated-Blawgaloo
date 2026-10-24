@@ -504,11 +504,17 @@
 #Armor values are per piece; armorToughness is added on every piece.
 #repulsorDamage and unibeamDamage also apply to sentry suits wearing that mark.
 #flightSpeed multiplies horizontal flying speed while the full suit is worn (Marvel's own Mk19 2x stacks on top).
+#reactorOutput is FE per tick the arc reactor adds to the whole suit while worn; reactorCap is the share
+#of the bar (0-1) it refills to. Above the cap only chargers, Veronica or lightning add power.
 [ironMan]
 	#Damage per flame from the Mk1 flamethrower (Marvel default: 2).
 	# Default: 4.0
 	# Range: 0.0 ~ 10000.0
 	flamethrowerDamage = 4.0
+	#Enchanting table enchantability of every Iron Man, War Machine and Iron Patriot piece.
+	# Default: 15
+	# Range: 1 ~ 100
+	enchantability = 15
 
 	[ironMan.iron_man_mark_1]
 		# Default: 3.0
@@ -538,6 +544,12 @@
 		# Default: 1.0
 		# Range: 0.1 ~ 20.0
 		flightSpeed = 1.0
+		# Default: 20
+		# Range: > 0
+		reactorOutput = 20
+		# Default: 0.3
+		# Range: 0.0 ~ 1.0
+		reactorCap = 0.3
 
 	[ironMan.iron_man_mark_2]
 		# Default: 3.0
@@ -552,9 +564,9 @@
 		# Default: 3.0
 		# Range: 0.0 ~ 1000.0
 		bootsArmor = 3.0
-		# Default: 1.1
+		# Default: 2.0
 		# Range: 0.0 ~ 1000.0
-		armorToughness = 1.1
+		armorToughness = 2.0
 		# Default: 10.0
 		# Range: 0.0 ~ 10000.0
 		repulsorDamage = 10.0
@@ -567,6 +579,12 @@
 		# Default: 1.03
 		# Range: 0.1 ~ 20.0
 		flightSpeed = 1.03
+		# Default: 40
+		# Range: > 0
+		reactorOutput = 40
+		# Default: 0.4
+		# Range: 0.0 ~ 1.0
+		reactorCap = 0.4
 
 	[ironMan.iron_man_mark_3]
 		# Default: 4.0
@@ -581,9 +599,9 @@
 		# Default: 3.0
 		# Range: 0.0 ~ 1000.0
 		bootsArmor = 3.0
-		# Default: 1.23
+		# Default: 2.2
 		# Range: 0.0 ~ 1000.0
-		armorToughness = 1.23
+		armorToughness = 2.2
 		# Default: 11.0
 		# Range: 0.0 ~ 10000.0
 		repulsorDamage = 11.0
@@ -596,6 +614,12 @@
 		# Default: 1.08
 		# Range: 0.1 ~ 20.0
 		flightSpeed = 1.08
+		# Default: 50
+		# Range: > 0
+		reactorOutput = 50
+		# Default: 0.4
+		# Range: 0.0 ~ 1.0
+		reactorCap = 0.4
 
 	[ironMan.iron_man_mark_5]
 		# Default: 4.0
@@ -610,9 +634,9 @@
 		# Default: 3.0
 		# Range: 0.0 ~ 1000.0
 		bootsArmor = 3.0
-		# Default: 1.37
+		# Default: 2.4
 		# Range: 0.0 ~ 1000.0
-		armorToughness = 1.37
+		armorToughness = 2.4
 		# Default: 11.0
 		# Range: 0.0 ~ 10000.0
 		repulsorDamage = 11.0
@@ -625,6 +649,12 @@
 		# Default: 1.13
 		# Range: 0.1 ~ 20.0
 		flightSpeed = 1.13
+		# Default: 65
+		# Range: > 0
+		reactorOutput = 65
+		# Default: 0.45
+		# Range: 0.0 ~ 1.0
+		reactorCap = 0.45
 
 	[ironMan.iron_man_mark_6]
 		# Default: 4.0
@@ -633,15 +663,15 @@
 		# Default: 9.0
 		# Range: 0.0 ~ 1000.0
 		chestplateArmor = 9.0
-		# Default: 6.0
+		# Default: 7.0
 		# Range: 0.0 ~ 1000.0
-		leggingsArmor = 6.0
+		leggingsArmor = 7.0
 		# Default: 3.0
 		# Range: 0.0 ~ 1000.0
 		bootsArmor = 3.0
-		# Default: 1.52
+		# Default: 2.6
 		# Range: 0.0 ~ 1000.0
-		armorToughness = 1.52
+		armorToughness = 2.6
 		# Default: 12.0
 		# Range: 0.0 ~ 10000.0
 		repulsorDamage = 12.0
@@ -654,37 +684,14 @@
 		# Default: 1.19
 		# Range: 0.1 ~ 20.0
 		flightSpeed = 1.19
+		# Default: 80
+		# Range: > 0
+		reactorOutput = 80
+		# Default: 0.45
+		# Range: 0.0 ~ 1.0
+		reactorCap = 0.45
 
 	[ironMan.iron_man_mark_7]
-		# Default: 4.0
-		# Range: 0.0 ~ 1000.0
-		helmetArmor = 4.0
-		# Default: 9.0
-		# Range: 0.0 ~ 1000.0
-		chestplateArmor = 9.0
-		# Default: 6.0
-		# Range: 0.0 ~ 1000.0
-		leggingsArmor = 6.0
-		# Default: 4.0
-		# Range: 0.0 ~ 1000.0
-		bootsArmor = 4.0
-		# Default: 1.69
-		# Range: 0.0 ~ 1000.0
-		armorToughness = 1.69
-		# Default: 13.0
-		# Range: 0.0 ~ 10000.0
-		repulsorDamage = 13.0
-		# Default: 14
-		# Range: 1 ~ 200
-		repulsorCooldownTicks = 14
-		# Default: 40.0
-		# Range: 0.0 ~ 10000.0
-		unibeamDamage = 40.0
-		# Default: 1.26
-		# Range: 0.1 ~ 20.0
-		flightSpeed = 1.26
-
-	[ironMan.iron_man_mark_11]
 		# Default: 4.0
 		# Range: 0.0 ~ 1000.0
 		helmetArmor = 4.0
@@ -697,9 +704,44 @@
 		# Default: 4.0
 		# Range: 0.0 ~ 1000.0
 		bootsArmor = 4.0
-		# Default: 1.85
+		# Default: 3.0
 		# Range: 0.0 ~ 1000.0
-		armorToughness = 1.85
+		armorToughness = 3.0
+		# Default: 13.0
+		# Range: 0.0 ~ 10000.0
+		repulsorDamage = 13.0
+		# Default: 14
+		# Range: 1 ~ 200
+		repulsorCooldownTicks = 14
+		# Default: 40.0
+		# Range: 0.0 ~ 10000.0
+		unibeamDamage = 40.0
+		# Default: 1.26
+		# Range: 0.1 ~ 20.0
+		flightSpeed = 1.26
+		# Default: 120
+		# Range: > 0
+		reactorOutput = 120
+		# Default: 0.5
+		# Range: 0.0 ~ 1.0
+		reactorCap = 0.5
+
+	[ironMan.iron_man_mark_11]
+		# Default: 4.0
+		# Range: 0.0 ~ 1000.0
+		helmetArmor = 4.0
+		# Default: 10.0
+		# Range: 0.0 ~ 1000.0
+		chestplateArmor = 10.0
+		# Default: 7.0
+		# Range: 0.0 ~ 1000.0
+		leggingsArmor = 7.0
+		# Default: 4.0
+		# Range: 0.0 ~ 1000.0
+		bootsArmor = 4.0
+		# Default: 3.1
+		# Range: 0.0 ~ 1000.0
+		armorToughness = 3.1
 		# Default: 14.0
 		# Range: 0.0 ~ 10000.0
 		repulsorDamage = 14.0
@@ -712,6 +754,12 @@
 		# Default: 1.33
 		# Range: 0.1 ~ 20.0
 		flightSpeed = 1.33
+		# Default: 150
+		# Range: > 0
+		reactorOutput = 150
+		# Default: 0.5
+		# Range: 0.0 ~ 1.0
+		reactorCap = 0.5
 
 	[ironMan.iron_man_mark_15]
 		# Default: 4.0
@@ -726,9 +774,9 @@
 		# Default: 4.0
 		# Range: 0.0 ~ 1000.0
 		bootsArmor = 4.0
-		# Default: 2.03
+		# Default: 3.2
 		# Range: 0.0 ~ 1000.0
-		armorToughness = 2.03
+		armorToughness = 3.2
 		# Default: 15.0
 		# Range: 0.0 ~ 10000.0
 		repulsorDamage = 15.0
@@ -741,6 +789,12 @@
 		# Default: 1.4
 		# Range: 0.1 ~ 20.0
 		flightSpeed = 1.4
+		# Default: 180
+		# Range: > 0
+		reactorOutput = 180
+		# Default: 0.55
+		# Range: 0.0 ~ 1.0
+		reactorCap = 0.55
 
 	[ironMan.iron_man_mark_17]
 		# Default: 4.0
@@ -749,15 +803,15 @@
 		# Default: 10.0
 		# Range: 0.0 ~ 1000.0
 		chestplateArmor = 10.0
-		# Default: 7.0
+		# Default: 8.0
 		# Range: 0.0 ~ 1000.0
-		leggingsArmor = 7.0
+		leggingsArmor = 8.0
 		# Default: 4.0
 		# Range: 0.0 ~ 1000.0
 		bootsArmor = 4.0
-		# Default: 2.2
+		# Default: 3.25
 		# Range: 0.0 ~ 1000.0
-		armorToughness = 2.2
+		armorToughness = 3.25
 		# Default: 17.0
 		# Range: 0.0 ~ 10000.0
 		repulsorDamage = 17.0
@@ -770,6 +824,12 @@
 		# Default: 1.48
 		# Range: 0.1 ~ 20.0
 		flightSpeed = 1.48
+		# Default: 210
+		# Range: > 0
+		reactorOutput = 210
+		# Default: 0.55
+		# Range: 0.0 ~ 1.0
+		reactorCap = 0.55
 
 	[ironMan.iron_man_mark_19]
 		# Default: 4.0
@@ -778,15 +838,15 @@
 		# Default: 10.0
 		# Range: 0.0 ~ 1000.0
 		chestplateArmor = 10.0
-		# Default: 7.0
+		# Default: 8.0
 		# Range: 0.0 ~ 1000.0
-		leggingsArmor = 7.0
-		# Default: 5.0
+		leggingsArmor = 8.0
+		# Default: 4.0
 		# Range: 0.0 ~ 1000.0
-		bootsArmor = 5.0
-		# Default: 2.39
+		bootsArmor = 4.0
+		# Default: 3.3
 		# Range: 0.0 ~ 1000.0
-		armorToughness = 2.39
+		armorToughness = 3.3
 		# Default: 19.0
 		# Range: 0.0 ~ 10000.0
 		repulsorDamage = 19.0
@@ -799,23 +859,29 @@
 		# Default: 1.56
 		# Range: 0.1 ~ 20.0
 		flightSpeed = 1.56
+		# Default: 240
+		# Range: > 0
+		reactorOutput = 240
+		# Default: 0.6
+		# Range: 0.0 ~ 1.0
+		reactorCap = 0.6
 
 	[ironMan.iron_man_mark_20]
-		# Default: 4.0
+		# Default: 5.0
 		# Range: 0.0 ~ 1000.0
-		helmetArmor = 4.0
+		helmetArmor = 5.0
 		# Default: 10.0
 		# Range: 0.0 ~ 1000.0
 		chestplateArmor = 10.0
 		# Default: 8.0
 		# Range: 0.0 ~ 1000.0
 		leggingsArmor = 8.0
-		# Default: 5.0
+		# Default: 4.0
 		# Range: 0.0 ~ 1000.0
-		bootsArmor = 5.0
-		# Default: 2.57
+		bootsArmor = 4.0
+		# Default: 3.35
 		# Range: 0.0 ~ 1000.0
-		armorToughness = 2.57
+		armorToughness = 3.35
 		# Default: 20.0
 		# Range: 0.0 ~ 10000.0
 		repulsorDamage = 20.0
@@ -828,23 +894,29 @@
 		# Default: 1.64
 		# Range: 0.1 ~ 20.0
 		flightSpeed = 1.64
+		# Default: 270
+		# Range: > 0
+		reactorOutput = 270
+		# Default: 0.6
+		# Range: 0.0 ~ 1.0
+		reactorCap = 0.6
 
 	[ironMan.iron_man_mark_21]
-		# Default: 4.0
+		# Default: 5.0
 		# Range: 0.0 ~ 1000.0
-		helmetArmor = 4.0
-		# Default: 11.0
+		helmetArmor = 5.0
+		# Default: 10.0
 		# Range: 0.0 ~ 1000.0
-		chestplateArmor = 11.0
+		chestplateArmor = 10.0
 		# Default: 8.0
 		# Range: 0.0 ~ 1000.0
 		leggingsArmor = 8.0
-		# Default: 5.0
+		# Default: 4.0
 		# Range: 0.0 ~ 1000.0
-		bootsArmor = 5.0
-		# Default: 2.76
+		bootsArmor = 4.0
+		# Default: 3.4
 		# Range: 0.0 ~ 1000.0
-		armorToughness = 2.76
+		armorToughness = 3.4
 		# Default: 22.0
 		# Range: 0.0 ~ 10000.0
 		repulsorDamage = 22.0
@@ -857,23 +929,29 @@
 		# Default: 1.73
 		# Range: 0.1 ~ 20.0
 		flightSpeed = 1.73
+		# Default: 300
+		# Range: > 0
+		reactorOutput = 300
+		# Default: 0.65
+		# Range: 0.0 ~ 1.0
+		reactorCap = 0.65
 
 	[ironMan.iron_man_mark_22]
 		# Default: 5.0
 		# Range: 0.0 ~ 1000.0
 		helmetArmor = 5.0
-		# Default: 11.0
+		# Default: 10.0
 		# Range: 0.0 ~ 1000.0
-		chestplateArmor = 11.0
+		chestplateArmor = 10.0
 		# Default: 8.0
 		# Range: 0.0 ~ 1000.0
 		leggingsArmor = 8.0
 		# Default: 5.0
 		# Range: 0.0 ~ 1000.0
 		bootsArmor = 5.0
-		# Default: 2.96
+		# Default: 3.5
 		# Range: 0.0 ~ 1000.0
-		armorToughness = 2.96
+		armorToughness = 3.5
 		# Default: 24.0
 		# Range: 0.0 ~ 10000.0
 		repulsorDamage = 24.0
@@ -886,23 +964,29 @@
 		# Default: 1.81
 		# Range: 0.1 ~ 20.0
 		flightSpeed = 1.81
+		# Default: 400
+		# Range: > 0
+		reactorOutput = 400
+		# Default: 0.7
+		# Range: 0.0 ~ 1.0
+		reactorCap = 0.7
 
 	[ironMan.iron_man_mark_23]
 		# Default: 5.0
 		# Range: 0.0 ~ 1000.0
 		helmetArmor = 5.0
-		# Default: 12.0
+		# Default: 11.0
 		# Range: 0.0 ~ 1000.0
-		chestplateArmor = 12.0
+		chestplateArmor = 11.0
 		# Default: 8.0
 		# Range: 0.0 ~ 1000.0
 		leggingsArmor = 8.0
 		# Default: 5.0
 		# Range: 0.0 ~ 1000.0
 		bootsArmor = 5.0
-		# Default: 3.16
+		# Default: 3.55
 		# Range: 0.0 ~ 1000.0
-		armorToughness = 3.16
+		armorToughness = 3.55
 		# Default: 27.0
 		# Range: 0.0 ~ 10000.0
 		repulsorDamage = 27.0
@@ -915,23 +999,29 @@
 		# Default: 1.9
 		# Range: 0.1 ~ 20.0
 		flightSpeed = 1.9
+		# Default: 450
+		# Range: > 0
+		reactorOutput = 450
+		# Default: 0.7
+		# Range: 0.0 ~ 1.0
+		reactorCap = 0.7
 
 	[ironMan.iron_man_mark_24]
 		# Default: 6.0
 		# Range: 0.0 ~ 1000.0
 		helmetArmor = 6.0
-		# Default: 13.0
+		# Default: 12.0
 		# Range: 0.0 ~ 1000.0
-		chestplateArmor = 13.0
+		chestplateArmor = 12.0
 		# Default: 9.0
 		# Range: 0.0 ~ 1000.0
 		leggingsArmor = 9.0
 		# Default: 5.0
 		# Range: 0.0 ~ 1000.0
 		bootsArmor = 5.0
-		# Default: 3.36
+		# Default: 3.8
 		# Range: 0.0 ~ 1000.0
-		armorToughness = 3.36
+		armorToughness = 3.8
 		# Default: 29.0
 		# Range: 0.0 ~ 10000.0
 		repulsorDamage = 29.0
@@ -944,23 +1034,29 @@
 		# Default: 1.7
 		# Range: 0.1 ~ 20.0
 		flightSpeed = 1.7
+		# Default: 500
+		# Range: > 0
+		reactorOutput = 500
+		# Default: 0.7
+		# Range: 0.0 ~ 1.0
+		reactorCap = 0.7
 
 	[ironMan.iron_man_mark_25]
 		# Default: 5.0
 		# Range: 0.0 ~ 1000.0
 		helmetArmor = 5.0
-		# Default: 12.0
+		# Default: 11.0
 		# Range: 0.0 ~ 1000.0
-		chestplateArmor = 12.0
+		chestplateArmor = 11.0
 		# Default: 9.0
 		# Range: 0.0 ~ 1000.0
 		leggingsArmor = 9.0
 		# Default: 5.0
 		# Range: 0.0 ~ 1000.0
 		bootsArmor = 5.0
-		# Default: 3.56
+		# Default: 3.6
 		# Range: 0.0 ~ 1000.0
-		armorToughness = 3.56
+		armorToughness = 3.6
 		# Default: 31.0
 		# Range: 0.0 ~ 10000.0
 		repulsorDamage = 31.0
@@ -973,6 +1069,12 @@
 		# Default: 2.09
 		# Range: 0.1 ~ 20.0
 		flightSpeed = 2.09
+		# Default: 550
+		# Range: > 0
+		reactorOutput = 550
+		# Default: 0.75
+		# Range: 0.0 ~ 1.0
+		reactorCap = 0.75
 
 	[ironMan.iron_man_mark_28]
 		# Default: 6.0
@@ -987,9 +1089,9 @@
 		# Default: 5.0
 		# Range: 0.0 ~ 1000.0
 		bootsArmor = 5.0
-		# Default: 3.77
+		# Default: 4.0
 		# Range: 0.0 ~ 1000.0
-		armorToughness = 3.77
+		armorToughness = 4.0
 		# Default: 34.0
 		# Range: 0.0 ~ 10000.0
 		repulsorDamage = 34.0
@@ -1002,6 +1104,12 @@
 		# Default: 2.18
 		# Range: 0.1 ~ 20.0
 		flightSpeed = 2.18
+		# Default: 620
+		# Range: > 0
+		reactorOutput = 620
+		# Default: 0.75
+		# Range: 0.0 ~ 1.0
+		reactorCap = 0.75
 
 	[ironMan.iron_man_mark_30]
 		# Default: 6.0
@@ -1016,9 +1124,9 @@
 		# Default: 5.0
 		# Range: 0.0 ~ 1000.0
 		bootsArmor = 5.0
-		# Default: 3.98
+		# Default: 4.1
 		# Range: 0.0 ~ 1000.0
-		armorToughness = 3.98
+		armorToughness = 4.1
 		# Default: 37.0
 		# Range: 0.0 ~ 10000.0
 		repulsorDamage = 37.0
@@ -1031,23 +1139,29 @@
 		# Default: 2.28
 		# Range: 0.1 ~ 20.0
 		flightSpeed = 2.28
+		# Default: 700
+		# Range: > 0
+		reactorOutput = 700
+		# Default: 0.8
+		# Range: 0.0 ~ 1.0
+		reactorCap = 0.8
 
 	[ironMan.iron_man_mark_33]
 		# Default: 6.0
 		# Range: 0.0 ~ 1000.0
 		helmetArmor = 6.0
-		# Default: 13.0
+		# Default: 12.0
 		# Range: 0.0 ~ 1000.0
-		chestplateArmor = 13.0
-		# Default: 9.0
+		chestplateArmor = 12.0
+		# Default: 10.0
 		# Range: 0.0 ~ 1000.0
-		leggingsArmor = 9.0
+		leggingsArmor = 10.0
 		# Default: 5.0
 		# Range: 0.0 ~ 1000.0
 		bootsArmor = 5.0
-		# Default: 4.1
+		# Default: 4.25
 		# Range: 0.0 ~ 1000.0
-		armorToughness = 4.1
+		armorToughness = 4.25
 		# Default: 40.0
 		# Range: 0.0 ~ 10000.0
 		repulsorDamage = 40.0
@@ -1060,6 +1174,12 @@
 		# Default: 2.38
 		# Range: 0.1 ~ 20.0
 		flightSpeed = 2.38
+		# Default: 800
+		# Range: > 0
+		reactorOutput = 800
+		# Default: 0.85
+		# Range: 0.0 ~ 1.0
+		reactorCap = 0.85
 
 	[ironMan.iron_man_mark_35]
 		# Default: 6.0
@@ -1068,15 +1188,15 @@
 		# Default: 13.0
 		# Range: 0.0 ~ 1000.0
 		chestplateArmor = 13.0
-		# Default: 9.0
+		# Default: 10.0
 		# Range: 0.0 ~ 1000.0
-		leggingsArmor = 9.0
+		leggingsArmor = 10.0
 		# Default: 5.0
 		# Range: 0.0 ~ 1000.0
 		bootsArmor = 5.0
-		# Default: 4.2
+		# Default: 4.4
 		# Range: 0.0 ~ 1000.0
-		armorToughness = 4.2
+		armorToughness = 4.4
 		# Default: 43.0
 		# Range: 0.0 ~ 10000.0
 		repulsorDamage = 43.0
@@ -1089,6 +1209,12 @@
 		# Default: 2.48
 		# Range: 0.1 ~ 20.0
 		flightSpeed = 2.48
+		# Default: 900
+		# Range: > 0
+		reactorOutput = 900
+		# Default: 0.85
+		# Range: 0.0 ~ 1.0
+		reactorCap = 0.85
 
 	[ironMan.iron_man_mark_37]
 		# Default: 6.0
@@ -1103,9 +1229,9 @@
 		# Default: 6.0
 		# Range: 0.0 ~ 1000.0
 		bootsArmor = 6.0
-		# Default: 4.25
+		# Default: 4.5
 		# Range: 0.0 ~ 1000.0
-		armorToughness = 4.25
+		armorToughness = 4.5
 		# Default: 46.0
 		# Range: 0.0 ~ 10000.0
 		repulsorDamage = 46.0
@@ -1118,6 +1244,12 @@
 		# Default: 2.58
 		# Range: 0.1 ~ 20.0
 		flightSpeed = 2.58
+		# Default: 1000
+		# Range: > 0
+		reactorOutput = 1000
+		# Default: 0.9
+		# Range: 0.0 ~ 1.0
+		reactorCap = 0.9
 
 	[ironMan.iron_man_mark_38]
 		# Default: 6.0
@@ -1126,15 +1258,15 @@
 		# Default: 13.0
 		# Range: 0.0 ~ 1000.0
 		chestplateArmor = 13.0
-		# Default: 9.0
+		# Default: 10.0
 		# Range: 0.0 ~ 1000.0
-		leggingsArmor = 9.0
+		leggingsArmor = 10.0
 		# Default: 6.0
 		# Range: 0.0 ~ 1000.0
 		bootsArmor = 6.0
-		# Default: 4.3
+		# Default: 4.6
 		# Range: 0.0 ~ 1000.0
-		armorToughness = 4.3
+		armorToughness = 4.6
 		# Default: 49.0
 		# Range: 0.0 ~ 10000.0
 		repulsorDamage = 49.0
@@ -1147,6 +1279,12 @@
 		# Default: 2.3
 		# Range: 0.1 ~ 20.0
 		flightSpeed = 2.3
+		# Default: 1100
+		# Range: > 0
+		reactorOutput = 1100
+		# Default: 0.9
+		# Range: 0.0 ~ 1.0
+		reactorCap = 0.9
 
 	[ironMan.iron_man_mark_39]
 		# Default: 6.0
@@ -1155,15 +1293,15 @@
 		# Default: 13.0
 		# Range: 0.0 ~ 1000.0
 		chestplateArmor = 13.0
-		# Default: 9.0
+		# Default: 10.0
 		# Range: 0.0 ~ 1000.0
-		leggingsArmor = 9.0
+		leggingsArmor = 10.0
 		# Default: 6.0
 		# Range: 0.0 ~ 1000.0
 		bootsArmor = 6.0
-		# Default: 4.35
+		# Default: 4.6
 		# Range: 0.0 ~ 1000.0
-		armorToughness = 4.35
+		armorToughness = 4.6
 		# Default: 53.0
 		# Range: 0.0 ~ 10000.0
 		repulsorDamage = 53.0
@@ -1176,6 +1314,12 @@
 		# Default: 3.1
 		# Range: 0.1 ~ 20.0
 		flightSpeed = 3.1
+		# Default: 1200
+		# Range: > 0
+		reactorOutput = 1200
+		# Default: 0.95
+		# Range: 0.0 ~ 1.0
+		reactorCap = 0.95
 
 	[ironMan.iron_man_mark_42]
 		# Default: 6.0
@@ -1190,9 +1334,9 @@
 		# Default: 5.0
 		# Range: 0.0 ~ 1000.0
 		bootsArmor = 5.0
-		# Default: 4.4
+		# Default: 4.8
 		# Range: 0.0 ~ 1000.0
-		armorToughness = 4.4
+		armorToughness = 4.8
 		# Default: 56.0
 		# Range: 0.0 ~ 10000.0
 		repulsorDamage = 56.0
@@ -1205,6 +1349,12 @@
 		# Default: 2.89
 		# Range: 0.1 ~ 20.0
 		flightSpeed = 2.89
+		# Default: 1500
+		# Range: > 0
+		reactorOutput = 1500
+		# Default: 1.0
+		# Range: 0.0 ~ 1.0
+		reactorCap = 1.0
 
 	[ironMan.iron_man_mark_43]
 		# Default: 6.0
@@ -1216,12 +1366,12 @@
 		# Default: 10.0
 		# Range: 0.0 ~ 1000.0
 		leggingsArmor = 10.0
+		# Default: 6.0
+		# Range: 0.0 ~ 1000.0
+		bootsArmor = 6.0
 		# Default: 5.0
 		# Range: 0.0 ~ 1000.0
-		bootsArmor = 5.0
-		# Default: 4.4
-		# Range: 0.0 ~ 1000.0
-		armorToughness = 4.4
+		armorToughness = 5.0
 		# Default: 60.0
 		# Range: 0.0 ~ 10000.0
 		repulsorDamage = 60.0
@@ -1234,6 +1384,12 @@
 		# Default: 3.0
 		# Range: 0.1 ~ 20.0
 		flightSpeed = 3.0
+		# Default: 1500
+		# Range: > 0
+		reactorOutput = 1500
+		# Default: 1.0
+		# Range: 0.0 ~ 1.0
+		reactorCap = 1.0
 
 	[ironMan.war_machine_mark_1]
 		# Default: 4.0
@@ -1242,15 +1398,15 @@
 		# Default: 9.0
 		# Range: 0.0 ~ 1000.0
 		chestplateArmor = 9.0
-		# Default: 6.0
+		# Default: 7.0
 		# Range: 0.0 ~ 1000.0
-		leggingsArmor = 6.0
+		leggingsArmor = 7.0
 		# Default: 4.0
 		# Range: 0.0 ~ 1000.0
 		bootsArmor = 4.0
-		# Default: 1.69
+		# Default: 3.0
 		# Range: 0.0 ~ 1000.0
-		armorToughness = 1.69
+		armorToughness = 3.0
 		# Default: 13.0
 		# Range: 0.0 ~ 10000.0
 		repulsorDamage = 13.0
@@ -1263,6 +1419,12 @@
 		# Default: 1.2
 		# Range: 0.1 ~ 20.0
 		flightSpeed = 1.2
+		# Default: 120
+		# Range: > 0
+		reactorOutput = 120
+		# Default: 0.5
+		# Range: 0.0 ~ 1.0
+		reactorCap = 0.5
 
 	[ironMan.war_machine_mark_2]
 		# Default: 5.0
@@ -1277,9 +1439,9 @@
 		# Default: 6.0
 		# Range: 0.0 ~ 1000.0
 		bootsArmor = 6.0
-		# Default: 3.16
+		# Default: 3.6
 		# Range: 0.0 ~ 1000.0
-		armorToughness = 3.16
+		armorToughness = 3.6
 		# Default: 27.0
 		# Range: 0.0 ~ 10000.0
 		repulsorDamage = 27.0
@@ -1292,6 +1454,12 @@
 		# Default: 1.8
 		# Range: 0.1 ~ 20.0
 		flightSpeed = 1.8
+		# Default: 450
+		# Range: > 0
+		reactorOutput = 450
+		# Default: 0.7
+		# Range: 0.0 ~ 1.0
+		reactorCap = 0.7
 
 	[ironMan.iron_patriot]
 		# Default: 5.0
@@ -1306,9 +1474,9 @@
 		# Default: 6.0
 		# Range: 0.0 ~ 1000.0
 		bootsArmor = 6.0
-		# Default: 3.16
+		# Default: 3.6
 		# Range: 0.0 ~ 1000.0
-		armorToughness = 3.16
+		armorToughness = 3.6
 		# Default: 27.0
 		# Range: 0.0 ~ 10000.0
 		repulsorDamage = 27.0
@@ -1321,6 +1489,12 @@
 		# Default: 1.9
 		# Range: 0.1 ~ 20.0
 		flightSpeed = 1.9
+		# Default: 450
+		# Range: > 0
+		reactorOutput = 450
+		# Default: 0.7
+		# Range: 0.0 ~ 1.0
+		reactorCap = 0.7
 
 	#Iron Man / War Machine suit abilities on Marvel Legacy's ability hotkeys, granted while a full suit is worn.
 	#damageMultiplier is a multiple of the worn mark's repulsorDamage (Proton Cannon: of its unibeamDamage, per hit).
@@ -1733,7 +1907,8 @@
 	#Suit energy in FE. Every Marvel energy cost is a percent of baseCapacity, so a suit with a
 	#bigger battery pays the same FE per shot but a smaller share of its bar.
 	#Suits charge in Marvel's Suit Charger / Large Suit Charger (fed FE by cables), the
-	#Oritech Charger or any FE item charger, and slowly from Veronica.
+	#Oritech Charger or any FE item charger, and slowly from Veronica. A worn suit's arc reactor
+	#refills it up to that mark's reactorCap, and only drains passively while flying.
 	[ironMan.energy]
 		#FE that Marvel's 100% means for costs (one Mk1-sized battery). A unibeam costs 7.5% of this.
 		# Default: 250000
@@ -1763,6 +1938,14 @@
 		# Default: 100
 		# Range: > 0
 		veronicaFePerTick = 100
+		#Seconds the arc reactor stops recharging after the suit spends power on a weapon or ability.
+		# Default: 3.0
+		# Range: 0.0 ~ 600.0
+		reactorPauseSeconds = 3.0
+		#Reactor output multiplier while standing still on the ground.
+		# Default: 2.0
+		# Range: 0.0 ~ 100.0
+		reactorIdleMultiplier = 2.0
 
 		#FE capacity per armor piece, per suit. Suits not listed use baseCapacity.
 		[ironMan.energy.capacity]
@@ -3405,6 +3588,9 @@
 	npcItemPickup = false
 	#Lets Viltrumite NPC attacks break blocks with block entities, like chests, graves and machines.
 	npcBreakBlockEntities = false
+	#Which blocks Viltrumite NPC attacks, flight and launched victims can break. TAGGED only breaks blocks in the integrated_superheroes:viltrumite_npc_breakable tag (natural terrain), NONE breaks nothing and ALL breaks anything their mod allows. Blocks with block entities also need npcBreakBlockEntities. With the mobGriefing game rule off they break nothing.
+	#Allowed Values: NONE, TAGGED, ALL
+	npcBlockBreaking = "TAGGED"
 	#Random Viltrumite invasions only start once the Ender Dragon has been killed. Rituals and commands still work.
 	randomInvasionsNeedDragon = true
 	#Random Viltrumite invasions only target players with this advancement. Leave empty for any player.

@@ -1,0 +1,64 @@
+{
+    "forEntity": "gigeresque:stalker",
+    "tickMode": "client_strict",
+    "attributeOverrides": {
+        "minecraft:generic.max_health": 60.0,
+        "minecraft:generic.attack_damage": 5.0
+    },
+    "variantNbtStrip": [
+        "listener",
+        "growth",
+        "wakingup",
+        "isHissing",
+        "isExecuting",
+        "isHeadBite",
+        "is_birthed",
+        "carry_damage",
+        "crawling",
+        "searching",
+        "isStasis",
+        "statisTicks"
+    ],
+    "traits": [
+        {
+            "type": "traitXenomorph",
+            "acidDiameter": 3,
+            "bloodType": "goo",
+            "bloodThreshold": 0.0
+        },
+        {
+            "type": "abilityClimb"
+        },
+        {
+            "type": "traitDamageTypeImmunity",
+            "damageTypes": [
+                "gigeresque:acid",
+                "gigeresque:dna",
+                "gigeresque:goo"
+            ]
+        },
+        {
+            "type": "traitEffectImmunity",
+            "effects": [
+                "gigeresque:acid",
+                "gigeresque:dna_disintegration"
+            ]
+        },
+        {
+            "type": "abilityGigeresqueStrike",
+            "slot": 1,
+            "cooldown": 20,
+            "reach": 3.0,
+            "anim": "sendNormal"
+        },
+        {
+            "type": "abilityGigeresqueStrike",
+            "slot": 2,
+            "cooldown": 60,
+            "reach": 3.5,
+            "anim": "sendHeavy",
+            "damageMultiplier": 5.0,
+            "knockback": 1.2
+        }
+    ]
+}

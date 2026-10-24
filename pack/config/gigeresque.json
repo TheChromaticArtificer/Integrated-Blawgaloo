@@ -127,19 +127,19 @@
       "baphomorphAttackDamage": 9.0
     },
     "draconicTempleBeastConfigs": {
-      "draconicTempleBeastXenoHealth": 300.0,
+      "draconicTempleBeastXenoHealth": 450.0,
       "draconicTempleBeastXenoArmor": 9.0,
-      "draconicTempleBeastAttackDamage": 9.0
+      "draconicTempleBeastAttackDamage": 12.0
     },
     "moonlightHorrorTempleBeastConfigs": {
-      "moonlightHorrorTempleBeastXenoHealth": 300.0,
+      "moonlightHorrorTempleBeastXenoHealth": 450.0,
       "moonlightHorrorTempleBeastXenoArmor": 9.0,
-      "moonlightHorrorTempleBeastAttackDamage": 9.0
+      "moonlightHorrorTempleBeastAttackDamage": 12.0
     },
     "ravenousTempleBeastConfigs": {
-      "ravenousTempleBeastXenoHealth": 300.0,
+      "ravenousTempleBeastXenoHealth": 450.0,
       "ravenousTempleBeastXenoArmor": 9.0,
-      "ravenousTempleBeastAttackDamage": 9.0
+      "ravenousTempleBeastAttackDamage": 12.0
     }
   }
 }

@@ -28,7 +28,7 @@
             "triggerControllerName": "attack_controller",
             "triggerAnimName": "attack",
             "radius": 2.5,
-            "damage": 5.0,
+            "damage": 12.0,
             "knockback": 0.5,
             "cooldown": 15,
             "soundEventId": "antarchy:mantis_attack",

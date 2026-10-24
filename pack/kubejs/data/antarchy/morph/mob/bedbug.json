@@ -1,0 +1,17 @@
+{
+    "forEntity": "antarchy:bed_bug",
+    "traits": [
+        {
+            "type": "traitHostile"
+        },
+        {
+            "type": "abilityAreaDamage",
+            "radius": 2.0,
+            "damage": 12.0,
+            "knockback": 0.4,
+            "cooldown": 15,
+            "soundEventId": "antarchy:bed_bug_attack",
+            "slot": 1
+        }
+    ]
+}

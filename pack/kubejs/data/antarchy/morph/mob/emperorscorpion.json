@@ -1,0 +1,47 @@
+{
+    "forEntity": "antarchy:emperor_scorpion",
+    "traits": [
+        {
+            "type": "traitHostile"
+        },
+        {
+            "type": "traitImmunityFire"
+        },
+        {
+            "type": "traitStepHeight",
+            "amount": 1.0
+        },
+        {
+            "type": "abilityAreaDamage",
+            "radius": 3.5,
+            "damage": 40.0,
+            "knockback": 0.5,
+            "cooldown": 20,
+            "animControllerName": "main",
+            "animName": "attack",
+            "soundEventId": "antarchy:emperor_scorpion_attack",
+            "slot": 1
+        },
+        {
+            "type": "abilityMobEffectAttack",
+            "effectId": "minecraft:poison",
+            "duration": 100,
+            "amplifier": 0,
+            "slot": 2
+        },
+        {
+            "type": "abilityAntarchyEmperorScorpionHarden",
+            "durationTicks": 150,
+            "summonCount": 3,
+            "summonRadius": 4.0,
+            "cooldown": 400,
+            "animControllerName": "main",
+            "animName": "harden",
+            "slot": 3
+        }
+    ],
+    "attributeOverrides": {
+        "minecraft:generic.max_health": 120.0,
+        "minecraft:generic.attack_damage": 9.0
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "forEntity": "iceandfire:cyclops",
+    "traits": [
+        {
+            "type": "traitHostile"
+        },
+        {
+            "type": "traitStepHeight",
+            "amount": 1.5
+        },
+        {
+            "type": "abilityIceAndFireCyclopsStomp",
+            "nativeClassName": "com.iafenvoy.iceandfire.entity.CyclopsEntity",
+            "animationFieldName": "ANIMATION_STOMP",
+            "radius": 5.0,
+            "damage": 12.0,
+            "knockback": 1.4,
+            "cooldown": 80,
+            "soundEventId": "iceandfire:cyclops_bite",
+            "slot": 1
+        }
+    ]
+}

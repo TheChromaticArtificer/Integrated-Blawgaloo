@@ -312,56 +312,6 @@
           "type": "minecraft:item",
           "name": "dimdoors:rift_blade",
           "weight": 1
-        },
-        {
-          "type": "minecraft:item",
-          "name": "antarchy:ultimate_sword",
-          "weight": 1
-        },
-        {
-          "type": "minecraft:item",
-          "name": "antarchy:ultimate_axe",
-          "weight": 1
-        },
-        {
-          "type": "minecraft:item",
-          "name": "antarchy:ultimate_pickaxe",
-          "weight": 1
-        },
-        {
-          "type": "minecraft:item",
-          "name": "antarchy:ultimate_shovel",
-          "weight": 1
-        },
-        {
-          "type": "minecraft:item",
-          "name": "antarchy:ultimate_bow",
-          "weight": 1
-        },
-        {
-          "type": "minecraft:item",
-          "name": "antarchy:ultimate_crossbow",
-          "weight": 1
-        },
-        {
-          "type": "minecraft:item",
-          "name": "antarchy:ultimate_helmet",
-          "weight": 1
-        },
-        {
-          "type": "minecraft:item",
-          "name": "antarchy:ultimate_chestplate",
-          "weight": 1
-        },
-        {
-          "type": "minecraft:item",
-          "name": "antarchy:ultimate_leggings",
-          "weight": 1
-        },
-        {
-          "type": "minecraft:item",
-          "name": "antarchy:ultimate_boots",
-          "weight": 1
         }
       ]
     },

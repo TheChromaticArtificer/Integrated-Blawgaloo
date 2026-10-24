@@ -3,12 +3,12 @@
     "tickMode": "client_strict",
     "cameraDistanceMultiplier": 6.0,
     "attributeOverrides": {
-        "minecraft:generic.max_health": 1000.0,
-        "minecraft:generic.armor": 20.0,
-        "minecraft:generic.armor_toughness": 12.0,
-        "minecraft:generic.attack_damage": 28.0,
+        "minecraft:generic.max_health": 180.0,
+        "minecraft:generic.attack_damage": 12.0,
         "minecraft:generic.attack_knockback": 3.0,
-        "minecraft:generic.knockback_resistance": 1.0
+        "minecraft:generic.knockback_resistance": 1.0,
+        "minecraft:player.entity_interaction_range": 10.0,
+        "minecraft:player.block_interaction_range": 10.0
     },
     "variantNbtStrip": [
         "RedDeathArenaCenter",
@@ -70,7 +70,7 @@
             "type": "abilityBdaRedDeathBite",
             "slot": 2,
             "cooldown": 60,
-            "damage": 38.0,
+            "damage": 60.0,
             "reach": 9.0,
             "radius": 4.0,
             "knockback": 2.0

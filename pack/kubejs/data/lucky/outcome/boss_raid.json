@@ -3,10 +3,6 @@
   "luck": -2,
   "outcomes": [
     {
-      "type": "lucky:difficulty",
-      "difficulty": "easy"
-    },
-    {
       "type": "lucky:message",
       "message": {
         "text": "Boss Attack!!",

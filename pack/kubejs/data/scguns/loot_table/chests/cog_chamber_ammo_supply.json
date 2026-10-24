@@ -207,11 +207,6 @@
               }
             }
           ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "antarchy:ultimate_sword",
-          "weight": 1
         }
       ]
     },

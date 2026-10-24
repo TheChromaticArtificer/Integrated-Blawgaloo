@@ -1,7 +1,7 @@
 [electric_boogaloo]
 	# Default: 170.0
 	# Range: 1.0 ~ 2048.0
-	max_health = 170.0
+	max_health = 260.0
 	# Default: 0.31
 	# Range: 0.0 ~ 4.0
 	movement_speed = 0.31

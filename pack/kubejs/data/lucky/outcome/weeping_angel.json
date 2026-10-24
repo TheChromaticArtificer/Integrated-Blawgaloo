@@ -3,10 +3,6 @@
   "luck": -1,
   "outcomes": [
     {
-      "type": "lucky:difficulty",
-      "difficulty": "hard"
-    },
-    {
       "type": "lucky:entity",
       "entity_type": "weeping_angels:weeping_angel",
       "count": 10

@@ -1,0 +1,18 @@
+{
+    "forEntity": "alexscaves:gloomoth",
+    "tickMode": "client_strict",
+    "traits": [
+        {
+            "type": "traitFallNegate"
+        },
+        {
+            "type": "abilityFlightFlap",
+            "slowdownInWater": true
+        },
+        {
+            "type": "abilityFlight",
+            "slowdownInWater": true,
+            "upgradeFor": "abilityFlightFlap"
+        }
+    ]
+}

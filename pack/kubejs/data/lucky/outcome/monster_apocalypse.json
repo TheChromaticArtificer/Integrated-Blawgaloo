@@ -7,10 +7,6 @@
       "item": "minecraft:wooden_sword"
     },
     {
-      "type": "lucky:difficulty",
-      "difficulty": "hard"
-    },
-    {
       "type": "lucky:command",
       "command": "/time set 18750"
     },

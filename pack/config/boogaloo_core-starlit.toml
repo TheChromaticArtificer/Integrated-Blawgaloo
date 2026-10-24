@@ -167,3 +167,10 @@
 	# Default: 150.0
 	# Range: 0.0 ~ 100000.0
 	proto_adamantium = 150.0
+
+#Rainfall Serenity's arrows ignore attack and celestial damage and hit for about 6 (splash 2).
+#Every hit from them (direct, splash, Quasar rain, bounces, turret) is multiplied by this.
+[rainfall_serenity_arrows]
+	# Default: 25.0
+	# Range: 1.0 ~ 10000.0
+	damage_multiplier = 25.0

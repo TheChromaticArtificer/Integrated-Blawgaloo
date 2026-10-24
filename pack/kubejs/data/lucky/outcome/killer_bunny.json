@@ -3,10 +3,6 @@
   "luck": -1,
   "outcomes": [
     {
-      "type": "lucky:difficulty",
-      "difficulty": "hard"
-    },
-    {
       "type": "lucky:entity",
       "entity_type": "minecraft:rabbit",
       "nbt": {

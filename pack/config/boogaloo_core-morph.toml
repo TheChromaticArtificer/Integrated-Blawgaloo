@@ -81,7 +81,7 @@
 		#Extra magic damage the cold breath and radiation burst deal to each target.
 		# Default: 12.0
 		# Range: 0.0 ~ 10000.0
-		damage = 12.0
+		damage = 54.0
 
 	[herobrine_morph.lights_out]
 		# Default: 12

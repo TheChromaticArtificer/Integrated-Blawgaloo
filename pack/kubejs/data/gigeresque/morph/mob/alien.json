@@ -1,0 +1,79 @@
+{
+    "forEntity": "gigeresque:alien",
+    "tickMode": "client_strict",
+    "attributeOverrides": {
+        "minecraft:generic.max_health": 60.0,
+        "minecraft:generic.attack_damage": 7.0
+    },
+    "variantNbtStrip": [
+        "listener",
+        "growth",
+        "wakingup",
+        "isHissing",
+        "isExecuting",
+        "isHeadBite",
+        "is_birthed",
+        "carry_damage",
+        "crawling",
+        "searching",
+        "isStasis",
+        "statisTicks"
+    ],
+    "traits": [
+        {
+            "type": "traitXenomorph",
+            "acidDiameter": 3
+        },
+        {
+            "type": "abilityClimb"
+        },
+        {
+            "type": "traitDamageTypeImmunity",
+            "damageTypes": [
+                "gigeresque:acid"
+            ]
+        },
+        {
+            "type": "traitEffectImmunity",
+            "effects": [
+                "gigeresque:acid"
+            ]
+        },
+        {
+            "type": "abilityGigeresqueStrike",
+            "slot": 1,
+            "cooldown": 20,
+            "reach": 3.0,
+            "anim": "select",
+            "sneakReach": 4.0,
+            "sneakAnim": "sendRightTail"
+        },
+        {
+            "type": "abilityGigeresqueLunge",
+            "slot": 2,
+            "cooldown": 80,
+            "speed": 1.4
+        },
+        {
+            "type": "abilityGigeresqueKidnap",
+            "slot": 3,
+            "cooldown": 400,
+            "holdExecuteTicks": 40,
+            "executeHeal": 50.0,
+            "executeDamage": 1000.0
+        },
+        {
+            "type": "abilityGigeresqueHiss",
+            "slot": 4,
+            "cooldown": 240,
+            "radius": 10.0,
+            "fleeTicks": 100
+        },
+        {
+            "type": "abilityGigeresqueNest",
+            "slot": 5,
+            "cooldown": 600,
+            "maxLight": 7
+        }
+    ]
+}

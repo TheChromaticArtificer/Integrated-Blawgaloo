@@ -1,0 +1,83 @@
+{
+    "forEntity": "witchery:vampire",
+    "tickMode": "client_strict",
+    "variantNbtStrip": [
+        "Owner",
+        "HasMaster",
+        "CoffinPos",
+        "AltarPos",
+        "CreationPos",
+        "HuntState",
+        "CollectedBlood",
+        "InSun",
+        "HuntTimeStamp",
+        "HuntedLastNight",
+        "HuntCooldownEndTime"
+    ],
+    "traits": [
+        {
+            "type": "traitHostile"
+        },
+        {
+            "type": "traitWitcherySunburn"
+        },
+        {
+            "type": "traitWitcheryNightEyes",
+            "effects": [
+                {
+                    "id": "minecraft:night_vision",
+                    "amplifier": 0
+                }
+            ]
+        },
+        {
+            "type": "abilityWitcheryDrain",
+            "slot": 1,
+            "range": 3.5,
+            "damage": 12.0,
+            "lifesteal": 0.6,
+            "knockback": 0.0,
+            "particleId": "minecraft:damage_indicator",
+            "cooldown": 50,
+            "soundEventId": "minecraft:entity.generic.drink"
+        },
+        {
+            "type": "abilityWitcheryTransfix",
+            "slot": 2,
+            "range": 16.0,
+            "damage": 0.0,
+            "knockback": 0.0,
+            "freezeTicks": 60,
+            "effects": [
+                {
+                    "id": "minecraft:slowness",
+                    "duration": 60,
+                    "amplifier": 6
+                },
+                {
+                    "id": "minecraft:weakness",
+                    "duration": 60,
+                    "amplifier": 1
+                }
+            ],
+            "particleId": "minecraft:enchant",
+            "cooldown": 200,
+            "soundEventId": "minecraft:entity.evoker.prepare_attack"
+        },
+        {
+            "type": "abilityWitcheryBloodRush",
+            "slot": 3,
+            "radius": 0.0,
+            "selfEffects": [
+                {
+                    "id": "minecraft:speed",
+                    "duration": 120,
+                    "amplifier": 2
+                }
+            ],
+            "particleId": "minecraft:crimson_spore",
+            "cooldown": 300,
+            "soundEventId": "minecraft:entity.bat.takeoff"
+        }
+    ]
+}

@@ -37,7 +37,7 @@ RecipeViewerEvents.addInformation('item', e => {
     .concat(['war_machine_mark_1', 'war_machine_mark_2', 'iron_patriot'])
   const suitPieces = []
   energySuits.forEach(suit => ['helmet', 'chestplate', 'leggings', 'boots'].forEach(slot => suitPieces.push(`marvel:${suit}_${slot}`)))
-  e.add(suitPieces, ['Runs on FE. Charge it in a Suit Charger, an Oritech Charger or any FE charger. Suits stored with Veronica slowly recharge on their own, and later marks hold far more charge.'])
+  e.add(suitPieces, ['Runs on FE. The arc reactor slowly refills a worn suit part of the way, and later marks refill further. Top it off in a Suit Charger, an Oritech Charger or any FE charger. Getting struck by lightning works too.'])
   e.add('marvel:suit_charger', ['Charges the suit inside it with FE from cables. Any mark fills in about 30 seconds if the power keeps up.'])
   e.add('marvel:mark_38_charger', ['Charges docked Mk38 sentries with FE from cables attached to any part of it.'])
 })

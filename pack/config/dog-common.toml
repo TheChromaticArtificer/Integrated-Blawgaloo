@@ -107,7 +107,7 @@
 	#maximum until it is respawned.
 	# Default: 2000.0
 	# Range: 1.0 ~ 1000000.0
-	maxHealth = 20000.0
+	maxHealth = 10000.0
 	#Armor points. 30 is Minecraft's own ceiling for the attribute, not a limit here.
 	#Armor is weak against big hits by design, so for a boss that survives endgame
 	#gear use playerDamageMultiplier below instead.
@@ -140,7 +140,7 @@
 	#and Cosmic Flame. Stacks with the phase 2 and co-op multipliers.
 	# Default: 1.0
 	# Range: 0.0 ~ 100.0
-	attackDamageMultiplier = 8.0
+	attackDamageMultiplier = 4.0
 	#Most beams one Doombeam volley may contain. Extra beams are dropped and logged.
 	#Every beam is sent to every nearby client, so this is bandwidth as well as work.
 	# Default: 2048

@@ -1,0 +1,115 @@
+{
+    "forEntity": "dog:devourer_head",
+    "tickMode": "client_only",
+    "cameraDistanceMultiplier": 3.5,
+    "segmentedBody": {
+        "segmentEntity": "dog:devourer_segment",
+        "tailEntity": "dog:devourer_tail",
+        "spacing": 3.28125,
+        "minStep": 0.05,
+        "linkMethod": "setHeadUUID",
+        "indexMethod": "setSegmentIndex",
+        "teleportDistance": 40.0,
+        "renderInFirstPerson": true
+    },
+    "attributeOverrides": {
+        "minecraft:generic.max_health": 250.0,
+        "minecraft:generic.attack_damage": 16.0,
+        "minecraft:generic.attack_knockback": 2.0,
+        "minecraft:generic.knockback_resistance": 1.0,
+        "minecraft:player.entity_interaction_range": 10.0,
+        "minecraft:player.block_interaction_range": 10.0
+    },
+    "traits": [
+        {
+            "type": "traitHostile"
+        },
+        {
+            "type": "traitImmunityFire"
+        },
+        {
+            "type": "traitFallNegate"
+        },
+        {
+            "type": "traitWormFlight",
+            "idleSpeed": 0.0,
+            "passiveSpeed": 0.9,
+            "aggressiveSpeed": 1.8,
+            "turnRate": 10.0,
+            "acceleration": 0.18,
+            "freeTurnSpeed": 0.3,
+            "phaseMethod": "setPhase",
+            "phaseEnumClass": "it.yuruni.dog.entity.boss.DevourerPhase",
+            "idlePhase": "IDLE",
+            "passivePhase": "PASSIVE",
+            "aggressivePhase": "AGGRESSIVE"
+        },
+        {
+            "type": "traitDogDevour",
+            "biteDamage": 80.0,
+            "biteCooldownTicks": 10,
+            "biteRequiresSprint": true,
+            "bodyDamage": 35.0,
+            "bodyCooldownTicks": 10,
+            "bodyCheckInterval": 2,
+            "knockback": 0.8
+        },
+        {
+            "type": "abilityDogSurge",
+            "slot": 1,
+            "cooldown": 120,
+            "lockTicks": 8,
+            "surgeTicks": 20,
+            "lockSpeedMultiplier": 0.5,
+            "surgeSpeedMultiplier": 2.25,
+            "surgeTurnRate": 3.0,
+            "awakenedSurgeTurnRate": 7.0,
+            "contactMultiplier": 1.5
+        },
+        {
+            "type": "abilityDogFaithIncinerator",
+            "slot": 2,
+            "cooldown": 50,
+            "speed": 2.5,
+            "shots": 1,
+            "sneakShots": 3,
+            "awakenedExtraShots": 2,
+            "spreadDegrees": 10.0,
+            "damageMultiplier": 5.0
+        },
+        {
+            "type": "abilityDogDoombeam",
+            "slot": 3,
+            "cooldown": 300,
+            "range": 96.0,
+            "telegraphTicks": 24,
+            "maxBeams": 64,
+            "damageMultiplier": 5.0,
+            "awakenedBigBeam": true,
+            "bigBeamLength": 140.0,
+            "bigBeamRadius": 4.0
+        },
+        {
+            "type": "abilityDogRiftLunge",
+            "slot": 4,
+            "cooldown": 400,
+            "distance": 32.0,
+            "targetRange": 64.0,
+            "aboveTargetHeight": 10.0,
+            "diveSpeedMultiplier": 2.0,
+            "diveTicks": 16,
+            "arrivalDamage": 100.0,
+            "arrivalRadius": 7.0
+        },
+        {
+            "type": "abilityDogAwaken",
+            "slot": 5,
+            "cooldown": 3600,
+            "durationTicks": 400,
+            "damageMultiplier": 1.5,
+            "speedMultiplier": 1.3,
+            "resistanceAmplifier": 1,
+            "regenerationAmplifier": 1
+        }
+    ]
+}

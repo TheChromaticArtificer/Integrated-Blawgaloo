@@ -23,7 +23,7 @@
             "actionId": "queen_beam",
             "range": 32,
             "radius": 1.5,
-            "damage": 10,
+            "damage": 75,
             "force": 0.0,
             "cooldown": 90,
             "slot": 1
@@ -33,7 +33,7 @@
             "actionId": "queen_black_hole",
             "range": 32,
             "radius": 4.0,
-            "damage": 10,
+            "damage": 90,
             "force": 1.0,
             "cooldown": 180,
             "slot": 2
@@ -43,7 +43,7 @@
             "actionId": "queen_gravity_stomp",
             "range": 12,
             "radius": 8.0,
-            "damage": 9,
+            "damage": 55,
             "force": 1.1,
             "cooldown": 110,
             "slot": 3
@@ -53,7 +53,7 @@
             "actionId": "queen_ground_charge",
             "range": 24,
             "radius": 2.0,
-            "damage": 9,
+            "damage": 50,
             "force": 1.1,
             "cooldown": 100,
             "slot": 4
@@ -63,7 +63,7 @@
             "actionId": "queen_momentum_lock",
             "range": 30,
             "radius": 8.0,
-            "damage": 0,
+            "damage": 0.0,
             "force": 0.0,
             "cooldown": 120,
             "slot": 5,
@@ -74,7 +74,7 @@
             "actionId": "queen_crushing_gravity",
             "range": 30,
             "radius": 8.0,
-            "damage": 9,
+            "damage": 55,
             "force": 1.0,
             "cooldown": 140,
             "slot": 6,
@@ -85,7 +85,7 @@
             "actionId": "queen_acceleration",
             "range": 0,
             "radius": 0.0,
-            "damage": 0,
+            "damage": 0.0,
             "force": 1.3,
             "cooldown": 80,
             "slot": 7
@@ -95,7 +95,7 @@
             "actionId": "queen_chronosphere",
             "range": 30,
             "radius": 8.0,
-            "damage": 0,
+            "damage": 0.0,
             "force": 0.0,
             "cooldown": 180,
             "slot": 8,
@@ -106,7 +106,7 @@
             "actionId": "queen_debris_cyclone",
             "range": 12,
             "radius": 8.0,
-            "damage": 8,
+            "damage": 45,
             "force": 1.5,
             "cooldown": 120,
             "slot": 9
@@ -116,7 +116,7 @@
             "actionId": "queen_gravitic_upheaval",
             "range": 30,
             "radius": 8.0,
-            "damage": 9,
+            "damage": 70,
             "force": 1.2,
             "cooldown": 140,
             "slot": 10
@@ -131,5 +131,11 @@
             "cooldown": 400,
             "slot": 11
         }
-    ]
+    ],
+    "attributeOverrides": {
+        "minecraft:generic.max_health": 250.0,
+        "minecraft:generic.attack_damage": 16.0,
+        "minecraft:player.entity_interaction_range": 12.0,
+        "minecraft:player.block_interaction_range": 12.0
+    }
 }

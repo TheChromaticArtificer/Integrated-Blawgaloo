@@ -1,8 +1,8 @@
 [damage_budget]
 	#Most health each boss can lose per window, after armor and every damage multiplier. Format: entity_id=amount
-	budgets = ["antarchy:king=60", "antarchy:queen=60", "antarchy:kraken=70", "bda:red_death=85", "witchery:death=60", "dog:devourer_head=150", "boogaloo_core:herobrine=150"]
+	budgets = ["antarchy:king=60", "antarchy:queen=60", "antarchy:kraken=70", "bda:red_death=85", "witchery:death=90", "dog:devourer_head=150", "boogaloo_core:herobrine=150", "antarchy:toreterror=60", "antarchy:hercules_beetle=90", "antarchy:brutalfly=70", "antarchy:emperor_scorpion=60", "antarchy:alpha_mantis=50", "alexscaves:luxtructosaurus=100", "electric_boogaloo:electric_boogaloo=50", "witchery:lilith=40", "witchery:leonard=40", "minecraft:wither=60", "minecraft:ender_dragon=50"]
 	#Separate budget for melee hits from a player holding Big Bertha or a royal weapon forged from her (see bertha_weapons). These hits don't count against the boss's normal budget. Bosses not listed here put Bertha hits in the normal budget. Format: entity_id=amount
-	bertha_budgets = ["antarchy:king=150", "antarchy:queen=150"]
+	bertha_budgets = ["antarchy:king=400", "antarchy:queen=400"]
 	#Items whose melee hits use the Bertha budget: Big Bertha and the royal weapons forged from her.
 	bertha_weapons = ["antarchy:big_bertha", "antarchy:royal_guardian_sword", "antarchy:royal_assailant_battleaxe"]
 	#Length of the rolling window in ticks.
@@ -21,3 +21,21 @@
 	# Default: 64.0
 	# Range: 1.0 ~ 512.0
 	player_range = 64.0
+	#Share of damage past a cap that still lands. Applies to every boss cap: this budget, the King and Queen per-hit cap and Herobrine's caps. 0 makes them hard limits.
+	# Default: 0.25
+	# Range: 0.0 ~ 1.0
+	overflow_rate = 0.25
+	#Cap increase for each Infinity Stone the attacking player has found.
+	# Default: 0.25
+	# Range: 0.0 ~ 10.0
+	per_stone = 0.25
+	#Players who have held a complete Infinity Gauntlet ignore every boss cap. Phase floors still apply.
+	gauntlet_uncaps = true
+	#How much of a boss's difficulty health multiplier, relative to Normal, also raises its caps. 1 keeps the fastest kill the same on every difficulty; lower makes harder difficulties take longer.
+	# Default: 0.75
+	# Range: 0.0 ~ 1.0
+	difficulty_share = 0.75
+	#Budget for Conquest, the Viltrumite invasion boss. He's a fake player, so he can't go in the budgets list.
+	# Default: 60.0
+	# Range: 0.0 ~ 100000.0
+	conquest_budget = 60.0

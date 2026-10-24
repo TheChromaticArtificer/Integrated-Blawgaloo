@@ -27,5 +27,9 @@
             "cooldown": 40,
             "slot": 1
         }
-    ]
+    ],
+    "attributeOverrides": {
+        "minecraft:generic.max_health": 120.0,
+        "minecraft:generic.attack_damage": 9.0
+    }
 }

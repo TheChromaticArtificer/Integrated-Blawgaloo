@@ -329,28 +329,28 @@
   "pastel:malachite_crossbow": [
     {
       "attribute": "apothic_attributes:arrow_damage",
-      "value": 2.5,
+      "value": 0.5,
       "operation": "ADDITION"
     }
   ],
   "pastel:glass_crest_crossbow": [
     {
       "attribute": "apothic_attributes:arrow_damage",
-      "value": 4.0,
+      "value": 1.0,
       "operation": "ADDITION"
     }
   ],
   "pastel:bedrock_bow": [
     {
       "attribute": "apothic_attributes:arrow_damage",
-      "value": 5.0,
+      "value": 1.5,
       "operation": "ADDITION"
     }
   ],
   "pastel:bedrock_crossbow": [
     {
       "attribute": "apothic_attributes:arrow_damage",
-      "value": 5.0,
+      "value": 1.5,
       "operation": "ADDITION"
     }
   ]

@@ -1,0 +1,14 @@
+{
+    "forEntity": "alexscaves:trilocaris",
+    "tickMode": "client_strict",
+    "traits": [
+        {
+            "type": "traitWaterBreather"
+        },
+        {
+            "type": "traitSwimmer",
+            "swimMultiplier": 2.0,
+            "landMultiplier": 0.3
+        }
+    ]
+}
