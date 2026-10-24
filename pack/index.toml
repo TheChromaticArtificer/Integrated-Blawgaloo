@@ -34327,6 +34327,11 @@ hash = "832a438a3d159377ea83d41654c3fe08b014cf2b91ffe5b6741d73486599f360"
 metafile = true
 
 [[files]]
+file = "mods/neoauth.pw.toml"
+hash = "5837e3d15efdd727d7c430494ddf46ed7f303376167ecb962f598aa18365b48d"
+metafile = true
+
+[[files]]
 file = "mods/neosync.pw.toml"
 hash = "a87c2e3bc5f31b0a75977196b5f1f92d2c8d401ea35796714635dee1f6586f63"
 metafile = true
